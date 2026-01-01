@@ -96,7 +96,7 @@ function getCandidates(basePoint, minKm, maxKm) {
     const candidates = municipalityData.filter(m => {
         // プロパティ名が JSON 内で 'latitude' 'longitude' であることを確認
         const lat = m.latitude || m.lat;
-        const lon = m.longitude || m.lon;
+        const lon = m.longitude || m.lon || m.lng || m.long;
         if (!lat || !lon) return false;
 
         const dist = getDistance(basePoint.lat, basePoint.lon, lat, lon);
@@ -104,7 +104,10 @@ function getCandidates(basePoint, minKm, maxKm) {
     });
 
     // シャッフルして最大3つ抽出
-    return candidates.sort(() => 0.5 - Math.random()).slice(0, 3);
+    const items = candidates.sort(() => 0.5 - Math.random()).slice(0, 3);
+    console.log(`候補抽出: ${items.length} 件 (範囲: ${minKm}-${maxKm} km)`);
+    console.log({ items });
+    return items;
 }
 
 
@@ -120,18 +123,20 @@ function createSelectionMenu(step, candidates) {
 
     const select = document.createElement("select");
     select.innerHTML = `<option value="">-- 選択してください --</option>` +
-        candidates.map((c, i) => `<option value="${i}">${c.municipality} (${getDistance(routePoints[step - 1].lat, routePoints[step - 1].lon, c.latitude, c.longitude).toFixed(1)} km)</option>`).join("");
+        candidates.map((c, i) => `<option value="${i}">${c.name} (${getDistance(routePoints[step - 1].lat, routePoints[step - 1].lon, c.lat, c.lon).toFixed(1)} km)</option>`).join("");
 
     select.onchange = async (e) => {
         const idx = e.target.value;
         if (idx === "") return;
 
         const selected = candidates[idx];
-        const point = { lat: selected.latitude, lon: selected.longitude, name: selected.municipality };
+        const point = { lat: selected.lat, lon: selected.lon, name: selected.name };
         routePoints.push(point);
 
         // 地図更新とルート描画
-        await addRouteToMap(routePoints[step - 1], point);
+        console.log(`目的地 ${step} 選択:`, point);
+        await addRouteToMap(routePoints[step - 1], point, step);
+        console.log("routePoints:", routePoints);
 
         select.disabled = true; // 選択後は無効化
 
@@ -149,13 +154,14 @@ function createSelectionMenu(step, candidates) {
 }
 
 // 地図にマーカーとルートを追加
-async function addRouteToMap(p1, p2) {
+async function addRouteToMap(p1, p2, step) {
+    console.log("ルート追加:", p1, p2);
+
     // マーカー
     if (markers.length === 0) {
-        markers.push(L.marker([p1.lat, p1.lon]).addTo(map).bindPopup("出発地: " + p1.name));
+        markers.push(L.marker([p1.lon, p1.lat]).addTo(map).bindPopup("出発地: " + p1.name));
     }
-    const m2 = L.marker([p2.lat, p2.lon]).addTo(map).bindPopup(p2.name);
-    markers.push(m2);
+    markers.push(L.marker([p2.lon, p2.lat]).addTo(map).bindPopup(`目的地${step}: ` + p2.name));
 
     // ルート
     const mode = document.getElementById("transport").value;
@@ -202,6 +208,7 @@ document.getElementById("btn-start").addEventListener("click", async () => {
 
     try {
         const originPoint = await geocode(originVal);
+        console.log("出発地座標:", originPoint);
         routePoints = [originPoint];
 
         // UIリセット
@@ -236,3 +243,5 @@ document.getElementById("btn-current-location").addEventListener("click", () => 
 });
 
 init();
+
+console.log("getDistance", "浜松市中央区 <===> 浜松市浜名区", getDistance(34.710809, 137.726307, 34.791548, 137.783159));
