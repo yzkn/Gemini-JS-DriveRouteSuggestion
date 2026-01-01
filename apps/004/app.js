@@ -11,7 +11,7 @@ L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png', {
 
 let markers = [];
 let routeLines = [];
-let municipalityData = [];
+let municipalityData = []; // 最初は空配列で初期化
 let routePoints = []; // [{lat, lon, name}]
 
 // ヒュベニの公式による距離計算 (km)
@@ -38,12 +38,27 @@ function getDistance(lat1, lon1, lat2, lon2) {
 }
 
 // 初期化: 市町村データの読み込み
+// 初期化: 市町村データの読み込み (ここを修正)
 async function init() {
     try {
         const response = await fetch(MUNICIPALITIES_URL);
-        municipalityData = await response.json();
+        if (!response.ok) throw new Error("データの取得に失敗しました");
+
+        const data = await response.json();
+
+        // JSONの構造に合わせて配列を抽出
+        if (Array.isArray(data)) {
+            municipalityData = data;
+        } else if (data.municipalities && Array.isArray(data.municipalities)) {
+            municipalityData = data.municipalities;
+        } else {
+            throw new Error("JSONデータの形式が正しくありません");
+        }
+
+        console.log("データ読み込み完了:", municipalityData.length, "件");
     } catch (error) {
-        alert("データの読み込みに失敗しました。");
+        console.error(error);
+        alert("データの読み込みに失敗しました。ページをリロードしてください。");
     }
 }
 
@@ -70,14 +85,28 @@ async function getRoute(p1, p2, mode) {
 }
 
 // 目的地候補の抽出
+// 目的地候補の抽出 (安全策を追加)
 function getCandidates(basePoint, minKm, maxKm) {
+    // データが読み込まれていない場合のハンドリング
+    if (!municipalityData || municipalityData.length === 0) {
+        alert("市町村データがまだ読み込まれていません。少し待ってからやり直してください。");
+        return [];
+    }
+
     const candidates = municipalityData.filter(m => {
-        const dist = getDistance(basePoint.lat, basePoint.lon, m.latitude, m.longitude);
+        // プロパティ名が JSON 内で 'latitude' 'longitude' であることを確認
+        const lat = m.latitude || m.lat;
+        const lon = m.longitude || m.lon;
+        if (!lat || !lon) return false;
+
+        const dist = getDistance(basePoint.lat, basePoint.lon, lat, lon);
         return dist >= minKm && dist <= maxKm;
     });
-    // シャッフルして3つ抽出
+
+    // シャッフルして最大3つ抽出
     return candidates.sort(() => 0.5 - Math.random()).slice(0, 3);
 }
+
 
 // UI制御: 目的地セレクトメニューの作成
 function createSelectionMenu(step, candidates) {
@@ -88,22 +117,22 @@ function createSelectionMenu(step, candidates) {
 
     const label = document.createElement("label");
     label.innerText = `目的地 ${step} を選択:`;
-    
+
     const select = document.createElement("select");
     select.innerHTML = `<option value="">-- 選択してください --</option>` +
-        candidates.map((c, i) => `<option value="${i}">${c.municipality} (${getDistance(routePoints[step-1].lat, routePoints[step-1].lon, c.latitude, c.longitude).toFixed(1)} km)</option>`).join("");
+        candidates.map((c, i) => `<option value="${i}">${c.municipality} (${getDistance(routePoints[step - 1].lat, routePoints[step - 1].lon, c.latitude, c.longitude).toFixed(1)} km)</option>`).join("");
 
     select.onchange = async (e) => {
         const idx = e.target.value;
         if (idx === "") return;
-        
+
         const selected = candidates[idx];
         const point = { lat: selected.latitude, lon: selected.longitude, name: selected.municipality };
         routePoints.push(point);
-        
+
         // 地図更新とルート描画
-        await addRouteToMap(routePoints[step-1], point);
-        
+        await addRouteToMap(routePoints[step - 1], point);
+
         select.disabled = true; // 選択後は無効化
 
         if (step < 3) {
@@ -133,7 +162,7 @@ async function addRouteToMap(p1, p2) {
     const routeData = await getRoute(p1, p2, mode);
     const polyline = L.geoJSON(routeData.geometry, { color: '#3498db', weight: 5 }).addTo(map);
     routeLines.push({ polyline, data: routeData });
-    
+
     map.fitBounds(polyline.getBounds(), { padding: [50, 50] });
 }
 
@@ -142,7 +171,7 @@ function showResults() {
     document.getElementById("result-area").classList.remove("hidden");
     const tbody = document.querySelector("#route-details tbody");
     tbody.innerHTML = "";
-    
+
     let totalDist = 0;
     let totalTime = 0;
 
@@ -153,7 +182,7 @@ function showResults() {
         totalTime += t;
 
         const row = `<tr>
-            <td>${routePoints[i].name} → ${routePoints[i+1].name}</td>
+            <td>${routePoints[i].name} → ${routePoints[i + 1].name}</td>
             <td>${d.toFixed(1)} km</td>
             <td>${Math.round(t)} 分</td>
         </tr>`;
@@ -174,12 +203,12 @@ document.getElementById("btn-start").addEventListener("click", async () => {
     try {
         const originPoint = await geocode(originVal);
         routePoints = [originPoint];
-        
+
         // UIリセット
         document.getElementById("dynamic-selectors").innerHTML = "";
         document.getElementById("selection-area").classList.remove("hidden");
         document.getElementById("result-area").classList.add("hidden");
-        
+
         const candidates = getCandidates(originPoint, 100, 300);
         if (candidates.length === 0) {
             alert("100km-300kmの範囲に候補が見つかりませんでした。別の出発地を試してください。");
