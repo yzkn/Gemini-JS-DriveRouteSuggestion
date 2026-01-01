@@ -1,5 +1,5 @@
 // 定数と設定
-const MUNICIPALITIES_URL = "https://raw.githubusercontent.com/yzkn/Gemini-JS-DriveRouteSuggestion/refs/heads/main/master/municipalities.json";
+const MUNICIPALITIES_URL = "https://raw.githubusercontent.com/yzkn/Gemini-JS-DriveRouteSuggestion/refs/heads/main/master/municipality.json";
 const NOMINATIM_BASE = "https://nominatim.openstreetmap.org/search";
 const OSRM_BASE = "https://router.project-osrm.org/route/v1";
 
