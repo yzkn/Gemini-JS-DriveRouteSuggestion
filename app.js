@@ -162,7 +162,7 @@ function createSelectionMenu(step, candidates) {
             const dist = getDistance(base.lat, base.lon, c.latitude, c.longitude);
             const dir = getDirection(base.lat, base.lon, c.latitude, c.longitude);
             // 表示文字列: "地名 (方位 / 距離 km)"
-            `<option value="${i}">${c.name} (${dir} ${dist.toFixed(1)} km)</option>`
+            return `<option value="${i}">${c.name} (${dir} ${dist.toFixed(1)} km)</option>`
         }).join("");
 
     select.onchange = async (e) => {
