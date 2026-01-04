@@ -159,8 +159,8 @@ function createSelectionMenu(step, candidates) {
     select.innerHTML = `<option value="">-- 選択してください --</option>` +
         candidates.map((c, i) => {
             const base = routePoints[step - 1];
-            const dist = getDistance(base.lat, base.lon, c.latitude, c.longitude);
-            const dir = getDirection(base.lat, base.lon, c.latitude, c.longitude);
+            const dist = getDistance(routePoints[step - 1].lat, routePoints[step - 1].lon, c.lat, c.lon);
+            const dir = getDirection(routePoints[step - 1].lat, routePoints[step - 1].lon, c.lat, c.lon);
             // 表示文字列: "地名 (方位 / 距離 km)"
             return `<option value="${i}">${c.name} (${dir} ${dist.toFixed(1)} km)</option>`
         }).join("");
