@@ -49,6 +49,28 @@ function getDistance(lat1, lon1, lat2, lon2) {
     return d / 1000;
 }
 
+// 2点間の方位を計算する関数 (8方位)
+function getDirection(lat1, lon1, lat2, lon2) {
+    const rlat1 = lat1 * Math.PI / 180;
+    const rlon1 = lon1 * Math.PI / 180;
+    const rlat2 = lat2 * Math.PI / 180;
+    const rlon2 = lon2 * Math.PI / 180;
+
+    const y = Math.sin(rlon2 - rlon1) * Math.cos(rlat2);
+    const x = Math.cos(rlat1) * Math.sin(rlat2) -
+        Math.sin(rlat1) * Math.cos(rlat2) * Math.cos(rlon2 - rlon1);
+
+    // 方位角を計算 (ラジアン -> 度)
+    let deg = Math.atan2(y, x) * 180 / Math.PI;
+    // 0〜360度に正規化
+    deg = (deg + 360) % 360;
+
+    // 8方位の判定
+    const directions = ['北', '北東', '東', '南東', '南', '南西', '西', '北西', '北'];
+    const index = Math.round(deg / 45);
+    return directions[index];
+}
+
 // 初期化: 市町村データの読み込み
 // 初期化: 市町村データの読み込み (ここを修正)
 async function init() {
@@ -135,7 +157,13 @@ function createSelectionMenu(step, candidates) {
 
     const select = document.createElement("select");
     select.innerHTML = `<option value="">-- 選択してください --</option>` +
-        candidates.map((c, i) => `<option value="${i}">${c.name} (${getDistance(routePoints[step - 1].lat, routePoints[step - 1].lon, c.lat, c.lon).toFixed(1)} km)</option>`).join("");
+        candidates.map((c, i) => {
+            const base = routePoints[step - 1];
+            const dist = getDistance(base.lat, base.lon, c.latitude, c.longitude);
+            const dir = getDirection(base.lat, base.lon, c.latitude, c.longitude);
+            // 表示文字列: "地名 (方位 / 距離 km)"
+            `<option value="${i}">${c.name} (${dir} ${dist.toFixed(1)} km)</option>`
+        }).join("");
 
     select.onchange = async (e) => {
         const idx = e.target.value;
