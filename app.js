@@ -5,9 +5,21 @@ const OSRM_BASE = "https://router.project-osrm.org/route/v1";
 
 // 地図の初期化
 const map = L.map('map').setView([35.681236, 139.767125], 6);
-L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png', {
+L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://maps.gsi.go.jp/development/ichiran.html">国土地理院</a>'
 }).addTo(map);
+
+
+// --- app.js の冒頭（地図初期化の後など）に追加 ---
+// ゴールドのカスタムアイコン定義
+const goldIcon = L.divIcon({
+    className: 'gold-marker',
+    iconSize: [18, 18],
+    iconAnchor: [9, 9],
+    popupAnchor: [0, -10]
+});
+// --- ここまで ---
+
 
 let markers = [];
 let routeLines = [];
@@ -159,14 +171,25 @@ async function addRouteToMap(p1, p2, step) {
 
     // マーカー
     if (markers.length === 0) {
-        markers.push(L.marker([p1.lon, p1.lat]).addTo(map).bindPopup("出発地: " + p1.name));
+        // markers.push(L.marker([p1.lon, p1.lat]).addTo(map).bindPopup("出発地: " + p1.name));
+        markers.push(L.marker([p2.lat, p2.lon], { icon: goldIcon }).addTo(map).bindPopup(`<div style="font-family:'Montserrat', sans-serif;">
+        <b style="color:#c5a059;">出発地</b>: ${p1.name}
+    </div>`));
     }
-    markers.push(L.marker([p2.lon, p2.lat]).addTo(map).bindPopup(`目的地${step}: ` + p2.name));
+    // markers.push(L.marker([p2.lon, p2.lat]).addTo(map).bindPopup(`目的地${step}: ` + p2.name));
+    markers.push(L.marker([p2.lat, p2.lon], { icon: goldIcon }).addTo(map).bindPopup(`<div style="font-family:'Montserrat', sans-serif;">
+        <b style="color:#c5a059;">目的地${step}</b>: ${p2.name}
+    </div>`));
 
     // ルート
     const mode = document.getElementById("transport").value;
     const routeData = await getRoute(p1, p2, mode);
-    const polyline = L.geoJSON(routeData.geometry, { color: '#3498db', weight: 5 }).addTo(map);
+    // app.js 内のルート描画色をゴールドに変更 (L.geoJSONの部分)
+    const polyline = L.geoJSON(routeData.geometry, {
+        color: '#c5a059', // ゴールド
+        weight: 6,
+        opacity: 0.8
+    }).addTo(map);
     routeLines.push({ polyline, data: routeData });
 
     map.fitBounds(polyline.getBounds(), { padding: [50, 50] });
