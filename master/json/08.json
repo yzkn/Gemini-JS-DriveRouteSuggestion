@@ -1,0 +1,704 @@
+{
+    "municipalities": [
+        {
+            "name": "青い池",
+            "description": "美瑛町にある人造池。神秘的な青色で有名。",
+            "prefecture": "北海道",
+            "latitude": 43.493333,
+            "longitude": 142.613333
+        },
+        {
+            "name": "神仙沼",
+            "description": "ニセコ山系の高層湿原にある美しい沼（池）。",
+            "prefecture": "北海道",
+            "latitude": 42.883333,
+            "longitude": 140.633333
+        },
+        {
+            "name": "姫沼",
+            "description": "利尻島にある沼。逆さ利尻富士が映る。",
+            "prefecture": "北海道",
+            "latitude": 45.233333,
+            "longitude": 141.216667
+        },
+        {
+            "name": "大沼（稚内）",
+            "description": "コハクチョウの飛来地。",
+            "prefecture": "北海道",
+            "latitude": 45.383333,
+            "longitude": 141.733333
+        },
+        {
+            "name": "長節湖",
+            "description": "十勝海岸にある湖沼。",
+            "prefecture": "北海道",
+            "latitude": 42.283333,
+            "longitude": 143.716667
+        },
+        {
+            "name": "青池（十二湖）",
+            "description": "十二湖の中で最も有名な池。インクブルーの水面。",
+            "prefecture": "青森県",
+            "latitude": 40.550000,
+            "longitude": 139.966667
+        },
+        {
+            "name": "沸壺の池",
+            "description": "十二湖の一つ。名水百選。",
+            "prefecture": "青森県",
+            "latitude": 40.550000,
+            "longitude": 139.966667
+        },
+        {
+            "name": "地獄沼",
+            "description": "八甲田山麓にある強酸性の沼。",
+            "prefecture": "青森県",
+            "latitude": 40.650000,
+            "longitude": 140.850000
+        },
+        {
+            "name": "蔦沼",
+            "description": "朝焼けの紅葉が絶景。",
+            "prefecture": "青森県",
+            "latitude": 40.600000,
+            "longitude": 140.950000
+        },
+        {
+            "name": "五色沼（毘沙門沼）",
+            "description": "裏磐梯の五色沼湖沼群で最大。",
+            "prefecture": "福島県",
+            "latitude": 37.650000,
+            "longitude": 140.083333
+        },
+        {
+            "name": "弁天沼",
+            "description": "五色沼湖沼群の一つ。",
+            "prefecture": "福島県",
+            "latitude": 37.650000,
+            "longitude": 140.083333
+        },
+        {
+            "name": "瑠璃沼",
+            "description": "五色沼湖沼群の一つ。",
+            "prefecture": "福島県",
+            "latitude": 37.650000,
+            "longitude": 140.083333
+        },
+        {
+            "name": "青沼",
+            "description": "五色沼湖沼群の一つ。",
+            "prefecture": "福島県",
+            "latitude": 37.650000,
+            "longitude": 140.083333
+        },
+        {
+            "name": "鏡ヶ池",
+            "description": "道の駅にある池。",
+            "prefecture": "福島県",
+            "latitude": 37.266667,
+            "longitude": 140.366667
+        },
+        {
+            "name": "不忍池",
+            "description": "上野恩賜公園にある天然の池。ハスが有名。",
+            "prefecture": "東京都",
+            "latitude": 35.710000,
+            "longitude": 139.770000
+        },
+        {
+            "name": "井の頭池",
+            "description": "井の頭恩賜公園の中心。ボート遊び。",
+            "prefecture": "東京都",
+            "latitude": 35.700000,
+            "longitude": 139.570000
+        },
+        {
+            "name": "三宝寺池",
+            "description": "石神井公園にある池。武蔵野の面影を残す。",
+            "prefecture": "東京都",
+            "latitude": 35.733333,
+            "longitude": 139.590000
+        },
+        {
+            "name": "石神井池",
+            "description": "石神井公園のボート池。",
+            "prefecture": "東京都",
+            "latitude": 35.733333,
+            "longitude": 139.600000
+        },
+        {
+            "name": "洗足池",
+            "description": "都内屈指の広さを持つ淡水池。",
+            "prefecture": "東京都",
+            "latitude": 35.600000,
+            "longitude": 139.683333
+        },
+        {
+            "name": "善福寺池",
+            "description": "善福寺公園にある池。",
+            "prefecture": "東京都",
+            "latitude": 35.716667,
+            "longitude": 139.590000
+        },
+        {
+            "name": "小石川後楽園の大泉水",
+            "description": "大名庭園の池。",
+            "prefecture": "東京都",
+            "latitude": 35.705000,
+            "longitude": 139.750000
+        },
+        {
+            "name": "清澄庭園の大泉水",
+            "description": "回遊式林泉庭園。",
+            "prefecture": "東京都",
+            "latitude": 35.680000,
+            "longitude": 139.800000
+        },
+        {
+            "name": "三四郎池",
+            "description": "東京大学本郷キャンパス内にある池。夏目漱石の小説に登場。",
+            "prefecture": "東京都",
+            "latitude": 35.710000,
+            "longitude": 139.760000
+        },
+        {
+            "name": "浮間ヶ池",
+            "description": "浮間公園にある池。",
+            "prefecture": "東京都・埼玉県",
+            "latitude": 35.783333,
+            "longitude": 139.700000
+        },
+        {
+            "name": "別所沼",
+            "description": "公園内の池。メタセコイア並木。",
+            "prefecture": "埼玉県",
+            "latitude": 35.850000,
+            "longitude": 139.633333
+        },
+        {
+            "name": "伊佐沼",
+            "description": "県内最大の自然沼。古代蓮。",
+            "prefecture": "埼玉県",
+            "latitude": 35.916667,
+            "longitude": 139.516667
+        },
+        {
+            "name": "鎌北湖（山根溜池）",
+            "description": "農業用貯水池。紅葉の名所。",
+            "prefecture": "埼玉県",
+            "latitude": 35.916667,
+            "longitude": 139.283333
+        },
+        {
+            "name": "宮沢湖",
+            "description": "ムーミンバレーパークがある人造湖。",
+            "prefecture": "埼玉県",
+            "latitude": 35.866667,
+            "longitude": 139.333333
+        },
+        {
+            "name": "大池（こども自然公園）",
+            "description": "横浜市旭区にある池。",
+            "prefecture": "神奈川県",
+            "latitude": 35.450000,
+            "longitude": 139.533333
+        },
+        {
+            "name": "千波湖",
+            "description": "偕楽園の下に広がる湖（池）。",
+            "prefecture": "茨城県",
+            "latitude": 36.366667,
+            "longitude": 140.450000
+        },
+        {
+            "name": "古徳沼",
+            "description": "白鳥飛来地。",
+            "prefecture": "茨城県",
+            "latitude": 36.483333,
+            "longitude": 140.433333
+        },
+        {
+            "name": "出流原弁天池",
+            "description": "名水百選。非常に透明度が高い。",
+            "prefecture": "栃木県",
+            "latitude": 36.350000,
+            "longitude": 139.533333
+        },
+        {
+            "name": "大沼（赤城山）",
+            "description": "（湖沼カテゴリで既出だが池カテゴリ候補）",
+            "prefecture": "群馬県",
+            "latitude": 36.550000,
+            "longitude": 139.183333
+        },
+        {
+            "name": "小沼（赤城山）",
+            "description": "赤城山の火口湖。",
+            "prefecture": "群馬県",
+            "latitude": 36.533333,
+            "longitude": 139.183333
+        },
+        {
+            "name": "大正池",
+            "description": "上高地のシンボル的存在。",
+            "prefecture": "長野県",
+            "latitude": 36.233333,
+            "longitude": 137.633333
+        },
+        {
+            "name": "明神池",
+            "description": "萩市にある海跡湖。",
+            "prefecture": "山口県",
+            "latitude": 34.433333,
+            "longitude": 131.416667
+        },
+        {
+            "name": "田代池",
+            "description": "上高地の湿原にある浅い池。",
+            "prefecture": "長野県",
+            "latitude": 36.233333,
+            "longitude": 137.633333
+        },
+        {
+            "name": "御射鹿池",
+            "description": "東山魁夷の絵画のモデルになった池。",
+            "prefecture": "長野県",
+            "latitude": 36.033333,
+            "longitude": 138.266667
+        },
+        {
+            "name": "白駒の池",
+            "description": "標高2100m以上にある湖としては日本最大。",
+            "prefecture": "長野県",
+            "latitude": 36.050000,
+            "longitude": 138.366667
+        },
+        {
+            "name": "鏡池",
+            "description": "八重垣神社。",
+            "prefecture": "島根県",
+            "latitude": 35.433333,
+            "longitude": 133.083333
+        },
+        {
+            "name": "八方池",
+            "description": "白馬八方尾根にある池。白馬三山を映す。",
+            "prefecture": "長野県",
+            "latitude": 36.683333,
+            "longitude": 137.800000
+        },
+        {
+            "name": "鎌池",
+            "description": "小谷村にある紅葉の名所。",
+            "prefecture": "長野県",
+            "latitude": 36.883333,
+            "longitude": 137.966667
+        },
+        {
+            "name": "大座法師池",
+            "description": "飯綱高原にある池。",
+            "prefecture": "長野県",
+            "latitude": 36.716667,
+            "longitude": 138.150000
+        },
+        {
+            "name": "一の瀬山の神の池",
+            "description": "乗鞍高原にある池。水芭蕉。",
+            "prefecture": "長野県",
+            "latitude": 36.116667,
+            "longitude": 137.616667
+        },
+        {
+            "name": "牛留池",
+            "description": "乗鞍高原にある池。",
+            "prefecture": "長野県",
+            "latitude": 36.116667,
+            "longitude": 137.633333
+        },
+        {
+            "name": "雲場池",
+            "description": "軽井沢の観光名所。「スワンレイク」。",
+            "prefecture": "長野県",
+            "latitude": 36.350000,
+            "longitude": 138.616667
+        },
+        {
+            "name": "稚児ヶ池",
+            "description": "焼額山山頂にある池。",
+            "prefecture": "長野県",
+            "latitude": 36.750000,
+            "longitude": 138.533333
+        },
+        {
+            "name": "琵琶池",
+            "description": "志賀高原。",
+            "prefecture": "長野県",
+            "latitude": 36.716667,
+            "longitude": 138.483333
+        },
+        {
+            "name": "忍野八海",
+            "description": "富士山の伏流水による8つの湧水池。",
+            "prefecture": "山梨県",
+            "latitude": 35.460000,
+            "longitude": 138.833333
+        },
+        {
+            "name": "涌池",
+            "description": "忍野八海の一つ。",
+            "prefecture": "山梨県",
+            "latitude": 35.460000,
+            "longitude": 138.833333
+        },
+        {
+            "name": "北竜湖",
+            "description": "ハート型の湖（池）。",
+            "prefecture": "長野県",
+            "latitude": 36.900000,
+            "longitude": 138.450000
+        },
+        {
+            "name": "ミドリガ池",
+            "description": "立山室堂にある池。",
+            "prefecture": "富山県",
+            "latitude": 36.583333,
+            "longitude": 137.600000
+        },
+        {
+            "name": "血の池",
+            "description": "立山地獄谷にある池。",
+            "prefecture": "富山県",
+            "latitude": 36.583333,
+            "longitude": 137.583333
+        },
+        {
+            "name": "名もなき池（モネの池）",
+            "description": "モネの「睡蓮」に似ていると話題の池。",
+            "prefecture": "岐阜県",
+            "latitude": 35.650000,
+            "longitude": 136.816667
+        },
+        {
+            "name": "一碧湖",
+            "description": "「伊豆の瞳」。",
+            "prefecture": "静岡県",
+            "latitude": 34.933333,
+            "longitude": 139.100000
+        },
+        {
+            "name": "竜ヶ窪",
+            "description": "名水百選の湧水池。",
+            "prefecture": "新潟県",
+            "latitude": 36.983333,
+            "longitude": 138.750000
+        },
+        {
+            "name": "杜の池",
+            "description": "モリコロパーク。",
+            "prefecture": "愛知県",
+            "latitude": 35.166667,
+            "longitude": 137.083333
+        },
+        {
+            "name": "昆陽池",
+            "description": "日本列島の形をした人工島がある。",
+            "prefecture": "兵庫県",
+            "latitude": 34.783333,
+            "longitude": 135.383333
+        },
+        {
+            "name": "狭山池",
+            "description": "日本最古のダム式ため池。",
+            "prefecture": "大阪府",
+            "latitude": 34.500000,
+            "longitude": 135.550000
+        },
+        {
+            "name": "久米田池",
+            "description": "行基が指導して造られたため池。",
+            "prefecture": "大阪府",
+            "latitude": 34.450000,
+            "longitude": 135.400000
+        },
+        {
+            "name": "大沢池",
+            "description": "大覚寺にある日本最古の人工の林泉。",
+            "prefecture": "京都府",
+            "latitude": 35.033333,
+            "longitude": 135.683333
+        },
+        {
+            "name": "広沢池",
+            "description": "観月の名所。",
+            "prefecture": "京都府",
+            "latitude": 35.033333,
+            "longitude": 135.700000
+        },
+        {
+            "name": "鏡湖池",
+            "description": "金閣寺の池。",
+            "prefecture": "京都府",
+            "latitude": 35.039444,
+            "longitude": 135.729444
+        },
+        {
+            "name": "曹源池",
+            "description": "天龍寺の庭園。",
+            "prefecture": "京都府",
+            "latitude": 35.016667,
+            "longitude": 135.666667
+        },
+        {
+            "name": "猿沢池",
+            "description": "興福寺五重塔を映す。",
+            "prefecture": "奈良県",
+            "latitude": 34.683333,
+            "longitude": 135.833333
+        },
+        {
+            "name": "鷺池",
+            "description": "浮見堂がある。",
+            "prefecture": "奈良県",
+            "latitude": 34.683333,
+            "longitude": 135.833333
+        },
+        {
+            "name": "お亀池",
+            "description": "曽爾高原にある湿原の池。",
+            "prefecture": "奈良県",
+            "latitude": 34.516667,
+            "longitude": 136.166667
+        },
+        {
+            "name": "浮島",
+            "description": "嘉島町にある湧水池。浮島神社。",
+            "prefecture": "熊本県",
+            "latitude": 32.733333,
+            "longitude": 130.750000
+        },
+        {
+            "name": "湖山池",
+            "description": "日本最大の「池」。",
+            "prefecture": "鳥取県",
+            "latitude": 35.533333,
+            "longitude": 134.133333
+        },
+        {
+            "name": "別府弁天池",
+            "description": "非常に透明度が高い湧水池。",
+            "prefecture": "山口県",
+            "latitude": 34.233333,
+            "longitude": 131.233333
+        },
+        {
+            "name": "満濃池",
+            "description": "日本最大のため池。空海が改修。",
+            "prefecture": "香川県",
+            "latitude": 34.150000,
+            "longitude": 133.883333
+        },
+        {
+            "name": "栗林公園の池（南湖など）",
+            "description": "特別名勝の庭園にある池。",
+            "prefecture": "香川県",
+            "latitude": 34.333333,
+            "longitude": 134.050000
+        },
+        {
+            "name": "蒲生田大池",
+            "description": "四国最東端の蒲生田岬近く。",
+            "prefecture": "徳島県",
+            "latitude": 33.833333,
+            "longitude": 134.733333
+        },
+        {
+            "name": "御池",
+            "description": "高千穂峰の麓。（湖沼カテゴリで既出だが池なので残す？）",
+            "prefecture": "宮崎県",
+            "latitude": 31.883333,
+            "longitude": 130.966667
+        },
+        {
+            "name": "不動池",
+            "description": "えびの高原。（湖沼カテゴリで既出）",
+            "prefecture": "宮崎県",
+            "latitude": 31.950000,
+            "longitude": 130.850000
+        },
+        {
+            "name": "六観音御池",
+            "description": "えびの高原。（湖沼カテゴリで既出）",
+            "prefecture": "宮崎県",
+            "latitude": 31.933333,
+            "longitude": 130.866667
+        },
+        {
+            "name": "白紫池",
+            "description": "えびの高原。",
+            "prefecture": "宮崎県",
+            "latitude": 31.950000,
+            "longitude": 130.833333
+        },
+        {
+            "name": "大浪池",
+            "description": "（湖沼カテゴリで既出）",
+            "prefecture": "鹿児島県",
+            "latitude": 31.900000,
+            "longitude": 130.850000
+        },
+        {
+            "name": "藺牟田池",
+            "description": "（湿原カテゴリ・湖沼カテゴリで既出）",
+            "prefecture": "鹿児島県",
+            "latitude": 31.816667,
+            "longitude": 130.466667
+        },
+        {
+            "name": "鰻池",
+            "description": "（湖沼カテゴリで既出）",
+            "prefecture": "鹿児島県",
+            "latitude": 31.216667,
+            "longitude": 130.633333
+        },
+        {
+            "name": "池田湖",
+            "description": "（湖沼カテゴリで既出）",
+            "prefecture": "鹿児島県",
+            "latitude": 31.233333,
+            "longitude": 130.566667
+        },
+        {
+            "name": "住吉池",
+            "description": "火口湖。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.766667,
+            "longitude": 130.600000
+        },
+        {
+            "name": "白川水源",
+            "description": "名水百選。池のようになっている。",
+            "prefecture": "熊本県",
+            "latitude": 32.833333,
+            "longitude": 131.033333
+        },
+        {
+            "name": "池山水源",
+            "description": "名水百選。",
+            "prefecture": "熊本県",
+            "latitude": 33.083333,
+            "longitude": 131.233333
+        },
+        {
+            "name": "志高湖",
+            "description": "（湖沼カテゴリで既出）",
+            "prefecture": "大分県",
+            "latitude": 33.266667,
+            "longitude": 131.433333
+        },
+        {
+            "name": "神楽女湖",
+            "description": "花菖蒲の名所。",
+            "prefecture": "大分県",
+            "latitude": 33.266667,
+            "longitude": 131.416667
+        },
+        {
+            "name": "金鱗湖",
+            "description": "（湖沼カテゴリで既出）",
+            "prefecture": "大分県",
+            "latitude": 33.266667,
+            "longitude": 131.366667
+        },
+        {
+            "name": "男池湧水群",
+            "description": "名水百選。",
+            "prefecture": "大分県",
+            "latitude": 33.183333,
+            "longitude": 131.333333
+        },
+        {
+            "name": "畑貯水池",
+            "description": "北九州市のダム湖。",
+            "prefecture": "福岡県",
+            "latitude": 33.816667,
+            "longitude": 130.783333
+        },
+        {
+            "name": "駕与丁池",
+            "description": "粕屋町にある池。桜の名所。",
+            "prefecture": "福岡県",
+            "latitude": 33.600000,
+            "longitude": 130.483333
+        },
+        {
+            "name": "大濠公園",
+            "description": "福岡城の外堀を利用した大きな池。",
+            "prefecture": "福岡県",
+            "latitude": 33.583333,
+            "longitude": 130.366667
+        },
+        {
+            "name": "通り池",
+            "description": "下地島にある2つの池。海とつながっている。",
+            "prefecture": "沖縄県",
+            "latitude": 24.816667,
+            "longitude": 125.133333
+        },
+        {
+            "name": "龍潭",
+            "description": "首里城にある人工池。",
+            "prefecture": "沖縄県",
+            "latitude": 26.216667,
+            "longitude": 127.716667
+        },
+        {
+            "name": "大池",
+            "description": "南大東島。（湖沼カテゴリで既出）",
+            "prefecture": "沖縄県",
+            "latitude": 25.850000,
+            "longitude": 131.233333
+        },
+        {
+            "name": "ひょうたん池",
+            "description": "浅草寺境内など各地にある。",
+            "prefecture": "東京都",
+            "latitude": 35.716667,
+            "longitude": 139.796667
+        },
+        {
+            "name": "心字池",
+            "description": "旧古河庭園など。",
+            "prefecture": "東京都",
+            "latitude": 35.741667,
+            "longitude": 139.745000
+        },
+        {
+            "name": "毛利庭園の池",
+            "description": "六本木ヒルズ。",
+            "prefecture": "東京都",
+            "latitude": 35.660000,
+            "longitude": 139.729000
+        },
+        {
+            "name": "仙洞御所・大池",
+            "description": "京都御苑。",
+            "prefecture": "京都府",
+            "latitude": 35.023333,
+            "longitude": 135.763333
+        },
+        {
+            "name": "九条池",
+            "description": "京都御苑。",
+            "prefecture": "京都府",
+            "latitude": 35.020000,
+            "longitude": 135.763333
+        },
+        {
+            "name": "小倉池",
+            "description": "嵐山・常寂光寺近く。",
+            "prefecture": "京都府",
+            "latitude": 35.018333,
+            "longitude": 135.668333
+        }
+    ]
+}

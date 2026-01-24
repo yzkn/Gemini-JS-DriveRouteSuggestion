@@ -1,0 +1,1208 @@
+{
+    "municipalities": [
+        {
+            "name": "厚岸道立自然公園",
+            "description": "北海道にある都道府県立自然公園",
+            "prefecture": "北海道",
+            "latitude": 43.048,
+            "longitude": 144.863
+        },
+        {
+            "name": "富良野芦別道立自然公園",
+            "description": "北海道にある都道府県立自然公園",
+            "prefecture": "北海道",
+            "latitude": 43.2133,
+            "longitude": 142.2842
+        },
+        {
+            "name": "桧山道立自然公園",
+            "description": "北海道にある都道府県立自然公園",
+            "prefecture": "北海道",
+            "latitude": 41.8667,
+            "longitude": 140.1167
+        },
+        {
+            "name": "恵山道立自然公園",
+            "description": "北海道にある都道府県立自然公園",
+            "prefecture": "北海道",
+            "latitude": 41.815,
+            "longitude": 141.1733
+        },
+        {
+            "name": "野付風蓮道立自然公園",
+            "description": "北海道にある都道府県立自然公園",
+            "prefecture": "北海道",
+            "latitude": 43.55,
+            "longitude": 145.25
+        },
+        {
+            "name": "北オホーツク道立自然公園",
+            "description": "北海道にある都道府県立自然公園",
+            "prefecture": "北海道",
+            "latitude": 45.1,
+            "longitude": 142.6
+        },
+        {
+            "name": "松前矢越道立自然公園",
+            "description": "北海道にある都道府県立自然公園",
+            "prefecture": "北海道",
+            "latitude": 41.43,
+            "longitude": 140.1
+        },
+        {
+            "name": "野幌森林公園",
+            "description": "北海道にある都道府県立自然公園",
+            "prefecture": "北海道",
+            "latitude": 43.055,
+            "longitude": 141.513
+        },
+        {
+            "name": "狩場茂津多道立自然公園",
+            "description": "北海道にある都道府県立自然公園",
+            "prefecture": "北海道",
+            "latitude": 42.6667,
+            "longitude": 139.9333
+        },
+        {
+            "name": "朱鞠内道立自然公園",
+            "description": "北海道にある都道府県立自然公園",
+            "prefecture": "北海道",
+            "latitude": 44.3,
+            "longitude": 142.2
+        },
+        {
+            "name": "天塩岳道立自然公園",
+            "description": "北海道にある都道府県立自然公園",
+            "prefecture": "北海道",
+            "latitude": 44.2333,
+            "longitude": 142.8833
+        },
+        {
+            "name": "斜里岳道立自然公園",
+            "description": "北海道にある都道府県立自然公園",
+            "prefecture": "北海道",
+            "latitude": 43.7617,
+            "longitude": 144.7225
+        },
+        {
+            "name": "浅虫夏泊県立自然公園",
+            "description": "青森県にある都道府県立自然公園",
+            "prefecture": "青森県",
+            "latitude": 40.9,
+            "longitude": 140.8667
+        },
+        {
+            "name": "大鰐碇ヶ関温泉郷県立自然公園",
+            "description": "青森県にある都道府県立自然公園",
+            "prefecture": "青森県",
+            "latitude": 40.5167,
+            "longitude": 140.6167
+        },
+        {
+            "name": "種差海岸階上岳県立自然公園",
+            "description": "青森県にある都道府県立自然公園",
+            "prefecture": "青森県",
+            "latitude": 40.5333,
+            "longitude": 141.5833
+        },
+        {
+            "name": "名久井岳県立自然公園",
+            "description": "青森県にある都道府県立自然公園",
+            "prefecture": "青森県",
+            "latitude": 40.4167,
+            "longitude": 141.35
+        },
+        {
+            "name": "芦野池沼群県立自然公園",
+            "description": "青森県にある都道府県立自然公園",
+            "prefecture": "青森県",
+            "latitude": 40.9167,
+            "longitude": 140.45
+        },
+        {
+            "name": "黒石温泉郷県立自然公園",
+            "description": "青森県にある都道府県立自然公園",
+            "prefecture": "青森県",
+            "latitude": 40.6333,
+            "longitude": 140.6
+        },
+        {
+            "name": "岩木高原県立自然公園",
+            "description": "青森県にある都道府県立自然公園",
+            "prefecture": "青森県",
+            "latitude": 40.65,
+            "longitude": 140.3
+        },
+        {
+            "name": "赤石渓流暗門の滝県立自然公園",
+            "description": "青森県にある都道府県立自然公園",
+            "prefecture": "青森県",
+            "latitude": 40.5167,
+            "longitude": 140.15
+        },
+        {
+            "name": "久慈平庭県立自然公園",
+            "description": "岩手県にある都道府県立自然公園",
+            "prefecture": "岩手県",
+            "latitude": 40.1667,
+            "longitude": 141.6667
+        },
+        {
+            "name": "外山早坂高原県立自然公園",
+            "description": "岩手県にある都道府県立自然公園",
+            "prefecture": "岩手県",
+            "latitude": 39.8333,
+            "longitude": 141.45
+        },
+        {
+            "name": "花巻温泉郷県立自然公園",
+            "description": "岩手県にある都道府県立自然公園",
+            "prefecture": "岩手県",
+            "latitude": 39.4333,
+            "longitude": 141.05
+        },
+        {
+            "name": "湯田温泉郷県立自然公園",
+            "description": "岩手県にある都道府県立自然公園",
+            "prefecture": "岩手県",
+            "latitude": 39.3,
+            "longitude": 140.75
+        },
+        {
+            "name": "折爪馬仙峡県立自然公園",
+            "description": "岩手県にある都道府県立自然公園",
+            "prefecture": "岩手県",
+            "latitude": 40.2167,
+            "longitude": 141.3333
+        },
+        {
+            "name": "五葉山県立自然公園",
+            "description": "岩手県にある都道府県立自然公園",
+            "prefecture": "岩手県",
+            "latitude": 39.2,
+            "longitude": 141.7333
+        },
+        {
+            "name": "室根高原県立自然公園",
+            "description": "岩手県にある都道府県立自然公園",
+            "prefecture": "岩手県",
+            "latitude": 38.9667,
+            "longitude": 141.4667
+        },
+        {
+            "name": "松島県立自然公園",
+            "description": "宮城県にある都道府県立自然公園",
+            "prefecture": "宮城県",
+            "latitude": 38.3667,
+            "longitude": 141.0667
+        },
+        {
+            "name": "旭山県立自然公園",
+            "description": "宮城県にある都道府県立自然公園",
+            "prefecture": "宮城県",
+            "latitude": 38.45,
+            "longitude": 141.2
+        },
+        {
+            "name": "蔵王高原県立自然公園",
+            "description": "宮城県にある都道府県立自然公園",
+            "prefecture": "宮城県",
+            "latitude": 38.1333,
+            "longitude": 140.45
+        },
+        {
+            "name": "二口峡谷県立自然公園",
+            "description": "宮城県にある都道府県立自然公園",
+            "prefecture": "宮城県",
+            "latitude": 38.2667,
+            "longitude": 140.5333
+        },
+        {
+            "name": "気仙沼県立自然公園",
+            "description": "宮城県にある都道府県立自然公園",
+            "prefecture": "宮城県",
+            "latitude": 38.9,
+            "longitude": 141.5667
+        },
+        {
+            "name": "船形連峰県立自然公園",
+            "description": "宮城県にある都道府県立自然公園",
+            "prefecture": "宮城県",
+            "latitude": 38.45,
+            "longitude": 140.6167
+        },
+        {
+            "name": "硯上山万石浦県立自然公園",
+            "description": "宮城県にある都道府県立自然公園",
+            "prefecture": "宮城県",
+            "latitude": 38.4167,
+            "longitude": 141.45
+        },
+        {
+            "name": "阿武隈渓谷県立自然公園",
+            "description": "宮城県にある都道府県立自然公園",
+            "prefecture": "宮城県",
+            "latitude": 37.9833,
+            "longitude": 140.7667
+        },
+        {
+            "name": "八森岩館県立自然公園",
+            "description": "秋田県にある都道府県立自然公園",
+            "prefecture": "秋田県",
+            "latitude": 40.3833,
+            "longitude": 139.9667
+        },
+        {
+            "name": "きみまち坂藤里峡県立自然公園",
+            "description": "秋田県にある都道府県立自然公園",
+            "prefecture": "秋田県",
+            "latitude": 40.2333,
+            "longitude": 140.2667
+        },
+        {
+            "name": "田代岳県立自然公園",
+            "description": "秋田県にある都道府県立自然公園",
+            "prefecture": "秋田県",
+            "latitude": 40.4333,
+            "longitude": 140.55
+        },
+        {
+            "name": "森吉山県立自然公園",
+            "description": "秋田県にある都道府県立自然公園",
+            "prefecture": "秋田県",
+            "latitude": 39.9667,
+            "longitude": 140.55
+        },
+        {
+            "name": "太平山県立自然公園",
+            "description": "秋田県にある都道府県立自然公園",
+            "prefecture": "秋田県",
+            "latitude": 39.7833,
+            "longitude": 140.3167
+        },
+        {
+            "name": "田沢湖抱返り県立自然公園",
+            "description": "秋田県にある都道府県立自然公園",
+            "prefecture": "秋田県",
+            "latitude": 39.7167,
+            "longitude": 140.6667
+        },
+        {
+            "name": "真木真昼県立自然公園",
+            "description": "秋田県にある都道府県立自然公園",
+            "prefecture": "秋田県",
+            "latitude": 39.55,
+            "longitude": 140.6
+        },
+        {
+            "name": "庄内海浜県立自然公園",
+            "description": "山形県にある都道府県立自然公園",
+            "prefecture": "山形県",
+            "latitude": 38.9,
+            "longitude": 139.8
+        },
+        {
+            "name": "御所山県立自然公園",
+            "description": "山形県にある都道府県立自然公園",
+            "prefecture": "山形県",
+            "latitude": 38.5833,
+            "longitude": 140.5167
+        },
+        {
+            "name": "県南県立自然公園",
+            "description": "山形県にある都道府県立自然公園",
+            "prefecture": "山形県",
+            "latitude": 38.0,
+            "longitude": 140.0
+        },
+        {
+            "name": "加無山県立自然公園",
+            "description": "山形県にある都道府県立自然公園",
+            "prefecture": "山形県",
+            "latitude": 38.9167,
+            "longitude": 140.2667
+        },
+        {
+            "name": "天童高原県立自然公園",
+            "description": "山形県にある都道府県立自然公園",
+            "prefecture": "山形県",
+            "latitude": 38.3667,
+            "longitude": 140.4333
+        },
+        {
+            "name": "最上川県立自然公園",
+            "description": "山形県にある都道府県立自然公園",
+            "prefecture": "山形県",
+            "latitude": 38.6667,
+            "longitude": 140.05
+        },
+        {
+            "name": "霊山県立自然公園",
+            "description": "福島県にある都道府県立自然公園",
+            "prefecture": "福島県",
+            "latitude": 37.7667,
+            "longitude": 140.65
+        },
+        {
+            "name": "霞ヶ城県立自然公園",
+            "description": "福島県にある都道府県立自然公園",
+            "prefecture": "福島県",
+            "latitude": 37.6,
+            "longitude": 140.4667
+        },
+        {
+            "name": "南湖県立自然公園",
+            "description": "福島県にある都道府県立自然公園",
+            "prefecture": "福島県",
+            "latitude": 37.1167,
+            "longitude": 140.2167
+        },
+        {
+            "name": "奥久慈県立自然公園",
+            "description": "福島県にある都道府県立自然公園",
+            "prefecture": "福島県",
+            "latitude": 36.85,
+            "longitude": 140.4167
+        },
+        {
+            "name": "磐城海岸県立自然公園",
+            "description": "福島県にある都道府県立自然公園",
+            "prefecture": "福島県",
+            "latitude": 36.9667,
+            "longitude": 140.9667
+        },
+        {
+            "name": "松川浦県立自然公園",
+            "description": "福島県にある都道府県立自然公園",
+            "prefecture": "福島県",
+            "latitude": 37.8167,
+            "longitude": 140.95
+        },
+        {
+            "name": "勿来県立自然公園",
+            "description": "福島県にある都道府県立自然公園",
+            "prefecture": "福島県",
+            "latitude": 36.8833,
+            "longitude": 140.7833
+        },
+        {
+            "name": "只見柳津県立自然公園",
+            "description": "福島県にある都道府県立自然公園",
+            "prefecture": "福島県",
+            "latitude": 37.5167,
+            "longitude": 139.7333
+        },
+        {
+            "name": "大川羽鳥県立自然公園",
+            "description": "福島県にある都道府県立自然公園",
+            "prefecture": "福島県",
+            "latitude": 37.3,
+            "longitude": 139.9333
+        },
+        {
+            "name": "阿武隈高原中部県立自然公園",
+            "description": "福島県にある都道府県立自然公園",
+            "prefecture": "福島県",
+            "latitude": 37.4333,
+            "longitude": 140.6333
+        },
+        {
+            "name": "夏井川渓谷県立自然公園",
+            "description": "福島県にある都道府県立自然公園",
+            "prefecture": "福島県",
+            "latitude": 37.1333,
+            "longitude": 140.7333
+        },
+        {
+            "name": "奥久慈県立自然公園",
+            "description": "茨城県にある都道府県立自然公園",
+            "prefecture": "茨城県",
+            "latitude": 36.85,
+            "longitude": 140.4167
+        },
+        {
+            "name": "花園花貫県立自然公園",
+            "description": "茨城県にある都道府県立自然公園",
+            "prefecture": "茨城県",
+            "latitude": 36.8333,
+            "longitude": 140.6333
+        },
+        {
+            "name": "太田県立自然公園",
+            "description": "茨城県にある都道府県立自然公園",
+            "prefecture": "茨城県",
+            "latitude": 36.5333,
+            "longitude": 140.5333
+        },
+        {
+            "name": "御前山県立自然公園",
+            "description": "茨城県にある都道府県立自然公園",
+            "prefecture": "茨城県",
+            "latitude": 36.55,
+            "longitude": 140.3167
+        },
+        {
+            "name": "大洗県立自然公園",
+            "description": "茨城県にある都道府県立自然公園",
+            "prefecture": "茨城県",
+            "latitude": 36.3167,
+            "longitude": 140.5833
+        },
+        {
+            "name": "笠間県立自然公園",
+            "description": "茨城県にある都道府県立自然公園",
+            "prefecture": "茨城県",
+            "latitude": 36.3833,
+            "longitude": 140.25
+        },
+        {
+            "name": "水戸県立自然公園",
+            "description": "茨城県にある都道府県立自然公園",
+            "prefecture": "茨城県",
+            "latitude": 36.3833,
+            "longitude": 140.45
+        },
+        {
+            "name": "吾国愛宕県立自然公園",
+            "description": "茨城県にある都道府県立自然公園",
+            "prefecture": "茨城県",
+            "latitude": 36.2833,
+            "longitude": 140.2333
+        },
+        {
+            "name": "高鈴県立自然公園",
+            "description": "茨城県にある都道府県立自然公園",
+            "prefecture": "茨城県",
+            "latitude": 36.6333,
+            "longitude": 140.6
+        },
+        {
+            "name": "益子県立自然公園",
+            "description": "栃木県にある都道府県立自然公園",
+            "prefecture": "栃木県",
+            "latitude": 36.4667,
+            "longitude": 140.1
+        },
+        {
+            "name": "太平山県立自然公園",
+            "description": "栃木県にある都道府県立自然公園",
+            "prefecture": "栃木県",
+            "latitude": 39.7833,
+            "longitude": 140.3167
+        },
+        {
+            "name": "唐沢山県立自然公園",
+            "description": "栃木県にある都道府県立自然公園",
+            "prefecture": "栃木県",
+            "latitude": 36.35,
+            "longitude": 139.6
+        },
+        {
+            "name": "前日光県立自然公園",
+            "description": "栃木県にある都道府県立自然公園",
+            "prefecture": "栃木県",
+            "latitude": 36.6333,
+            "longitude": 139.6
+        },
+        {
+            "name": "足利県立自然公園",
+            "description": "栃木県にある都道府県立自然公園",
+            "prefecture": "栃木県",
+            "latitude": 36.3333,
+            "longitude": 139.45
+        },
+        {
+            "name": "宇都宮県立自然公園",
+            "description": "栃木県にある都道府県立自然公園",
+            "prefecture": "栃木県",
+            "latitude": 36.5667,
+            "longitude": 139.8833
+        },
+        {
+            "name": "那珂川県立自然公園",
+            "description": "栃木県にある都道府県立自然公園",
+            "prefecture": "栃木県",
+            "latitude": 36.75,
+            "longitude": 140.1333
+        },
+        {
+            "name": "八溝県立自然公園",
+            "description": "栃木県にある都道府県立自然公園",
+            "prefecture": "栃木県",
+            "latitude": 36.9333,
+            "longitude": 140.2833
+        },
+        {
+            "name": "狭山県立自然公園",
+            "description": "埼玉県にある都道府県立自然公園",
+            "prefecture": "埼玉県",
+            "latitude": 35.7833,
+            "longitude": 139.4167
+        },
+        {
+            "name": "奥武蔵県立自然公園",
+            "description": "埼玉県にある都道府県立自然公園",
+            "prefecture": "埼玉県",
+            "latitude": 35.9,
+            "longitude": 139.15
+        },
+        {
+            "name": "黒山県立自然公園",
+            "description": "埼玉県にある都道府県立自然公園",
+            "prefecture": "埼玉県",
+            "latitude": 35.9333,
+            "longitude": 139.2667
+        },
+        {
+            "name": "長瀞玉淀県立自然公園",
+            "description": "埼玉県にある都道府県立自然公園",
+            "prefecture": "埼玉県",
+            "latitude": 36.1167,
+            "longitude": 139.1167
+        },
+        {
+            "name": "比企丘陵県立自然公園",
+            "description": "埼玉県にある都道府県立自然公園",
+            "prefecture": "埼玉県",
+            "latitude": 36.0333,
+            "longitude": 139.3833
+        },
+        {
+            "name": "上武県立自然公園",
+            "description": "埼玉県にある都道府県立自然公園",
+            "prefecture": "埼玉県",
+            "latitude": 36.1833,
+            "longitude": 139.1
+        },
+        {
+            "name": "武甲県立自然公園",
+            "description": "埼玉県にある都道府県立自然公園",
+            "prefecture": "埼玉県",
+            "latitude": 35.95,
+            "longitude": 139.0833
+        },
+        {
+            "name": "安行武南県立自然公園",
+            "description": "埼玉県にある都道府県立自然公園",
+            "prefecture": "埼玉県",
+            "latitude": 35.85,
+            "longitude": 139.7333
+        },
+        {
+            "name": "両神県立自然公園",
+            "description": "埼玉県にある都道府県立自然公園",
+            "prefecture": "埼玉県",
+            "latitude": 36.0333,
+            "longitude": 138.9333
+        },
+        {
+            "name": "西秩父県立自然公園",
+            "description": "埼玉県にある都道府県立自然公園",
+            "prefecture": "埼玉県",
+            "latitude": 36.0,
+            "longitude": 138.9
+        },
+        {
+            "name": "養老渓谷奥清澄県立自然公園",
+            "description": "千葉県にある都道府県立自然公園",
+            "prefecture": "千葉県",
+            "latitude": 35.25,
+            "longitude": 140.15
+        },
+        {
+            "name": "九十九里県立自然公園",
+            "description": "千葉県にある都道府県立自然公園",
+            "prefecture": "千葉県",
+            "latitude": 35.6,
+            "longitude": 140.5
+        },
+        {
+            "name": "印旛手賀県立自然公園",
+            "description": "千葉県にある都道府県立自然公園",
+            "prefecture": "千葉県",
+            "latitude": 35.8,
+            "longitude": 140.1667
+        },
+        {
+            "name": "高宕山県立自然公園",
+            "description": "千葉県にある都道府県立自然公園",
+            "prefecture": "千葉県",
+            "latitude": 35.2,
+            "longitude": 140.0333
+        },
+        {
+            "name": "嶺岡山系県立自然公園",
+            "description": "千葉県にある都道府県立自然公園",
+            "prefecture": "千葉県",
+            "latitude": 35.1,
+            "longitude": 140.0
+        },
+        {
+            "name": "富山県立自然公園",
+            "description": "千葉県にある都道府県立自然公園",
+            "prefecture": "千葉県",
+            "latitude": 35.0833,
+            "longitude": 139.85
+        },
+        {
+            "name": "大利根県立自然公園",
+            "description": "千葉県にある都道府県立自然公園",
+            "prefecture": "千葉県",
+            "latitude": 35.8333,
+            "longitude": 140.6
+        },
+        {
+            "name": "笠森舞鶴県立自然公園",
+            "description": "千葉県にある都道府県立自然公園",
+            "prefecture": "千葉県",
+            "latitude": 35.4,
+            "longitude": 140.2
+        },
+        {
+            "name": "高尾陣馬都立自然公園",
+            "description": "東京都にある都道府県立自然公園",
+            "prefecture": "東京都",
+            "latitude": 35.625,
+            "longitude": 139.243
+        },
+        {
+            "name": "多摩丘陵都立自然公園",
+            "description": "東京都にある都道府県立自然公園",
+            "prefecture": "東京都",
+            "latitude": 35.6167,
+            "longitude": 139.4167
+        },
+        {
+            "name": "羽村草花丘陵都立自然公園",
+            "description": "東京都にある都道府県立自然公園",
+            "prefecture": "東京都",
+            "latitude": 35.75,
+            "longitude": 139.3
+        },
+        {
+            "name": "秋川丘陵都立自然公園",
+            "description": "東京都にある都道府県立自然公園",
+            "prefecture": "東京都",
+            "latitude": 35.7333,
+            "longitude": 139.25
+        },
+        {
+            "name": "滝山都立自然公園",
+            "description": "東京都にある都道府県立自然公園",
+            "prefecture": "東京都",
+            "latitude": 35.7,
+            "longitude": 139.3167
+        },
+        {
+            "name": "丹沢大山県立自然公園",
+            "description": "神奈川県にある都道府県立自然公園",
+            "prefecture": "神奈川県",
+            "latitude": 35.47,
+            "longitude": 139.16
+        },
+        {
+            "name": "真鶴半島県立自然公園",
+            "description": "神奈川県にある都道府県立自然公園",
+            "prefecture": "神奈川県",
+            "latitude": 35.15,
+            "longitude": 139.15
+        },
+        {
+            "name": "奥湯河原県立自然公園",
+            "description": "神奈川県にある都道府県立自然公園",
+            "prefecture": "神奈川県",
+            "latitude": 35.15,
+            "longitude": 139.0667
+        },
+        {
+            "name": "阿賀野川ライン県立自然公園",
+            "description": "新潟県にある都道府県立自然公園",
+            "prefecture": "新潟県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "魚沼連峰県立自然公園",
+            "description": "新潟県にある都道府県立自然公園",
+            "prefecture": "新潟県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "奥早出粟守門県立自然公園",
+            "description": "新潟県にある都道府県立自然公園",
+            "prefecture": "新潟県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "久比岐県立自然公園",
+            "description": "新潟県にある都道府県立自然公園",
+            "prefecture": "新潟県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "小佐渡県立自然公園",
+            "description": "新潟県にある都道府県立自然公園",
+            "prefecture": "新潟県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "五島連峰県立自然公園",
+            "description": "新潟県にある都道府県立自然公園",
+            "prefecture": "新潟県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "瀬波笹川流れ粟島県立自然公園",
+            "description": "新潟県にある都道府県立自然公園",
+            "prefecture": "新潟県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "瀬波笹川流れ粟島県立自然公園",
+            "description": "新潟県にある都道府県立自然公園",
+            "prefecture": "新潟県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "胎内二王子県立自然公園",
+            "description": "新潟県にある都道府県立自然公園",
+            "prefecture": "新潟県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "白馬山麓県立自然公園",
+            "description": "新潟県にある都道府県立自然公園",
+            "prefecture": "新潟県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "米山福浦八景県立自然公園",
+            "description": "新潟県にある都道府県立自然公園",
+            "prefecture": "新潟県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "直峰松之山大池県立自然公園",
+            "description": "新潟県にある都道府県立自然公園",
+            "prefecture": "新潟県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "長岡東山山本山県立自然公園",
+            "description": "新潟県にある都道府県立自然公園",
+            "prefecture": "新潟県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "親不知子不知県立自然公園",
+            "description": "新潟県にある都道府県立自然公園",
+            "prefecture": "新潟県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "朝日県立自然公園",
+            "description": "富山県にある都道府県立自然公園",
+            "prefecture": "富山県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "有峰県立自然公園",
+            "description": "富山県にある都道府県立自然公園",
+            "prefecture": "富山県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "五箇山県立自然公園",
+            "description": "富山県にある都道府県立自然公園",
+            "prefecture": "富山県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "白木水無県立自然公園",
+            "description": "富山県にある都道府県立自然公園",
+            "prefecture": "富山県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "医王山県立自然公園",
+            "description": "富山県にある都道府県立自然公園",
+            "prefecture": "富山県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "僧ヶ岳県立自然公園",
+            "description": "富山県にある都道府県立自然公園",
+            "prefecture": "富山県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "奥越高原県立自然公園",
+            "description": "福井県にある都道府県立自然公園",
+            "prefecture": "福井県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "日本平県立自然公園",
+            "description": "静岡県にある都道府県立自然公園",
+            "prefecture": "静岡県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "奥大井県立自然公園",
+            "description": "静岡県にある都道府県立自然公園",
+            "prefecture": "静岡県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "御前崎遠州灘県立自然公園",
+            "description": "静岡県にある都道府県立自然公園",
+            "prefecture": "静岡県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "浜名湖県立自然公園",
+            "description": "静岡県にある都道府県立自然公園",
+            "prefecture": "静岡県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "渥美半島県立自然公園",
+            "description": "愛知県にある都道府県立自然公園",
+            "prefecture": "愛知県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "南知多県立自然公園",
+            "description": "愛知県にある都道府県立自然公園",
+            "prefecture": "愛知県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "石巻山多米県立自然公園",
+            "description": "愛知県にある都道府県立自然公園",
+            "prefecture": "愛知県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "桜渕県立自然公園",
+            "description": "愛知県にある都道府県立自然公園",
+            "prefecture": "愛知県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "段戸高原県立自然公園",
+            "description": "愛知県にある都道府県立自然公園",
+            "prefecture": "愛知県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "振草渓谷県立自然公園",
+            "description": "愛知県にある都道府県立自然公園",
+            "prefecture": "愛知県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "本宮山県立自然公園",
+            "description": "愛知県にある都道府県立自然公園",
+            "prefecture": "愛知県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "赤目一志峡県立自然公園",
+            "description": "三重県にある都道府県立自然公園",
+            "prefecture": "三重県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "伊勢の海県立自然公園",
+            "description": "三重県にある都道府県立自然公園",
+            "prefecture": "三重県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "香肌峡県立自然公園",
+            "description": "三重県にある都道府県立自然公園",
+            "prefecture": "三重県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "水郷県立自然公園",
+            "description": "三重県にある都道府県立自然公園",
+            "prefecture": "三重県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "奥伊勢宮川峡県立自然公園",
+            "description": "三重県にある都道府県立自然公園",
+            "prefecture": "三重県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "三上田上信楽県立自然公園",
+            "description": "滋賀県にある都道府県立自然公園",
+            "prefecture": "滋賀県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "朽木葛川県立自然公園",
+            "description": "滋賀県にある都道府県立自然公園",
+            "prefecture": "滋賀県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "湖東県立自然公園",
+            "description": "滋賀県にある都道府県立自然公園",
+            "prefecture": "滋賀県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "笠置山府立自然公園",
+            "description": "京都府にある都道府県立自然公園",
+            "prefecture": "京都府",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "丹後天橋立大江山（Quasi? Snippet says Prefectural in 1.3 category but 1.4 says Quasi. I'll omit if unsure府立自然公園",
+            "description": "京都府にある都道府県立自然公園",
+            "prefecture": "京都府",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "or include as per snippet 1.3）府立自然公園",
+            "description": "京都府にある都道府県立自然公園",
+            "prefecture": "京都府",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "清水東条湖立杭県立自然公園",
+            "description": "兵庫県にある都道府県立自然公園",
+            "prefecture": "兵庫県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "朝来群山県立自然公園",
+            "description": "兵庫県にある都道府県立自然公園",
+            "prefecture": "兵庫県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "猪名川渓谷県立自然公園",
+            "description": "兵庫県にある都道府県立自然公園",
+            "prefecture": "兵庫県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "笠形山千ヶ峰県立自然公園",
+            "description": "兵庫県にある都道府県立自然公園",
+            "prefecture": "兵庫県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "音水ちくさ県立自然公園",
+            "description": "兵庫県にある都道府県立自然公園",
+            "prefecture": "兵庫県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "西播丘陵県立自然公園",
+            "description": "兵庫県にある都道府県立自然公園",
+            "prefecture": "兵庫県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "播磨中部丘陵県立自然公園",
+            "description": "兵庫県にある都道府県立自然公園",
+            "prefecture": "兵庫県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "雪彦峰山県立自然公園",
+            "description": "兵庫県にある都道府県立自然公園",
+            "prefecture": "兵庫県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "生石高原県立自然公園",
+            "description": "和歌山県にある都道府県立自然公園",
+            "prefecture": "和歌山県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "奥日野県立自然公園",
+            "description": "鳥取県にある都道府県立自然公園",
+            "prefecture": "鳥取県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "神之瀬峡県立自然公園",
+            "description": "広島県にある都道府県立自然公園",
+            "prefecture": "広島県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "大滝大川県立自然公園",
+            "description": "香川県にある都道府県立自然公園",
+            "prefecture": "香川県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "金砂湖県立自然公園",
+            "description": "愛媛県にある都道府県立自然公園",
+            "prefecture": "愛媛県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "奥道後玉川県立自然公園",
+            "description": "愛媛県にある都道府県立自然公園",
+            "prefecture": "愛媛県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "皿ヶ嶺連峰県立自然公園",
+            "description": "愛媛県にある都道府県立自然公園",
+            "prefecture": "愛媛県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "四国カルスト県立自然公園",
+            "description": "愛媛県にある都道府県立自然公園",
+            "prefecture": "愛媛県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "肱川県立自然公園",
+            "description": "愛媛県にある都道府県立自然公園",
+            "prefecture": "愛媛県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "佐田岬半島宇和海県立自然公園",
+            "description": "愛媛県にある都道府県立自然公園",
+            "prefecture": "愛媛県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "篠山県立自然公園",
+            "description": "愛媛県にある都道府県立自然公園",
+            "prefecture": "愛媛県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "多良岳県立自然公園",
+            "description": "長崎県にある都道府県立自然公園",
+            "prefecture": "長崎県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "野母半島県立自然公園",
+            "description": "長崎県にある都道府県立自然公園",
+            "prefecture": "長崎県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "北松県立自然公園",
+            "description": "長崎県にある都道府県立自然公園",
+            "prefecture": "長崎県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "大村湾県立自然公園",
+            "description": "長崎県にある都道府県立自然公園",
+            "prefecture": "長崎県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "西彼杵半島県立自然公園",
+            "description": "長崎県にある都道府県立自然公園",
+            "prefecture": "長崎県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "島原半島県立自然公園",
+            "description": "長崎県にある都道府県立自然公園",
+            "prefecture": "長崎県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "国東半島県立自然公園",
+            "description": "大分県にある都道府県立自然公園",
+            "prefecture": "大分県",
+            "latitude": null,
+            "longitude": null
+        },
+        {
+            "name": "大隅南部県立自然公園",
+            "description": "鹿児島県にある都道府県立自然公園",
+            "prefecture": "鹿児島県",
+            "latitude": null,
+            "longitude": null
+        }
+    ]
+}

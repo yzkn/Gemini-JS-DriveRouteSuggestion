@@ -1,0 +1,347 @@
+{
+    "municipalities": [
+        {
+            "name": "風見鶏の館 (神戸市)",
+            "description": "国指定重要文化財。旧トーマス住宅。北野異人館街のシンボル。",
+            "prefecture": "兵庫県",
+            "latitude": 34.702222,
+            "longitude": 135.189722
+        },
+        {
+            "name": "萌黄の館 (神戸市)",
+            "description": "国指定重要文化財。旧シャープ住宅。淡いグリーンの外壁が特徴。",
+            "prefecture": "兵庫県",
+            "latitude": 34.702500,
+            "longitude": 135.189444
+        },
+        {
+            "name": "旧グラバー住宅 (長崎市)",
+            "description": "国指定重要文化財・世界遺産。現存する日本最古の木造洋風建築。",
+            "prefecture": "長崎県",
+            "latitude": 32.733056,
+            "longitude": 129.869722
+        },
+        {
+            "name": "外交官の家 (横浜市)",
+            "description": "国指定重要文化財。旧内田定槌邸。イタリア山庭園に移築。",
+            "prefecture": "神奈川県",
+            "latitude": 35.436389,
+            "longitude": 139.646944
+        },
+        {
+            "name": "旧函館区公会堂 (函館市)",
+            "description": "国指定重要文化財。ブルーグレーとイエローの外観が特徴。",
+            "prefecture": "北海道",
+            "latitude": 41.765278,
+            "longitude": 140.713611
+        },
+        {
+            "name": "うろこの家 (神戸市)",
+            "description": "国登録有形文化財。外壁が魚のうろこのように見える。",
+            "prefecture": "兵庫県",
+            "latitude": 34.704722,
+            "longitude": 135.190833
+        },
+        {
+            "name": "旧岩崎家住宅 (台東区)",
+            "description": "国指定重要文化財。ジョサイア・コンドル設計。旧岩崎邸庭園。",
+            "prefecture": "東京都",
+            "latitude": 35.710278,
+            "longitude": 139.771389
+        },
+        {
+            "name": "旧古河庭園 (北区)",
+            "description": "ジョサイア・コンドル設計の洋館とバラ園。",
+            "prefecture": "東京都",
+            "latitude": 35.742222,
+            "longitude": 139.746111
+        },
+        {
+            "name": "旧リンガー住宅 (長崎市)",
+            "description": "国指定重要文化財・世界遺産。グラバー園内。",
+            "prefecture": "長崎県",
+            "latitude": 32.732778,
+            "longitude": 129.869444
+        },
+        {
+            "name": "旧オルト住宅 (長崎市)",
+            "description": "国指定重要文化財・世界遺産。グラバー園内。",
+            "prefecture": "長崎県",
+            "latitude": 32.732500,
+            "longitude": 129.869167
+        },
+        {
+            "name": "ベーリック・ホール (横浜市)",
+            "description": "スパニッシュスタイル。山手最大級の洋館。",
+            "prefecture": "神奈川県",
+            "latitude": 35.437222,
+            "longitude": 139.651389
+        },
+        {
+            "name": "エリスマン邸 (横浜市)",
+            "description": "アントニン・レーモンド設計。元町公園内。",
+            "prefecture": "神奈川県",
+            "latitude": 35.437500,
+            "longitude": 139.651389
+        },
+        {
+            "name": "旧弘前市立図書館 (弘前市)",
+            "description": "八角形の双塔を持つルネサンス様式。",
+            "prefecture": "青森県",
+            "latitude": 40.601944,
+            "longitude": 140.463889
+        },
+        {
+            "name": "萬翠荘 (松山市)",
+            "description": "国指定重要文化財。フランス風洋館。",
+            "prefecture": "愛媛県",
+            "latitude": 33.841111,
+            "longitude": 132.770278
+        },
+        {
+            "name": "仁風閣 (鳥取市)",
+            "description": "国指定重要文化財。フレンチ・ルネサンス様式。",
+            "prefecture": "鳥取県",
+            "latitude": 35.508056,
+            "longitude": 134.237222
+        },
+        {
+            "name": "北野外国人倶楽部 (神戸市)",
+            "description": "会員制クラブを再現。ドレス体験などができる。",
+            "prefecture": "兵庫県",
+            "latitude": 34.704444,
+            "longitude": 135.190556
+        },
+        {
+            "name": "山手八番館 (神戸市)",
+            "description": "チューダー様式の塔屋が特徴。サタンの椅子が有名。",
+            "prefecture": "兵庫県",
+            "latitude": 34.704167,
+            "longitude": 135.190556
+        },
+        {
+            "name": "坂の上の異人館 (神戸市)",
+            "description": "旧中国領事館。オリエンタルな内装。",
+            "prefecture": "兵庫県",
+            "latitude": 34.704444,
+            "longitude": 135.190278
+        },
+        {
+            "name": "英国館 (神戸市)",
+            "description": "旧フデセック邸。シャーロック・ホームズの部屋を再現。",
+            "prefecture": "兵庫県",
+            "latitude": 34.703333,
+            "longitude": 135.189722
+        },
+        {
+            "name": "ラインの館 (神戸市)",
+            "description": "国登録有形文化財。旧ドレウェル邸。市民に開放されている。",
+            "prefecture": "兵庫県",
+            "latitude": 34.702778,
+            "longitude": 135.190556
+        },
+        {
+            "name": "香りの家オランダ館 (神戸市)",
+            "description": "旧ヴォルヒン邸。自分だけの香水を作れる。",
+            "prefecture": "兵庫県",
+            "latitude": 34.703611,
+            "longitude": 135.190000
+        },
+        {
+            "name": "旧ハンター住宅 (神戸市)",
+            "description": "国指定重要文化財。王子動物園内に移築。神戸最大級の異人館。",
+            "prefecture": "兵庫県",
+            "latitude": 34.711667,
+            "longitude": 135.215556
+        },
+        {
+            "name": "横浜市イギリス館 (横浜市)",
+            "description": "旧英国総領事公邸。港の見える丘公園。",
+            "prefecture": "神奈川県",
+            "latitude": 35.439444,
+            "longitude": 139.652778
+        },
+        {
+            "name": "山手111番館 (横浜市)",
+            "description": "スパニッシュスタイルの洋館。港の見える丘公園。",
+            "prefecture": "神奈川県",
+            "latitude": 35.438889,
+            "longitude": 139.652500
+        },
+        {
+            "name": "山手234番館 (横浜市)",
+            "description": "外国人向けアパートメント。",
+            "prefecture": "神奈川県",
+            "latitude": 35.437778,
+            "longitude": 139.651667
+        },
+        {
+            "name": "ブラフ18番館 (横浜市)",
+            "description": "イタリア山庭園内。大正末期の外国人住宅。",
+            "prefecture": "神奈川県",
+            "latitude": 35.436389,
+            "longitude": 139.646389
+        },
+        {
+            "name": "東山手十二番館 (長崎市)",
+            "description": "国指定重要文化財。ロシア領事館として使われた。",
+            "prefecture": "長崎県",
+            "latitude": 32.738333,
+            "longitude": 129.873611
+        },
+        {
+            "name": "旧香港上海銀行長崎支店記念館 (長崎市)",
+            "description": "国指定重要文化財。コリント式の石造建築。",
+            "prefecture": "長崎県",
+            "latitude": 32.736389,
+            "longitude": 129.871111
+        },
+        {
+            "name": "旧イギリス領事館 (函館市)",
+            "description": "開港記念館として公開。",
+            "prefecture": "北海道",
+            "latitude": 41.765833,
+            "longitude": 140.712500
+        },
+        {
+            "name": "旧東奥義塾外人教師館 (弘前市)",
+            "description": "明治時代の外国人宣教師の住居。",
+            "prefecture": "青森県",
+            "latitude": 40.601667,
+            "longitude": 140.463611
+        },
+        {
+            "name": "旧前田家本邸洋館 (目黒区)",
+            "description": "駒場公園内。昭和初期の洋館。",
+            "prefecture": "東京都",
+            "latitude": 35.661111,
+            "longitude": 139.681111
+        },
+        {
+            "name": "旧マッケンジー邸 (静岡市)",
+            "description": "ヴォーリズ設計。",
+            "prefecture": "静岡県",
+            "latitude": 34.945000,
+            "longitude": 138.435000
+        },
+        {
+            "name": "六華苑 (桑名市)",
+            "description": "旧諸戸清六邸。ジョサイア・コンドル設計の洋館と和館。",
+            "prefecture": "三重県",
+            "latitude": 35.075000,
+            "longitude": 136.696667
+        },
+        {
+            "name": "旧下関英国領事館 (下関市)",
+            "description": "国指定重要文化財。赤レンガ。",
+            "prefecture": "山口県",
+            "latitude": 33.955833,
+            "longitude": 130.941667
+        },
+        {
+            "name": "旧門司三井倶楽部 (北九州市)",
+            "description": "国指定重要文化財。アインシュタインが宿泊。",
+            "prefecture": "福岡県",
+            "latitude": 33.946111,
+            "longitude": 130.962222
+        },
+        {
+            "name": "旧三笠ホテル (軽井沢町)",
+            "description": "国指定重要文化財。軽井沢の鹿鳴館。",
+            "prefecture": "長野県",
+            "latitude": 36.368611,
+            "longitude": 138.616667
+        },
+        {
+            "name": "明治村 (犬山市)",
+            "description": "多くの洋風建築・異人館を移築保存。",
+            "prefecture": "愛知県",
+            "latitude": 35.341111,
+            "longitude": 136.988056
+        },
+        {
+            "name": "文翔館 (山形市)",
+            "description": "旧山形県庁舎。英国近世復興様式。",
+            "prefecture": "山形県",
+            "latitude": 38.256667,
+            "longitude": 140.342778
+        },
+        {
+            "name": "旧開智学校 (松本市)",
+            "description": "国宝。擬洋風建築。",
+            "prefecture": "長野県",
+            "latitude": 36.241667,
+            "longitude": 137.975000
+        },
+        {
+            "name": "自由学園明日館 (豊島区)",
+            "description": "重要文化財。フランク・ロイド・ライト設計。",
+            "prefecture": "東京都",
+            "latitude": 35.728333,
+            "longitude": 139.708333
+        },
+        {
+            "name": "横浜市開港記念会館 (横浜市)",
+            "description": "ジャックの塔。",
+            "prefecture": "神奈川県",
+            "latitude": 35.448056,
+            "longitude": 139.641667
+        },
+        {
+            "name": "長楽館 (京都市)",
+            "description": "ジェームズ・マクドナルド・ガーディナー設計。",
+            "prefecture": "京都府",
+            "latitude": 35.003333,
+            "longitude": 135.780833
+        },
+        {
+            "name": "旧居留地十五番館 (神戸市)",
+            "description": "国指定重要文化財。",
+            "prefecture": "兵庫県",
+            "latitude": 34.686944,
+            "longitude": 135.193056
+        },
+        {
+            "name": "移情閣 (神戸市)",
+            "description": "孫文記念館。舞子公園。",
+            "prefecture": "兵庫県",
+            "latitude": 34.628056,
+            "longitude": 135.038056
+        },
+        {
+            "name": "ヨドコウ迎賓館 (芦屋市)",
+            "description": "国指定重要文化財。フランク・ロイド・ライト設計。",
+            "prefecture": "兵庫県",
+            "latitude": 34.741667,
+            "longitude": 135.303611
+        },
+        {
+            "name": "大浦天主堂 (長崎市)",
+            "description": "国宝。日本最古の現存するキリスト教建築。",
+            "prefecture": "長崎県",
+            "latitude": 32.734167,
+            "longitude": 129.870278
+        },
+        {
+            "name": "ハリストス正教会 (函館市)",
+            "description": "重要文化財。ロシア風ビザンチン様式。",
+            "prefecture": "北海道",
+            "latitude": 41.762500,
+            "longitude": 140.711944
+        },
+        {
+            "name": "中之島公会堂 (大阪市)",
+            "description": "大阪市中央公会堂。重要文化財。",
+            "prefecture": "大阪府",
+            "latitude": 34.693611,
+            "longitude": 135.503889
+        },
+        {
+            "name": "泉布観 (大阪市)",
+            "description": "国指定重要文化財。大阪最古の洋風建築。",
+            "prefecture": "大阪府",
+            "latitude": 34.696111,
+            "longitude": 135.519722
+        }
+    ]
+}

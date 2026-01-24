@@ -1,0 +1,991 @@
+{
+    "municipalities": [
+        {
+            "name": "北海道神宮",
+            "description": "北海道の総鎮守。円山公園に鎮座。",
+            "prefecture": "北海道",
+            "latitude": "43.054350",
+            "longitude": "141.307775"
+        },
+        {
+            "name": "函館八幡宮",
+            "description": "函館の守護神。聖帝八の宮とも称される。",
+            "prefecture": "北海道",
+            "latitude": "41.758300",
+            "longitude": "140.722500"
+        },
+        {
+            "name": "西野神社",
+            "description": "縁結び・安産の神として人気。",
+            "prefecture": "北海道",
+            "latitude": "43.072200",
+            "longitude": "141.258300"
+        },
+        {
+            "name": "岩木山神社",
+            "description": "津軽国一宮。岩木山をご神体とする。",
+            "prefecture": "青森県",
+            "latitude": "40.622200",
+            "longitude": "140.303300"
+        },
+        {
+            "name": "善知鳥神社",
+            "description": "青森市発祥の地とされる古社。",
+            "prefecture": "青森県",
+            "latitude": "40.828600",
+            "longitude": "140.738900"
+        },
+        {
+            "name": "櫛引八幡宮",
+            "description": "南部藩総鎮守。国宝の鎧兜を所蔵。",
+            "prefecture": "青森県",
+            "latitude": "40.506100",
+            "longitude": "141.464400"
+        },
+        {
+            "name": "駒形神社",
+            "description": "陸中国一宮。馬の守護神。",
+            "prefecture": "岩手県",
+            "latitude": "39.138300",
+            "longitude": "141.037000"
+        },
+        {
+            "name": "盛岡八幡宮",
+            "description": "盛岡の総鎮守。",
+            "prefecture": "岩手県",
+            "latitude": "39.697800",
+            "longitude": "141.166700"
+        },
+        {
+            "name": "志和稲荷神社",
+            "description": "「志和のおいなりさん」として親しまれる。",
+            "prefecture": "岩手県",
+            "latitude": "39.543300",
+            "longitude": "141.118900"
+        },
+        {
+            "name": "志波彦神社・鹽竈神社",
+            "description": "陸奥国一宮。海上安全・安産の神。",
+            "prefecture": "宮城県",
+            "latitude": "38.320000",
+            "longitude": "141.018000"
+        },
+        {
+            "name": "大崎八幡宮",
+            "description": "伊達政宗が造営。社殿は国宝。",
+            "prefecture": "宮城県",
+            "latitude": "38.270600",
+            "longitude": "140.852200"
+        },
+        {
+            "name": "竹駒神社",
+            "description": "日本三稲荷の一つとされる。",
+            "prefecture": "宮城県",
+            "latitude": "38.106700",
+            "longitude": "140.866700"
+        },
+        {
+            "name": "大物忌神社",
+            "description": "出羽国一宮。鳥海山頂の本社と里宮がある。",
+            "prefecture": "秋田県",
+            "latitude": "39.068000",
+            "longitude": "139.988000"
+        },
+        {
+            "name": "太平山三吉神社",
+            "description": "「みよしさん」の名で親しまれる勝負の神。",
+            "prefecture": "秋田県",
+            "latitude": "39.730000",
+            "longitude": "140.120000"
+        },
+        {
+            "name": "古四王神社",
+            "description": "秋田城の鎮守として創建。",
+            "prefecture": "秋田県",
+            "latitude": "39.737800",
+            "longitude": "140.098600"
+        },
+        {
+            "name": "鳥海山大物忌神社",
+            "description": "出羽国一宮。鳥海山信仰の中心。",
+            "prefecture": "山形県",
+            "latitude": "39.068300",
+            "longitude": "139.988300"
+        },
+        {
+            "name": "上杉神社",
+            "description": "上杉謙信を祀る。米沢城跡に鎮座。",
+            "prefecture": "山形県",
+            "latitude": "37.909700",
+            "longitude": "140.106100"
+        },
+        {
+            "name": "出羽三山神社",
+            "description": "羽黒山・月山・湯殿山の三神を祀る。",
+            "prefecture": "山形県",
+            "latitude": "38.705800",
+            "longitude": "139.965000"
+        },
+        {
+            "name": "都々古別神社",
+            "description": "陸奥国一宮。八幡太郎義家ゆかり。",
+            "prefecture": "福島県",
+            "latitude": "37.025000",
+            "longitude": "140.395000"
+        },
+        {
+            "name": "伊佐須美神社",
+            "description": "岩代国一宮。会津総鎮守。",
+            "prefecture": "福島県",
+            "latitude": "37.545800",
+            "longitude": "139.882500"
+        },
+        {
+            "name": "開成山大神宮",
+            "description": "「東北のお伊勢さま」と称される。",
+            "prefecture": "福島県",
+            "latitude": "37.397200",
+            "longitude": "140.360600"
+        },
+        {
+            "name": "鹿島神宮",
+            "description": "常陸国一宮。武甕槌大神を祀る。",
+            "prefecture": "茨城県",
+            "latitude": "35.968800",
+            "longitude": "140.631600"
+        },
+        {
+            "name": "常陸国出雲大社",
+            "description": "島根の出雲大社より分霊。",
+            "prefecture": "茨城県",
+            "latitude": "36.363600",
+            "longitude": "140.123400"
+        },
+        {
+            "name": "大洗磯前神社",
+            "description": "海上の「神磯の鳥居」で有名。",
+            "prefecture": "茨城県",
+            "latitude": "36.315000",
+            "longitude": "140.587800"
+        },
+        {
+            "name": "日光二荒山神社",
+            "description": "下野国一宮。世界遺産。",
+            "prefecture": "栃木県",
+            "latitude": "36.756700",
+            "longitude": "139.598300"
+        },
+        {
+            "name": "日光東照宮",
+            "description": "徳川家康を祀る。豪華絢爛な陽明門が有名。",
+            "prefecture": "栃木県",
+            "latitude": "36.758100",
+            "longitude": "139.598900"
+        },
+        {
+            "name": "宇都宮二荒山神社",
+            "description": "下野国一宮。宇都宮の中心に鎮座。",
+            "prefecture": "栃木県",
+            "latitude": "36.561900",
+            "longitude": "139.884400"
+        },
+        {
+            "name": "一之宮貫前神社",
+            "description": "上野国一宮。下り参道が特徴。",
+            "prefecture": "群馬県",
+            "latitude": "36.257000",
+            "longitude": "138.855000"
+        },
+        {
+            "name": "榛名神社",
+            "description": "奇岩に囲まれた強力なパワースポット。",
+            "prefecture": "群馬県",
+            "latitude": "36.463300",
+            "longitude": "138.852500"
+        },
+        {
+            "name": "赤城神社",
+            "description": "赤城山の大沼湖畔に鎮座。",
+            "prefecture": "群馬県",
+            "latitude": "36.549200",
+            "longitude": "139.182200"
+        },
+        {
+            "name": "氷川神社",
+            "description": "武蔵国一宮。2000年以上の歴史を持つ。",
+            "prefecture": "埼玉県",
+            "latitude": "35.916800",
+            "longitude": "139.629700"
+        },
+        {
+            "name": "三峯神社",
+            "description": "秩父の山奥に鎮座。オオカミ信仰。",
+            "prefecture": "埼玉県",
+            "latitude": "35.926400",
+            "longitude": "138.930000"
+        },
+        {
+            "name": "秩父神社",
+            "description": "秩父夜祭で知られる古社。",
+            "prefecture": "埼玉県",
+            "latitude": "35.999400",
+            "longitude": "139.085600"
+        },
+        {
+            "name": "香取神宮",
+            "description": "下総国一宮。経津主大神を祀る。",
+            "prefecture": "千葉県",
+            "latitude": "35.886400",
+            "longitude": "140.528600"
+        },
+        {
+            "name": "安房神社",
+            "description": "安房国一宮。金運の神として信仰される。",
+            "prefecture": "千葉県",
+            "latitude": "34.921400",
+            "longitude": "139.866100"
+        },
+        {
+            "name": "千葉神社",
+            "description": "妙見信仰の中心。厄除開運。",
+            "prefecture": "千葉県",
+            "latitude": "35.609400",
+            "longitude": "140.122200"
+        },
+        {
+            "name": "明治神宮",
+            "description": "明治天皇と昭憲皇太后を祀る。",
+            "prefecture": "東京都",
+            "latitude": "35.676400",
+            "longitude": "139.699300"
+        },
+        {
+            "name": "神田明神",
+            "description": "江戸総鎮守。商売繁盛の神。",
+            "prefecture": "東京都",
+            "latitude": "35.702000",
+            "longitude": "139.767000"
+        },
+        {
+            "name": "靖国神社",
+            "description": "国事に殉じた英霊を祀る。",
+            "prefecture": "東京都",
+            "latitude": "35.694200",
+            "longitude": "139.743900"
+        },
+        {
+            "name": "寒川神社",
+            "description": "相模国一宮。八方除けで著名。",
+            "prefecture": "神奈川県",
+            "latitude": "35.370000",
+            "longitude": "139.382000"
+        },
+        {
+            "name": "鶴岡八幡宮",
+            "description": "鎌倉幕府の守護神。源氏ゆかりの社。",
+            "prefecture": "神奈川県",
+            "latitude": "35.326100",
+            "longitude": "139.556400"
+        },
+        {
+            "name": "箱根神社",
+            "description": "箱根大神を祀る。芦ノ湖の鳥居が有名。",
+            "prefecture": "神奈川県",
+            "latitude": "35.205300",
+            "longitude": "139.025600"
+        },
+        {
+            "name": "彌彦神社",
+            "description": "越後国一宮。「おやひこさま」と親しまれる。",
+            "prefecture": "新潟県",
+            "latitude": "37.705600",
+            "longitude": "138.823600"
+        },
+        {
+            "name": "白山神社",
+            "description": "新潟の総鎮守。縁結びの神。",
+            "prefecture": "新潟県",
+            "latitude": "37.915800",
+            "longitude": "139.035300"
+        },
+        {
+            "name": "高龍神社",
+            "description": "商売繁盛の神として信仰を集める。",
+            "prefecture": "新潟県",
+            "latitude": "37.408900",
+            "longitude": "138.895000"
+        },
+        {
+            "name": "射水神社",
+            "description": "越中国一宮。高岡古城公園内。",
+            "prefecture": "富山県",
+            "latitude": "36.745000",
+            "longitude": "137.030000"
+        },
+        {
+            "name": "気多神社",
+            "description": "越中国一宮。大伴家持ゆかり。",
+            "prefecture": "富山県",
+            "latitude": "36.793300",
+            "longitude": "137.021100"
+        },
+        {
+            "name": "雄山神社",
+            "description": "立山信仰の中心。",
+            "prefecture": "富山県",
+            "latitude": "36.634700",
+            "longitude": "137.382800"
+        },
+        {
+            "name": "気多大社",
+            "description": "能登国一宮。縁結び祈願で有名。",
+            "prefecture": "石川県",
+            "latitude": "36.920800",
+            "longitude": "136.772500"
+        },
+        {
+            "name": "白山比咩神社",
+            "description": "加賀国一宮。全国白山神社の総本宮。",
+            "prefecture": "石川県",
+            "latitude": "36.438600",
+            "longitude": "136.635800"
+        },
+        {
+            "name": "尾山神社",
+            "description": "前田利家を祀る。ステンドグラスの神門が特徴。",
+            "prefecture": "石川県",
+            "latitude": "36.565800",
+            "longitude": "136.655600"
+        },
+        {
+            "name": "氣比神宮",
+            "description": "越前国一宮。日本三大木造鳥居の一つ。",
+            "prefecture": "福井県",
+            "latitude": "35.657500",
+            "longitude": "136.075300"
+        },
+        {
+            "name": "若狭彦神社・若狭姫神社",
+            "description": "若狭国一宮。上社と下社がある。",
+            "prefecture": "福井県",
+            "latitude": "35.480000",
+            "longitude": "135.772000"
+        },
+        {
+            "name": "剣神社",
+            "description": "越前二の宮。織田信長氏神の社。",
+            "prefecture": "福井県",
+            "latitude": "35.955600",
+            "longitude": "136.025600"
+        },
+        {
+            "name": "武田神社",
+            "description": "武田信玄公を祀る。躑躅ヶ崎館跡に鎮座。",
+            "prefecture": "山梨県",
+            "latitude": "35.686500",
+            "longitude": "138.571400"
+        },
+        {
+            "name": "北口本宮冨士浅間神社",
+            "description": "富士登山道の吉田口起点。",
+            "prefecture": "山梨県",
+            "latitude": "35.474400",
+            "longitude": "138.790600"
+        },
+        {
+            "name": "新屋山神社",
+            "description": "金運上昇のパワースポット。",
+            "prefecture": "山梨県",
+            "latitude": "35.467800",
+            "longitude": "138.798900"
+        },
+        {
+            "name": "諏訪大社",
+            "description": "信濃国一宮。四社からなる総本社。",
+            "prefecture": "長野県",
+            "latitude": "35.996700",
+            "longitude": "138.120000"
+        },
+        {
+            "name": "戸隠神社",
+            "description": "天の岩戸神話ゆかりの五社。",
+            "prefecture": "長野県",
+            "latitude": "36.742800",
+            "longitude": "138.085000"
+        },
+        {
+            "name": "穂高神社",
+            "description": "日本アルプスの総鎮守。",
+            "prefecture": "長野県",
+            "latitude": "36.338600",
+            "longitude": "137.882500"
+        },
+        {
+            "name": "飛騨一宮水無神社",
+            "description": "飛騨国一宮。例祭は闘鶏楽で知られる。",
+            "prefecture": "岐阜県",
+            "latitude": "36.085300",
+            "longitude": "137.251900"
+        },
+        {
+            "name": "南宮大社",
+            "description": "美濃国一宮。金属の神様。",
+            "prefecture": "岐阜県",
+            "latitude": "35.358900",
+            "longitude": "136.541700"
+        },
+        {
+            "name": "伊奈波神社",
+            "description": "岐阜の総産土神。1900年以上の歴史。",
+            "prefecture": "岐阜県",
+            "latitude": "35.426100",
+            "longitude": "136.772200"
+        },
+        {
+            "name": "三嶋大社",
+            "description": "伊豆国一宮。源頼朝が戦勝祈願。",
+            "prefecture": "静岡県",
+            "latitude": "35.120600",
+            "longitude": "138.918600"
+        },
+        {
+            "name": "富士山本宮浅間大社",
+            "description": "駿河国一宮。全国浅間神社の総本宮。",
+            "prefecture": "静岡県",
+            "latitude": "35.225800",
+            "longitude": "138.610600"
+        },
+        {
+            "name": "小國神社",
+            "description": "遠江国一宮。縁結びの名所。",
+            "prefecture": "静岡県",
+            "latitude": "34.841700",
+            "longitude": "137.882800"
+        },
+        {
+            "name": "熱田神宮",
+            "description": "三種の神器の一つ、草薙神剣を祀る。",
+            "prefecture": "愛知県",
+            "latitude": "35.125800",
+            "longitude": "136.909000"
+        },
+        {
+            "name": "真清田神社",
+            "description": "尾張国一宮。服織神社が縁結びで有名。",
+            "prefecture": "愛知県",
+            "latitude": "35.303900",
+            "longitude": "136.803000"
+        },
+        {
+            "name": "津島神社",
+            "description": "全国天王信仰の総本社。",
+            "prefecture": "愛知県",
+            "latitude": "35.178300",
+            "longitude": "136.723600"
+        },
+        {
+            "name": "伊勢神宮(内宮)",
+            "description": "天照大御神を祀る日本の総氏神。",
+            "prefecture": "三重県",
+            "latitude": "34.455000",
+            "longitude": "136.725800"
+        },
+        {
+            "name": "伊勢神宮(外宮)",
+            "description": "豊受大御神を祀る。",
+            "prefecture": "三重県",
+            "latitude": "34.487800",
+            "longitude": "136.703600"
+        },
+        {
+            "name": "椿大神社",
+            "description": "伊勢国一宮。猿田彦大神の総本宮。",
+            "prefecture": "三重県",
+            "latitude": "34.901200",
+            "longitude": "136.601200"
+        },
+        {
+            "name": "建部大社",
+            "description": "近江国一宮。日本武尊を祀る。",
+            "prefecture": "滋賀県",
+            "latitude": "34.972200",
+            "longitude": "135.922200"
+        },
+        {
+            "name": "多賀大社",
+            "description": "「お多賀さん」。伊勢神宮の親神を祀る。",
+            "prefecture": "滋賀県",
+            "latitude": "35.226900",
+            "longitude": "136.291700"
+        },
+        {
+            "name": "日吉大社",
+            "description": "全国の日吉・日枝・山王神社の総本宮。",
+            "prefecture": "滋賀県",
+            "latitude": "35.071400",
+            "longitude": "135.865600"
+        },
+        {
+            "name": "伏見稲荷大社",
+            "description": "全国の稲荷神社の総本宮。千本鳥居。",
+            "prefecture": "京都府",
+            "latitude": "34.967100",
+            "longitude": "135.772700"
+        },
+        {
+            "name": "八坂神社",
+            "description": "祇園祭で有名。素戔嗚尊を祀る。",
+            "prefecture": "京都府",
+            "latitude": "35.003600",
+            "longitude": "135.778600"
+        },
+        {
+            "name": "賀茂別雷神社(上賀茂神社)",
+            "description": "山城国一宮。世界遺産。",
+            "prefecture": "京都府",
+            "latitude": "35.060500",
+            "longitude": "135.752700"
+        },
+        {
+            "name": "住吉大社",
+            "description": "摂津国一宮。航海安全・祓の神。",
+            "prefecture": "大阪府",
+            "latitude": "34.612500",
+            "longitude": "135.492900"
+        },
+        {
+            "name": "大阪天満宮",
+            "description": "「天神さん」。天神祭で有名。",
+            "prefecture": "大阪府",
+            "latitude": "34.696700",
+            "longitude": "135.516400"
+        },
+        {
+            "name": "今宮戎神社",
+            "description": "商売繁盛の「えべっさん」。",
+            "prefecture": "大阪府",
+            "latitude": "34.654400",
+            "longitude": "135.501100"
+        },
+        {
+            "name": "伊弉諾神宮",
+            "description": "淡路国一宮。幽宮とされる。",
+            "prefecture": "兵庫県",
+            "latitude": "34.463300",
+            "longitude": "134.851700"
+        },
+        {
+            "name": "生田神社",
+            "description": "神戸の地名の由来。縁結び。",
+            "prefecture": "兵庫県",
+            "latitude": "34.695300",
+            "longitude": "135.191400"
+        },
+        {
+            "name": "西宮神社",
+            "description": "えびす宮総本社。福男選びで有名。",
+            "prefecture": "兵庫県",
+            "latitude": "34.733600",
+            "longitude": "135.334700"
+        },
+        {
+            "name": "春日大社",
+            "description": "世界遺産。全国の春日神社の総本社。",
+            "prefecture": "奈良県",
+            "latitude": "34.681400",
+            "longitude": "135.848300"
+        },
+        {
+            "name": "大神神社",
+            "description": "大和国一宮。本殿がなく三輪山を拝む。",
+            "prefecture": "奈良県",
+            "latitude": "34.529100",
+            "longitude": "135.853000"
+        },
+        {
+            "name": "橿原神宮",
+            "description": "神武天皇を祀る。建国の聖地。",
+            "prefecture": "奈良県",
+            "latitude": "34.488300",
+            "longitude": "135.786700"
+        },
+        {
+            "name": "熊野本宮大社",
+            "description": "熊野三山の一つ。世界遺産。",
+            "prefecture": "和歌山県",
+            "latitude": "33.840000",
+            "longitude": "135.773900"
+        },
+        {
+            "name": "熊野那智大社",
+            "description": "那智の滝を神体とする。世界遺産。",
+            "prefecture": "和歌山県",
+            "latitude": "33.674400",
+            "longitude": "135.890600"
+        },
+        {
+            "name": "熊野速玉大社",
+            "description": "熊野三山の一つ。世界遺産。",
+            "prefecture": "和歌山県",
+            "latitude": "33.732200",
+            "longitude": "135.990800"
+        },
+        {
+            "name": "宇倍神社",
+            "description": "因幡国一宮。紙幣の肖像にもなった。",
+            "prefecture": "鳥取県",
+            "latitude": "35.483300",
+            "longitude": "134.256000"
+        },
+        {
+            "name": "大神山神社",
+            "description": "大山信仰の中心。奥宮は日本最大級の権現造。",
+            "prefecture": "鳥取県",
+            "latitude": "35.378900",
+            "longitude": "133.551700"
+        },
+        {
+            "name": "白兎神社",
+            "description": "因幡の白兎伝説の舞台。",
+            "prefecture": "鳥取県",
+            "latitude": "35.541400",
+            "longitude": "134.119700"
+        },
+        {
+            "name": "出雲大社",
+            "description": "出雲国一宮。縁結びの大御所。",
+            "prefecture": "島根県",
+            "latitude": "35.401400",
+            "longitude": "132.685500"
+        },
+        {
+            "name": "八重垣神社",
+            "description": "鏡の池での縁占いが人気。",
+            "prefecture": "島根県",
+            "latitude": "35.428900",
+            "longitude": "133.076700"
+        },
+        {
+            "name": "美保神社",
+            "description": "えびす様の総本宮。",
+            "prefecture": "島根県",
+            "latitude": "35.558300",
+            "longitude": "133.306900"
+        },
+        {
+            "name": "吉備津神社",
+            "description": "備中国一宮。吉備津造の社殿は国宝。",
+            "prefecture": "岡山県",
+            "latitude": "34.669400",
+            "longitude": "133.850600"
+        },
+        {
+            "name": "吉備津彦神社",
+            "description": "備前国一宮。桃太郎伝説。",
+            "prefecture": "岡山県",
+            "latitude": "34.683300",
+            "longitude": "133.854000"
+        },
+        {
+            "name": "最上稲荷",
+            "description": "日本三大稲荷の一つ（神仏習合）。",
+            "prefecture": "岡山県",
+            "latitude": "34.707800",
+            "longitude": "133.834400"
+        },
+        {
+            "name": "厳島神社",
+            "description": "安芸国一宮。海上の社殿は世界遺産。",
+            "prefecture": "広島県",
+            "latitude": "34.296000",
+            "longitude": "132.319000"
+        },
+        {
+            "name": "広島護国神社",
+            "description": "中国地方最大の護国神社。鯉の神様。",
+            "prefecture": "広島県",
+            "latitude": "34.398900",
+            "longitude": "132.457500"
+        },
+        {
+            "name": "吉備津神社(備後)",
+            "description": "備後国一宮。",
+            "prefecture": "広島県",
+            "latitude": "34.562800",
+            "longitude": "133.220800"
+        },
+        {
+            "name": "住吉神社",
+            "description": "長門国一宮。本殿は国宝。",
+            "prefecture": "山口県",
+            "latitude": "33.996700",
+            "longitude": "130.932000"
+        },
+        {
+            "name": "赤間神宮",
+            "description": "安徳天皇を祀る。竜宮城のような門構え。",
+            "prefecture": "山口県",
+            "latitude": "33.958900",
+            "longitude": "130.945800"
+        },
+        {
+            "name": "防府天満宮",
+            "description": "日本最初の天神さま。",
+            "prefecture": "山口県",
+            "latitude": "34.058300",
+            "longitude": "131.572500"
+        },
+        {
+            "name": "大麻比古神社",
+            "description": "阿波国一宮。交通安全の神。",
+            "prefecture": "徳島県",
+            "latitude": "34.170600",
+            "longitude": "134.506100"
+        },
+        {
+            "name": "忌部神社",
+            "description": "阿波忌部の祖神を祀る。",
+            "prefecture": "徳島県",
+            "latitude": "34.072200",
+            "longitude": "134.550000"
+        },
+        {
+            "name": "徳島眉山天神社",
+            "description": "学問の神様。眉山麓。",
+            "prefecture": "徳島県",
+            "latitude": "34.072500",
+            "longitude": "134.545800"
+        },
+        {
+            "name": "金刀比羅宮",
+            "description": "「こんぴらさん」。長く続く石段が有名。",
+            "prefecture": "香川県",
+            "latitude": "34.185800",
+            "longitude": "133.809700"
+        },
+        {
+            "name": "田村神社",
+            "description": "讃岐国一宮。水神信仰。",
+            "prefecture": "香川県",
+            "latitude": "34.295000",
+            "longitude": "134.053000"
+        },
+        {
+            "name": "屋島神社",
+            "description": "屋島の戦いの舞台に近い。",
+            "prefecture": "香川県",
+            "latitude": "34.341700",
+            "longitude": "134.103600"
+        },
+        {
+            "name": "大山祇神社",
+            "description": "伊予国一宮。山の神・海の神。",
+            "prefecture": "愛媛県",
+            "latitude": "34.248300",
+            "longitude": "133.006000"
+        },
+        {
+            "name": "石鎚神社",
+            "description": "西日本最高峰・石鎚山を神体山とする。",
+            "prefecture": "愛媛県",
+            "latitude": "33.886700",
+            "longitude": "133.155000"
+        },
+        {
+            "name": "伊佐爾波神社",
+            "description": "道後温泉の守り神。社殿は八幡造。",
+            "prefecture": "愛媛県",
+            "latitude": "33.851700",
+            "longitude": "132.788900"
+        },
+        {
+            "name": "土佐神社",
+            "description": "土佐国一宮。「しなね様」。",
+            "prefecture": "高知県",
+            "latitude": "33.586700",
+            "longitude": "133.567200"
+        },
+        {
+            "name": "潮江天満宮",
+            "description": "高知市内の天神様。",
+            "prefecture": "高知県",
+            "latitude": "33.551100",
+            "longitude": "133.541400"
+        },
+        {
+            "name": "山内神社",
+            "description": "土佐藩主山内家を祀る。",
+            "prefecture": "高知県",
+            "latitude": "33.556400",
+            "longitude": "133.535000"
+        },
+        {
+            "name": "太宰府天満宮",
+            "description": "学問の神様・菅原道真公を祀る。",
+            "prefecture": "福岡県",
+            "latitude": "33.521500",
+            "longitude": "130.534800"
+        },
+        {
+            "name": "宗像大社",
+            "description": "世界遺産。交通安全の神。",
+            "prefecture": "福岡県",
+            "latitude": "33.830600",
+            "longitude": "130.514700"
+        },
+        {
+            "name": "筥崎宮",
+            "description": "筑前国一宮。三大八幡宮の一つ。",
+            "prefecture": "福岡県",
+            "latitude": "33.614400",
+            "longitude": "130.423900"
+        },
+        {
+            "name": "與止日女神社",
+            "description": "肥前国一宮。水の神。",
+            "prefecture": "佐賀県",
+            "latitude": "33.315000",
+            "longitude": "130.285000"
+        },
+        {
+            "name": "祐徳稲荷神社",
+            "description": "日本三大稲荷の一つとされる。豪華な社殿。",
+            "prefecture": "佐賀県",
+            "latitude": "33.073900",
+            "longitude": "130.108600"
+        },
+        {
+            "name": "唐津神社",
+            "description": "唐津くんちで知られる。",
+            "prefecture": "佐賀県",
+            "latitude": "33.448100",
+            "longitude": "129.969200"
+        },
+        {
+            "name": "諏訪神社",
+            "description": "長崎くんちの舞台。鎮西大社。",
+            "prefecture": "長崎県",
+            "latitude": "32.753900",
+            "longitude": "129.880000"
+        },
+        {
+            "name": "海神神社",
+            "description": "対馬国一宮。",
+            "prefecture": "長崎県",
+            "latitude": "34.331400",
+            "longitude": "129.293600"
+        },
+        {
+            "name": "住吉神社(壱岐)",
+            "description": "壱岐国一宮。",
+            "prefecture": "長崎県",
+            "latitude": "33.805800",
+            "longitude": "129.702200"
+        },
+        {
+            "name": "阿蘇神社",
+            "description": "肥後国一宮。楼門は日本三大楼門の一つ。",
+            "prefecture": "熊本県",
+            "latitude": "32.947800",
+            "longitude": "131.127800"
+        },
+        {
+            "name": "加藤神社",
+            "description": "加藤清正公を祀る。熊本城内。",
+            "prefecture": "熊本県",
+            "latitude": "32.806100",
+            "longitude": "130.706700"
+        },
+        {
+            "name": "藤崎八旛宮",
+            "description": "熊本の総鎮守。藤崎宮秋の例大祭。",
+            "prefecture": "熊本県",
+            "latitude": "32.811100",
+            "longitude": "130.716700"
+        },
+        {
+            "name": "宇佐神宮",
+            "description": "豊前国一宮。全国八幡宮の総本宮。",
+            "prefecture": "大分県",
+            "latitude": "33.526400",
+            "longitude": "131.376100"
+        },
+        {
+            "name": "西寒多神社",
+            "description": "豊後国一宮。藤の名所。",
+            "prefecture": "大分県",
+            "latitude": "33.183600",
+            "longitude": "131.616700"
+        },
+        {
+            "name": "柞原八幡宮",
+            "description": "豊後国一宮。",
+            "prefecture": "大分県",
+            "latitude": "33.228600",
+            "longitude": "131.547200"
+        },
+        {
+            "name": "宮崎神宮",
+            "description": "神武天皇を祀る。",
+            "prefecture": "宮崎県",
+            "latitude": "31.928300",
+            "longitude": "131.425300"
+        },
+        {
+            "name": "鵜戸神宮",
+            "description": "日向灘に面した洞窟内の社殿。",
+            "prefecture": "宮崎県",
+            "latitude": "31.650300",
+            "longitude": "131.466700"
+        },
+        {
+            "name": "高千穂神社",
+            "description": "高千穂郷八十八社の総社。",
+            "prefecture": "宮崎県",
+            "latitude": "32.711100",
+            "longitude": "131.303900"
+        },
+        {
+            "name": "霧島神宮",
+            "description": "天孫降臨の地。坂本龍馬の新婚旅行先。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.855300",
+            "longitude": "130.869400"
+        },
+        {
+            "name": "照国神社",
+            "description": "島津斉彬公を祀る。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.593600",
+            "longitude": "130.551700"
+        },
+        {
+            "name": "枚聞神社",
+            "description": "薩摩国一宮。開聞岳を神体山とする。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.217800",
+            "longitude": "130.595000"
+        },
+        {
+            "name": "波上宮",
+            "description": "琉球八社の一宮。崖の上に立つ。",
+            "prefecture": "沖縄県",
+            "latitude": "26.220500",
+            "longitude": "127.671100"
+        },
+        {
+            "name": "普天間宮",
+            "description": "琉球八社の一つ。鍾乳洞がある。",
+            "prefecture": "沖縄県",
+            "latitude": "26.293300",
+            "longitude": "127.776100"
+        },
+        {
+            "name": "沖宮",
+            "description": "琉球八社の一つ。奥武山公園内。",
+            "prefecture": "沖縄県",
+            "latitude": "26.205600",
+            "longitude": "127.676100"
+        }
+    ]
+}

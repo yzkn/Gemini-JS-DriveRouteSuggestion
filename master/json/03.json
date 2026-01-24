@@ -1,0 +1,760 @@
+{
+    "municipalities": [
+        {
+            "name": "美瑛の丘",
+            "description": "なだらかな丘陵地帯に広がる美しい田園風景。パッチワークの路などが有名。",
+            "prefecture": "北海道",
+            "latitude": 43.589830,
+            "longitude": 142.464530
+        },
+        {
+            "name": "宗谷丘陵",
+            "description": "氷河時代の周氷河地形が残る丘陵。北海道遺産。",
+            "prefecture": "北海道",
+            "latitude": 45.485662,
+            "longitude": 141.933331
+        },
+        {
+            "name": "サロベツ原野",
+            "description": "広大な泥炭地の湿原。高山植物の宝庫。",
+            "prefecture": "北海道",
+            "latitude": 45.093333,
+            "longitude": 141.683333
+        },
+        {
+            "name": "釧路湿原",
+            "description": "日本最大の湿原。タンチョウの生息地。",
+            "prefecture": "北海道",
+            "latitude": 43.106667,
+            "longitude": 144.400000
+        },
+        {
+            "name": "ナイタイ高原",
+            "description": "日本一広い公共牧場がある高原。",
+            "prefecture": "北海道",
+            "latitude": 43.433333,
+            "longitude": 143.216667
+        },
+        {
+            "name": "ニセコ高原",
+            "description": "羊蹄山を望む国際的なリゾート地。",
+            "prefecture": "北海道",
+            "latitude": 42.866667,
+            "longitude": 140.666667
+        },
+        {
+            "name": "ルスツ高原",
+            "description": "遊園地やスキー場があるリゾート高原。",
+            "prefecture": "北海道",
+            "latitude": 42.750000,
+            "longitude": 140.916667
+        },
+        {
+            "name": "士幌高原",
+            "description": "大雪山国立公園内にある高原。",
+            "prefecture": "北海道",
+            "latitude": 43.250000,
+            "longitude": 143.166667
+        },
+        {
+            "name": "知床五湖",
+            "description": "原生林に囲まれた5つの湖。",
+            "prefecture": "北海道",
+            "latitude": 44.116667,
+            "longitude": 145.083333
+        },
+        {
+            "name": "多和平",
+            "description": "360度の地平線が見渡せる展望地。",
+            "prefecture": "北海道",
+            "latitude": 43.450000,
+            "longitude": 144.583333
+        },
+        {
+            "name": "900草原",
+            "description": "広大な牧草地が広がる景勝地。",
+            "prefecture": "北海道",
+            "latitude": 43.533333,
+            "longitude": 144.533333
+        },
+        {
+            "name": "宮島沼",
+            "description": "マガンの中継地として有名な湿地。",
+            "prefecture": "北海道",
+            "latitude": 43.316667,
+            "longitude": 141.716667
+        },
+        {
+            "name": "雨竜沼湿原",
+            "description": "山岳湿原としては日本有数の規模。",
+            "prefecture": "北海道",
+            "latitude": 43.683333,
+            "longitude": 141.600000
+        },
+        {
+            "name": "野付半島",
+            "description": "砂嘴によって形成された独特の景観。",
+            "prefecture": "北海道",
+            "latitude": 43.583333,
+            "longitude": 145.333333
+        },
+        {
+            "name": "大雪山高原",
+            "description": "紅葉の名所として知られる高原温泉がある。",
+            "prefecture": "北海道",
+            "latitude": 43.633333,
+            "longitude": 142.916667
+        },
+        {
+            "name": "八幡平",
+            "description": "アオモリトドマツの樹海と湖沼群が点在する高原。",
+            "prefecture": "岩手県・秋田県",
+            "latitude": 39.950000,
+            "longitude": 140.850000
+        },
+        {
+            "name": "安比高原",
+            "description": "白樺林が美しいリゾート地。",
+            "prefecture": "岩手県",
+            "latitude": 40.000000,
+            "longitude": 140.966667
+        },
+        {
+            "name": "小岩井農場",
+            "description": "岩手山麓に広がる日本最大級の民間総合農場。",
+            "prefecture": "岩手県",
+            "latitude": 39.750000,
+            "longitude": 141.033333
+        },
+        {
+            "name": "早坂高原",
+            "description": "レンゲツツジの名所。",
+            "prefecture": "岩手県",
+            "latitude": 39.816667,
+            "longitude": 141.483333
+        },
+        {
+            "name": "区界高原",
+            "description": "兜明神岳の麓に広がる高原。",
+            "prefecture": "岩手県",
+            "latitude": 39.650000,
+            "longitude": 141.366667
+        },
+        {
+            "name": "田代平高原",
+            "description": "八甲田山系の北側に広がる高原湿地。",
+            "prefecture": "青森県",
+            "latitude": 40.700000,
+            "longitude": 140.933333
+        },
+        {
+            "name": "寒風山",
+            "description": "芝生に覆われた回転展望台のある山。",
+            "prefecture": "秋田県",
+            "latitude": 39.933333,
+            "longitude": 139.983333
+        },
+        {
+            "name": "栗駒高原",
+            "description": "紅葉が美しい「神の絨毯」。",
+            "prefecture": "宮城県",
+            "latitude": 38.950000,
+            "longitude": 140.800000
+        },
+        {
+            "name": "蔵王高原",
+            "description": "樹氷や御釜で有名な山岳リゾート。",
+            "prefecture": "宮城県・山形県",
+            "latitude": 38.133333,
+            "longitude": 140.450000
+        },
+        {
+            "name": "磐梯高原",
+            "description": "磐梯山の噴火によって作られた湖沼群（裏磐梯）。",
+            "prefecture": "福島県",
+            "latitude": 37.650000,
+            "longitude": 140.083333
+        },
+        {
+            "name": "会津高原",
+            "description": "豊かな自然とスキー場が点在する高原。",
+            "prefecture": "福島県",
+            "latitude": 37.100000,
+            "longitude": 139.750000
+        },
+        {
+            "name": "甲子高原",
+            "description": "那須岳の北側に位置する高原。",
+            "prefecture": "福島県",
+            "latitude": 37.183333,
+            "longitude": 140.033333
+        },
+        {
+            "name": "羽鳥湖高原",
+            "description": "羽鳥湖周辺のリゾート地。",
+            "prefecture": "福島県",
+            "latitude": 37.250000,
+            "longitude": 140.066667
+        },
+        {
+            "name": "雄国沼",
+            "description": "ニッコウキスゲの大群落で有名。",
+            "prefecture": "福島県",
+            "latitude": 37.616667,
+            "longitude": 139.966667
+        },
+        {
+            "name": "駒止湿原",
+            "description": "国の天然記念物に指定されている高層湿原。",
+            "prefecture": "福島県",
+            "latitude": 37.183333,
+            "longitude": 139.583333
+        },
+        {
+            "name": "那須高原",
+            "description": "皇室の御用邸もある歴史あるリゾート地。",
+            "prefecture": "栃木県",
+            "latitude": 37.116667,
+            "longitude": 140.000000
+        },
+        {
+            "name": "戦場ヶ原",
+            "description": "奥日光に広がる広大な湿原。",
+            "prefecture": "栃木県",
+            "latitude": 36.783333,
+            "longitude": 139.450000
+        },
+        {
+            "name": "霧降高原",
+            "description": "ニッコウキスゲの群生地。",
+            "prefecture": "栃木県",
+            "latitude": 36.800000,
+            "longitude": 139.600000
+        },
+        {
+            "name": "八方ヶ原",
+            "description": "レンゲツツジの名所。",
+            "prefecture": "栃木県",
+            "latitude": 36.883333,
+            "longitude": 139.833333
+        },
+        {
+            "name": "尾瀬ヶ原",
+            "description": "日本を代表する高層湿原。",
+            "prefecture": "群馬県・福島県・新潟県",
+            "latitude": 36.933333,
+            "longitude": 139.250000
+        },
+        {
+            "name": "玉原高原",
+            "description": "ブナ林とラベンダーパークで知られる。",
+            "prefecture": "群馬県",
+            "latitude": 36.783333,
+            "longitude": 139.083333
+        },
+        {
+            "name": "鹿沢高原",
+            "description": "レンゲツツジの群生が見事。",
+            "prefecture": "群馬県",
+            "latitude": 36.483333,
+            "longitude": 138.466667
+        },
+        {
+            "name": "北軽井沢",
+            "description": "浅間山の北麓に広がる高原。",
+            "prefecture": "群馬県",
+            "latitude": 36.433333,
+            "longitude": 138.633333
+        },
+        {
+            "name": "浅間高原",
+            "description": "浅間山の麓に広がるキャベツ畑などが有名。",
+            "prefecture": "群馬県",
+            "latitude": 36.450000,
+            "longitude": 138.583333
+        },
+        {
+            "name": "榛名高原",
+            "description": "榛名湖を中心とした高原。",
+            "prefecture": "群馬県",
+            "latitude": 36.466667,
+            "longitude": 138.866667
+        },
+        {
+            "name": "仙石原",
+            "description": "秋のススキ草原が美しい箱根の高原。",
+            "prefecture": "神奈川県",
+            "latitude": 35.266667,
+            "longitude": 139.016667
+        },
+        {
+            "name": "志賀高原",
+            "description": "ユネスコエコパークに登録された自然豊かな高原。",
+            "prefecture": "長野県",
+            "latitude": 36.700000,
+            "longitude": 138.516667
+        },
+        {
+            "name": "菅平高原",
+            "description": "ラグビー合宿の聖地として知られる「日本のダボス」。",
+            "prefecture": "長野県",
+            "latitude": 36.533333,
+            "longitude": 138.333333
+        },
+        {
+            "name": "峰の原高原",
+            "description": "北アルプスの展望が良いペンション村。",
+            "prefecture": "長野県",
+            "latitude": 36.516667,
+            "longitude": 138.316667
+        },
+        {
+            "name": "軽井沢",
+            "description": "日本を代表する避暑地・別荘地。",
+            "prefecture": "長野県",
+            "latitude": 36.366667,
+            "longitude": 138.633333
+        },
+        {
+            "name": "野辺山高原",
+            "description": "高原野菜の産地。JR最高地点がある。",
+            "prefecture": "長野県",
+            "latitude": 35.950000,
+            "longitude": 138.466667
+        },
+        {
+            "name": "清里高原",
+            "description": "八ヶ岳南麓の観光拠点。清泉寮が有名。",
+            "prefecture": "山梨県",
+            "latitude": 35.916667,
+            "longitude": 138.433333
+        },
+        {
+            "name": "蓼科高原",
+            "description": "湖と森に囲まれたリゾート地。",
+            "prefecture": "長野県",
+            "latitude": 36.050000,
+            "longitude": 138.250000
+        },
+        {
+            "name": "白樺高原",
+            "description": "白樺湖を中心とした高原。",
+            "prefecture": "長野県",
+            "latitude": 36.116667,
+            "longitude": 138.266667
+        },
+        {
+            "name": "霧ヶ峰",
+            "description": "ニッコウキスゲと草原が広がる。グライダー発祥の地。",
+            "prefecture": "長野県",
+            "latitude": 36.100000,
+            "longitude": 138.166667
+        },
+        {
+            "name": "車山高原",
+            "description": "霧ヶ峰の主峰・車山を中心とする高原。",
+            "prefecture": "長野県",
+            "latitude": 36.100000,
+            "longitude": 138.200000
+        },
+        {
+            "name": "美ヶ原高原",
+            "description": "標高2000mに広がる台地状の高原。",
+            "prefecture": "長野県",
+            "latitude": 36.233333,
+            "longitude": 138.100000
+        },
+        {
+            "name": "高ボッチ高原",
+            "description": "諏訪湖越しに富士山を望む絶景スポット。",
+            "prefecture": "長野県",
+            "latitude": 36.133333,
+            "longitude": 138.033333
+        },
+        {
+            "name": "乗鞍高原",
+            "description": "乗鞍岳の東麓に広がる自然豊かな高原。",
+            "prefecture": "長野県",
+            "latitude": 36.116667,
+            "longitude": 137.616667
+        },
+        {
+            "name": "上高地",
+            "description": "日本屈指の山岳景勝地（高原・盆地）。",
+            "prefecture": "長野県",
+            "latitude": 36.250000,
+            "longitude": 137.633333
+        },
+        {
+            "name": "白馬八方尾根",
+            "description": "北アルプスの眺望と高山植物が魅力。",
+            "prefecture": "長野県",
+            "latitude": 36.700000,
+            "longitude": 137.833333
+        },
+        {
+            "name": "栂池高原",
+            "description": "高層湿原「栂池自然園」がある。",
+            "prefecture": "長野県",
+            "latitude": 36.750000,
+            "longitude": 137.866667
+        },
+        {
+            "name": "カヤの平",
+            "description": "ブナの原生林が美しい高原。",
+            "prefecture": "長野県",
+            "latitude": 36.833333,
+            "longitude": 138.450000
+        },
+        {
+            "name": "戸隠高原",
+            "description": "戸隠神社や蕎麦で有名。",
+            "prefecture": "長野県",
+            "latitude": 36.750000,
+            "longitude": 138.083333
+        },
+        {
+            "name": "飯綱高原",
+            "description": "長野市街地から近いリゾート地。",
+            "prefecture": "長野県",
+            "latitude": 36.716667,
+            "longitude": 138.150000
+        },
+        {
+            "name": "斑尾高原",
+            "description": "スキー場とジャズフェスティバルで知られる。",
+            "prefecture": "長野県・新潟県",
+            "latitude": 36.850000,
+            "longitude": 138.283333
+        },
+        {
+            "name": "黒姫高原",
+            "description": "コスモス園が有名な高原。",
+            "prefecture": "長野県",
+            "latitude": 36.816667,
+            "longitude": 138.166667
+        },
+        {
+            "name": "聖高原",
+            "description": "聖湖を中心とした高原。",
+            "prefecture": "長野県",
+            "latitude": 36.483333,
+            "longitude": 138.066667
+        },
+        {
+            "name": "開田高原",
+            "description": "木曽馬の里として知られる冷涼な高原。",
+            "prefecture": "長野県",
+            "latitude": 35.883333,
+            "longitude": 137.566667
+        },
+        {
+            "name": "しらびそ高原",
+            "description": "南アルプスを望む絶景の地。星空観察の名所。",
+            "prefecture": "長野県",
+            "latitude": 35.433333,
+            "longitude": 138.016667
+        },
+        {
+            "name": "ヘブンスそのはら",
+            "description": "日本一の星空が見られる場所として有名。",
+            "prefecture": "長野県",
+            "latitude": 35.450000,
+            "longitude": 137.666667
+        },
+        {
+            "name": "ひるがの高原",
+            "description": "ミズバショウの群生地がある分水嶺の高原。",
+            "prefecture": "岐阜県",
+            "latitude": 35.983333,
+            "longitude": 136.900000
+        },
+        {
+            "name": "鈴蘭高原",
+            "description": "御嶽山や乗鞍岳の眺望が良い。",
+            "prefecture": "岐阜県",
+            "latitude": 35.966667,
+            "longitude": 137.400000
+        },
+        {
+            "name": "天生湿原",
+            "description": "高山植物の宝庫。",
+            "prefecture": "岐阜県",
+            "latitude": 36.266667,
+            "longitude": 137.000000
+        },
+        {
+            "name": "朝霧高原",
+            "description": "富士山の西麓に広がる牧歌的な高原。",
+            "prefecture": "静岡県",
+            "latitude": 35.400000,
+            "longitude": 138.583333
+        },
+        {
+            "name": "伊豆高原",
+            "description": "大室山の麓に広がる別荘地・観光地。",
+            "prefecture": "静岡県",
+            "latitude": 34.900000,
+            "longitude": 139.100000
+        },
+        {
+            "name": "稲取細野高原",
+            "description": "ススキの大海原が広がる。",
+            "prefecture": "静岡県",
+            "latitude": 34.783333,
+            "longitude": 139.016667
+        },
+        {
+            "name": "日本平",
+            "description": "富士山と駿河湾を望む景勝地。",
+            "prefecture": "静岡県",
+            "latitude": 34.983333,
+            "longitude": 138.466667
+        },
+        {
+            "name": "大室山",
+            "description": "お椀を伏せたような形の火山。",
+            "prefecture": "静岡県",
+            "latitude": 34.900000,
+            "longitude": 139.100000
+        },
+        {
+            "name": "茶臼山高原",
+            "description": "愛知県最高峰の茶臼山周辺の高原。芝桜が有名。",
+            "prefecture": "愛知県",
+            "latitude": 35.233333,
+            "longitude": 137.650000
+        },
+        {
+            "name": "白山瀬女高原",
+            "description": "白山麓の高原リゾート。",
+            "prefecture": "石川県",
+            "latitude": 36.283333,
+            "longitude": 136.650000
+        },
+        {
+            "name": "六呂師高原",
+            "description": "星空が美しいことで知られる牧歌的な高原。",
+            "prefecture": "福井県",
+            "latitude": 36.033333,
+            "longitude": 136.566667
+        },
+        {
+            "name": "青山高原",
+            "description": "多数の風車が立ち並ぶ風力発電所がある。",
+            "prefecture": "三重県",
+            "latitude": 34.716667,
+            "longitude": 136.300000
+        },
+        {
+            "name": "曽爾高原",
+            "description": "ススキ野原が美しい高原。",
+            "prefecture": "奈良県",
+            "latitude": 34.516667,
+            "longitude": 136.166667
+        },
+        {
+            "name": "大台ヶ原",
+            "description": "多雨地帯特有の植生が見られる台地。",
+            "prefecture": "奈良県・三重県",
+            "latitude": 34.183333,
+            "longitude": 136.100000
+        },
+        {
+            "name": "高野山",
+            "description": "標高800mの山上盆地に広がる宗教都市。",
+            "prefecture": "和歌山県",
+            "latitude": 34.216667,
+            "longitude": 135.583333
+        },
+        {
+            "name": "生石高原",
+            "description": "ススキの名所として知られる。",
+            "prefecture": "和歌山県",
+            "latitude": 34.116667,
+            "longitude": 135.333333
+        },
+        {
+            "name": "六甲山",
+            "description": "神戸の市街地を見下ろす高原リゾート。",
+            "prefecture": "兵庫県",
+            "latitude": 34.766667,
+            "longitude": 135.250000
+        },
+        {
+            "name": "砥峰高原",
+            "description": "西日本有数のススキの群生地。映画ロケ地。",
+            "prefecture": "兵庫県",
+            "latitude": 35.133333,
+            "longitude": 134.816667
+        },
+        {
+            "name": "峰山高原",
+            "description": "砥峰高原に隣接するリゾート高原。",
+            "prefecture": "兵庫県",
+            "latitude": 35.116667,
+            "longitude": 134.783333
+        },
+        {
+            "name": "神鍋高原",
+            "description": "スキー場やキャンプ場が多い火山性高原。",
+            "prefecture": "兵庫県",
+            "latitude": 35.500000,
+            "longitude": 134.683333
+        },
+        {
+            "name": "ハチ北高原",
+            "description": "鉢伏山の中腹に広がる高原。",
+            "prefecture": "兵庫県",
+            "latitude": 35.400000,
+            "longitude": 134.566667
+        },
+        {
+            "name": "上山高原",
+            "description": "ススキ草原の再生に取り組んでいる。",
+            "prefecture": "兵庫県",
+            "latitude": 35.566667,
+            "longitude": 134.416667
+        },
+        {
+            "name": "蒜山高原",
+            "description": "西の軽井沢とも呼ばれるリゾート地。ジャージー牛が有名。",
+            "prefecture": "岡山県",
+            "latitude": 35.300000,
+            "longitude": 133.666667
+        },
+        {
+            "name": "大山",
+            "description": "中国地方最高峰。周辺は高原リゾート。",
+            "prefecture": "鳥取県",
+            "latitude": 35.366667,
+            "longitude": 133.533333
+        },
+        {
+            "name": "大山ますみず高原",
+            "description": "大山の西麓に広がる高原。恋人の聖地。",
+            "prefecture": "鳥取県",
+            "latitude": 35.366667,
+            "longitude": 133.500000
+        },
+        {
+            "name": "鏡ヶ成",
+            "description": "奥大山の湿原と草原。",
+            "prefecture": "鳥取県",
+            "latitude": 35.333333,
+            "longitude": 133.566667
+        },
+        {
+            "name": "三瓶山",
+            "description": "西の原などの草原が広がる火山。",
+            "prefecture": "島根県",
+            "latitude": 35.133333,
+            "longitude": 132.616667
+        },
+        {
+            "name": "秋吉台",
+            "description": "日本最大級のカルスト台地。",
+            "prefecture": "山口県",
+            "latitude": 34.233333,
+            "longitude": 131.300000
+        },
+        {
+            "name": "深入山",
+            "description": "草原の山。山焼きが行われる。",
+            "prefecture": "広島県",
+            "latitude": 34.633333,
+            "longitude": 132.200000
+        },
+        {
+            "name": "八幡湿原",
+            "description": "西日本最大級の湿原分布地。",
+            "prefecture": "広島県",
+            "latitude": 34.683333,
+            "longitude": 132.183333
+        },
+        {
+            "name": "四国カルスト",
+            "description": "日本三大カルストの一つ。白い岩が点在する羊の群れのような景観。",
+            "prefecture": "愛媛県・高知県",
+            "latitude": 33.483333,
+            "longitude": 132.966667
+        },
+        {
+            "name": "天狗高原",
+            "description": "四国カルストの一部。星空が美しい。",
+            "prefecture": "高知県",
+            "latitude": 33.483333,
+            "longitude": 133.000000
+        },
+        {
+            "name": "大野ヶ原",
+            "description": "四国カルストの西端。",
+            "prefecture": "愛媛県",
+            "latitude": 33.483333,
+            "longitude": 132.916667
+        },
+        {
+            "name": "五段高原",
+            "description": "四国カルストの中央部。",
+            "prefecture": "愛媛県",
+            "latitude": 33.483333,
+            "longitude": 132.950000
+        },
+        {
+            "name": "久万高原",
+            "description": "「四国の軽井沢」と呼ばれる冷涼な地域。",
+            "prefecture": "愛媛県",
+            "latitude": 33.666667,
+            "longitude": 132.900000
+        },
+        {
+            "name": "塩塚高原",
+            "description": "ススキの名所。",
+            "prefecture": "徳島県・愛媛県",
+            "latitude": 33.950000,
+            "longitude": 133.683333
+        },
+        {
+            "name": "大川原高原",
+            "description": "アジサイの名所。風力発電の風車がある。",
+            "prefecture": "徳島県",
+            "latitude": 33.966667,
+            "longitude": 134.400000
+        },
+        {
+            "name": "翠波高原",
+            "description": "春は菜の花、夏はコスモスが咲き乱れる。",
+            "prefecture": "愛媛県",
+            "latitude": 33.950000,
+            "longitude": 133.566667
+        },
+        {
+            "name": "平尾台",
+            "description": "日本三大カルストの一つ。羊群原が見どころ。",
+            "prefecture": "福岡県",
+            "latitude": 33.766667,
+            "longitude": 130.900000
+        },
+        {
+            "name": "飯田高原",
+            "description": "くじゅう連山の北麓に広がる高原。",
+            "prefecture": "大分県",
+            "latitude": 33.150000,
+            "longitude": 131.233333
+        },
+        {
+            "name": "久住高原",
+            "description": "くじゅう連山の南麓。草原が美しい。",
+            "prefecture": "大分県",
+            "latitude": 33.066667,
+            "longitude": 131.250000
+        },
+        {
+            "name": "瀬の本高原",
+            "description": "やまなみハイウェイ沿いの高原。",
+            "prefecture": "熊本県・大分県",
+            "latitude": 33.083333,
+            "longitude": 131.183333
+        }
+    ]
+}

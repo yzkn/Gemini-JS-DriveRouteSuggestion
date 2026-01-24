@@ -1,0 +1,893 @@
+{
+    "municipalities": [
+        {
+            "name": "三内丸山遺跡 (青森市)",
+            "description": "特別史跡。日本最大級の縄文集落跡。大型掘立柱建物跡などが復元されている。",
+            "prefecture": "青森県",
+            "latitude": 40.811111,
+            "longitude": 140.696389
+        },
+        {
+            "name": "大湯環状列石 (鹿角市)",
+            "description": "特別史跡。縄文後期のストーンサークル。日時計状組石などがある。",
+            "prefecture": "秋田県",
+            "latitude": 40.291667,
+            "longitude": 140.803611
+        },
+        {
+            "name": "伊勢堂岱遺跡 (北秋田市)",
+            "description": "世界遺産。4つの環状列石がある縄文後期の遺跡。",
+            "prefecture": "秋田県",
+            "latitude": 40.203056,
+            "longitude": 140.349167
+        },
+        {
+            "name": "御所野遺跡 (一戸町)",
+            "description": "世界遺産。縄文中期の集落跡。御所野縄文公園。",
+            "prefecture": "岩手県",
+            "latitude": 40.188889,
+            "longitude": 141.308333
+        },
+        {
+            "name": "是川石器時代遺跡 (八戸市)",
+            "description": "国指定史跡。漆製品などの高度な工芸品が出土。",
+            "prefecture": "青森県",
+            "latitude": 40.483333,
+            "longitude": 141.483333
+        },
+        {
+            "name": "亀ヶ岡石器時代遺跡 (つがる市)",
+            "description": "国指定史跡。遮光器土偶の出土地。",
+            "prefecture": "青森県",
+            "latitude": 40.883333,
+            "longitude": 140.350000
+        },
+        {
+            "name": "秋田城跡 (秋田市)",
+            "description": "国指定史跡。奈良・平安時代の出羽国の政庁跡。",
+            "prefecture": "秋田県",
+            "latitude": 39.733333,
+            "longitude": 140.083333
+        },
+        {
+            "name": "払田柵跡 (大仙市)",
+            "description": "国指定史跡。平安時代の古代城柵遺跡。",
+            "prefecture": "秋田県",
+            "latitude": 39.466667,
+            "longitude": 140.550000
+        },
+        {
+            "name": "胆沢城跡 (奥州市)",
+            "description": "国指定史跡。坂上田村麻呂が造営した鎮守府。",
+            "prefecture": "岩手県",
+            "latitude": 39.166667,
+            "longitude": 141.133333
+        },
+        {
+            "name": "柳之御所遺跡 (平泉町)",
+            "description": "国指定史跡。奥州藤原氏の政庁跡。",
+            "prefecture": "岩手県",
+            "latitude": 38.995833,
+            "longitude": 141.116667
+        },
+        {
+            "name": "根城跡 (八戸市)",
+            "description": "国指定史跡。中世の城館跡が忠実に復元されている。",
+            "prefecture": "青森県",
+            "latitude": 40.505556,
+            "longitude": 141.458333
+        },
+        {
+            "name": "橋野鉄鉱山 (釜石市)",
+            "description": "世界遺産。現存する日本最古の洋式高炉跡。",
+            "prefecture": "岩手県",
+            "latitude": 39.341667,
+            "longitude": 141.677778
+        },
+        {
+            "name": "五稜郭跡 (函館市)",
+            "description": "特別史跡。日本初の西洋式星形要塞。箱館戦争の舞台。",
+            "prefecture": "北海道",
+            "latitude": 41.796944,
+            "longitude": 140.756944
+        },
+        {
+            "name": "白老仙台藩陣屋跡 (白老町)",
+            "description": "国指定史跡。幕末に仙台藩が築いた北方警備の拠点。",
+            "prefecture": "北海道",
+            "latitude": 42.550000,
+            "longitude": 141.350000
+        },
+        {
+            "name": "松前藩戸切地陣屋跡 (北斗市)",
+            "description": "国指定史跡。星形の土塁が残る。",
+            "prefecture": "北海道",
+            "latitude": 41.833333,
+            "longitude": 140.633333
+        },
+        {
+            "name": "岩宿遺跡 (みどり市)",
+            "description": "国指定史跡。日本に旧石器時代が存在したことを証明した遺跡。",
+            "prefecture": "群馬県",
+            "latitude": 36.398611,
+            "longitude": 139.293056
+        },
+        {
+            "name": "富岡製糸場 (富岡市)",
+            "description": "国指定史跡・世界遺産。明治5年創業の官営模範工場。",
+            "prefecture": "群馬県",
+            "latitude": 36.255278,
+            "longitude": 138.888611
+        },
+        {
+            "name": "金山城跡 (太田市)",
+            "description": "国指定史跡。石垣や石畳が整備された戦国時代の山城。",
+            "prefecture": "群馬県",
+            "latitude": 36.321111,
+            "longitude": 139.375556
+        },
+        {
+            "name": "箕輪城跡 (高崎市)",
+            "description": "国指定史跡。武田氏や北条氏の拠点となった城。",
+            "prefecture": "群馬県",
+            "latitude": 36.408333,
+            "longitude": 138.950000
+        },
+        {
+            "name": "足利学校跡 (足利市)",
+            "description": "国指定史跡。日本最古の学校。",
+            "prefecture": "栃木県",
+            "latitude": 36.335278,
+            "longitude": 139.448611
+        },
+        {
+            "name": "吉見百穴 (吉見町)",
+            "description": "国指定史跡。古墳時代の横穴墓群。",
+            "prefecture": "埼玉県",
+            "latitude": 36.041667,
+            "longitude": 139.420000
+        },
+        {
+            "name": "鉢形城跡 (寄居町)",
+            "description": "国指定史跡。北条氏邦の居城。荒川断崖上の要害。",
+            "prefecture": "埼玉県",
+            "latitude": 36.116667,
+            "longitude": 139.200000
+        },
+        {
+            "name": "菅谷館跡 (嵐山町)",
+            "description": "国指定史跡。畠山重忠の居館跡。",
+            "prefecture": "埼玉県",
+            "latitude": 36.033333,
+            "longitude": 139.333333
+        },
+        {
+            "name": "八王子城跡 (八王子市)",
+            "description": "国指定史跡。北条氏照の居城。豊臣軍に攻め落とされた。",
+            "prefecture": "東京都",
+            "latitude": 35.655556,
+            "longitude": 139.255556
+        },
+        {
+            "name": "江戸城外堀跡 (千代田区他)",
+            "description": "国指定史跡。牛込見附や四谷見附などの石垣が残る。",
+            "prefecture": "東京都",
+            "latitude": 35.691667,
+            "longitude": 139.733333
+        },
+        {
+            "name": "小石川後楽園 (文京区)",
+            "description": "特別史跡・特別名勝。水戸徳川家の上屋敷庭園。",
+            "prefecture": "東京都",
+            "latitude": 35.705556,
+            "longitude": 139.749167
+        },
+        {
+            "name": "浜離宮恩賜庭園 (中央区)",
+            "description": "特別史跡・特別名勝。徳川将軍家の別邸。",
+            "prefecture": "東京都",
+            "latitude": 35.660000,
+            "longitude": 139.763333
+        },
+        {
+            "name": "箱根関所跡 (箱根町)",
+            "description": "国指定史跡。東海道の要衝。建物が復元されている。",
+            "prefecture": "神奈川県",
+            "latitude": 35.191667,
+            "longitude": 139.026667
+        },
+        {
+            "name": "鎌倉大仏殿跡 (鎌倉市)",
+            "description": "国指定史跡。高徳院境内。",
+            "prefecture": "神奈川県",
+            "latitude": 35.316667,
+            "longitude": 139.536111
+        },
+        {
+            "name": "永福寺跡 (鎌倉市)",
+            "description": "国指定史跡。源頼朝が建立した大寺院の跡。",
+            "prefecture": "神奈川県",
+            "latitude": 35.326667,
+            "longitude": 139.566667
+        },
+        {
+            "name": "和賀江嶋 (鎌倉市)",
+            "description": "国指定史跡。現存最古の築港遺跡。",
+            "prefecture": "神奈川県",
+            "latitude": 35.303611,
+            "longitude": 139.553056
+        },
+        {
+            "name": "小田原城総構 (小田原市)",
+            "description": "国指定史跡。豊臣軍に対抗するために築かれた巨大な土塁と空堀。",
+            "prefecture": "神奈川県",
+            "latitude": 35.255000,
+            "longitude": 139.150000
+        },
+        {
+            "name": "尖石石器時代遺跡 (茅野市)",
+            "description": "特別史跡。縄文時代中期の集落跡。",
+            "prefecture": "長野県",
+            "latitude": 36.013889,
+            "longitude": 138.230556
+        },
+        {
+            "name": "黒曜石原産地遺跡 (長和町)",
+            "description": "国指定史跡。星糞峠など。",
+            "prefecture": "長野県",
+            "latitude": 36.183333,
+            "longitude": 138.166667
+        },
+        {
+            "name": "川中島古戦場 (長野市)",
+            "description": "武田信玄と上杉謙信の激戦地。八幡原史跡公園。",
+            "prefecture": "長野県",
+            "latitude": 36.608333,
+            "longitude": 138.183333
+        },
+        {
+            "name": "松代大本営跡 (長野市)",
+            "description": "太平洋戦争末期の地下壕群。",
+            "prefecture": "長野県",
+            "latitude": 36.550000,
+            "longitude": 138.200000
+        },
+        {
+            "name": "佐渡金銀山遺跡 (佐渡市)",
+            "description": "国指定史跡。世界遺産候補。道遊の割戸など。",
+            "prefecture": "新潟県",
+            "latitude": 38.041667,
+            "longitude": 138.258333
+        },
+        {
+            "name": "春日山城跡 (上越市)",
+            "description": "国指定史跡。上杉謙信の居城。",
+            "prefecture": "新潟県",
+            "latitude": 37.145833,
+            "longitude": 138.216667
+        },
+        {
+            "name": "一乗谷朝倉氏遺跡 (福井市)",
+            "description": "特別史跡。戦国大名朝倉氏の城下町がそのまま埋もれていた。",
+            "prefecture": "福井県",
+            "latitude": 35.998611,
+            "longitude": 136.296389
+        },
+        {
+            "name": "山中城跡 (三島市)",
+            "description": "国指定史跡。北条氏の城。「障子堀」で有名。",
+            "prefecture": "静岡県",
+            "latitude": 35.158333,
+            "longitude": 138.983333
+        },
+        {
+            "name": "登呂遺跡 (静岡市)",
+            "description": "特別史跡。弥生時代の水田・集落跡。",
+            "prefecture": "静岡県",
+            "latitude": 34.958333,
+            "longitude": 138.408333
+        },
+        {
+            "name": "新居関所跡 (湖西市)",
+            "description": "特別史跡。建物が現存する唯一の関所。",
+            "prefecture": "静岡県",
+            "latitude": 34.693056,
+            "longitude": 137.562500
+        },
+        {
+            "name": "韮山反射炉 (伊豆の国市)",
+            "description": "国指定史跡・世界遺産。実際に稼働した反射炉。",
+            "prefecture": "静岡県",
+            "latitude": 35.040278,
+            "longitude": 138.963056
+        },
+        {
+            "name": "高根城跡 (浜松市)",
+            "description": "国指定史跡。武田氏の国境警備の城。",
+            "prefecture": "静岡県",
+            "latitude": 35.166667,
+            "longitude": 137.900000
+        },
+        {
+            "name": "長篠城跡 (新城市)",
+            "description": "国指定史跡。長篠・設楽原の戦いの舞台。",
+            "prefecture": "愛知県",
+            "latitude": 34.923611,
+            "longitude": 137.561111
+        },
+        {
+            "name": "小牧山 (小牧市)",
+            "description": "国指定史跡。織田信長が築いた城跡。",
+            "prefecture": "愛知県",
+            "latitude": 35.291667,
+            "longitude": 136.916667
+        },
+        {
+            "name": "桶狭間古戦場伝説地 (豊明市)",
+            "description": "国指定史跡。信長が義元を破った地。",
+            "prefecture": "愛知県",
+            "latitude": 35.050000,
+            "longitude": 137.000000
+        },
+        {
+            "name": "関ヶ原古戦場 (関ケ原町)",
+            "description": "国指定史跡。天下分け目の戦いの地。",
+            "prefecture": "岐阜県",
+            "latitude": 35.366667,
+            "longitude": 136.466667
+        },
+        {
+            "name": "苗木城跡 (中津川市)",
+            "description": "国指定史跡。巨岩を利用した石垣が特徴。",
+            "prefecture": "岐阜県",
+            "latitude": 35.516667,
+            "longitude": 137.483333
+        },
+        {
+            "name": "岩村城跡 (恵那市)",
+            "description": "国指定史跡。日本三大山城の一つ。",
+            "prefecture": "岐阜県",
+            "latitude": 35.360278,
+            "longitude": 137.436111
+        },
+        {
+            "name": "美濃金山城跡 (可児市)",
+            "description": "国指定史跡。森蘭丸ゆかりの城。",
+            "prefecture": "岐阜県",
+            "latitude": 35.441667,
+            "longitude": 137.066667
+        },
+        {
+            "name": "安土城跡 (近江八幡市)",
+            "description": "特別史跡。織田信長が築いた天下布武の拠点。",
+            "prefecture": "滋賀県",
+            "latitude": 35.155833,
+            "longitude": 136.139167
+        },
+        {
+            "name": "小谷城跡 (長浜市)",
+            "description": "国指定史跡。浅井長政の居城。",
+            "prefecture": "滋賀県",
+            "latitude": 35.458333,
+            "longitude": 136.275000
+        },
+        {
+            "name": "観音寺城跡 (近江八幡市)",
+            "description": "国指定史跡。六角氏の巨大山城。",
+            "prefecture": "滋賀県",
+            "latitude": 35.150000,
+            "longitude": 136.166667
+        },
+        {
+            "name": "玄蕃尾城跡 (長浜市)",
+            "description": "国指定史跡。柴田勝家の本陣。",
+            "prefecture": "滋賀県",
+            "latitude": 35.583333,
+            "longitude": 136.216667
+        },
+        {
+            "name": "比叡山延暦寺 (大津市)",
+            "description": "国指定史跡。世界遺産。天台宗総本山。",
+            "prefecture": "滋賀県",
+            "latitude": 35.070000,
+            "longitude": 135.840000
+        },
+        {
+            "name": "二条城 (京都市)",
+            "description": "国指定史跡。世界遺産。徳川慶喜が大政奉還を行った場所。",
+            "prefecture": "京都府",
+            "latitude": 35.014167,
+            "longitude": 135.748056
+        },
+        {
+            "name": "鹿苑寺（金閣寺）庭園 (京都市)",
+            "description": "特別史跡・特別名勝。世界遺産。",
+            "prefecture": "京都府",
+            "latitude": 35.039444,
+            "longitude": 135.729444
+        },
+        {
+            "name": "慈照寺（銀閣寺）庭園 (京都市)",
+            "description": "特別史跡・特別名勝。世界遺産。",
+            "prefecture": "京都府",
+            "latitude": 35.026944,
+            "longitude": 135.798333
+        },
+        {
+            "name": "醍醐寺三宝院庭園 (京都市)",
+            "description": "特別史跡・特別名勝。世界遺産。",
+            "prefecture": "京都府",
+            "latitude": 34.951111,
+            "longitude": 135.819444
+        },
+        {
+            "name": "平等院庭園 (宇治市)",
+            "description": "国指定史跡・名勝。世界遺産。浄土式庭園。",
+            "prefecture": "京都府",
+            "latitude": 34.889444,
+            "longitude": 135.807778
+        },
+        {
+            "name": "大坂城跡 (大阪市)",
+            "description": "特別史跡。豊臣・徳川の大城郭。",
+            "prefecture": "大阪府",
+            "latitude": 34.687222,
+            "longitude": 135.525833
+        },
+        {
+            "name": "百済寺跡 (枚方市)",
+            "description": "特別史跡。日本最初の勅建寺院。",
+            "prefecture": "大阪府",
+            "latitude": 34.816667,
+            "longitude": 135.650000
+        },
+        {
+            "name": "飯盛城跡 (大東市)",
+            "description": "国指定史跡。三好長慶の居城。",
+            "prefecture": "大阪府",
+            "latitude": 34.716667,
+            "longitude": 135.650000
+        },
+        {
+            "name": "竹田城跡 (朝来市)",
+            "description": "国指定史跡。「天空の城」「日本のマチュピチュ」。",
+            "prefecture": "兵庫県",
+            "latitude": 35.300556,
+            "longitude": 134.829444
+        },
+        {
+            "name": "黒井城跡 (丹波市)",
+            "description": "国指定史跡。赤井直正の居城。",
+            "prefecture": "兵庫県",
+            "latitude": 35.166667,
+            "longitude": 135.100000
+        },
+        {
+            "name": "生野銀山跡 (朝来市)",
+            "description": "戦国時代から昭和まで続いた大鉱山。",
+            "prefecture": "兵庫県",
+            "latitude": 35.166667,
+            "longitude": 134.795833
+        },
+        {
+            "name": "唐古・鍵遺跡 (田原本町)",
+            "description": "国指定史跡。弥生時代の環濠集落。",
+            "prefecture": "奈良県",
+            "latitude": 34.558333,
+            "longitude": 135.783333
+        },
+        {
+            "name": "平城京左京三条二坊宮跡庭園 (奈良市)",
+            "description": "特別史跡・特別名勝。奈良時代の庭園。",
+            "prefecture": "奈良県",
+            "latitude": 34.683333,
+            "longitude": 135.795833
+        },
+        {
+            "name": "本薬師寺跡 (橿原市)",
+            "description": "特別史跡。藤原京における薬師寺の跡。",
+            "prefecture": "奈良県",
+            "latitude": 34.491667,
+            "longitude": 135.800000
+        },
+        {
+            "name": "山田寺跡 (桜井市)",
+            "description": "特別史跡。蘇我倉山田石川麻呂の発願。",
+            "prefecture": "奈良県",
+            "latitude": 34.483333,
+            "longitude": 135.833333
+        },
+        {
+            "name": "高取城跡 (高取町)",
+            "description": "国指定史跡。日本三大山城の一つ。",
+            "prefecture": "奈良県",
+            "latitude": 34.433333,
+            "longitude": 135.833333
+        },
+        {
+            "name": "赤木城跡 (熊野市)",
+            "description": "国指定史跡。藤堂高虎が築城。",
+            "prefecture": "三重県",
+            "latitude": 33.900000,
+            "longitude": 135.916667
+        },
+        {
+            "name": "松坂城跡 (松阪市)",
+            "description": "国指定史跡。蒲生氏郷が築城。",
+            "prefecture": "三重県",
+            "latitude": 34.575000,
+            "longitude": 136.525000
+        },
+        {
+            "name": "鳥取城跡 (鳥取市)",
+            "description": "国指定史跡。太閤ヶ平を含む戦国〜江戸の城郭。",
+            "prefecture": "鳥取県",
+            "latitude": 35.508333,
+            "longitude": 134.238889
+        },
+        {
+            "name": "荒神谷遺跡 (出雲市)",
+            "description": "国指定史跡。大量の銅剣が出土。",
+            "prefecture": "島根県",
+            "latitude": 35.383333,
+            "longitude": 132.850000
+        },
+        {
+            "name": "加茂岩倉遺跡 (雲南市)",
+            "description": "国指定史跡。大量の銅鐸が出土。",
+            "prefecture": "島根県",
+            "latitude": 35.350000,
+            "longitude": 132.866667
+        },
+        {
+            "name": "石見銀山遺跡 (大田市)",
+            "description": "国指定史跡・世界遺産。戦国〜江戸の世界的大銀山。",
+            "prefecture": "島根県",
+            "latitude": 35.105278,
+            "longitude": 132.436944
+        },
+        {
+            "name": "月山富田城跡 (安来市)",
+            "description": "国指定史跡。尼子氏の難攻不落の居城。",
+            "prefecture": "島根県",
+            "latitude": 35.366667,
+            "longitude": 133.183333
+        },
+        {
+            "name": "鬼ノ城 (総社市)",
+            "description": "国指定史跡。古代山城（神籠石式山城）。",
+            "prefecture": "岡山県",
+            "latitude": 34.716667,
+            "longitude": 133.750000
+        },
+        {
+            "name": "備中松山城跡 (高梁市)",
+            "description": "国指定史跡。現存天守を持つ山城。",
+            "prefecture": "岡山県",
+            "latitude": 34.808333,
+            "longitude": 133.622222
+        },
+        {
+            "name": "閑谷学校 (備前市)",
+            "description": "特別史跡。世界最古の庶民のための公立学校。",
+            "prefecture": "岡山県",
+            "latitude": 34.795833,
+            "longitude": 134.219444
+        },
+        {
+            "name": "津山城跡 (津山市)",
+            "description": "国指定史跡。森忠政が築いた近世城郭。",
+            "prefecture": "岡山県",
+            "latitude": 35.061111,
+            "longitude": 134.005556
+        },
+        {
+            "name": "郡山城跡 (安芸高田市)",
+            "description": "国指定史跡。毛利元就の居城。",
+            "prefecture": "広島県",
+            "latitude": 34.666667,
+            "longitude": 132.700000
+        },
+        {
+            "name": "萩城跡 (萩市)",
+            "description": "国指定史跡。毛利氏の居城。指月公園。",
+            "prefecture": "山口県",
+            "latitude": 34.420833,
+            "longitude": 131.386111
+        },
+        {
+            "name": "松下村塾 (萩市)",
+            "description": "国指定史跡。吉田松陰の私塾。",
+            "prefecture": "山口県",
+            "latitude": 34.411111,
+            "longitude": 131.416667
+        },
+        {
+            "name": "大内氏館跡 (山口市)",
+            "description": "国指定史跡。大内氏の居館跡（龍福寺）。",
+            "prefecture": "山口県",
+            "latitude": 34.183333,
+            "longitude": 131.475000
+        },
+        {
+            "name": "屋島 (高松市)",
+            "description": "国指定史跡。源平合戦の古戦場。",
+            "prefecture": "香川県",
+            "latitude": 34.350000,
+            "longitude": 134.100000
+        },
+        {
+            "name": "高松城跡 (高松市)",
+            "description": "国指定史跡。玉藻公園。海城。",
+            "prefecture": "香川県",
+            "latitude": 34.350000,
+            "longitude": 134.050000
+        },
+        {
+            "name": "丸亀城跡 (丸亀市)",
+            "description": "国指定史跡。石垣の名城。",
+            "prefecture": "香川県",
+            "latitude": 34.286111,
+            "longitude": 133.800000
+        },
+        {
+            "name": "能島城跡 (今治市)",
+            "description": "国指定史跡。村上水軍の拠点。",
+            "prefecture": "愛媛県",
+            "latitude": 34.183333,
+            "longitude": 133.083333
+        },
+        {
+            "name": "別子銅山跡 (新居浜市)",
+            "description": "国指定史跡。東洋のマチュピチュ。",
+            "prefecture": "愛媛県",
+            "latitude": 33.883333,
+            "longitude": 133.316667
+        },
+        {
+            "name": "岡豊城跡 (南国市)",
+            "description": "国指定史跡。長宗我部氏の居城。",
+            "prefecture": "高知県",
+            "latitude": 33.583333,
+            "longitude": 133.633333
+        },
+        {
+            "name": "吉野ヶ里遺跡 (吉野ヶ里町)",
+            "description": "特別史跡。弥生時代の最大級の環濠集落。",
+            "prefecture": "佐賀県",
+            "latitude": 33.323611,
+            "longitude": 130.391667
+        },
+        {
+            "name": "名護屋城跡 (唐津市)",
+            "description": "特別史跡。豊臣秀吉の朝鮮出兵の拠点。",
+            "prefecture": "佐賀県",
+            "latitude": 33.530556,
+            "longitude": 129.870833
+        },
+        {
+            "name": "三重津海軍所跡 (佐賀市)",
+            "description": "国指定史跡・世界遺産。幕末のドライドック。",
+            "prefecture": "佐賀県",
+            "latitude": 33.213889,
+            "longitude": 130.341667
+        },
+        {
+            "name": "大野城跡 (大野城市)",
+            "description": "特別史跡。古代山城。",
+            "prefecture": "福岡県",
+            "latitude": 33.538889,
+            "longitude": 130.513889
+        },
+        {
+            "name": "水城跡 (太宰府市)",
+            "description": "特別史跡。防衛のための長大な土塁。",
+            "prefecture": "福岡県",
+            "latitude": 33.511111,
+            "longitude": 130.491667
+        },
+        {
+            "name": "板付遺跡 (福岡市)",
+            "description": "国指定史跡。日本最古級の水田稲作集落。",
+            "prefecture": "福岡県",
+            "latitude": 33.566667,
+            "longitude": 130.466667
+        },
+        {
+            "name": "金田城跡 (対馬市)",
+            "description": "特別史跡。防人が守った古代山城。",
+            "prefecture": "長崎県",
+            "latitude": 34.291667,
+            "longitude": 129.275000
+        },
+        {
+            "name": "原城跡 (南島原市)",
+            "description": "国指定史跡・世界遺産。島原の乱の舞台。",
+            "prefecture": "長崎県",
+            "latitude": 32.628889,
+            "longitude": 130.255556
+        },
+        {
+            "name": "出島和蘭商館跡 (長崎市)",
+            "description": "国指定史跡。鎖国時代の窓口。",
+            "prefecture": "長崎県",
+            "latitude": 32.743056,
+            "longitude": 129.873056
+        },
+        {
+            "name": "端島炭坑 (長崎市)",
+            "description": "世界遺産。軍艦島。",
+            "prefecture": "長崎県",
+            "latitude": 32.627778,
+            "longitude": 129.738889
+        },
+        {
+            "name": "熊本城跡 (熊本市)",
+            "description": "特別史跡。加藤清正が築いた名城。",
+            "prefecture": "熊本県",
+            "latitude": 32.806111,
+            "longitude": 130.705833
+        },
+        {
+            "name": "田原坂公園 (熊本市)",
+            "description": "西南戦争の激戦地。",
+            "prefecture": "熊本県",
+            "latitude": 32.883333,
+            "longitude": 130.683333
+        },
+        {
+            "name": "三池炭鉱万田坑 (荒尾市)",
+            "description": "国指定史跡・世界遺産。",
+            "prefecture": "熊本県",
+            "latitude": 33.000000,
+            "longitude": 130.450000
+        },
+        {
+            "name": "三角西港 (宇城市)",
+            "description": "国指定史跡・世界遺産。明治の石積み港湾施設。",
+            "prefecture": "熊本県",
+            "latitude": 32.616667,
+            "longitude": 130.466667
+        },
+        {
+            "name": "岡城跡 (竹田市)",
+            "description": "国指定史跡。断崖絶壁上の堅城。「荒城の月」。",
+            "prefecture": "大分県",
+            "latitude": 32.966667,
+            "longitude": 131.400000
+        },
+        {
+            "name": "臼杵磨崖仏 (臼杵市)",
+            "description": "特別史跡。国宝の石仏群。",
+            "prefecture": "大分県",
+            "latitude": 33.088889,
+            "longitude": 131.758333
+        },
+        {
+            "name": "西都原古墳群 (西都市)",
+            "description": "特別史跡。古墳群だが公園として史跡整備。",
+            "prefecture": "宮崎県",
+            "latitude": 32.116667,
+            "longitude": 131.383333
+        },
+        {
+            "name": "今帰仁城跡 (今帰仁村)",
+            "description": "国指定史跡・世界遺産。北山の拠点。",
+            "prefecture": "沖縄県",
+            "latitude": 26.691667,
+            "longitude": 127.930556
+        },
+        {
+            "name": "座喜味城跡 (読谷村)",
+            "description": "国指定史跡・世界遺産。護佐丸が築城。",
+            "prefecture": "沖縄県",
+            "latitude": 26.408333,
+            "longitude": 127.741667
+        },
+        {
+            "name": "勝連城跡 (うるま市)",
+            "description": "国指定史跡・世界遺産。阿麻和利の居城。",
+            "prefecture": "沖縄県",
+            "latitude": 26.330556,
+            "longitude": 127.877778
+        },
+        {
+            "name": "中城城跡 (中城村)",
+            "description": "国指定史跡・世界遺産。護佐丸の居城。",
+            "prefecture": "沖縄県",
+            "latitude": 26.283333,
+            "longitude": 127.800000
+        },
+        {
+            "name": "斎場御嶽 (南城市)",
+            "description": "国指定史跡・世界遺産。琉球王国最高の聖地。",
+            "prefecture": "沖縄県",
+            "latitude": 26.173333,
+            "longitude": 127.826111
+        },
+        {
+            "name": "旧閑院宮邸跡 (京都市)",
+            "description": "京都御苑内。",
+            "prefecture": "京都府",
+            "latitude": 35.018333,
+            "longitude": 135.758333
+        },
+        {
+            "name": "相国寺旧境内 (京都市)",
+            "description": "国指定史跡。",
+            "prefecture": "京都府",
+            "latitude": 35.031111,
+            "longitude": 135.761111
+        },
+        {
+            "name": "安国論寺境内 (鎌倉市)",
+            "description": "国指定史跡。",
+            "prefecture": "神奈川県",
+            "latitude": 35.311111,
+            "longitude": 139.561111
+        },
+        {
+            "name": "旧集成館 (鹿児島市)",
+            "description": "国指定史跡・世界遺産。反射炉跡など。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.616667,
+            "longitude": 130.566667
+        },
+        {
+            "name": "旧弘道館 (水戸市)",
+            "description": "特別史跡。水戸藩校。",
+            "prefecture": "茨城県",
+            "latitude": 36.375000,
+            "longitude": 140.475000
+        },
+        {
+            "name": "湯島聖堂 (文京区)",
+            "description": "国指定史跡。昌平坂学問所跡。",
+            "prefecture": "東京都",
+            "latitude": 35.701389,
+            "longitude": 139.766667
+        },
+        {
+            "name": "旧開智学校 (松本市)",
+            "description": "国宝・国指定史跡。擬洋風建築。",
+            "prefecture": "長野県",
+            "latitude": 36.241667,
+            "longitude": 137.975000
+        },
+        {
+            "name": "小茂田浜 (対馬市)",
+            "description": "元寇古戦場。",
+            "prefecture": "長崎県",
+            "latitude": 34.233333,
+            "longitude": 129.183333
+        },
+        {
+            "name": "大谷磨崖仏 (宇都宮市)",
+            "description": "特別史跡。",
+            "prefecture": "栃木県",
+            "latitude": 36.600000,
+            "longitude": 139.816667
+        },
+        {
+            "name": "埼玉古墳群 (行田市)",
+            "description": "特別史跡。古墳群だが史跡公園として。",
+            "prefecture": "埼玉県",
+            "latitude": 36.126389,
+            "longitude": 139.481111
+        },
+        {
+            "name": "大森貝塚 (品川区)",
+            "description": "国指定史跡。",
+            "prefecture": "東京都",
+            "latitude": 35.583333,
+            "longitude": 139.733333
+        },
+        {
+            "name": "加曽利貝塚 (千葉市)",
+            "description": "特別史跡。",
+            "prefecture": "千葉県",
+            "latitude": 35.616667,
+            "longitude": 140.166667
+        }
+    ]
+}

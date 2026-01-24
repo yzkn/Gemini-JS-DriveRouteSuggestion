@@ -1,0 +1,704 @@
+{
+    "municipalities": [
+        {
+            "name": "羊蹄のふきだし湧水",
+            "description": "羊蹄山の雪解け水が湧き出る名水。京極町。",
+            "prefecture": "北海道",
+            "latitude": 42.858333,
+            "longitude": 140.866667
+        },
+        {
+            "name": "甘露泉水",
+            "description": "利尻島の湧水。日本最北の名水百選。",
+            "prefecture": "北海道",
+            "latitude": 45.233333,
+            "longitude": 141.216667
+        },
+        {
+            "name": "ナイベツ川湧水",
+            "description": "千歳市の水道水源。",
+            "prefecture": "北海道",
+            "latitude": 42.800000,
+            "longitude": 141.600000
+        },
+        {
+            "name": "大雪旭岳源水",
+            "description": "東川町にある湧水。",
+            "prefecture": "北海道",
+            "latitude": 43.650000,
+            "longitude": 142.550000
+        },
+        {
+            "name": "仁宇布の冷水",
+            "description": "美深町にある湧水。",
+            "prefecture": "北海道",
+            "latitude": 44.583333,
+            "longitude": 142.583333
+        },
+        {
+            "name": "龍泉洞の地底湖の水",
+            "description": "世界有数の透明度を誇る地底湖の水。",
+            "prefecture": "岩手県",
+            "latitude": 39.850000,
+            "longitude": 141.800000
+        },
+        {
+            "name": "金沢清水",
+            "description": "八幡平市にある湧水群。",
+            "prefecture": "岩手県",
+            "latitude": 40.000000,
+            "longitude": 141.083333
+        },
+        {
+            "name": "桂葉清水",
+            "description": "栗原市にある。",
+            "prefecture": "宮城県",
+            "latitude": 38.800000,
+            "longitude": 140.900000
+        },
+        {
+            "name": "六郷湧水群",
+            "description": "美郷町にある湧水群。「清水（しず）」と呼ばれる。",
+            "prefecture": "秋田県",
+            "latitude": 39.416667,
+            "longitude": 140.550000
+        },
+        {
+            "name": "力水",
+            "description": "湯沢市にある。",
+            "prefecture": "秋田県",
+            "latitude": 39.166667,
+            "longitude": 140.483333
+        },
+        {
+            "name": "月山山麓湧水群",
+            "description": "月山の雪解け水。",
+            "prefecture": "山形県",
+            "latitude": 38.500000,
+            "longitude": 140.000000
+        },
+        {
+            "name": "小見川",
+            "description": "東根市にある。",
+            "prefecture": "山形県",
+            "latitude": 38.433333,
+            "longitude": 140.400000
+        },
+        {
+            "name": "磐梯西山麓湧水群",
+            "description": "磐梯町にある。",
+            "prefecture": "福島県",
+            "latitude": 37.583333,
+            "longitude": 139.966667
+        },
+        {
+            "name": "小野川湧水",
+            "description": "北塩原村。",
+            "prefecture": "福島県",
+            "latitude": 37.683333,
+            "longitude": 140.083333
+        },
+        {
+            "name": "尚仁沢湧水",
+            "description": "塩谷町にある。水量が豊富。",
+            "prefecture": "栃木県",
+            "latitude": 36.783333,
+            "longitude": 139.750000
+        },
+        {
+            "name": "出流原弁天池湧水",
+            "description": "佐野市にある。非常に透明度が高い。",
+            "prefecture": "栃木県",
+            "latitude": 36.366667,
+            "longitude": 139.533333
+        },
+        {
+            "name": "箱島湧水",
+            "description": "東吾妻町にある。ホタルの名所。",
+            "prefecture": "群馬県",
+            "latitude": 36.566667,
+            "longitude": 138.966667
+        },
+        {
+            "name": "雄川堰",
+            "description": "甘楽町にある。",
+            "prefecture": "群馬県",
+            "latitude": 36.250000,
+            "longitude": 138.916667
+        },
+        {
+            "name": "風布川・日本水",
+            "description": "寄居町。",
+            "prefecture": "埼玉県",
+            "latitude": 36.100000,
+            "longitude": 139.166667
+        },
+        {
+            "name": "熊野の清水",
+            "description": "長南町。",
+            "prefecture": "千葉県",
+            "latitude": 35.400000,
+            "longitude": 140.233333
+        },
+        {
+            "name": "お鷹の道・真姿の池湧水群",
+            "description": "国分寺崖線の湧水。",
+            "prefecture": "東京都",
+            "latitude": 35.700000,
+            "longitude": 139.483333
+        },
+        {
+            "name": "秦野盆地湧水群",
+            "description": "秦野市にある。",
+            "prefecture": "神奈川県",
+            "latitude": 35.366667,
+            "longitude": 139.216667
+        },
+        {
+            "name": "竜ヶ窪",
+            "description": "津南町にある湧水。水量が豊富。",
+            "prefecture": "新潟県",
+            "latitude": 36.983333,
+            "longitude": 138.750000
+        },
+        {
+            "name": "杜々森湧水",
+            "description": "長岡市。",
+            "prefecture": "新潟県",
+            "latitude": 37.483333,
+            "longitude": 138.950000
+        },
+        {
+            "name": "黒部川扇状地湧水群",
+            "description": "黒部市・入善町。",
+            "prefecture": "富山県",
+            "latitude": 36.900000,
+            "longitude": 137.450000
+        },
+        {
+            "name": "穴の谷の霊水",
+            "description": "上市町。",
+            "prefecture": "富山県",
+            "latitude": 36.683333,
+            "longitude": 137.383333
+        },
+        {
+            "name": "立山玉殿の湧水",
+            "description": "立山室堂にある。",
+            "prefecture": "富山県",
+            "latitude": 36.583333,
+            "longitude": 137.600000
+        },
+        {
+            "name": "瓜裂の清水",
+            "description": "砺波市。",
+            "prefecture": "富山県",
+            "latitude": 36.616667,
+            "longitude": 137.016667
+        },
+        {
+            "name": "弘法池の水",
+            "description": "白山市。",
+            "prefecture": "石川県",
+            "latitude": 36.433333,
+            "longitude": 136.633333
+        },
+        {
+            "name": "古和秀水",
+            "description": "輪島市。",
+            "prefecture": "石川県",
+            "latitude": 37.300000,
+            "longitude": 136.783333
+        },
+        {
+            "name": "御手洗池",
+            "description": "七尾市。",
+            "prefecture": "石川県",
+            "latitude": 37.050000,
+            "longitude": 136.966667
+        },
+        {
+            "name": "瓜割の滝",
+            "description": "若狭町にある湧水。",
+            "prefecture": "福井県",
+            "latitude": 35.483333,
+            "longitude": 135.833333
+        },
+        {
+            "name": "御清水",
+            "description": "大野市。",
+            "prefecture": "福井県",
+            "latitude": 35.983333,
+            "longitude": 136.483333
+        },
+        {
+            "name": "鵜の瀬",
+            "description": "小浜市。お水送りの神事。",
+            "prefecture": "福井県",
+            "latitude": 35.466667,
+            "longitude": 135.783333
+        },
+        {
+            "name": "忍野八海",
+            "description": "富士山の伏流水による8つの池。（池カテゴリでも可だが湧水として有名）",
+            "prefecture": "山梨県",
+            "latitude": 35.460000,
+            "longitude": 138.833333
+        },
+        {
+            "name": "八ヶ岳南麓高原湧水群",
+            "description": "三分一湧水など。",
+            "prefecture": "山梨県",
+            "latitude": 35.866667,
+            "longitude": 138.350000
+        },
+        {
+            "name": "白州・尾白川",
+            "description": "南アルプスの天然水。",
+            "prefecture": "山梨県",
+            "latitude": 35.800000,
+            "longitude": 138.233333
+        },
+        {
+            "name": "猿庫の泉",
+            "description": "飯田市。",
+            "prefecture": "長野県",
+            "latitude": 35.533333,
+            "longitude": 137.800000
+        },
+        {
+            "name": "安曇野わさび田湧水群",
+            "description": "安曇野市。わさび栽培に利用。",
+            "prefecture": "長野県",
+            "latitude": 36.333333,
+            "longitude": 137.900000
+        },
+        {
+            "name": "まつもと城下町湧水群",
+            "description": "松本市内の井戸。",
+            "prefecture": "長野県",
+            "latitude": 36.233333,
+            "longitude": 137.966667
+        },
+        {
+            "name": "宗祇水",
+            "description": "郡上八幡にある名水百選第1号。",
+            "prefecture": "岐阜県",
+            "latitude": 35.750000,
+            "longitude": 136.950000
+        },
+        {
+            "name": "柿田川湧水群",
+            "description": "富士山の雪解け水が湧き出る。東洋一の湧水量。",
+            "prefecture": "静岡県",
+            "latitude": 35.116667,
+            "longitude": 138.900000
+        },
+        {
+            "name": "源兵衛川",
+            "description": "三島市にある湧水河川。",
+            "prefecture": "静岡県",
+            "latitude": 35.116667,
+            "longitude": 138.916667
+        },
+        {
+            "name": "伏見の御香水",
+            "description": "御香宮神社にある。",
+            "prefecture": "京都府",
+            "latitude": 34.933333,
+            "longitude": 135.766667
+        },
+        {
+            "name": "離宮の水",
+            "description": "島本町。水無瀬神宮。",
+            "prefecture": "大阪府",
+            "latitude": 34.883333,
+            "longitude": 135.666667
+        },
+        {
+            "name": "宮水",
+            "description": "西宮市。灘の酒に使われる。",
+            "prefecture": "兵庫県",
+            "latitude": 34.733333,
+            "longitude": 135.333333
+        },
+        {
+            "name": "洞川湧水群",
+            "description": "天川村。ごろごろ水など。",
+            "prefecture": "奈良県",
+            "latitude": 34.266667,
+            "longitude": 135.883333
+        },
+        {
+            "name": "野中の清水",
+            "description": "中辺路にある。",
+            "prefecture": "和歌山県",
+            "latitude": 33.816667,
+            "longitude": 135.616667
+        },
+        {
+            "name": "天の真名井",
+            "description": "京丹後市。",
+            "prefecture": "京都府",
+            "latitude": 35.600000,
+            "longitude": 135.050000
+        },
+        {
+            "name": "布勢の清水",
+            "description": "鳥取市。",
+            "prefecture": "鳥取県",
+            "latitude": 35.516667,
+            "longitude": 134.166667
+        },
+        {
+            "name": "塩釜の冷泉",
+            "description": "真庭市蒜山。",
+            "prefecture": "岡山県",
+            "latitude": 35.283333,
+            "longitude": 133.666667
+        },
+        {
+            "name": "雄町の冷泉",
+            "description": "岡山市。酒造りに使われる。",
+            "prefecture": "岡山県",
+            "latitude": 34.683333,
+            "longitude": 133.966667
+        },
+        {
+            "name": "別府弁天池湧水",
+            "description": "美祢市。コバルトブルーの水。",
+            "prefecture": "山口県",
+            "latitude": 34.233333,
+            "longitude": 131.233333
+        },
+        {
+            "name": "桜井戸",
+            "description": "岩国市。",
+            "prefecture": "山口県",
+            "latitude": 34.166667,
+            "longitude": 132.216667
+        },
+        {
+            "name": "江川の湧水",
+            "description": "吉野川市。夏に冷たく冬に温かい。",
+            "prefecture": "徳島県",
+            "latitude": 34.066667,
+            "longitude": 134.350000
+        },
+        {
+            "name": "剣山御神水",
+            "description": "剣山にある。",
+            "prefecture": "徳島県",
+            "latitude": 33.850000,
+            "longitude": 134.100000
+        },
+        {
+            "name": "うちぬき",
+            "description": "西条市の自噴井群。",
+            "prefecture": "愛媛県",
+            "latitude": 33.916667,
+            "longitude": 133.183333
+        },
+        {
+            "name": "杖の淵公園",
+            "description": "松山市。弘法大師伝説。",
+            "prefecture": "愛媛県",
+            "latitude": 33.800000,
+            "longitude": 132.800000
+        },
+        {
+            "name": "観音水",
+            "description": "西予市。",
+            "prefecture": "愛媛県",
+            "latitude": 33.366667,
+            "longitude": 132.550000
+        },
+        {
+            "name": "清水湧水",
+            "description": "うきは市。",
+            "prefecture": "福岡県",
+            "latitude": 33.333333,
+            "longitude": 130.800000
+        },
+        {
+            "name": "不老水",
+            "description": "福岡市香椎宮。",
+            "prefecture": "福岡県",
+            "latitude": 33.650000,
+            "longitude": 130.450000
+        },
+        {
+            "name": "竜門の清水",
+            "description": "有田町。",
+            "prefecture": "佐賀県",
+            "latitude": 33.200000,
+            "longitude": 129.900000
+        },
+        {
+            "name": "島原湧水群",
+            "description": "島原市。水の都。",
+            "prefecture": "長崎県",
+            "latitude": 32.783333,
+            "longitude": 130.366667
+        },
+        {
+            "name": "轟渓流",
+            "description": "諫早市。",
+            "prefecture": "長崎県",
+            "latitude": 32.900000,
+            "longitude": 130.100000
+        },
+        {
+            "name": "白川水源",
+            "description": "南阿蘇村。毎分60トンの湧水量。",
+            "prefecture": "熊本県",
+            "latitude": 32.833333,
+            "longitude": 131.033333
+        },
+        {
+            "name": "池山水源",
+            "description": "産山村。",
+            "prefecture": "熊本県",
+            "latitude": 33.083333,
+            "longitude": 131.233333
+        },
+        {
+            "name": "菊池水源",
+            "description": "菊池渓谷。",
+            "prefecture": "熊本県",
+            "latitude": 32.983333,
+            "longitude": 130.950000
+        },
+        {
+            "name": "轟水源",
+            "description": "宇土市。",
+            "prefecture": "熊本県",
+            "latitude": 32.683333,
+            "longitude": 130.666667
+        },
+        {
+            "name": "男池湧水群",
+            "description": "由布市。黒岳の麓。",
+            "prefecture": "大分県",
+            "latitude": 33.183333,
+            "longitude": 131.333333
+        },
+        {
+            "name": "竹田湧水群",
+            "description": "竹田市。",
+            "prefecture": "大分県",
+            "latitude": 32.966667,
+            "longitude": 131.383333
+        },
+        {
+            "name": "出の山湧水",
+            "description": "小林市。チョウザメ養殖。",
+            "prefecture": "宮崎県",
+            "latitude": 31.983333,
+            "longitude": 130.966667
+        },
+        {
+            "name": "綾川湧水群",
+            "description": "綾町。照葉樹林。",
+            "prefecture": "宮崎県",
+            "latitude": 32.000000,
+            "longitude": 131.250000
+        },
+        {
+            "name": "霧島山麓丸池湧水",
+            "description": "湧水町。日量6万トン。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.950000,
+            "longitude": 130.716667
+        },
+        {
+            "name": "垣花樋川",
+            "description": "南城市。全国名水百選。",
+            "prefecture": "沖縄県",
+            "latitude": 26.150000,
+            "longitude": 127.783333
+        },
+        {
+            "name": "大川（ウッカー）",
+            "description": "大宜味村。",
+            "prefecture": "沖縄県",
+            "latitude": 26.700000,
+            "longitude": 128.133333
+        },
+        {
+            "name": "大雪旭岳源水公園",
+            "description": "東川町。",
+            "prefecture": "北海道",
+            "latitude": 43.666667,
+            "longitude": 142.550000
+        },
+        {
+            "name": "元町配水場",
+            "description": "函館市。",
+            "prefecture": "北海道",
+            "latitude": 41.766667,
+            "longitude": 140.716667
+        },
+        {
+            "name": "富田の清水",
+            "description": "弘前市。",
+            "prefecture": "青森県",
+            "latitude": 40.600000,
+            "longitude": 140.466667
+        },
+        {
+            "name": "渾神の清水",
+            "description": "平川市。",
+            "prefecture": "青森県",
+            "latitude": 40.583333,
+            "longitude": 140.566667
+        },
+        {
+            "name": "青葉山・広瀬川の湧水",
+            "description": "仙台市。",
+            "prefecture": "宮城県",
+            "latitude": 38.250000,
+            "longitude": 140.850000
+        },
+        {
+            "name": "元滝伏流水",
+            "description": "にかほ市。鳥海山の伏流水。",
+            "prefecture": "秋田県",
+            "latitude": 39.216667,
+            "longitude": 139.966667
+        },
+        {
+            "name": "立谷沢川",
+            "description": "庄内町。",
+            "prefecture": "山形県",
+            "latitude": 38.800000,
+            "longitude": 140.033333
+        },
+        {
+            "name": "右近清水",
+            "description": "相馬市。",
+            "prefecture": "福島県",
+            "latitude": 37.800000,
+            "longitude": 140.916667
+        },
+        {
+            "name": "大清水湧水",
+            "description": "君津市。",
+            "prefecture": "千葉県",
+            "latitude": 35.250000,
+            "longitude": 140.050000
+        },
+        {
+            "name": "生きた水・久留里",
+            "description": "君津市。上総掘りの井戸。",
+            "prefecture": "千葉県",
+            "latitude": 35.283333,
+            "longitude": 140.083333
+        },
+        {
+            "name": "落合川と南沢湧水群",
+            "description": "東久留米市。",
+            "prefecture": "東京都",
+            "latitude": 35.750000,
+            "longitude": 139.533333
+        },
+        {
+            "name": "等々力の渓谷と湧水",
+            "description": "世田谷区。",
+            "prefecture": "東京都",
+            "latitude": 35.600000,
+            "longitude": 139.650000
+        },
+        {
+            "name": "清左衛門地獄池",
+            "description": "南足柄市。湧水池。",
+            "prefecture": "神奈川県",
+            "latitude": 35.316667,
+            "longitude": 139.100000
+        },
+        {
+            "name": "吉祥清水",
+            "description": "村上市。",
+            "prefecture": "新潟県",
+            "latitude": 38.350000,
+            "longitude": 139.450000
+        },
+        {
+            "name": "宇棚の清水",
+            "description": "妙高市。",
+            "prefecture": "新潟県",
+            "latitude": 36.900000,
+            "longitude": 138.133333
+        },
+        {
+            "name": "大土川の湧水",
+            "description": "富山市。",
+            "prefecture": "富山県",
+            "latitude": 36.566667,
+            "longitude": 137.416667
+        },
+        {
+            "name": "弓の清水",
+            "description": "高岡市。",
+            "prefecture": "富山県",
+            "latitude": 36.750000,
+            "longitude": 137.016667
+        },
+        {
+            "name": "行者湧水",
+            "description": "立山町。",
+            "prefecture": "富山県",
+            "latitude": 36.633333,
+            "longitude": 137.450000
+        },
+        {
+            "name": "白山美川伏流水群",
+            "description": "白山市。",
+            "prefecture": "石川県",
+            "latitude": 36.483333,
+            "longitude": 136.533333
+        },
+        {
+            "name": "遣水観音霊水",
+            "description": "能美市。",
+            "prefecture": "石川県",
+            "latitude": 36.433333,
+            "longitude": 136.550000
+        },
+        {
+            "name": "雲城水",
+            "description": "小浜市。",
+            "prefecture": "福井県",
+            "latitude": 35.483333,
+            "longitude": 135.750000
+        },
+        {
+            "name": "本願清水",
+            "description": "大野市。イトヨが生息。",
+            "prefecture": "福井県",
+            "latitude": 35.983333,
+            "longitude": 136.483333
+        },
+        {
+            "name": "三分一湧水",
+            "description": "北杜市。",
+            "prefecture": "山梨県",
+            "latitude": 35.866667,
+            "longitude": 138.333333
+        },
+        {
+            "name": "大滝湧水",
+            "description": "北杜市。",
+            "prefecture": "山梨県",
+            "latitude": 35.850000,
+            "longitude": 138.350000
+        },
+        {
+            "name": "木曽川源流の里・水木沢",
+            "description": "木祖村。",
+            "prefecture": "長野県",
+            "latitude": 35.950000,
+            "longitude": 137.750000
+        }
+    ]
+}

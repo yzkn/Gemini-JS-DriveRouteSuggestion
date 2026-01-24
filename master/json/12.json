@@ -1,0 +1,704 @@
+{
+    "municipalities": [
+        {
+            "name": "島武意海岸",
+            "description": "積丹ブルーの海と奇岩が美しい海岸。日本の渚百選。",
+            "prefecture": "北海道",
+            "latitude": 43.383333,
+            "longitude": 140.466667
+        },
+        {
+            "name": "黄金岬",
+            "description": "夕日の名所として知られる。",
+            "prefecture": "北海道",
+            "latitude": 43.950000,
+            "longitude": 141.633333
+        },
+        {
+            "name": "トッカリショ",
+            "description": "断崖絶壁と奇岩が続く景勝地。",
+            "prefecture": "北海道",
+            "latitude": 42.333333,
+            "longitude": 141.016667
+        },
+        {
+            "name": "襟裳岬",
+            "description": "風の岬。岩礁が沖まで続く。",
+            "prefecture": "北海道",
+            "latitude": 41.933333,
+            "longitude": 143.233333
+        },
+        {
+            "name": "神威岬",
+            "description": "積丹半島の先端。女人禁制の伝説があった。",
+            "prefecture": "北海道",
+            "latitude": 43.333333,
+            "longitude": 140.350000
+        },
+        {
+            "name": "オロロンライン",
+            "description": "日本海沿岸を走る絶景ドライブルート。",
+            "prefecture": "北海道",
+            "latitude": 44.500000,
+            "longitude": 141.750000
+        },
+        {
+            "name": "立待岬",
+            "description": "津軽海峡を望む断崖。",
+            "prefecture": "北海道",
+            "latitude": 41.750000,
+            "longitude": 140.716667
+        },
+        {
+            "name": "仏ヶ浦",
+            "description": "白緑色の奇岩が立ち並ぶ神秘的な海岸。",
+            "prefecture": "青森県",
+            "latitude": 41.316667,
+            "longitude": 140.800000
+        },
+        {
+            "name": "種差海岸",
+            "description": "天然芝生が波打ち際まで広がる。",
+            "prefecture": "青森県",
+            "latitude": 40.533333,
+            "longitude": 141.583333
+        },
+        {
+            "name": "北山崎",
+            "description": "高さ200mの断崖絶壁が続く三陸海岸の代表的景勝地。",
+            "prefecture": "岩手県",
+            "latitude": 39.983333,
+            "longitude": 141.950000
+        },
+        {
+            "name": "鵜の巣断崖",
+            "description": "弓状に連なる断崖。",
+            "prefecture": "岩手県",
+            "latitude": 39.816667,
+            "longitude": 141.933333
+        },
+        {
+            "name": "碁石海岸",
+            "description": "碁石のような黒い玉砂利の浜や奇岩がある。",
+            "prefecture": "岩手県",
+            "latitude": 38.983333,
+            "longitude": 141.733333
+        },
+        {
+            "name": "巨釜・半造",
+            "description": "唐桑半島にある奇岩の景勝地。",
+            "prefecture": "宮城県",
+            "latitude": 38.900000,
+            "longitude": 141.650000
+        },
+        {
+            "name": "神割崎",
+            "description": "岩の間から波が押し寄せる。",
+            "prefecture": "宮城県",
+            "latitude": 38.633333,
+            "longitude": 141.516667
+        },
+        {
+            "name": "笹川流れ",
+            "description": "国の名勝天然記念物。透明度の高い海と奇岩。",
+            "prefecture": "新潟県",
+            "latitude": 38.400000,
+            "longitude": 139.466667
+        },
+        {
+            "name": "入道崎",
+            "description": "男鹿半島の先端。芝生と青い海。",
+            "prefecture": "秋田県",
+            "latitude": 40.000000,
+            "longitude": 139.700000
+        },
+        {
+            "name": "潮瀬崎",
+            "description": "ゴジラ岩がある。",
+            "prefecture": "秋田県",
+            "latitude": 39.850000,
+            "longitude": 139.750000
+        },
+        {
+            "name": "三崎公園（潮見台）",
+            "description": "海に突き出た展望台がある。",
+            "prefecture": "福島県",
+            "latitude": 36.933333,
+            "longitude": 140.916667
+        },
+        {
+            "name": "五浦海岸",
+            "description": "岡倉天心が愛した景勝地。六角堂がある。",
+            "prefecture": "茨城県",
+            "latitude": 36.833333,
+            "longitude": 140.800000
+        },
+        {
+            "name": "屏風ヶ浦",
+            "description": "「東洋のドーバー」と呼ばれる海食崖。",
+            "prefecture": "千葉県",
+            "latitude": 35.700000,
+            "longitude": 140.733333
+        },
+        {
+            "name": "犬吠埼",
+            "description": "関東最東端の岬。荒々しい海岸美。",
+            "prefecture": "千葉県",
+            "latitude": 35.700000,
+            "longitude": 140.866667
+        },
+        {
+            "name": "大房岬",
+            "description": "南房総国定公園。要塞跡がある。",
+            "prefecture": "千葉県",
+            "latitude": 35.050000,
+            "longitude": 139.816667
+        },
+        {
+            "name": "野島崎",
+            "description": "房総半島最南端。岩場が広がる。",
+            "prefecture": "千葉県",
+            "latitude": 34.900000,
+            "longitude": 139.883333
+        },
+        {
+            "name": "城ヶ島",
+            "description": "三浦半島の最南端。馬の背洞門などの奇岩。",
+            "prefecture": "神奈川県",
+            "latitude": 35.133333,
+            "longitude": 139.616667
+        },
+        {
+            "name": "荒崎海岸",
+            "description": "美しい地層が見られる岩場。",
+            "prefecture": "神奈川県",
+            "latitude": 35.183333,
+            "longitude": 139.600000
+        },
+        {
+            "name": "真鶴岬（三ツ石）",
+            "description": "干潮時に岩場を歩いて渡れる。",
+            "prefecture": "神奈川県",
+            "latitude": 35.133333,
+            "longitude": 139.150000
+        },
+        {
+            "name": "大崎公園",
+            "description": "披露山公園の奥。相模湾を一望。",
+            "prefecture": "神奈川県",
+            "latitude": 35.283333,
+            "longitude": 139.550000
+        },
+        {
+            "name": "石地海岸",
+            "description": "遠浅で夕日が美しい。",
+            "prefecture": "新潟県",
+            "latitude": 37.550000,
+            "longitude": 138.650000
+        },
+        {
+            "name": "親不知・子不知",
+            "description": "北陸道の難所として知られる断崖絶壁。",
+            "prefecture": "新潟県",
+            "latitude": 36.983333,
+            "longitude": 137.716667
+        },
+        {
+            "name": "生地海岸",
+            "description": "湧水群に近い海岸。",
+            "prefecture": "富山県",
+            "latitude": 36.883333,
+            "longitude": 137.416667
+        },
+        {
+            "name": "能登金剛（巌門）",
+            "description": "能登半島国定公園を代表する景勝地。",
+            "prefecture": "石川県",
+            "latitude": 37.066667,
+            "longitude": 136.716667
+        },
+        {
+            "name": "曽々木海岸",
+            "description": "窓岩などの奇岩がある。",
+            "prefecture": "石川県",
+            "latitude": 37.450000,
+            "longitude": 137.083333
+        },
+        {
+            "name": "恋路海岸",
+            "description": "伝説のあるロマンチックな海岸。",
+            "prefecture": "石川県",
+            "latitude": 37.350000,
+            "longitude": 137.216667
+        },
+        {
+            "name": "東尋坊",
+            "description": "柱状節理の断崖絶壁。国の天然記念物。",
+            "prefecture": "福井県",
+            "latitude": 36.233333,
+            "longitude": 136.133333
+        },
+        {
+            "name": "越前海岸",
+            "description": "呼鳥門などの奇岩と水仙で有名。",
+            "prefecture": "福井県",
+            "latitude": 35.983333,
+            "longitude": 136.000000
+        },
+        {
+            "name": "城ヶ崎海岸",
+            "description": "溶岩流が作った断崖と吊り橋。",
+            "prefecture": "静岡県",
+            "latitude": 34.883333,
+            "longitude": 139.133333
+        },
+        {
+            "name": "石廊崎",
+            "description": "伊豆半島最南端の断崖。",
+            "prefecture": "静岡県",
+            "latitude": 34.600000,
+            "longitude": 138.850000
+        },
+        {
+            "name": "黄金崎",
+            "description": "夕日を浴びて黄金色に輝く岩壁。",
+            "prefecture": "静岡県",
+            "latitude": 34.833333,
+            "longitude": 138.766667
+        },
+        {
+            "name": "堂ヶ島",
+            "description": "天窓洞などの海触洞がある。",
+            "prefecture": "静岡県",
+            "latitude": 34.783333,
+            "longitude": 138.766667
+        },
+        {
+            "name": "大王崎",
+            "description": "画家が多く訪れる絵になる岬。",
+            "prefecture": "三重県",
+            "latitude": 34.283333,
+            "longitude": 136.900000
+        },
+        {
+            "name": "鬼ヶ城",
+            "description": "世界遺産。海風蝕と地震による隆起で作られた岩壁。",
+            "prefecture": "三重県",
+            "latitude": 33.883333,
+            "longitude": 136.116667
+        },
+        {
+            "name": "二見浦（夫婦岩）",
+            "description": "夫婦岩で有名。",
+            "prefecture": "三重県",
+            "latitude": 34.500000,
+            "longitude": 136.783333
+        },
+        {
+            "name": "立岩",
+            "description": "間人（たいざ）にある巨大な一枚岩。",
+            "prefecture": "京都府",
+            "latitude": 35.733333,
+            "longitude": 135.100000
+        },
+        {
+            "name": "屏風岩",
+            "description": "高さ13mの岩壁。",
+            "prefecture": "京都府",
+            "latitude": 35.733333,
+            "longitude": 135.116667
+        },
+        {
+            "name": "経ヶ岬",
+            "description": "近畿最北端の岬。",
+            "prefecture": "京都府",
+            "latitude": 35.766667,
+            "longitude": 135.216667
+        },
+        {
+            "name": "香住海岸",
+            "description": "鎧の袖などの海食崖が続く。",
+            "prefecture": "兵庫県",
+            "latitude": 35.650000,
+            "longitude": 134.616667
+        },
+        {
+            "name": "はさかり岩",
+            "description": "岩と岩の間に丸い岩が挟まっている。",
+            "prefecture": "兵庫県",
+            "latitude": 35.666667,
+            "longitude": 134.700000
+        },
+        {
+            "name": "白崎海岸",
+            "description": "白い石灰岩の岬。「日本のエーゲ海」。",
+            "prefecture": "和歌山県",
+            "latitude": 33.966667,
+            "longitude": 135.066667
+        },
+        {
+            "name": "千畳敷",
+            "description": "畳を敷き詰めたような岩畳。",
+            "prefecture": "和歌山県",
+            "latitude": 33.666667,
+            "longitude": 135.333333
+        },
+        {
+            "name": "三段壁",
+            "description": "高さ50mの断崖。洞窟がある。",
+            "prefecture": "和歌山県",
+            "latitude": 33.666667,
+            "longitude": 135.333333
+        },
+        {
+            "name": "橋杭岩",
+            "description": "大小40余りの岩が並ぶ。",
+            "prefecture": "和歌山県",
+            "latitude": 33.483333,
+            "longitude": 135.783333
+        },
+        {
+            "name": "円月島",
+            "description": "中央に穴が開いた島。",
+            "prefecture": "和歌山県",
+            "latitude": 33.683333,
+            "longitude": 135.333333
+        },
+        {
+            "name": "浦富海岸",
+            "description": "山陰海岸ジオパークの景勝地。透明度が高い。",
+            "prefecture": "鳥取県",
+            "latitude": 35.583333,
+            "longitude": 134.300000
+        },
+        {
+            "name": "日御碕海岸",
+            "description": "柱状節理の断崖が続く。",
+            "prefecture": "島根県",
+            "latitude": 35.433333,
+            "longitude": 132.616667
+        },
+        {
+            "name": "国賀海岸",
+            "description": "隠岐・西ノ島にある摩天崖や通天橋。",
+            "prefecture": "島根県",
+            "latitude": 36.100000,
+            "longitude": 132.966667
+        },
+        {
+            "name": "ローソク島",
+            "description": "隠岐・島後にある奇岩。夕日が灯る。",
+            "prefecture": "島根県",
+            "latitude": 36.283333,
+            "longitude": 133.283333
+        },
+        {
+            "name": "白兎海岸",
+            "description": "（砂浜カテゴリで既出だが景勝地としても有名）",
+            "prefecture": "鳥取県",
+            "latitude": 35.550000,
+            "longitude": 134.133333
+        },
+        {
+            "name": "渋川海岸",
+            "description": "（砂浜カテゴリで既出）",
+            "prefecture": "岡山県",
+            "latitude": 34.450000,
+            "longitude": 133.900000
+        },
+        {
+            "name": "鷲羽山",
+            "description": "瀬戸大橋と瀬戸内海の多島美を望む。",
+            "prefecture": "岡山県",
+            "latitude": 34.433333,
+            "longitude": 133.800000
+        },
+        {
+            "name": "仙酔島",
+            "description": "鞆の浦に浮かぶ美しい島。",
+            "prefecture": "広島県",
+            "latitude": 34.383333,
+            "longitude": 133.383333
+        },
+        {
+            "name": "青海島",
+            "description": "「海上アルプス」と呼ばれる奇岩群。",
+            "prefecture": "山口県",
+            "latitude": 34.416667,
+            "longitude": 131.200000
+        },
+        {
+            "name": "須佐ホルンフェルス",
+            "description": "白と黒の縞模様の断崖。",
+            "prefecture": "山口県",
+            "latitude": 34.633333,
+            "longitude": 131.600000
+        },
+        {
+            "name": "龍宮の潮吹",
+            "description": "元乃隅神社の近く。",
+            "prefecture": "山口県",
+            "latitude": 34.416667,
+            "longitude": 131.050000
+        },
+        {
+            "name": "室戸岬",
+            "description": "乱礁遊歩道があり、地質遺産が見られる。",
+            "prefecture": "高知県",
+            "latitude": 33.250000,
+            "longitude": 134.183333
+        },
+        {
+            "name": "足摺岬",
+            "description": "四国最南端。断崖絶壁。",
+            "prefecture": "高知県",
+            "latitude": 32.716667,
+            "longitude": 133.016667
+        },
+        {
+            "name": "竜串海岸",
+            "description": "奇岩が連なる地質の名所。",
+            "prefecture": "高知県",
+            "latitude": 32.783333,
+            "longitude": 132.866667
+        },
+        {
+            "name": "見残し海岸",
+            "description": "竜串の対岸。グラスボートで行く。",
+            "prefecture": "高知県",
+            "latitude": 32.766667,
+            "longitude": 132.850000
+        },
+        {
+            "name": "大堂海岸",
+            "description": "柏島近くの断崖。",
+            "prefecture": "高知県",
+            "latitude": 32.766667,
+            "longitude": 132.733333
+        },
+        {
+            "name": "蒲生田岬",
+            "description": "四国最東端。",
+            "prefecture": "徳島県",
+            "latitude": 33.833333,
+            "longitude": 134.750000
+        },
+        {
+            "name": "日和佐海岸",
+            "description": "ウミガメの産卵地。",
+            "prefecture": "徳島県",
+            "latitude": 33.733333,
+            "longitude": 134.550000
+        },
+        {
+            "name": "佐田岬",
+            "description": "四国最西端の細長い半島。",
+            "prefecture": "愛媛県",
+            "latitude": 33.350000,
+            "longitude": 132.016667
+        },
+        {
+            "name": "須ノ川海岸",
+            "description": "日本の渚百選。",
+            "prefecture": "愛媛県",
+            "latitude": 33.050000,
+            "longitude": 132.533333
+        },
+        {
+            "name": "芥屋の大門",
+            "description": "日本最大の玄武岩洞。",
+            "prefecture": "福岡県",
+            "latitude": 33.600000,
+            "longitude": 130.100000
+        },
+        {
+            "name": "波戸岬",
+            "description": "ハートのオブジェがある恋人の聖地。",
+            "prefecture": "佐賀県",
+            "latitude": 33.550000,
+            "longitude": 129.850000
+        },
+        {
+            "name": "七ツ釜",
+            "description": "玄界灘の荒波が作った海蝕洞。",
+            "prefecture": "佐賀県",
+            "latitude": 33.550000,
+            "longitude": 129.966667
+        },
+        {
+            "name": "九十九島",
+            "description": "リアス式海岸と多数の島々。",
+            "prefecture": "長崎県",
+            "latitude": 33.166667,
+            "longitude": 129.666667
+        },
+        {
+            "name": "大バエ灯台（生月島）",
+            "description": "断崖絶壁の上に立つ灯台。",
+            "prefecture": "長崎県",
+            "latitude": 33.400000,
+            "longitude": 129.416667
+        },
+        {
+            "name": "妙見浦",
+            "description": "天草西海岸の景勝地。象の形をした岩。",
+            "prefecture": "熊本県",
+            "latitude": 32.416667,
+            "longitude": 130.016667
+        },
+        {
+            "name": "日豊海岸（クルスの海）",
+            "description": "岩が十字に割れている。",
+            "prefecture": "宮崎県",
+            "latitude": 32.533333,
+            "longitude": 131.683333
+        },
+        {
+            "name": "馬ヶ背",
+            "description": "日向岬にある柱状節理の断崖。",
+            "prefecture": "宮崎県",
+            "latitude": 32.433333,
+            "longitude": 131.683333
+        },
+        {
+            "name": "日南海岸（堀切峠・道の駅フェニックス）",
+            "description": "南国ムード漂う海岸線。",
+            "prefecture": "宮崎県",
+            "latitude": 31.783333,
+            "longitude": 131.483333
+        },
+        {
+            "name": "都井岬",
+            "description": "野生馬が生息する岬。",
+            "prefecture": "宮崎県",
+            "latitude": 31.366667,
+            "longitude": 131.350000
+        },
+        {
+            "name": "長崎鼻",
+            "description": "開聞岳を望む薩摩半島最南端の岬。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.150000,
+            "longitude": 130.583333
+        },
+        {
+            "name": "坊津（坊ノ岬）",
+            "description": "リアス式海岸の景勝地。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.250000,
+            "longitude": 130.216667
+        },
+        {
+            "name": "佐多岬",
+            "description": "九州本土最南端。",
+            "prefecture": "鹿児島県",
+            "latitude": 30.983333,
+            "longitude": 130.650000
+        },
+        {
+            "name": "万座毛",
+            "description": "象の鼻のような岩がある絶壁。",
+            "prefecture": "沖縄県",
+            "latitude": 26.500000,
+            "longitude": 127.850000
+        },
+        {
+            "name": "残波岬",
+            "description": "高さ30mの断崖が2km続く。",
+            "prefecture": "沖縄県",
+            "latitude": 26.433333,
+            "longitude": 127.716667
+        },
+        {
+            "name": "真栄田岬",
+            "description": "青の洞窟がある。",
+            "prefecture": "沖縄県",
+            "latitude": 26.433333,
+            "longitude": 127.766667
+        },
+        {
+            "name": "茅打ちバンタ",
+            "description": "国頭村にある高さ80mの断崖。",
+            "prefecture": "沖縄県",
+            "latitude": 26.850000,
+            "longitude": 128.250000
+        },
+        {
+            "name": "東平安名崎",
+            "description": "宮古島の最東端。巨岩が点在。",
+            "prefecture": "沖縄県",
+            "latitude": 24.716667,
+            "longitude": 125.466667
+        },
+        {
+            "name": "伊良部大橋周辺",
+            "description": "宮古ブルーの海を渡る。",
+            "prefecture": "沖縄県",
+            "latitude": 24.816667,
+            "longitude": 125.183333
+        },
+        {
+            "name": "川平湾",
+            "description": "石垣島を代表する景勝地。グラスボート。",
+            "prefecture": "沖縄県",
+            "latitude": 24.450000,
+            "longitude": 124.133333
+        },
+        {
+            "name": "御神崎",
+            "description": "石垣島の西端。断崖絶壁。",
+            "prefecture": "沖縄県",
+            "latitude": 24.450000,
+            "longitude": 124.066667
+        },
+        {
+            "name": "宗谷岬",
+            "description": "日本最北端の地。",
+            "prefecture": "北海道",
+            "latitude": 45.516667,
+            "longitude": 141.933333
+        },
+        {
+            "name": "納沙布岬",
+            "description": "日本本土最東端。",
+            "prefecture": "北海道",
+            "latitude": 43.383333,
+            "longitude": 145.816667
+        },
+        {
+            "name": "地球岬",
+            "description": "100mの断崖絶壁。太平洋を一望。",
+            "prefecture": "北海道",
+            "latitude": 42.300000,
+            "longitude": 141.000000
+        },
+        {
+            "name": "大間崎",
+            "description": "本州最北端。",
+            "prefecture": "青森県",
+            "latitude": 41.550000,
+            "longitude": 140.916667
+        },
+        {
+            "name": "竜飛崎",
+            "description": "津軽半島最北端。風が強い。",
+            "prefecture": "青森県",
+            "latitude": 41.250000,
+            "longitude": 140.333333
+        },
+        {
+            "name": "鵜の尾岬",
+            "description": "相馬市。",
+            "prefecture": "福島県",
+            "latitude": 37.816667,
+            "longitude": 140.966667
+        },
+        {
+            "name": "太東崎",
+            "description": "いすみ市。",
+            "prefecture": "千葉県",
+            "latitude": 35.300000,
+            "longitude": 140.400000
+        }
+    ]
+}

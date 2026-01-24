@@ -1,0 +1,585 @@
+{
+    "municipalities": [
+        {
+            "name": "コムケ湖",
+            "description": "紋別市にある干潟。",
+            "prefecture": "北海道",
+            "latitude": 44.266667,
+            "longitude": 143.533333
+        },
+        {
+            "name": "サロマ湖",
+            "description": "砂嘴に囲まれた汽水湖の干潟。",
+            "prefecture": "北海道",
+            "latitude": 44.116667,
+            "longitude": 143.733333
+        },
+        {
+            "name": "能取湖",
+            "description": "サンゴ草（アッケシソウ）の群生地。",
+            "prefecture": "北海道",
+            "latitude": 44.050000,
+            "longitude": 144.150000
+        },
+        {
+            "name": "濤沸湖",
+            "description": "オホーツク海沿岸の干潟。",
+            "prefecture": "北海道",
+            "latitude": 43.933333,
+            "longitude": 144.400000
+        },
+        {
+            "name": "野付半島・野付湾",
+            "description": "日本最大級の砂嘴と干潟。ラムサール条約登録。",
+            "prefecture": "北海道",
+            "latitude": 43.583333,
+            "longitude": 145.333333
+        },
+        {
+            "name": "風蓮湖・春国岱",
+            "description": "広大な干潟と塩性湿地。野鳥の楽園。",
+            "prefecture": "北海道",
+            "latitude": 43.300000,
+            "longitude": 145.400000
+        },
+        {
+            "name": "厚岸湖・別寒辺牛湿原",
+            "description": "汽水湖の干潟。カキの養殖。",
+            "prefecture": "北海道",
+            "latitude": 43.050000,
+            "longitude": 144.883333
+        },
+        {
+            "name": "万石浦",
+            "description": "石巻市。養殖が盛んな内湾の干潟。",
+            "prefecture": "宮城県",
+            "latitude": 38.433333,
+            "longitude": 141.350000
+        },
+        {
+            "name": "蒲生干潟",
+            "description": "仙台市。七北田川河口の干潟。",
+            "prefecture": "宮城県",
+            "latitude": 38.258333,
+            "longitude": 141.016667
+        },
+        {
+            "name": "井土浦",
+            "description": "名取川河口。",
+            "prefecture": "宮城県",
+            "latitude": 38.183333,
+            "longitude": 140.966667
+        },
+        {
+            "name": "鳥の海",
+            "description": "亘理町。汽水湖の干潟。",
+            "prefecture": "宮城県",
+            "latitude": 38.033333,
+            "longitude": 140.916667
+        },
+        {
+            "name": "松川浦",
+            "description": "相馬市。砂州によって外海と隔てられた潟湖。",
+            "prefecture": "福島県",
+            "latitude": 37.816667,
+            "longitude": 140.966667
+        },
+        {
+            "name": "谷津干潟",
+            "description": "東京湾に残された貴重な干潟。ラムサール条約登録。",
+            "prefecture": "千葉県",
+            "latitude": 35.680000,
+            "longitude": 140.000000
+        },
+        {
+            "name": "三番瀬",
+            "description": "東京湾奥部に広がる干潟。野鳥の飛来地。",
+            "prefecture": "千葉県",
+            "latitude": 35.660000,
+            "longitude": 139.960000
+        },
+        {
+            "name": "葛西海浜公園（西なぎさ・東なぎさ）",
+            "description": "人工干潟だが豊かな生態系を持つ。ラムサール条約登録。",
+            "prefecture": "東京都",
+            "latitude": 35.633333,
+            "longitude": 139.860000
+        },
+        {
+            "name": "多摩川河口干潟",
+            "description": "羽田空港の対岸に広がる干潟。",
+            "prefecture": "東京都・神奈川県",
+            "latitude": 35.533333,
+            "longitude": 139.783333
+        },
+        {
+            "name": "中海",
+            "description": "日本海側の貴重な汽水湖干潟。",
+            "prefecture": "島根県・鳥取県",
+            "latitude": 35.483333,
+            "longitude": 133.233333
+        },
+        {
+            "name": "宍道湖",
+            "description": "シジミ漁で知られる。",
+            "prefecture": "島根県",
+            "latitude": 35.433333,
+            "longitude": 132.966667
+        },
+        {
+            "name": "盤洲干潟",
+            "description": "小櫃川河口に広がる東京湾最大級の自然干潟。",
+            "prefecture": "千葉県",
+            "latitude": 35.416667,
+            "longitude": 139.900000
+        },
+        {
+            "name": "平潟湾",
+            "description": "横浜市金沢区。",
+            "prefecture": "神奈川県",
+            "latitude": 35.333333,
+            "longitude": 139.625000
+        },
+        {
+            "name": "野島干潟",
+            "description": "横浜市金沢区。横浜に残る唯一の自然海浜。",
+            "prefecture": "神奈川県",
+            "latitude": 35.330000,
+            "longitude": 139.633333
+        },
+        {
+            "name": "富津干潟",
+            "description": "富津岬の北側に広がる。",
+            "prefecture": "千葉県",
+            "latitude": 35.316667,
+            "longitude": 139.816667
+        },
+        {
+            "name": "小田和湾",
+            "description": "三浦半島にある干潟。",
+            "prefecture": "神奈川県",
+            "latitude": 35.216667,
+            "longitude": 139.616667
+        },
+        {
+            "name": "江奈湾",
+            "description": "三浦市。干潟と塩湿地。",
+            "prefecture": "神奈川県",
+            "latitude": 35.150000,
+            "longitude": 139.650000
+        },
+        {
+            "name": "藤前干潟",
+            "description": "名古屋市。渡り鳥の中継地として有名。ラムサール条約登録。",
+            "prefecture": "愛知県",
+            "latitude": 35.080000,
+            "longitude": 136.830000
+        },
+        {
+            "name": "江の川河口干潟",
+            "description": "江津市。",
+            "prefecture": "島根県",
+            "latitude": 35.016667,
+            "longitude": 132.233333
+        },
+        {
+            "name": "六条潟",
+            "description": "三河湾最大の干潟。",
+            "prefecture": "愛知県",
+            "latitude": 34.800000,
+            "longitude": 137.150000
+        },
+        {
+            "name": "一色干潟",
+            "description": "西尾市。アサリ漁が盛ん。",
+            "prefecture": "愛知県",
+            "latitude": 34.783333,
+            "longitude": 137.033333
+        },
+        {
+            "name": "揖保川河口干潟",
+            "description": "たつの市。",
+            "prefecture": "兵庫県",
+            "latitude": 34.766667,
+            "longitude": 134.533333
+        },
+        {
+            "name": "田中川干潟",
+            "description": "津市。",
+            "prefecture": "三重県",
+            "latitude": 34.750000,
+            "longitude": 136.533333
+        },
+        {
+            "name": "加古川河口干潟",
+            "description": "高砂市。",
+            "prefecture": "兵庫県",
+            "latitude": 34.733333,
+            "longitude": 134.816667
+        },
+        {
+            "name": "汐川干潟",
+            "description": "三河湾にある重要な干潟。",
+            "prefecture": "愛知県",
+            "latitude": 34.700000,
+            "longitude": 137.283333
+        },
+        {
+            "name": "高津川河口干潟",
+            "description": "益田市。",
+            "prefecture": "島根県",
+            "latitude": 34.683333,
+            "longitude": 131.833333
+        },
+        {
+            "name": "五主海岸",
+            "description": "遠浅の干潟。",
+            "prefecture": "三重県",
+            "latitude": 34.633333,
+            "longitude": 136.516667
+        },
+        {
+            "name": "大阪南港野鳥園",
+            "description": "人工干潟がある。",
+            "prefecture": "大阪府",
+            "latitude": 34.616667,
+            "longitude": 135.416667
+        },
+        {
+            "name": "松阪・櫛田川河口干潟",
+            "description": "伊勢湾に面する。",
+            "prefecture": "三重県",
+            "latitude": 34.600000,
+            "longitude": 136.550000
+        },
+        {
+            "name": "太田川放水路干潟",
+            "description": "広島市。",
+            "prefecture": "広島県",
+            "latitude": 34.383333,
+            "longitude": 132.416667
+        },
+        {
+            "name": "男里川河口干潟",
+            "description": "泉南市。大阪府内有数の干潟。",
+            "prefecture": "大阪府",
+            "latitude": 34.366667,
+            "longitude": 135.250000
+        },
+        {
+            "name": "八幡川河口干潟",
+            "description": "広島市。",
+            "prefecture": "広島県",
+            "latitude": 34.366667,
+            "longitude": 132.350000
+        },
+        {
+            "name": "ハチの干潟",
+            "description": "竹原市。カブトガニの生息地。",
+            "prefecture": "広島県",
+            "latitude": 34.333333,
+            "longitude": 132.933333
+        },
+        {
+            "name": "成ヶ島",
+            "description": "淡路島。由良要塞跡と干潟。",
+            "prefecture": "兵庫県",
+            "latitude": 34.283333,
+            "longitude": 134.950000
+        },
+        {
+            "name": "和歌川河口干潟",
+            "description": "和歌山市。片男波。",
+            "prefecture": "和歌山県",
+            "latitude": 34.183333,
+            "longitude": 135.166667
+        },
+        {
+            "name": "吉野川河口干潟",
+            "description": "シギ・チドリ類の飛来地。日本有数の広さ。",
+            "prefecture": "徳島県",
+            "latitude": 34.083333,
+            "longitude": 134.600000
+        },
+        {
+            "name": "椹野川河口干潟",
+            "description": "山口市。カブトガニ生息地。",
+            "prefecture": "山口県",
+            "latitude": 34.050000,
+            "longitude": 131.416667
+        },
+        {
+            "name": "きらら浜",
+            "description": "山口湾の干潟。",
+            "prefecture": "山口県",
+            "latitude": 34.016667,
+            "longitude": 131.366667
+        },
+        {
+            "name": "厚狭川河口干潟",
+            "description": "山陽小野田市。",
+            "prefecture": "山口県",
+            "latitude": 33.983333,
+            "longitude": 131.150000
+        },
+        {
+            "name": "加茂川河口干潟",
+            "description": "西条市。",
+            "prefecture": "愛媛県",
+            "latitude": 33.933333,
+            "longitude": 133.183333
+        },
+        {
+            "name": "曽根干潟",
+            "description": "北九州市。カブトガニ生息地。",
+            "prefecture": "福岡県",
+            "latitude": 33.816667,
+            "longitude": 130.966667
+        },
+        {
+            "name": "重信川河口干潟",
+            "description": "松山市。",
+            "prefecture": "愛媛県",
+            "latitude": 33.783333,
+            "longitude": 132.700000
+        },
+        {
+            "name": "新宮川（熊野川）河口干潟",
+            "description": "新宮市。",
+            "prefecture": "和歌山県",
+            "latitude": 33.716667,
+            "longitude": 136.000000
+        },
+        {
+            "name": "和白干潟",
+            "description": "博多湾に残された干潟。",
+            "prefecture": "福岡県",
+            "latitude": 33.683333,
+            "longitude": 130.416667
+        },
+        {
+            "name": "多々良川河口干潟",
+            "description": "福岡市。クロツラヘラサギ飛来。",
+            "prefecture": "福岡県",
+            "latitude": 33.633333,
+            "longitude": 130.433333
+        },
+        {
+            "name": "中津干潟",
+            "description": "瀬戸内海最大級の干潟。カブトガニ。",
+            "prefecture": "大分県",
+            "latitude": 33.616667,
+            "longitude": 131.233333
+        },
+        {
+            "name": "今津干潟",
+            "description": "博多湾。カブトガニ。",
+            "prefecture": "福岡県",
+            "latitude": 33.600000,
+            "longitude": 130.233333
+        },
+        {
+            "name": "宇佐干潟",
+            "description": "寄藻川河口。",
+            "prefecture": "大分県",
+            "latitude": 33.566667,
+            "longitude": 131.350000
+        },
+        {
+            "name": "仁淀川河口干潟",
+            "description": "土佐市。",
+            "prefecture": "高知県",
+            "latitude": 33.483333,
+            "longitude": 133.516667
+        },
+        {
+            "name": "杵築干潟",
+            "description": "守江湾の干潟。カブトガニ。",
+            "prefecture": "大分県",
+            "latitude": 33.416667,
+            "longitude": 131.633333
+        },
+        {
+            "name": "東よか干潟",
+            "description": "シチメンソウの群生地。ラムサール条約登録。",
+            "prefecture": "佐賀県",
+            "latitude": 33.183333,
+            "longitude": 130.266667
+        },
+        {
+            "name": "肥前鹿島干潟",
+            "description": "ガタリンピックの会場。ラムサール条約登録。",
+            "prefecture": "佐賀県",
+            "latitude": 33.116667,
+            "longitude": 130.116667
+        },
+        {
+            "name": "有明海干潟",
+            "description": "日本最大の干潟。ムツゴロウなどが生息。",
+            "prefecture": "佐賀県・福岡県・熊本県・長崎県",
+            "latitude": 33.100000,
+            "longitude": 130.300000
+        },
+        {
+            "name": "荒尾干潟",
+            "description": "有明海の中央部。ラムサール条約登録。",
+            "prefecture": "熊本県",
+            "latitude": 32.983333,
+            "longitude": 130.433333
+        },
+        {
+            "name": "佐伯の干潟（番匠川）",
+            "description": "佐伯市。",
+            "prefecture": "大分県",
+            "latitude": 32.966667,
+            "longitude": 131.916667
+        },
+        {
+            "name": "諫早湾干潟",
+            "description": "有明海奥部。",
+            "prefecture": "長崎県",
+            "latitude": 32.850000,
+            "longitude": 130.100000
+        },
+        {
+            "name": "白川河口干潟",
+            "description": "熊本市。",
+            "prefecture": "熊本県",
+            "latitude": 32.766667,
+            "longitude": 130.600000
+        },
+        {
+            "name": "緑川河口干潟",
+            "description": "熊本市。",
+            "prefecture": "熊本県",
+            "latitude": 32.716667,
+            "longitude": 130.583333
+        },
+        {
+            "name": "球磨川河口干潟",
+            "description": "八代海。",
+            "prefecture": "熊本県",
+            "latitude": 32.500000,
+            "longitude": 130.566667
+        },
+        {
+            "name": "出水干拓地",
+            "description": "ツルの渡来地。干潟も広がる。",
+            "prefecture": "鹿児島県",
+            "latitude": 32.100000,
+            "longitude": 130.266667
+        },
+        {
+            "name": "別府川河口干潟",
+            "description": "姶良市。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.716667,
+            "longitude": 130.633333
+        },
+        {
+            "name": "有明干潟",
+            "description": "志布志湾にある干潟。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.433333,
+            "longitude": 131.066667
+        },
+        {
+            "name": "万之瀬川河口干潟",
+            "description": "南さつま市。日本三大砂丘の吹上浜。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.433333,
+            "longitude": 130.316667
+        },
+        {
+            "name": "屋我地島の干潟",
+            "description": "名護市。",
+            "prefecture": "沖縄県",
+            "latitude": 26.650000,
+            "longitude": 128.033333
+        },
+        {
+            "name": "羽地内海",
+            "description": "名護市。干潟とマングローブ。",
+            "prefecture": "沖縄県",
+            "latitude": 26.616667,
+            "longitude": 128.000000
+        },
+        {
+            "name": "慶佐次湾",
+            "description": "東村。マングローブと干潟。",
+            "prefecture": "沖縄県",
+            "latitude": 26.600000,
+            "longitude": 128.150000
+        },
+        {
+            "name": "大浦湾",
+            "description": "名護市。アオサンゴ。",
+            "prefecture": "沖縄県",
+            "latitude": 26.550000,
+            "longitude": 128.050000
+        },
+        {
+            "name": "金武湾干潟",
+            "description": "金武町。",
+            "prefecture": "沖縄県",
+            "latitude": 26.433333,
+            "longitude": 127.933333
+        },
+        {
+            "name": "久米島の干潟（アーラ浜など）",
+            "description": "久米島。",
+            "prefecture": "沖縄県",
+            "latitude": 26.333333,
+            "longitude": 126.766667
+        },
+        {
+            "name": "泡瀬干潟",
+            "description": "沖縄市。南西諸島最大級。",
+            "prefecture": "沖縄県",
+            "latitude": 26.316667,
+            "longitude": 127.833333
+        },
+        {
+            "name": "漫湖",
+            "description": "那覇市・豊見城市。ラムサール条約登録。",
+            "prefecture": "沖縄県",
+            "latitude": 26.200000,
+            "longitude": 127.683333
+        },
+        {
+            "name": "佐敷干潟",
+            "description": "南城市。",
+            "prefecture": "沖縄県",
+            "latitude": 26.166667,
+            "longitude": 127.783333
+        },
+        {
+            "name": "与那覇湾",
+            "description": "宮古島。ラムサール条約登録。",
+            "prefecture": "沖縄県",
+            "latitude": 24.766667,
+            "longitude": 125.266667
+        },
+        {
+            "name": "吹通川河口干潟",
+            "description": "石垣島。",
+            "prefecture": "沖縄県",
+            "latitude": 24.483333,
+            "longitude": 124.233333
+        },
+        {
+            "name": "名蔵アンパル",
+            "description": "石垣島。マングローブ湿地と干潟。ラムサール条約登録。",
+            "prefecture": "沖縄県",
+            "latitude": 24.383333,
+            "longitude": 124.133333
+        },
+        {
+            "name": "白保海岸",
+            "description": "石垣島。アオサンゴと干潟。",
+            "prefecture": "沖縄県",
+            "latitude": 24.366667,
+            "longitude": 124.250000
+        }
+    ]
+}

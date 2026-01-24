@@ -1,0 +1,704 @@
+{
+    "municipalities": [
+        {
+            "name": "サロマ湖",
+            "description": "日本で3番目に大きい湖。ホタテ養殖が盛ん。",
+            "prefecture": "北海道",
+            "latitude": 44.116667,
+            "longitude": 143.733333
+        },
+        {
+            "name": "屈斜路湖",
+            "description": "日本最大のカルデラ湖。冬には御神渡りが見られる。",
+            "prefecture": "北海道",
+            "latitude": 43.633333,
+            "longitude": 144.316667
+        },
+        {
+            "name": "支笏湖",
+            "description": "日本有数の透明度と深さを誇る不凍湖。",
+            "prefecture": "北海道",
+            "latitude": 42.750000,
+            "longitude": 141.333333
+        },
+        {
+            "name": "洞爺湖",
+            "description": "中央に中島が浮かぶ円形のカルデラ湖。",
+            "prefecture": "北海道",
+            "latitude": 42.583333,
+            "longitude": 140.850000
+        },
+        {
+            "name": "摩周湖",
+            "description": "「霧の摩周湖」として知られる透明度の高い湖。",
+            "prefecture": "北海道",
+            "latitude": 43.583333,
+            "longitude": 144.533333
+        },
+        {
+            "name": "阿寒湖",
+            "description": "マリモが生息する湖。",
+            "prefecture": "北海道",
+            "latitude": 43.450000,
+            "longitude": 144.100000
+        },
+        {
+            "name": "網走湖",
+            "description": "冬はワカサギ釣りが楽しめる。",
+            "prefecture": "北海道",
+            "latitude": 43.983333,
+            "longitude": 144.233333
+        },
+        {
+            "name": "能取湖",
+            "description": "サンゴ草の群生地として有名。",
+            "prefecture": "北海道",
+            "latitude": 44.050000,
+            "longitude": 144.150000
+        },
+        {
+            "name": "風蓮湖",
+            "description": "野鳥の楽園と呼ばれる汽水湖。",
+            "prefecture": "北海道",
+            "latitude": 43.300000,
+            "longitude": 145.400000
+        },
+        {
+            "name": "クッチャロ湖",
+            "description": "コハクチョウの飛来地。",
+            "prefecture": "北海道",
+            "latitude": 45.133333,
+            "longitude": 142.233333
+        },
+        {
+            "name": "ウトナイ湖",
+            "description": "日本で4番目のラムサール条約登録湿地。",
+            "prefecture": "北海道",
+            "latitude": 42.700000,
+            "longitude": 141.733333
+        },
+        {
+            "name": "然別湖",
+            "description": "大雪山国立公園唯一の自然湖。「天空の湖」。",
+            "prefecture": "北海道",
+            "latitude": 43.283333,
+            "longitude": 143.100000
+        },
+        {
+            "name": "オンネトー",
+            "description": "季節や時間で色が変わる「五色沼」。",
+            "prefecture": "北海道",
+            "latitude": 43.383333,
+            "longitude": 143.966667
+        },
+        {
+            "name": "オコタンペ湖",
+            "description": "北海道三大秘湖の一つ。",
+            "prefecture": "北海道",
+            "latitude": 42.800000,
+            "longitude": 141.250000
+        },
+        {
+            "name": "東雲湖",
+            "description": "北海道三大秘湖の一つ。ナキウサギが生息。",
+            "prefecture": "北海道",
+            "latitude": 43.266667,
+            "longitude": 143.133333
+        },
+        {
+            "name": "豊似湖",
+            "description": "ハート型の形をした湖。",
+            "prefecture": "北海道",
+            "latitude": 42.066667,
+            "longitude": 143.250000
+        },
+        {
+            "name": "倶多楽湖",
+            "description": "真円に近いカルデラ湖。透明度が高い。",
+            "prefecture": "北海道",
+            "latitude": 42.500000,
+            "longitude": 141.183333
+        },
+        {
+            "name": "塘路湖",
+            "description": "釧路湿原最大の湖。",
+            "prefecture": "北海道",
+            "latitude": 43.150000,
+            "longitude": 144.500000
+        },
+        {
+            "name": "シラルトロ沼",
+            "description": "釧路湿原にある沼。",
+            "prefecture": "北海道",
+            "latitude": 43.183333,
+            "longitude": 144.533333
+        },
+        {
+            "name": "達古武沼",
+            "description": "釧路湿原の東端にある沼。",
+            "prefecture": "北海道",
+            "latitude": 43.116667,
+            "longitude": 144.483333
+        },
+        {
+            "name": "厚岸湖",
+            "description": "カキの養殖で有名な汽水湖。",
+            "prefecture": "北海道",
+            "latitude": 43.040000,
+            "longitude": 144.860000
+        },
+        {
+            "name": "藻琴湖",
+            "description": "オホーツク海沿岸の湖。",
+            "prefecture": "北海道",
+            "latitude": 43.966667,
+            "longitude": 144.333333
+        },
+        {
+            "name": "濤沸湖",
+            "description": "オオハクチョウが飛来する。",
+            "prefecture": "北海道",
+            "latitude": 43.933333,
+            "longitude": 144.400000
+        },
+        {
+            "name": "コムケ湖",
+            "description": "紋別市にある湖。",
+            "prefecture": "北海道",
+            "latitude": 44.266667,
+            "longitude": 143.533333
+        },
+        {
+            "name": "ペンケトー・パンケトー",
+            "description": "阿寒湖の近くにある湖。",
+            "prefecture": "北海道",
+            "latitude": 43.466667,
+            "longitude": 144.150000
+        },
+        {
+            "name": "十和田湖",
+            "description": "二重カルデラ湖。乙女の像がある。",
+            "prefecture": "青森県・秋田県",
+            "latitude": 40.450000,
+            "longitude": 140.883333
+        },
+        {
+            "name": "田沢湖",
+            "description": "日本一深い湖。たつこ像がある。",
+            "prefecture": "秋田県",
+            "latitude": 39.716667,
+            "longitude": 140.666667
+        },
+        {
+            "name": "小川原湖",
+            "description": "シジミやワカサギが獲れる。",
+            "prefecture": "青森県",
+            "latitude": 40.750000,
+            "longitude": 141.350000
+        },
+        {
+            "name": "十三湖",
+            "description": "岩木川が注ぐ汽水湖。シジミの名産地。",
+            "prefecture": "青森県",
+            "latitude": 41.033333,
+            "longitude": 140.333333
+        },
+        {
+            "name": "猪苗代湖",
+            "description": "日本で4番目に広い湖。「天鏡湖」と呼ばれる。",
+            "prefecture": "福島県",
+            "latitude": 37.500000,
+            "longitude": 140.050000
+        },
+        {
+            "name": "桧原湖",
+            "description": "裏磐梯最大の湖。冬はワカサギ釣りが盛ん。",
+            "prefecture": "福島県",
+            "latitude": 37.666667,
+            "longitude": 140.050000
+        },
+        {
+            "name": "五色沼（裏磐梯）",
+            "description": "様々な色の沼が点在する景勝地。",
+            "prefecture": "福島県",
+            "latitude": 37.650000,
+            "longitude": 140.083333
+        },
+        {
+            "name": "秋元湖",
+            "description": "裏磐梯三湖の一つ。",
+            "prefecture": "福島県",
+            "latitude": 37.633333,
+            "longitude": 140.116667
+        },
+        {
+            "name": "小野川湖",
+            "description": "裏磐梯三湖の一つ。",
+            "prefecture": "福島県",
+            "latitude": 37.616667,
+            "longitude": 140.100000
+        },
+        {
+            "name": "沼沢湖",
+            "description": "二重カルデラ湖。ヒメマスが生息。",
+            "prefecture": "福島県",
+            "latitude": 37.450000,
+            "longitude": 139.566667
+        },
+        {
+            "name": "一ノ目潟",
+            "description": "マール（爆裂火口）湖。",
+            "prefecture": "秋田県",
+            "latitude": 39.950000,
+            "longitude": 139.733333
+        },
+        {
+            "name": "八郎潟調整池",
+            "description": "かつて日本第二の湖だった干拓地の残存湖。",
+            "prefecture": "秋田県",
+            "latitude": 39.950000,
+            "longitude": 140.000000
+        },
+        {
+            "name": "伊豆沼",
+            "description": "渡り鳥の越冬地。ラムサール条約登録。",
+            "prefecture": "宮城県",
+            "latitude": 38.716667,
+            "longitude": 141.100000
+        },
+        {
+            "name": "長沼",
+            "description": "ボート場がある。ハスの名所。",
+            "prefecture": "宮城県",
+            "latitude": 38.700000,
+            "longitude": 141.150000
+        },
+        {
+            "name": "十二湖",
+            "description": "青池が有名なブナ林の中の湖沼群。",
+            "prefecture": "青森県",
+            "latitude": 40.550000,
+            "longitude": 139.966667
+        },
+        {
+            "name": "宇曽利山湖",
+            "description": "恐山のカルデラ湖。強酸性。",
+            "prefecture": "青森県",
+            "latitude": 41.316667,
+            "longitude": 141.083333
+        },
+        {
+            "name": "潟沼",
+            "description": "鳴子温泉にある強酸性のカルデラ湖。",
+            "prefecture": "宮城県",
+            "latitude": 38.733333,
+            "longitude": 140.733333
+        },
+        {
+            "name": "御釜",
+            "description": "蔵王の火口湖。エメラルドグリーンの水面。",
+            "prefecture": "宮城県・山形県",
+            "latitude": 38.133333,
+            "longitude": 140.450000
+        },
+        {
+            "name": "大鳥池",
+            "description": "タキタロウ伝説がある山上の湖。",
+            "prefecture": "山形県",
+            "latitude": 38.366667,
+            "longitude": 139.833333
+        },
+        {
+            "name": "霞ヶ浦",
+            "description": "日本で2番目に大きい湖。帆引き船が有名。",
+            "prefecture": "茨城県・千葉県",
+            "latitude": 36.033333,
+            "longitude": 140.400000
+        },
+        {
+            "name": "北浦",
+            "description": "霞ヶ浦を構成する湖の一つ。バス釣りの名所。",
+            "prefecture": "茨城県",
+            "latitude": 36.033333,
+            "longitude": 140.550000
+        },
+        {
+            "name": "中禅寺湖",
+            "description": "日本一標高の高い場所にある自然湖。",
+            "prefecture": "栃木県",
+            "latitude": 36.733333,
+            "longitude": 139.483333
+        },
+        {
+            "name": "湯ノ湖",
+            "description": "奥日光にある湖。湯滝の源流。",
+            "prefecture": "栃木県",
+            "latitude": 36.800000,
+            "longitude": 139.433333
+        },
+        {
+            "name": "榛名湖",
+            "description": "榛名山のカルデラ湖。",
+            "prefecture": "群馬県",
+            "latitude": 36.466667,
+            "longitude": 138.866667
+        },
+        {
+            "name": "赤城大沼",
+            "description": "赤城山のカルデラ湖。冬はワカサギ釣り。",
+            "prefecture": "群馬県",
+            "latitude": 36.550000,
+            "longitude": 139.183333
+        },
+        {
+            "name": "野反湖",
+            "description": "「天空の湖」と呼ばれるダム湖だが観光地として著名。",
+            "prefecture": "群馬県",
+            "latitude": 36.683333,
+            "longitude": 138.650000
+        },
+        {
+            "name": "尾瀬沼",
+            "description": "尾瀬国立公園にある湖。",
+            "prefecture": "福島県・群馬県",
+            "latitude": 36.916667,
+            "longitude": 139.300000
+        },
+        {
+            "name": "芦ノ湖",
+            "description": "箱根のカルデラ湖。遊覧船や逆さ富士で有名。",
+            "prefecture": "神奈川県",
+            "latitude": 35.200000,
+            "longitude": 139.000000
+        },
+        {
+            "name": "印旛沼",
+            "description": "かつては甚大な水害をもたらした。現在は干拓が進む。",
+            "prefecture": "千葉県",
+            "latitude": 35.750000,
+            "longitude": 140.233333
+        },
+        {
+            "name": "手賀沼",
+            "description": "我孫子市・柏市にまたがる湖。",
+            "prefecture": "千葉県",
+            "latitude": 35.866667,
+            "longitude": 140.050000
+        },
+        {
+            "name": "牛久沼",
+            "description": "うな丼発祥の地とされる。",
+            "prefecture": "茨城県",
+            "latitude": 35.933333,
+            "longitude": 140.116667
+        },
+        {
+            "name": "涸沼",
+            "description": "シジミの産地。汽水湖。",
+            "prefecture": "茨城県",
+            "latitude": 36.283333,
+            "longitude": 140.500000
+        },
+        {
+            "name": "奥多摩湖",
+            "description": "小河内ダムによってできた人造湖。",
+            "prefecture": "東京都・山梨県",
+            "latitude": 35.783333,
+            "longitude": 139.050000
+        },
+        {
+            "name": "宮ヶ瀬湖",
+            "description": "クリスマスイルミネーションが有名なダム湖。",
+            "prefecture": "神奈川県",
+            "latitude": 35.533333,
+            "longitude": 139.233333
+        },
+        {
+            "name": "相模湖",
+            "description": "東京オリンピックのカヌー競技会場。",
+            "prefecture": "神奈川県",
+            "latitude": 35.616667,
+            "longitude": 139.183333
+        },
+        {
+            "name": "津久井湖",
+            "description": "城山ダムの人造湖。",
+            "prefecture": "神奈川県",
+            "latitude": 35.583333,
+            "longitude": 139.266667
+        },
+        {
+            "name": "丹沢湖",
+            "description": "三保ダムの人造湖。紅葉の名所。",
+            "prefecture": "神奈川県",
+            "latitude": 35.400000,
+            "longitude": 139.050000
+        },
+        {
+            "name": "震生湖",
+            "description": "関東大震災でできた堰止湖。",
+            "prefecture": "神奈川県",
+            "latitude": 35.350000,
+            "longitude": 139.216667
+        },
+        {
+            "name": "山中湖",
+            "description": "富士五湖の中で最大。標高も最も高い。",
+            "prefecture": "山梨県",
+            "latitude": 35.416667,
+            "longitude": 138.866667
+        },
+        {
+            "name": "河口湖",
+            "description": "富士五湖で最も観光開発が進んでいる。逆さ富士。",
+            "prefecture": "山梨県",
+            "latitude": 35.516667,
+            "longitude": 138.750000
+        },
+        {
+            "name": "西湖",
+            "description": "富士五湖の一つ。青木ヶ原樹海に接する。",
+            "prefecture": "山梨県",
+            "latitude": 35.500000,
+            "longitude": 138.683333
+        },
+        {
+            "name": "精進湖",
+            "description": "富士五湖で最も小さい。「子抱き富士」。",
+            "prefecture": "山梨県",
+            "latitude": 35.483333,
+            "longitude": 138.600000
+        },
+        {
+            "name": "本栖湖",
+            "description": "千円札の裏面に描かれた富士山のモデル。",
+            "prefecture": "山梨県",
+            "latitude": 35.466667,
+            "longitude": 138.583333
+        },
+        {
+            "name": "四尾連湖",
+            "description": "山上にある静かな湖。",
+            "prefecture": "山梨県",
+            "latitude": 35.533333,
+            "longitude": 138.516667
+        },
+        {
+            "name": "諏訪湖",
+            "description": "信州一の湖。御神渡りや花火大会で有名。",
+            "prefecture": "長野県",
+            "latitude": 36.050000,
+            "longitude": 138.083333
+        },
+        {
+            "name": "野尻湖",
+            "description": "ナウマンゾウの化石が出土した湖。",
+            "prefecture": "長野県",
+            "latitude": 36.833333,
+            "longitude": 138.216667
+        },
+        {
+            "name": "仁科三湖（青木湖・中綱湖・木崎湖）",
+            "description": "安曇野の北にある3つの湖。",
+            "prefecture": "長野県",
+            "latitude": 36.550000,
+            "longitude": 137.850000
+        },
+        {
+            "name": "青木湖",
+            "description": "仁科三湖の一つ。ハート型。",
+            "prefecture": "長野県",
+            "latitude": 36.616667,
+            "longitude": 137.850000
+        },
+        {
+            "name": "木崎湖",
+            "description": "仁科三湖の一つ。アニメの舞台として有名。",
+            "prefecture": "長野県",
+            "latitude": 36.550000,
+            "longitude": 137.833333
+        },
+        {
+            "name": "白樺湖",
+            "description": "高原リゾートにある人造湖。",
+            "prefecture": "長野県",
+            "latitude": 36.100000,
+            "longitude": 138.233333
+        },
+        {
+            "name": "女神湖",
+            "description": "蓼科高原にある人造湖。",
+            "prefecture": "長野県",
+            "latitude": 36.116667,
+            "longitude": 138.266667
+        },
+        {
+            "name": "大正池",
+            "description": "上高地にある堰止湖。立ち枯れの木々が幻想的。",
+            "prefecture": "長野県",
+            "latitude": 36.233333,
+            "longitude": 137.633333
+        },
+        {
+            "name": "明神池",
+            "description": "上高地にある神秘的な池。",
+            "prefecture": "長野県",
+            "latitude": 36.250000,
+            "longitude": 137.650000
+        },
+        {
+            "name": "鏡池",
+            "description": "戸隠高原にある。戸隠山を映す。",
+            "prefecture": "長野県",
+            "latitude": 36.766667,
+            "longitude": 138.066667
+        },
+        {
+            "name": "加茂湖",
+            "description": "佐渡島にある汽水湖。カキ養殖。",
+            "prefecture": "新潟県",
+            "latitude": 38.066667,
+            "longitude": 138.433333
+        },
+        {
+            "name": "黒部湖",
+            "description": "黒部ダムのダム湖。",
+            "prefecture": "富山県",
+            "latitude": 36.566667,
+            "longitude": 137.666667
+        },
+        {
+            "name": "ミクリガ池",
+            "description": "立山室堂にある美しい火口湖。",
+            "prefecture": "富山県",
+            "latitude": 36.583333,
+            "longitude": 137.600000
+        },
+        {
+            "name": "三方五湖",
+            "description": "5つの湖からなり、それぞれ色が異なって見える。",
+            "prefecture": "福井県",
+            "latitude": 35.583333,
+            "longitude": 135.883333
+        },
+        {
+            "name": "水月湖",
+            "description": "三方五湖の一つ。年縞の研究で有名。",
+            "prefecture": "福井県",
+            "latitude": 35.583333,
+            "longitude": 135.883333
+        },
+        {
+            "name": "北潟湖",
+            "description": "カヌー競技が行われる。",
+            "prefecture": "福井県",
+            "latitude": 36.233333,
+            "longitude": 136.250000
+        },
+        {
+            "name": "浜名湖",
+            "description": "ウナギ養殖で有名な汽水湖。",
+            "prefecture": "静岡県",
+            "latitude": 34.733333,
+            "longitude": 137.583333
+        },
+        {
+            "name": "佐鳴湖",
+            "description": "浜松市にある湖。",
+            "prefecture": "静岡県",
+            "latitude": 34.716667,
+            "longitude": 137.683333
+        },
+        {
+            "name": "田貫湖",
+            "description": "ダイヤモンド富士の撮影スポット。",
+            "prefecture": "静岡県",
+            "latitude": 35.350000,
+            "longitude": 138.550000
+        },
+        {
+            "name": "一碧湖",
+            "description": "「伊豆の瞳」と呼ばれる。",
+            "prefecture": "静岡県",
+            "latitude": 34.933333,
+            "longitude": 139.100000
+        },
+        {
+            "name": "木場潟",
+            "description": "白山の眺望が良い。",
+            "prefecture": "石川県",
+            "latitude": 36.400000,
+            "longitude": 136.433333
+        },
+        {
+            "name": "柴山潟",
+            "description": "片山津温泉に面する湖。",
+            "prefecture": "石川県",
+            "latitude": 36.333333,
+            "longitude": 136.383333
+        },
+        {
+            "name": "邑知潟",
+            "description": "ハクチョウの飛来地。",
+            "prefecture": "石川県",
+            "latitude": 36.900000,
+            "longitude": 136.800000
+        },
+        {
+            "name": "琵琶湖",
+            "description": "日本最大の湖。近畿の水瓶。",
+            "prefecture": "滋賀県",
+            "latitude": 35.333333,
+            "longitude": 136.166667
+        },
+        {
+            "name": "余呉湖",
+            "description": "「鏡湖」とも呼ばれる羽衣伝説の湖。",
+            "prefecture": "滋賀県",
+            "latitude": 35.533333,
+            "longitude": 136.200000
+        },
+        {
+            "name": "西の湖",
+            "description": "琵琶湖最大の内湖。水郷めぐり。",
+            "prefecture": "滋賀県",
+            "latitude": 35.150000,
+            "longitude": 136.133333
+        },
+        {
+            "name": "阿蘇海",
+            "description": "天橋立の内側の海（湖のように扱われることも）。",
+            "prefecture": "京都府",
+            "latitude": 35.566667,
+            "longitude": 135.183333
+        },
+        {
+            "name": "離湖",
+            "description": "京都府最大の淡水湖。",
+            "prefecture": "京都府",
+            "latitude": 35.683333,
+            "longitude": 135.066667
+        },
+        {
+            "name": "宍道湖",
+            "description": "夕日の名所。シジミ漁が有名。",
+            "prefecture": "島根県",
+            "latitude": 35.433333,
+            "longitude": 132.966667
+        },
+        {
+            "name": "中海",
+            "description": "汽水湖。江島大橋（ベタ踏み坂）がある。",
+            "prefecture": "島根県・鳥取県",
+            "latitude": 35.483333,
+            "longitude": 133.233333
+        },
+        {
+            "name": "東郷湖",
+            "description": "湖底から温泉が湧く。はわい温泉・東郷温泉。",
+            "prefecture": "鳥取県",
+            "latitude": 35.483333,
+            "longitude": 133.883333
+        }
+    ]
+}

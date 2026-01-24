@@ -1,0 +1,704 @@
+{
+    "municipalities": [
+        {
+            "name": "大内宿",
+            "description": "会津西街道の宿場町。茅葺き屋根の民家が建ち並ぶ重伝建地区。",
+            "prefecture": "福島県",
+            "latitude": "37.333600",
+            "longitude": "139.860300"
+        },
+        {
+            "name": "海野宿",
+            "description": "北国街道の宿場町。うだつの上がる街並みが美しい重伝建地区。",
+            "prefecture": "長野県",
+            "latitude": "36.360800",
+            "longitude": "138.351700"
+        },
+        {
+            "name": "軽井沢宿",
+            "description": "中山道の宿場。現在は避暑地・別荘地として有名。",
+            "prefecture": "長野県",
+            "latitude": "36.358300",
+            "longitude": "138.633300"
+        },
+        {
+            "name": "追分宿",
+            "description": "中山道と北国街道の分岐点。堀辰雄ら文人が愛した。",
+            "prefecture": "長野県",
+            "latitude": "36.339200",
+            "longitude": "138.563600"
+        },
+        {
+            "name": "小田井宿",
+            "description": "中山道の宿場。皇女和宮が宿泊したことで知られる。",
+            "prefecture": "長野県",
+            "latitude": "36.305000",
+            "longitude": "138.523300"
+        },
+        {
+            "name": "望月宿",
+            "description": "中山道の宿場。長寿もろみの産地。",
+            "prefecture": "長野県",
+            "latitude": "36.262500",
+            "longitude": "138.359200"
+        },
+        {
+            "name": "茂田井宿",
+            "description": "中山道の間の宿。白壁の土蔵が残る。",
+            "prefecture": "長野県",
+            "latitude": "36.257500",
+            "longitude": "138.337500"
+        },
+        {
+            "name": "和田宿",
+            "description": "中山道の難所・和田峠の麓にある宿場。本陣が現存。",
+            "prefecture": "長野県",
+            "latitude": "36.208100",
+            "longitude": "138.225300"
+        },
+        {
+            "name": "下諏訪宿",
+            "description": "中山道と甲州街道の合流点。諏訪大社の門前町。",
+            "prefecture": "長野県",
+            "latitude": "36.075000",
+            "longitude": "138.085800"
+        },
+        {
+            "name": "塩尻宿",
+            "description": "中山道の宿場。小野家住宅（重要文化財）がある。",
+            "prefecture": "長野県",
+            "latitude": "36.111700",
+            "longitude": "137.955000"
+        },
+        {
+            "name": "奈良井宿",
+            "description": "中山道の宿場。「奈良井千軒」と呼ばれた重伝建地区。",
+            "prefecture": "長野県",
+            "latitude": "35.966400",
+            "longitude": "137.813100"
+        },
+        {
+            "name": "木曽平沢",
+            "description": "塩尻市にある漆工町だが宿場的な景観を持つ重伝建地区。",
+            "prefecture": "長野県",
+            "latitude": "35.983300",
+            "longitude": "137.833300"
+        },
+        {
+            "name": "藪原宿",
+            "description": "中山道の宿場。お六櫛の産地。",
+            "prefecture": "長野県",
+            "latitude": "35.939200",
+            "longitude": "137.791700"
+        },
+        {
+            "name": "福島宿",
+            "description": "中山道木曽路の中心地。日本四大関所の一つ福島関所がある。",
+            "prefecture": "長野県",
+            "latitude": "35.845800",
+            "longitude": "137.695800"
+        },
+        {
+            "name": "妻籠宿",
+            "description": "中山道の宿場。日本初の重伝建地区。",
+            "prefecture": "長野県",
+            "latitude": "35.575600",
+            "longitude": "137.596700"
+        },
+        {
+            "name": "三留野宿",
+            "description": "中山道の宿場。かつては大火で焼失したが面影を残す。",
+            "prefecture": "長野県",
+            "latitude": "35.602500",
+            "longitude": "137.611700"
+        },
+        {
+            "name": "須原宿",
+            "description": "中山道の宿場。水舟の里。",
+            "prefecture": "長野県",
+            "latitude": "35.669200",
+            "longitude": "137.697500"
+        },
+        {
+            "name": "稲荷山宿",
+            "description": "善光寺街道の宿場。蔵の町として知られる重伝建地区。",
+            "prefecture": "長野県",
+            "latitude": "36.533300",
+            "longitude": "138.100000"
+        },
+        {
+            "name": "馬籠宿",
+            "description": "中山道の宿場。石畳の坂道が特徴的な重伝建地区。島崎藤村の故郷。",
+            "prefecture": "岐阜県",
+            "latitude": "35.526900",
+            "longitude": "137.566100"
+        },
+        {
+            "name": "落合宿",
+            "description": "中山道の宿場。本陣が現存する。",
+            "prefecture": "岐阜県",
+            "latitude": "35.513300",
+            "longitude": "137.528300"
+        },
+        {
+            "name": "中津川宿",
+            "description": "中山道の宿場。うだつのある旧家が残る。",
+            "prefecture": "岐阜県",
+            "latitude": "35.497500",
+            "longitude": "137.502800"
+        },
+        {
+            "name": "大井宿",
+            "description": "中山道の宿場。広重美術館や本陣跡がある。",
+            "prefecture": "岐阜県",
+            "latitude": "35.451700",
+            "longitude": "137.406700"
+        },
+        {
+            "name": "大湫宿",
+            "description": "中山道の宿場。山間にある静かな宿場。",
+            "prefecture": "岐阜県",
+            "latitude": "35.426700",
+            "longitude": "137.301700"
+        },
+        {
+            "name": "細久手宿",
+            "description": "中山道の宿場。大黒屋が現存。",
+            "prefecture": "岐阜県",
+            "latitude": "35.416700",
+            "longitude": "137.260000"
+        },
+        {
+            "name": "御嵩宿",
+            "description": "中山道の宿場。願興寺の門前町。",
+            "prefecture": "岐阜県",
+            "latitude": "35.428300",
+            "longitude": "137.128300"
+        },
+        {
+            "name": "太田宿",
+            "description": "中山道の宿場。木曽川の渡し場として栄えた。",
+            "prefecture": "岐阜県",
+            "latitude": "35.441700",
+            "longitude": "137.016700"
+        },
+        {
+            "name": "鵜沼宿",
+            "description": "中山道の宿場。復元された脇本陣がある。",
+            "prefecture": "岐阜県",
+            "latitude": "35.401700",
+            "longitude": "136.945000"
+        },
+        {
+            "name": "加納宿",
+            "description": "中山道の宿場。城下町と宿場の機能を持っていた。",
+            "prefecture": "岐阜県",
+            "latitude": "35.405000",
+            "longitude": "136.760000"
+        },
+        {
+            "name": "赤坂宿",
+            "description": "中山道の宿場。お茶屋屋敷跡がある。",
+            "prefecture": "岐阜県",
+            "latitude": "35.390000",
+            "longitude": "136.581700"
+        },
+        {
+            "name": "垂井宿",
+            "description": "中山道の宿場。美濃路との分岐点。",
+            "prefecture": "岐阜県",
+            "latitude": "35.370000",
+            "longitude": "136.530000"
+        },
+        {
+            "name": "関ヶ原宿",
+            "description": "中山道の宿場。天下分け目の古戦場。",
+            "prefecture": "岐阜県",
+            "latitude": "35.365000",
+            "longitude": "136.465000"
+        },
+        {
+            "name": "今須宿",
+            "description": "中山道の宿場。美濃と近江の国境。",
+            "prefecture": "岐阜県",
+            "latitude": "35.351700",
+            "longitude": "136.425000"
+        },
+        {
+            "name": "美濃市(うだつの上がる町並み)",
+            "description": "（参考）商家の町並みだが宿場的景観を持つ重伝建。",
+            "prefecture": "岐阜県",
+            "latitude": "35.545800",
+            "longitude": "136.913300"
+        },
+        {
+            "name": "岩村城下町",
+            "description": "女城主の里。重伝建。",
+            "prefecture": "岐阜県",
+            "latitude": "35.365000",
+            "longitude": "137.436700"
+        },
+        {
+            "name": "柏原宿",
+            "description": "中山道の宿場。伊吹もぐさの産地。",
+            "prefecture": "滋賀県",
+            "latitude": "35.341700",
+            "longitude": "136.398300"
+        },
+        {
+            "name": "醒井宿",
+            "description": "中山道の宿場。地蔵川の梅花藻が美しい。",
+            "prefecture": "滋賀県",
+            "latitude": "35.328300",
+            "longitude": "136.348300"
+        },
+        {
+            "name": "番場宿",
+            "description": "中山道の宿場。忠太郎で有名。",
+            "prefecture": "滋賀県",
+            "latitude": "35.313300",
+            "longitude": "136.311700"
+        },
+        {
+            "name": "鳥居本宿",
+            "description": "中山道の宿場。赤玉神教丸の看板が目印。",
+            "prefecture": "滋賀県",
+            "latitude": "35.285000",
+            "longitude": "136.278300"
+        },
+        {
+            "name": "高宮宿",
+            "description": "中山道の宿場。多賀大社への鳥居がある。",
+            "prefecture": "滋賀県",
+            "latitude": "35.241700",
+            "longitude": "136.261700"
+        },
+        {
+            "name": "愛知川宿",
+            "description": "中山道の宿場。びん細工手まりが名産。",
+            "prefecture": "滋賀県",
+            "latitude": "35.168300",
+            "longitude": "136.211700"
+        },
+        {
+            "name": "武佐宿",
+            "description": "中山道の宿場。脇本陣跡が残る。",
+            "prefecture": "滋賀県",
+            "latitude": "35.111700",
+            "longitude": "136.141700"
+        },
+        {
+            "name": "守山宿",
+            "description": "中山道の宿場。「京発ち守山泊まり」と言われた。",
+            "prefecture": "滋賀県",
+            "latitude": "35.053300",
+            "longitude": "135.995000"
+        },
+        {
+            "name": "草津宿",
+            "description": "東海道と中山道の合流点。現存最大級の本陣がある。",
+            "prefecture": "滋賀県",
+            "latitude": "35.016700",
+            "longitude": "135.961700"
+        },
+        {
+            "name": "石部宿",
+            "description": "東海道の宿場。「石部金吉」の語源。",
+            "prefecture": "滋賀県",
+            "latitude": "35.006700",
+            "longitude": "136.053300"
+        },
+        {
+            "name": "水口宿",
+            "description": "東海道の宿場。三筋の道が特徴。",
+            "prefecture": "滋賀県",
+            "latitude": "34.970000",
+            "longitude": "136.173300"
+        },
+        {
+            "name": "土山宿",
+            "description": "東海道の宿場。鈴鹿峠の麓。",
+            "prefecture": "滋賀県",
+            "latitude": "34.935000",
+            "longitude": "136.275000"
+        },
+        {
+            "name": "大津宿",
+            "description": "東海道最後の宿場。琵琶湖水運の拠点。",
+            "prefecture": "滋賀県",
+            "latitude": "35.005000",
+            "longitude": "135.865000"
+        },
+        {
+            "name": "関宿",
+            "description": "東海道の宿場。往時の町並みが色濃く残る重伝建地区。",
+            "prefecture": "三重県",
+            "latitude": "34.853300",
+            "longitude": "136.395000"
+        },
+        {
+            "name": "坂下宿",
+            "description": "東海道の宿場。鈴鹿峠の登り口。",
+            "prefecture": "三重県",
+            "latitude": "34.886700",
+            "longitude": "136.353300"
+        },
+        {
+            "name": "亀山宿",
+            "description": "東海道の宿場。城下町でもある。",
+            "prefecture": "三重県",
+            "latitude": "34.853300",
+            "longitude": "136.455000"
+        },
+        {
+            "name": "庄野宿",
+            "description": "東海道の宿場。広重の雨の浮世絵で有名。資料館がある。",
+            "prefecture": "三重県",
+            "latitude": "34.876700",
+            "longitude": "136.536700"
+        },
+        {
+            "name": "石薬師宿",
+            "description": "東海道の宿場。佐佐木信綱の故郷。",
+            "prefecture": "三重県",
+            "latitude": "34.891700",
+            "longitude": "136.551700"
+        },
+        {
+            "name": "四日市宿",
+            "description": "東海道の宿場。現在は工業都市だが、一部に面影も。",
+            "prefecture": "三重県",
+            "latitude": "34.966700",
+            "longitude": "136.616700"
+        },
+        {
+            "name": "桑名宿",
+            "description": "東海道の宿場。「七里の渡し」がある。",
+            "prefecture": "三重県",
+            "latitude": "35.073300",
+            "longitude": "136.691700"
+        },
+        {
+            "name": "宮宿(熱田)",
+            "description": "東海道の宿場。「七里の渡し」の乗船場。熱田神宮の門前。",
+            "prefecture": "愛知県",
+            "latitude": "35.123300",
+            "longitude": "136.911700"
+        },
+        {
+            "name": "鳴海宿",
+            "description": "東海道の宿場。絞り染めの産地。",
+            "prefecture": "愛知県",
+            "latitude": "35.080000",
+            "longitude": "136.951700"
+        },
+        {
+            "name": "池鯉鮒宿(知立)",
+            "description": "東海道の宿場。馬市で栄えた。",
+            "prefecture": "愛知県",
+            "latitude": "35.006700",
+            "longitude": "137.043300"
+        },
+        {
+            "name": "岡崎宿",
+            "description": "東海道の宿場。徳川家康生誕の地・岡崎城下。",
+            "prefecture": "愛知県",
+            "latitude": "34.958300",
+            "longitude": "137.161700"
+        },
+        {
+            "name": "藤川宿",
+            "description": "東海道の宿場。松並木が残る。",
+            "prefecture": "愛知県",
+            "latitude": "34.915000",
+            "longitude": "137.218300"
+        },
+        {
+            "name": "赤坂宿",
+            "description": "東海道の宿場。旅籠「大橋屋」が現存。",
+            "prefecture": "愛知県",
+            "latitude": "34.856700",
+            "longitude": "137.311700"
+        },
+        {
+            "name": "御油宿",
+            "description": "東海道の宿場。松並木が天然記念物。",
+            "prefecture": "愛知県",
+            "latitude": "34.845000",
+            "longitude": "137.318300"
+        },
+        {
+            "name": "吉田宿(豊橋)",
+            "description": "東海道の宿場。吉田城下。",
+            "prefecture": "愛知県",
+            "latitude": "34.768300",
+            "longitude": "137.388300"
+        },
+        {
+            "name": "二川宿",
+            "description": "東海道の宿場。本陣・旅籠・商家の3点が現存公開。",
+            "prefecture": "愛知県",
+            "latitude": "34.726700",
+            "longitude": "137.433300"
+        },
+        {
+            "name": "有松",
+            "description": "東海道の間の宿。有松絞りで栄えた豪商の町並み。重伝建。",
+            "prefecture": "愛知県",
+            "latitude": "35.066700",
+            "longitude": "136.968300"
+        },
+        {
+            "name": "白須賀宿",
+            "description": "東海道の宿場。潮見坂からの絶景。",
+            "prefecture": "静岡県",
+            "latitude": "34.693300",
+            "longitude": "137.521700"
+        },
+        {
+            "name": "新居宿",
+            "description": "東海道の宿場。新居関所が現存。",
+            "prefecture": "静岡県",
+            "latitude": "34.693300",
+            "longitude": "137.561700"
+        },
+        {
+            "name": "舞坂宿",
+            "description": "東海道の宿場。松並木が残る。",
+            "prefecture": "静岡県",
+            "latitude": "34.685000",
+            "longitude": "137.608300"
+        },
+        {
+            "name": "見付宿(磐田)",
+            "description": "東海道の宿場。旧見付学校がある。",
+            "prefecture": "静岡県",
+            "latitude": "34.721700",
+            "longitude": "137.855000"
+        },
+        {
+            "name": "袋井宿",
+            "description": "東海道どまん中の宿場。",
+            "prefecture": "静岡県",
+            "latitude": "34.750000",
+            "longitude": "137.925000"
+        },
+        {
+            "name": "掛川宿",
+            "description": "東海道の宿場。掛川城下。",
+            "prefecture": "静岡県",
+            "latitude": "34.771700",
+            "longitude": "138.013300"
+        },
+        {
+            "name": "日坂宿",
+            "description": "東海道の宿場。小夜の中山峠の麓。",
+            "prefecture": "静岡県",
+            "latitude": "34.805000",
+            "longitude": "138.076700"
+        },
+        {
+            "name": "金谷宿",
+            "description": "東海道の宿場。大井川の渡しの拠点。石畳が残る。",
+            "prefecture": "静岡県",
+            "latitude": "34.821700",
+            "longitude": "138.125000"
+        },
+        {
+            "name": "島田宿",
+            "description": "東海道の宿場。蓬萊橋（世界一長い木造歩道橋）がある。",
+            "prefecture": "静岡県",
+            "latitude": "34.831700",
+            "longitude": "138.175000"
+        },
+        {
+            "name": "藤枝宿",
+            "description": "東海道の宿場。蓮華寺池公園に近い。",
+            "prefecture": "静岡県",
+            "latitude": "34.871700",
+            "longitude": "138.256700"
+        },
+        {
+            "name": "岡部宿",
+            "description": "東海道の宿場。大旅籠柏屋が現存。",
+            "prefecture": "静岡県",
+            "latitude": "34.918300",
+            "longitude": "138.281700"
+        },
+        {
+            "name": "丸子宿",
+            "description": "東海道の宿場。とろろ汁の「丁子屋」が有名。",
+            "prefecture": "静岡県",
+            "latitude": "34.953300",
+            "longitude": "138.353300"
+        },
+        {
+            "name": "府中宿(静岡)",
+            "description": "東海道最大級の宿場。駿府城下。",
+            "prefecture": "静岡県",
+            "latitude": "34.971700",
+            "longitude": "138.383300"
+        },
+        {
+            "name": "由比宿",
+            "description": "東海道の宿場。広重美術館や本陣公園がある。",
+            "prefecture": "静岡県",
+            "latitude": "35.105000",
+            "longitude": "138.553300"
+        },
+        {
+            "name": "蒲原宿",
+            "description": "東海道の宿場。雪の浮世絵で有名。古い町並みが残る。",
+            "prefecture": "静岡県",
+            "latitude": "35.118300",
+            "longitude": "138.601700"
+        },
+        {
+            "name": "箱根宿",
+            "description": "東海道の難所・箱根峠の宿場。関所が復元。",
+            "prefecture": "神奈川県",
+            "latitude": "35.191700",
+            "longitude": "139.025000"
+        },
+        {
+            "name": "小田原宿",
+            "description": "東海道の宿場。小田原城下町。",
+            "prefecture": "神奈川県",
+            "latitude": "35.250000",
+            "longitude": "139.155000"
+        },
+        {
+            "name": "大磯宿",
+            "description": "東海道の宿場。鴫立庵がある。",
+            "prefecture": "神奈川県",
+            "latitude": "35.308300",
+            "longitude": "139.311700"
+        },
+        {
+            "name": "平塚宿",
+            "description": "東海道の宿場。",
+            "prefecture": "神奈川県",
+            "latitude": "35.328300",
+            "longitude": "139.348300"
+        },
+        {
+            "name": "藤沢宿",
+            "description": "東海道の宿場。遊行寺の門前町。",
+            "prefecture": "神奈川県",
+            "latitude": "35.345000",
+            "longitude": "139.488300"
+        },
+        {
+            "name": "戸塚宿",
+            "description": "東海道の宿場。江戸見附跡など。",
+            "prefecture": "神奈川県",
+            "latitude": "35.398300",
+            "longitude": "139.533300"
+        },
+        {
+            "name": "保土ヶ谷宿",
+            "description": "東海道の宿場。難所・権太坂の手前。",
+            "prefecture": "神奈川県",
+            "latitude": "35.445000",
+            "longitude": "139.596700"
+        },
+        {
+            "name": "神奈川宿",
+            "description": "東海道の宿場。開港時の舞台。",
+            "prefecture": "神奈川県",
+            "latitude": "35.473300",
+            "longitude": "139.628300"
+        },
+        {
+            "name": "川崎宿",
+            "description": "東海道の宿場。川崎大師への分岐点。",
+            "prefecture": "神奈川県",
+            "latitude": "35.531700",
+            "longitude": "139.703300"
+        },
+        {
+            "name": "品川宿",
+            "description": "東海道第一の宿場。旧東海道の商店街が賑わう。",
+            "prefecture": "東京都",
+            "latitude": "35.620000",
+            "longitude": "139.740000"
+        },
+        {
+            "name": "内藤新宿",
+            "description": "甲州街道の宿場。現在の新宿御苑・新宿三丁目周辺。",
+            "prefecture": "東京都",
+            "latitude": "35.688300",
+            "longitude": "139.708300"
+        },
+        {
+            "name": "板橋宿",
+            "description": "中山道第一の宿場。",
+            "prefecture": "東京都",
+            "latitude": "35.750000",
+            "longitude": "139.708300"
+        },
+        {
+            "name": "千住宿",
+            "description": "日光街道第一の宿場。宿場町通り商店街がある。",
+            "prefecture": "東京都",
+            "latitude": "35.748300",
+            "longitude": "139.803300"
+        },
+        {
+            "name": "八王子宿",
+            "description": "甲州街道の宿場。絹の道。",
+            "prefecture": "東京都",
+            "latitude": "35.658300",
+            "longitude": "139.333300"
+        },
+        {
+            "name": "草加宿",
+            "description": "日光街道の宿場。草加松原が国指定名勝。",
+            "prefecture": "埼玉県",
+            "latitude": "35.833300",
+            "longitude": "139.800000"
+        },
+        {
+            "name": "越ヶ谷宿",
+            "description": "日光街道の宿場。古民家を活用したまちづくり。",
+            "prefecture": "埼玉県",
+            "latitude": "35.891700",
+            "longitude": "139.791700"
+        },
+        {
+            "name": "蕨宿",
+            "description": "中山道の宿場。本陣跡が残る。",
+            "prefecture": "埼玉県",
+            "latitude": "35.825000",
+            "longitude": "139.683300"
+        },
+        {
+            "name": "浦和宿",
+            "description": "中山道の宿場。",
+            "prefecture": "埼玉県",
+            "latitude": "35.858300",
+            "longitude": "139.655000"
+        },
+        {
+            "name": "大宮宿",
+            "description": "中山道の宿場。氷川神社の門前町。",
+            "prefecture": "埼玉県",
+            "latitude": "35.906700",
+            "longitude": "139.625000"
+        },
+        {
+            "name": "上尾宿",
+            "description": "中山道の宿場。",
+            "prefecture": "埼玉県",
+            "latitude": "35.975000",
+            "longitude": "139.588300"
+        },
+        {
+            "name": "桶川宿",
+            "description": "中山道の宿場。武村旅館（登録有形文化財）がある。",
+            "prefecture": "埼玉県",
+            "latitude": "36.000000",
+            "longitude": "139.563300"
+        }
+    ]
+}

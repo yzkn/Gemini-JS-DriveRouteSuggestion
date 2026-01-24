@@ -1,0 +1,739 @@
+{
+    "municipalities": [
+        {
+            "name": "弘前市仲町伝統的建造物群保存地区",
+            "description": "弘前城の北側にある武家屋敷街。サワラの生垣が特徴。",
+            "prefecture": "青森県",
+            "latitude": "40.612500",
+            "longitude": "140.465800"
+        },
+        {
+            "name": "旧岩田家住宅",
+            "description": "弘前市仲町にある武家住宅。県重宝。",
+            "prefecture": "青森県",
+            "latitude": "40.612800",
+            "longitude": "140.465600"
+        },
+        {
+            "name": "旧伊東家住宅",
+            "description": "弘前市仲町にある藩医の住宅。",
+            "prefecture": "青森県",
+            "latitude": "40.613100",
+            "longitude": "140.465000"
+        },
+        {
+            "name": "旧梅田家住宅",
+            "description": "弘前市仲町にある武家住宅。",
+            "prefecture": "青森県",
+            "latitude": "40.613300",
+            "longitude": "140.466100"
+        },
+        {
+            "name": "金ヶ崎町城内諏訪小路",
+            "description": "伊達藩の要害・金ヶ崎城の城下町。生垣と屋敷林が美しい重伝建地区。",
+            "prefecture": "岩手県",
+            "latitude": "39.196100",
+            "longitude": "141.112200"
+        },
+        {
+            "name": "旧大沼家侍住宅",
+            "description": "金ヶ崎町にある武家住宅。",
+            "prefecture": "岩手県",
+            "latitude": "39.195800",
+            "longitude": "141.111900"
+        },
+        {
+            "name": "登米町(みやぎの明治村)",
+            "description": "武家屋敷通りがあり、春蘭亭などが公開されている。",
+            "prefecture": "宮城県",
+            "latitude": "38.655800",
+            "longitude": "141.286700"
+        },
+        {
+            "name": "春蘭亭(旧鈴木家住宅)",
+            "description": "登米にある武家屋敷。喫茶コーナーがある。",
+            "prefecture": "宮城県",
+            "latitude": "38.655600",
+            "longitude": "141.286100"
+        },
+        {
+            "name": "白石城下(武家屋敷)",
+            "description": "旧小関家武家屋敷が公開されている。",
+            "prefecture": "宮城県",
+            "latitude": "38.005000",
+            "longitude": "140.619200"
+        },
+        {
+            "name": "角館武家屋敷通り",
+            "description": "「みちのくの小京都」。黒板塀と枝垂れ桜が美しい重伝建地区。",
+            "prefecture": "秋田県",
+            "latitude": "39.595000",
+            "longitude": "140.563600"
+        },
+        {
+            "name": "角館歴史村・青柳家",
+            "description": "角館を代表する武家屋敷。広大な敷地に多くの展示館がある。",
+            "prefecture": "秋田県",
+            "latitude": "39.596700",
+            "longitude": "140.563900"
+        },
+        {
+            "name": "石黒家",
+            "description": "角館に現存する武家屋敷の中で最も格式が高い家柄。現在も直系の子孫が居住。",
+            "prefecture": "秋田県",
+            "latitude": "39.597500",
+            "longitude": "140.563600"
+        },
+        {
+            "name": "岩橋家",
+            "description": "角館の中級武士の屋敷。映画「たそがれ清兵衛」のロケ地。",
+            "prefecture": "秋田県",
+            "latitude": "39.595600",
+            "longitude": "140.563300"
+        },
+        {
+            "name": "河原田家",
+            "description": "角館の武家屋敷。書院造りの母屋が特徴。",
+            "prefecture": "秋田県",
+            "latitude": "39.595300",
+            "longitude": "140.563100"
+        },
+        {
+            "name": "小田野家",
+            "description": "角館の武家屋敷。秋田蘭画の小田野直武の分家。",
+            "prefecture": "秋田県",
+            "latitude": "39.595000",
+            "longitude": "140.563100"
+        },
+        {
+            "name": "松本家",
+            "description": "角館の足軽長屋に近い様式の茅葺き屋根の家。",
+            "prefecture": "秋田県",
+            "latitude": "39.593900",
+            "longitude": "140.563100"
+        },
+        {
+            "name": "上山武家屋敷",
+            "description": "上山城の北側に残る武家屋敷群。",
+            "prefecture": "山形県",
+            "latitude": "38.158600",
+            "longitude": "140.273100"
+        },
+        {
+            "name": "三輪家",
+            "description": "上山武家屋敷の一つ。",
+            "prefecture": "山形県",
+            "latitude": "38.158900",
+            "longitude": "140.273300"
+        },
+        {
+            "name": "旧曽我部家",
+            "description": "鶴岡市にある武家屋敷。",
+            "prefecture": "山形県",
+            "latitude": "38.721900",
+            "longitude": "139.823900"
+        },
+        {
+            "name": "会津武家屋敷",
+            "description": "会津藩家老・西郷頼母邸を中心に復元された歴史テーマパーク。",
+            "prefecture": "福島県",
+            "latitude": "37.495800",
+            "longitude": "139.957500"
+        },
+        {
+            "name": "土浦市・旧武家屋敷",
+            "description": "土浦城跡周辺に残る長屋門など。",
+            "prefecture": "茨城県",
+            "latitude": "36.083300",
+            "longitude": "140.198300"
+        },
+        {
+            "name": "旧大久保家住宅(足利)",
+            "description": "足利市にある武家屋敷。",
+            "prefecture": "栃木県",
+            "latitude": "36.338600",
+            "longitude": "139.447200"
+        },
+        {
+            "name": "小幡の城下町",
+            "description": "織田氏ゆかりの城下町。武家屋敷地区がある。",
+            "prefecture": "群馬県",
+            "latitude": "36.228900",
+            "longitude": "138.916100"
+        },
+        {
+            "name": "旧松浦家住宅",
+            "description": "小幡にある武家屋敷。",
+            "prefecture": "群馬県",
+            "latitude": "36.229200",
+            "longitude": "138.916400"
+        },
+        {
+            "name": "佐倉武家屋敷通り",
+            "description": "関東最大級の武家屋敷群。竹林と土塁の道。",
+            "prefecture": "千葉県",
+            "latitude": "35.720800",
+            "longitude": "140.218900"
+        },
+        {
+            "name": "旧堀田家住宅",
+            "description": "最後の佐倉藩主・堀田正倫の邸宅。国重要文化財。",
+            "prefecture": "千葉県",
+            "latitude": "35.723100",
+            "longitude": "140.222800"
+        },
+        {
+            "name": "旧河原家住宅",
+            "description": "佐倉に残る最古の武家屋敷。",
+            "prefecture": "千葉県",
+            "latitude": "35.720600",
+            "longitude": "140.218600"
+        },
+        {
+            "name": "旧但馬家住宅",
+            "description": "佐倉武家屋敷。",
+            "prefecture": "千葉県",
+            "latitude": "35.720800",
+            "longitude": "140.219200"
+        },
+        {
+            "name": "旧武居家住宅",
+            "description": "佐倉武家屋敷。",
+            "prefecture": "千葉県",
+            "latitude": "35.721100",
+            "longitude": "140.219700"
+        },
+        {
+            "name": "旧前田家本邸(駒場公園)",
+            "description": "加賀百万石前田家の昭和初期の邸宅。洋館と和館。",
+            "prefecture": "東京都",
+            "latitude": "35.661700",
+            "longitude": "139.681100"
+        },
+        {
+            "name": "旧細川侯爵邸(和敬塾本館)",
+            "description": "肥後細川家の邸宅。昭和初期の英国チューダー様式。",
+            "prefecture": "東京都",
+            "latitude": "35.714400",
+            "longitude": "139.721100"
+        },
+        {
+            "name": "旧岩崎邸庭園",
+            "description": "三菱財閥岩崎家の邸宅。ジョサイア・コンドル設計。",
+            "prefecture": "東京都",
+            "latitude": "35.710300",
+            "longitude": "139.770800"
+        },
+        {
+            "name": "新発田・清水園(旧下屋敷)",
+            "description": "新発田藩主溝口家の下屋敷。国指定名勝。",
+            "prefecture": "新潟県",
+            "latitude": "37.948300",
+            "longitude": "139.325000"
+        },
+        {
+            "name": "石黒家武家屋敷",
+            "description": "新発田にある武家屋敷。",
+            "prefecture": "新潟県",
+            "latitude": "37.948100",
+            "longitude": "139.324700"
+        },
+        {
+            "name": "長町武家屋敷跡",
+            "description": "土塀と石畳が続く加賀藩士の屋敷街。",
+            "prefecture": "石川県",
+            "latitude": "36.562200",
+            "longitude": "136.652800"
+        },
+        {
+            "name": "武家屋敷跡 野村家",
+            "description": "ミシュランで高評価を得た庭園を持つ武家屋敷。",
+            "prefecture": "石川県",
+            "latitude": "36.562500",
+            "longitude": "136.652200"
+        },
+        {
+            "name": "旧加賀藩士高田家跡",
+            "description": "長町にある中級武士の屋敷跡。長屋門が見事。",
+            "prefecture": "石川県",
+            "latitude": "36.561900",
+            "longitude": "136.652500"
+        },
+        {
+            "name": "金沢市足軽資料館",
+            "description": "加賀藩の足軽屋敷を移築・再現。",
+            "prefecture": "石川県",
+            "latitude": "36.561100",
+            "longitude": "136.652800"
+        },
+        {
+            "name": "寺島蔵人邸",
+            "description": "中級武士の屋敷。ドウダンツツジが美しい。",
+            "prefecture": "石川県",
+            "latitude": "36.568300",
+            "longitude": "136.666700"
+        },
+        {
+            "name": "旧瓜生家住宅",
+            "description": "福井市にある武家屋敷。",
+            "prefecture": "福井県",
+            "latitude": "36.065000",
+            "longitude": "136.221700"
+        },
+        {
+            "name": "松代・真田宝物館周辺(武家屋敷)",
+            "description": "真田十万石の城下町。",
+            "prefecture": "長野県",
+            "latitude": "36.563600",
+            "longitude": "138.196900"
+        },
+        {
+            "name": "真田邸(新御殿)",
+            "description": "松代藩主の御殿。庭園が美しい。",
+            "prefecture": "長野県",
+            "latitude": "36.564200",
+            "longitude": "138.196400"
+        },
+        {
+            "name": "旧横田家住宅",
+            "description": "松代にある中級武士の住宅。国重要文化財。",
+            "prefecture": "長野県",
+            "latitude": "36.561700",
+            "longitude": "138.195000"
+        },
+        {
+            "name": "旧樋口家住宅",
+            "description": "松代にある上級武士の住宅。",
+            "prefecture": "長野県",
+            "latitude": "36.563100",
+            "longitude": "138.196100"
+        },
+        {
+            "name": "美濃金山・蘭丸ふるさとの森",
+            "description": "城下町の名残。",
+            "prefecture": "岐阜県",
+            "latitude": "35.437500",
+            "longitude": "137.065800"
+        },
+        {
+            "name": "名古屋城二之丸庭園(那古野城跡)",
+            "description": "（注: 庭園だが武家文化の一部）",
+            "prefecture": "愛知県",
+            "latitude": "35.184700",
+            "longitude": "136.903300"
+        },
+        {
+            "name": "徳川園",
+            "description": "尾張徳川家の大曽根下屋敷跡。",
+            "prefecture": "愛知県",
+            "latitude": "35.183900",
+            "longitude": "136.933300"
+        },
+        {
+            "name": "御城番屋敷",
+            "description": "松阪城を警護する紀州藩士の組屋敷。現在も住居として使われている重伝建地区。",
+            "prefecture": "三重県",
+            "latitude": "34.575000",
+            "longitude": "136.526900"
+        },
+        {
+            "name": "彦根城下町",
+            "description": "足軽組屋敷などが残る。",
+            "prefecture": "滋賀県",
+            "latitude": "35.272500",
+            "longitude": "136.255000"
+        },
+        {
+            "name": "旧磯島家住宅",
+            "description": "彦根にある足軽屋敷。",
+            "prefecture": "滋賀県",
+            "latitude": "35.271100",
+            "longitude": "136.253300"
+        },
+        {
+            "name": "二条陣屋",
+            "description": "小川家住宅。大名の宿所として使われた。",
+            "prefecture": "京都府",
+            "latitude": "35.011700",
+            "longitude": "135.748100"
+        },
+        {
+            "name": "旧加賀屋敷御守殿門(東大赤門)",
+            "description": "（東京にあるが加賀藩ゆかり）。大阪には適当な現存武家屋敷が少ない。",
+            "prefecture": "大阪府",
+            "latitude": "34.693700",
+            "longitude": "135.502300"
+        },
+        {
+            "name": "篠山武家屋敷群",
+            "description": "篠山城の周辺に残る武家屋敷。",
+            "prefecture": "兵庫県",
+            "latitude": "35.071700",
+            "longitude": "135.216700"
+        },
+        {
+            "name": "篠山・武家屋敷安間家史料館",
+            "description": "茅葺き屋根の標準的な徒士住宅。",
+            "prefecture": "兵庫県",
+            "latitude": "35.071900",
+            "longitude": "135.215800"
+        },
+        {
+            "name": "御徒士町武家屋敷群",
+            "description": "篠山の御徒士町に残る長屋形式の住宅群。",
+            "prefecture": "兵庫県",
+            "latitude": "35.071100",
+            "longitude": "135.215000"
+        },
+        {
+            "name": "柳生藩家老屋敷",
+            "description": "柳生宗矩ゆかりの地にある家老屋敷。",
+            "prefecture": "奈良県",
+            "latitude": "34.726700",
+            "longitude": "135.953300"
+        },
+        {
+            "name": "旧中筋家住宅",
+            "description": "大庄屋の屋敷だが武家風の建築。",
+            "prefecture": "和歌山県",
+            "latitude": "34.248300",
+            "longitude": "135.216700"
+        },
+        {
+            "name": "倉吉白壁土蔵群",
+            "description": "（商家町だが）",
+            "prefecture": "鳥取県",
+            "latitude": "35.430000",
+            "longitude": "133.825000"
+        },
+        {
+            "name": "松江塩見縄手",
+            "description": "松江城北側の堀沿いにある武家屋敷通り。日本の道100選。",
+            "prefecture": "島根県",
+            "latitude": "35.476700",
+            "longitude": "133.051100"
+        },
+        {
+            "name": "松江・武家屋敷",
+            "description": "塩見縄手にある公開武家屋敷。",
+            "prefecture": "島根県",
+            "latitude": "35.476400",
+            "longitude": "133.051400"
+        },
+        {
+            "name": "小泉八雲記念館(旧居)",
+            "description": "元武家屋敷をヘルン（小泉八雲）が借りて住んだ。",
+            "prefecture": "島根県",
+            "latitude": "35.476900",
+            "longitude": "133.050800"
+        },
+        {
+            "name": "津和野殿町通り",
+            "description": "掘割に鯉が泳ぐ城下町。",
+            "prefecture": "島根県",
+            "latitude": "34.468300",
+            "longitude": "131.773300"
+        },
+        {
+            "name": "高梁武家屋敷",
+            "description": "備中松山城の城下町に残る武家屋敷。",
+            "prefecture": "岡山県",
+            "latitude": "34.795000",
+            "longitude": "133.618300"
+        },
+        {
+            "name": "旧折井家",
+            "description": "高梁にある武家屋敷。",
+            "prefecture": "岡山県",
+            "latitude": "34.795300",
+            "longitude": "133.618600"
+        },
+        {
+            "name": "旧埴原家",
+            "description": "高梁にある上級武士の屋敷。",
+            "prefecture": "岡山県",
+            "latitude": "34.795600",
+            "longitude": "133.618900"
+        },
+        {
+            "name": "頼久寺庭園",
+            "description": "小堀遠州作の庭園がある。",
+            "prefecture": "岡山県",
+            "latitude": "34.798300",
+            "longitude": "133.620000"
+        },
+        {
+            "name": "萩城下町",
+            "description": "毛利氏の城下町。白壁と夏みかんが特徴。世界遺産。",
+            "prefecture": "山口県",
+            "latitude": "34.413300",
+            "longitude": "131.391700"
+        },
+        {
+            "name": "菊屋家住宅",
+            "description": "萩藩の御用商人（豪商）の屋敷だが、武家屋敷の風情。",
+            "prefecture": "山口県",
+            "latitude": "34.413100",
+            "longitude": "131.391400"
+        },
+        {
+            "name": "旧久保田家住宅",
+            "description": "萩にある武家屋敷。",
+            "prefecture": "山口県",
+            "latitude": "34.413600",
+            "longitude": "131.391100"
+        },
+        {
+            "name": "木戸孝允旧宅",
+            "description": "維新の三傑・木戸孝允の生家。",
+            "prefecture": "山口県",
+            "latitude": "34.412800",
+            "longitude": "131.392200"
+        },
+        {
+            "name": "高杉晋作誕生地",
+            "description": "萩にある高杉晋作の生家。",
+            "prefecture": "山口県",
+            "latitude": "34.411700",
+            "longitude": "131.393300"
+        },
+        {
+            "name": "口羽家住宅",
+            "description": "萩城近くにある上級武士の屋敷。",
+            "prefecture": "山口県",
+            "latitude": "34.416700",
+            "longitude": "131.385000"
+        },
+        {
+            "name": "長府毛利邸",
+            "description": "下関長府にある長府毛利家の邸宅。武家屋敷造り。",
+            "prefecture": "山口県",
+            "latitude": "33.985600",
+            "longitude": "130.963900"
+        },
+        {
+            "name": "大洲・おはなはん通り",
+            "description": "武家屋敷や商屋が残る。",
+            "prefecture": "愛媛県",
+            "latitude": "33.506700",
+            "longitude": "132.545000"
+        },
+        {
+            "name": "土佐山内家宝物資料館周辺",
+            "description": "鷹匠町などに武家屋敷の遺構がある。",
+            "prefecture": "高知県",
+            "latitude": "33.556400",
+            "longitude": "133.535000"
+        },
+        {
+            "name": "秋月武家屋敷",
+            "description": "「筑前の小京都」。久野邸などが公開。",
+            "prefecture": "福岡県",
+            "latitude": "33.466700",
+            "longitude": "130.691700"
+        },
+        {
+            "name": "旧戸島家住宅",
+            "description": "柳川にある庭園が美しい武家屋敷。",
+            "prefecture": "福岡県",
+            "latitude": "33.161700",
+            "longitude": "130.395000"
+        },
+        {
+            "name": "佐賀市・旧古賀家",
+            "description": "佐賀城下にある武家屋敷。",
+            "prefecture": "佐賀県",
+            "latitude": "33.251700",
+            "longitude": "130.301700"
+        },
+        {
+            "name": "旧福田家",
+            "description": "佐賀市にある武家屋敷。",
+            "prefecture": "佐賀県",
+            "latitude": "33.251900",
+            "longitude": "130.302200"
+        },
+        {
+            "name": "島原武家屋敷街(鉄砲町)",
+            "description": "島原城の西側にある武家屋敷群。水路が流れる。",
+            "prefecture": "長崎県",
+            "latitude": "32.788900",
+            "longitude": "130.365000"
+        },
+        {
+            "name": "鳥田邸",
+            "description": "島原武家屋敷の一つ。",
+            "prefecture": "長崎県",
+            "latitude": "32.789200",
+            "longitude": "130.365300"
+        },
+        {
+            "name": "山本邸",
+            "description": "島原武家屋敷の一つ。",
+            "prefecture": "長崎県",
+            "latitude": "32.788600",
+            "longitude": "130.364700"
+        },
+        {
+            "name": "篠塚邸",
+            "description": "島原武家屋敷の一つ。",
+            "prefecture": "長崎県",
+            "latitude": "32.789400",
+            "longitude": "130.365600"
+        },
+        {
+            "name": "旧細川刑部邸",
+            "description": "熊本城三の丸に移築された上級武士の屋敷。",
+            "prefecture": "熊本県",
+            "latitude": "32.808900",
+            "longitude": "130.701100"
+        },
+        {
+            "name": "松浜軒",
+            "description": "八代城主松井家の御茶屋。庭園が見事。",
+            "prefecture": "熊本県",
+            "latitude": "32.506700",
+            "longitude": "130.598300"
+        },
+        {
+            "name": "杵築武家屋敷(北台・南台)",
+            "description": "「サンドイッチ型城下町」。坂道が美しい。",
+            "prefecture": "大分県",
+            "latitude": "33.415000",
+            "longitude": "131.616700"
+        },
+        {
+            "name": "大原邸",
+            "description": "杵築の北台にある家老屋敷。",
+            "prefecture": "大分県",
+            "latitude": "33.415300",
+            "longitude": "131.616900"
+        },
+        {
+            "name": "能見邸",
+            "description": "杵築の北台にある武家屋敷。",
+            "prefecture": "大分県",
+            "latitude": "33.415600",
+            "longitude": "131.617200"
+        },
+        {
+            "name": "磯矢邸",
+            "description": "杵築の南台にある武家屋敷。",
+            "prefecture": "大分県",
+            "latitude": "33.413900",
+            "longitude": "131.616100"
+        },
+        {
+            "name": "臼杵・二王座歴史の道",
+            "description": "切り通しの坂道沿いに武家屋敷やお寺が並ぶ。",
+            "prefecture": "大分県",
+            "latitude": "33.121700",
+            "longitude": "131.803300"
+        },
+        {
+            "name": "旧稲葉家下屋敷",
+            "description": "臼杵藩主の親族の屋敷。",
+            "prefecture": "大分県",
+            "latitude": "33.120000",
+            "longitude": "131.805000"
+        },
+        {
+            "name": "飫肥城下町",
+            "description": "「九州の小京都」。石垣と生垣が続く。",
+            "prefecture": "宮崎県",
+            "latitude": "31.628300",
+            "longitude": "131.353300"
+        },
+        {
+            "name": "豫章館",
+            "description": "飫肥藩伊東家の住居。",
+            "prefecture": "宮崎県",
+            "latitude": "31.628600",
+            "longitude": "131.353600"
+        },
+        {
+            "name": "小村寿太郎生家",
+            "description": "飫肥出身の外交官の生家。",
+            "prefecture": "宮崎県",
+            "latitude": "31.627800",
+            "longitude": "131.353900"
+        },
+        {
+            "name": "知覧武家屋敷庭園群",
+            "description": "「薩摩の小京都」。7つの庭園が国の名勝。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.378300",
+            "longitude": "130.441700"
+        },
+        {
+            "name": "西郷恵一郎邸庭園",
+            "description": "知覧武家屋敷の一つ。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.378600",
+            "longitude": "130.441900"
+        },
+        {
+            "name": "平山克己邸庭園",
+            "description": "知覧武家屋敷の一つ。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.378900",
+            "longitude": "130.442200"
+        },
+        {
+            "name": "出水麓武家屋敷群",
+            "description": "日本最大級の武家屋敷群。牛車で観光できる。",
+            "prefecture": "鹿児島県",
+            "latitude": "32.083300",
+            "longitude": "130.350000"
+        },
+        {
+            "name": "竹添邸",
+            "description": "出水麓にある公開武家屋敷。篤姫のロケ地。",
+            "prefecture": "鹿児島県",
+            "latitude": "32.083600",
+            "longitude": "130.350300"
+        },
+        {
+            "name": "税所邸",
+            "description": "出水麓にある公開武家屋敷。",
+            "prefecture": "鹿児島県",
+            "latitude": "32.083100",
+            "longitude": "130.349700"
+        },
+        {
+            "name": "入来麓武家屋敷群",
+            "description": "中世山城と麓集落が一体となった景観。重伝建。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.815300",
+            "longitude": "130.435800"
+        },
+        {
+            "name": "旧増田家住宅",
+            "description": "入来麓にある武家屋敷。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.815600",
+            "longitude": "130.436100"
+        },
+        {
+            "name": "蒲生麓",
+            "description": "日本一の巨樹・蒲生の大楠がある神社の門前町。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.761700",
+            "longitude": "130.568300"
+        },
+        {
+            "name": "中村家住宅",
+            "description": "（農家だが）沖縄の伝統的建造物。国重要文化財。",
+            "prefecture": "沖縄県",
+            "latitude": "26.290600",
+            "longitude": "127.795000"
+        },
+        {
+            "name": "識名園",
+            "description": "琉球王家の別邸。御殿がある。",
+            "prefecture": "沖縄県",
+            "latitude": "26.204700",
+            "longitude": "127.715800"
+        }
+    ]
+}

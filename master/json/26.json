@@ -1,0 +1,746 @@
+{
+    "municipalities": [
+        {
+            "name": "函館ハリストス正教会",
+            "description": "「ガンガン寺」の愛称で親しまれるロシア風ビザンチン様式の聖堂。重要文化財。",
+            "prefecture": "北海道",
+            "latitude": "41.762800",
+            "longitude": "140.711900"
+        },
+        {
+            "name": "カトリック元町教会",
+            "description": "ゴシック様式のローマ・カトリック教会。高くそびえる鐘楼が特徴。",
+            "prefecture": "北海道",
+            "latitude": "41.763300",
+            "longitude": "140.713100"
+        },
+        {
+            "name": "函館聖ヨハネ教会",
+            "description": "茶色の十字形の屋根が特徴的な英国聖公会の教会。",
+            "prefecture": "北海道",
+            "latitude": "41.762200",
+            "longitude": "140.712500"
+        },
+        {
+            "name": "カトリック弘前教会",
+            "description": "ロマネスク様式の教会。祭壇はオランダの教会から譲り受けたもの。",
+            "prefecture": "青森県",
+            "latitude": "40.601400",
+            "longitude": "140.468600"
+        },
+        {
+            "name": "日本基督教団弘前教会",
+            "description": "東北初のプロテスタント教会。双塔のゴシック様式木造建築。",
+            "prefecture": "青森県",
+            "latitude": "40.605000",
+            "longitude": "140.470300"
+        },
+        {
+            "name": "カトリック四ツ家教会",
+            "description": "盛岡市にある歴史ある教会。",
+            "prefecture": "岩手県",
+            "latitude": "39.705600",
+            "longitude": "141.152800"
+        },
+        {
+            "name": "日本基督教団内丸教会",
+            "description": "盛岡城跡公園近くにあるプロテスタント教会。",
+            "prefecture": "岩手県",
+            "latitude": "39.701100",
+            "longitude": "141.155000"
+        },
+        {
+            "name": "カトリック元寺小路教会",
+            "description": "仙台カテドラル。伊達家ゆかりの地に近い。",
+            "prefecture": "宮城県",
+            "latitude": "38.261900",
+            "longitude": "140.878300"
+        },
+        {
+            "name": "日本基督教団仙台北教会",
+            "description": "国登録有形文化財の礼拝堂を持つ。",
+            "prefecture": "宮城県",
+            "latitude": "38.271900",
+            "longitude": "140.868300"
+        },
+        {
+            "name": "カトリック秋田教会",
+            "description": "秋田市内のカトリック教会。",
+            "prefecture": "秋田県",
+            "latitude": "39.718600",
+            "longitude": "140.122500"
+        },
+        {
+            "name": "聖体奉仕会",
+            "description": "「秋田の聖母マリア」で知られる修道院。涙を流すマリア像がある。",
+            "prefecture": "秋田県",
+            "latitude": "39.752200",
+            "longitude": "140.138900"
+        },
+        {
+            "name": "カトリック鶴岡教会",
+            "description": "赤い塔屋が特徴のロマネスク様式教会。国指定重要文化財の黒い聖母マリア像がある。",
+            "prefecture": "山形県",
+            "latitude": "38.726400",
+            "longitude": "139.827200"
+        },
+        {
+            "name": "カトリック山形教会",
+            "description": "100年以上の歴史を持つ教会。",
+            "prefecture": "山形県",
+            "latitude": "38.248600",
+            "longitude": "140.333300"
+        },
+        {
+            "name": "日本基督教団若松栄町教会",
+            "description": "会津若松にある野口英世が洗礼を受けた教会。国登録有形文化財。",
+            "prefecture": "福島県",
+            "latitude": "37.495000",
+            "longitude": "139.928600"
+        },
+        {
+            "name": "カトリック会津若松教会",
+            "description": "白虎隊記念館近くのカトリック教会。",
+            "prefecture": "福島県",
+            "latitude": "37.498300",
+            "longitude": "139.925000"
+        },
+        {
+            "name": "日本基督教団水戸教会",
+            "description": "水戸市内にある歴史あるプロテスタント教会。",
+            "prefecture": "茨城県",
+            "latitude": "36.376100",
+            "longitude": "140.471900"
+        },
+        {
+            "name": "カトリック水戸教会",
+            "description": "聖家族に捧げられた教会。",
+            "prefecture": "茨城県",
+            "latitude": "36.378300",
+            "longitude": "140.468300"
+        },
+        {
+            "name": "カトリック松が峰教会",
+            "description": "宇都宮特産の大谷石で作られた重厚なロマネスク様式の聖堂。国登録有形文化財。",
+            "prefecture": "栃木県",
+            "latitude": "36.560600",
+            "longitude": "139.882200"
+        },
+        {
+            "name": "日本聖公会日光真光教会",
+            "description": "日光の社寺に近い、石造りのゴシック様式教会。",
+            "prefecture": "栃木県",
+            "latitude": "36.751100",
+            "longitude": "139.600800"
+        },
+        {
+            "name": "日本基督教団前橋教会",
+            "description": "群馬県庁近くにあるレンガ造りのような外観の教会。",
+            "prefecture": "群馬県",
+            "latitude": "36.390600",
+            "longitude": "139.066700"
+        },
+        {
+            "name": "カトリック高崎教会",
+            "description": "高崎市内にあるカトリック教会。",
+            "prefecture": "群馬県",
+            "latitude": "36.326700",
+            "longitude": "139.011700"
+        },
+        {
+            "name": "日本基督教団川越教会",
+            "description": "小江戸川越にある国登録有形文化財の教会堂。",
+            "prefecture": "埼玉県",
+            "latitude": "35.920800",
+            "longitude": "139.482200"
+        },
+        {
+            "name": "カトリック浦和教会",
+            "description": "さいたま教区のカテドラル。",
+            "prefecture": "埼玉県",
+            "latitude": "35.865300",
+            "longitude": "139.663100"
+        },
+        {
+            "name": "日本基督教団千葉教会",
+            "description": "明治時代に設立された歴史ある教会。現在の礼拝堂は国登録有形文化財。",
+            "prefecture": "千葉県",
+            "latitude": "35.613300",
+            "longitude": "140.118900"
+        },
+        {
+            "name": "カトリック千葉寺教会",
+            "description": "千葉市内にあるカトリック教会。",
+            "prefecture": "千葉県",
+            "latitude": "35.597200",
+            "longitude": "140.133300"
+        },
+        {
+            "name": "東京復活大聖堂(ニコライ堂)",
+            "description": "日本ハリストス正教会の本山。ビザンチン様式のドームが特徴。国重要文化財。",
+            "prefecture": "東京都",
+            "latitude": "35.698300",
+            "longitude": "139.765600"
+        },
+        {
+            "name": "カトリック関口教会(東京カテドラル聖マリア大聖堂)",
+            "description": "丹下健三設計のステンレス張りの現代建築。上空から見ると十字架の形をしている。",
+            "prefecture": "東京都",
+            "latitude": "35.714200",
+            "longitude": "139.726400"
+        },
+        {
+            "name": "聖イグナチオ教会",
+            "description": "四ツ谷駅前にある大きな円形聖堂を持つ教会。",
+            "prefecture": "東京都",
+            "latitude": "35.684700",
+            "longitude": "139.731700"
+        },
+        {
+            "name": "横浜山手聖公会",
+            "description": "大谷石造りの聖堂。横浜山手のランドマーク。",
+            "prefecture": "神奈川県",
+            "latitude": "35.438900",
+            "longitude": "139.652200"
+        },
+        {
+            "name": "カトリック山手教会",
+            "description": "美しいゴシック様式の聖堂。日本初のカトリック教会堂の歴史を受け継ぐ。",
+            "prefecture": "神奈川県",
+            "latitude": "35.438100",
+            "longitude": "139.652800"
+        },
+        {
+            "name": "横浜指路教会",
+            "description": "関内にあるゴシック風の教会。",
+            "prefecture": "神奈川県",
+            "latitude": "35.443900",
+            "longitude": "139.635800"
+        },
+        {
+            "name": "カトリック新潟教会",
+            "description": "新潟教区のカテドラル。スイスの建築家による設計。",
+            "prefecture": "新潟県",
+            "latitude": "37.922800",
+            "longitude": "139.043600"
+        },
+        {
+            "name": "日本基督教団新潟教会",
+            "description": "歴史あるプロテスタント教会。",
+            "prefecture": "新潟県",
+            "latitude": "37.920000",
+            "longitude": "139.043100"
+        },
+        {
+            "name": "カトリック富山教会",
+            "description": "富山市内のカトリック教会。",
+            "prefecture": "富山県",
+            "latitude": "36.691700",
+            "longitude": "137.216700"
+        },
+        {
+            "name": "日本基督教団富山鹿島町教会",
+            "description": "登録有形文化財の会堂を持つ。",
+            "prefecture": "富山県",
+            "latitude": "36.688300",
+            "longitude": "137.215000"
+        },
+        {
+            "name": "カトリック金沢教会",
+            "description": "黒い聖母像がある。",
+            "prefecture": "石川県",
+            "latitude": "36.561900",
+            "longitude": "136.656100"
+        },
+        {
+            "name": "日本基督教団金沢教会",
+            "description": "金沢の歴史的景観に溶け込むレンガ造り風の教会。",
+            "prefecture": "石川県",
+            "latitude": "36.560800",
+            "longitude": "136.653300"
+        },
+        {
+            "name": "カトリック福井教会",
+            "description": "福井市内にある教会。",
+            "prefecture": "福井県",
+            "latitude": "36.065000",
+            "longitude": "136.221700"
+        },
+        {
+            "name": "日本基督教団福井教会",
+            "description": "福井大空襲や震災を乗り越えた歴史。",
+            "prefecture": "福井県",
+            "latitude": "36.061700",
+            "longitude": "136.218300"
+        },
+        {
+            "name": "カトリック甲府教会",
+            "description": "甲府市内にある教会。",
+            "prefecture": "山梨県",
+            "latitude": "35.663900",
+            "longitude": "138.568300"
+        },
+        {
+            "name": "日本基督教団甲府教会",
+            "description": "ヴォーリズ建築事務所設計の会堂があった（建て替え済みの場合あり）。",
+            "prefecture": "山梨県",
+            "latitude": "35.661100",
+            "longitude": "138.570000"
+        },
+        {
+            "name": "軽井沢高原教会",
+            "description": "森の中に佇む木造の教会。結婚式場としても非常に有名。",
+            "prefecture": "長野県",
+            "latitude": "36.363900",
+            "longitude": "138.591700"
+        },
+        {
+            "name": "聖パウロカトリック教会",
+            "description": "アントニン・レーモンド設計の三角屋根の教会。軽井沢のシンボル。",
+            "prefecture": "長野県",
+            "latitude": "36.360600",
+            "longitude": "138.636700"
+        },
+        {
+            "name": "旧軽井沢礼拝堂",
+            "description": "ショー記念礼拝堂。軽井沢最古の教会。",
+            "prefecture": "長野県",
+            "latitude": "36.364400",
+            "longitude": "138.641700"
+        },
+        {
+            "name": "カトリック岐阜教会",
+            "description": "岐阜市内のカトリック教会。",
+            "prefecture": "岐阜県",
+            "latitude": "35.421700",
+            "longitude": "136.758300"
+        },
+        {
+            "name": "日本基督教団大垣教会",
+            "description": "ヴォーリズ建築の講堂を持つ。",
+            "prefecture": "岐阜県",
+            "latitude": "35.361100",
+            "longitude": "136.616700"
+        },
+        {
+            "name": "日本基督教団静岡教会",
+            "description": "静岡市内にあるレンガ造りの教会。国登録有形文化財。",
+            "prefecture": "静岡県",
+            "latitude": "34.975000",
+            "longitude": "138.385000"
+        },
+        {
+            "name": "カトリック静岡教会",
+            "description": "静岡市内のカトリック教会。",
+            "prefecture": "静岡県",
+            "latitude": "34.976700",
+            "longitude": "138.383300"
+        },
+        {
+            "name": "カトリック布池教会",
+            "description": "名古屋教区のカテドラル。ゴシック様式の大聖堂。",
+            "prefecture": "愛知県",
+            "latitude": "35.172800",
+            "longitude": "136.918900"
+        },
+        {
+            "name": "聖ザビエル天主堂",
+            "description": "明治村に移築保存されている白亜の教会。元は京都にあったもの。",
+            "prefecture": "愛知県",
+            "latitude": "35.341100",
+            "longitude": "136.989400"
+        },
+        {
+            "name": "聖ヨハネ教会堂",
+            "description": "明治村に移築保存。重要文化財。中世ロマネスク風。",
+            "prefecture": "愛知県",
+            "latitude": "35.340000",
+            "longitude": "136.988300"
+        },
+        {
+            "name": "カトリック津教会",
+            "description": "津市にあるカトリック教会。明治村のザビエル天主堂のような歴史的建造物は県内には少ないが、地域の信仰拠点。",
+            "prefecture": "三重県",
+            "latitude": "34.725000",
+            "longitude": "136.508300"
+        },
+        {
+            "name": "日本基督教団津教会",
+            "description": "津市内のプロテスタント教会。",
+            "prefecture": "三重県",
+            "latitude": "34.718300",
+            "longitude": "136.505000"
+        },
+        {
+            "name": "日本基督教団近江八幡教会",
+            "description": "ヴォーリズ建築の一つ。近江八幡の観光スポット。",
+            "prefecture": "滋賀県",
+            "latitude": "35.140000",
+            "longitude": "136.091700"
+        },
+        {
+            "name": "近江八幡教会牧師館（アンドリュース記念館）",
+            "description": "ヴォーリズ建築の代表作の一つ。",
+            "prefecture": "滋賀県",
+            "latitude": "35.140300",
+            "longitude": "136.091900"
+        },
+        {
+            "name": "カトリック彦根教会",
+            "description": "彦根城近くの教会。",
+            "prefecture": "滋賀県",
+            "latitude": "35.275000",
+            "longitude": "136.255000"
+        },
+        {
+            "name": "カトリック河原町教会",
+            "description": "京都教区のカテドラル。都心のオアシス。",
+            "prefecture": "京都府",
+            "latitude": "35.011700",
+            "longitude": "135.768300"
+        },
+        {
+            "name": "日本聖公会聖アグネス教会",
+            "description": "平安女学院の礼拝堂。レンガ造りのゴシック様式。",
+            "prefecture": "京都府",
+            "latitude": "35.018900",
+            "longitude": "135.758300"
+        },
+        {
+            "name": "京都ハリストス正教会",
+            "description": "「生神女福音聖堂」。ロシア・ビザンチン様式の木造聖堂。",
+            "prefecture": "京都府",
+            "latitude": "35.014400",
+            "longitude": "135.766100"
+        },
+        {
+            "name": "カトリック玉造教会(大阪カテドラル聖マリア大聖堂)",
+            "description": "細川ガラシャを描いた画や像がある。近代的な大聖堂。",
+            "prefecture": "大阪府",
+            "latitude": "34.678900",
+            "longitude": "135.531700"
+        },
+        {
+            "name": "日本聖公会川口基督教会",
+            "description": "旧川口居留地に建つレンガ造りのゴシック様式教会。重要文化財。",
+            "prefecture": "大阪府",
+            "latitude": "34.681100",
+            "longitude": "135.480000"
+        },
+        {
+            "name": "日本基督教団大阪教会",
+            "description": "ヴォーリズ設計のロマネスク様式教会。国登録有形文化財。",
+            "prefecture": "大阪府",
+            "latitude": "34.690000",
+            "longitude": "135.498300"
+        },
+        {
+            "name": "カトリック夙川教会",
+            "description": "ネオ・ゴシック様式の壮麗な聖堂。カリヨン（鐘）が有名。",
+            "prefecture": "兵庫県",
+            "latitude": "34.739400",
+            "longitude": "135.328300"
+        },
+        {
+            "name": "神戸栄光教会",
+            "description": "赤レンガの外観が美しい、阪神大震災後に再建された教会。",
+            "prefecture": "兵庫県",
+            "latitude": "34.691700",
+            "longitude": "135.183300"
+        },
+        {
+            "name": "フロインドリーブ(旧神戸ユニオン教会)",
+            "description": "ヴォーリズ設計の旧教会を改装したカフェ・ベーカリー。",
+            "prefecture": "兵庫県",
+            "latitude": "34.696700",
+            "longitude": "135.193300"
+        },
+        {
+            "name": "日本聖公会奈良基督教会",
+            "description": "奈良公園内にある、寺院のような和風建築の教会。重要文化財。",
+            "prefecture": "奈良県",
+            "latitude": "34.682800",
+            "longitude": "135.831700"
+        },
+        {
+            "name": "カトリック奈良教会",
+            "description": "近鉄奈良駅近くにある教会。",
+            "prefecture": "奈良県",
+            "latitude": "34.683300",
+            "longitude": "135.825000"
+        },
+        {
+            "name": "カトリック和歌山教会",
+            "description": "和歌山城近くの教会。",
+            "prefecture": "和歌山県",
+            "latitude": "34.228300",
+            "longitude": "135.171700"
+        },
+        {
+            "name": "日本基督教団和歌山教会",
+            "description": "国登録有形文化財の会堂を持つ。",
+            "prefecture": "和歌山県",
+            "latitude": "34.225000",
+            "longitude": "135.175000"
+        },
+        {
+            "name": "日本基督教団鳥取教会",
+            "description": "レンガ造りのような外観を持つ教会。",
+            "prefecture": "鳥取県",
+            "latitude": "35.495000",
+            "longitude": "134.225000"
+        },
+        {
+            "name": "カトリック鳥取教会",
+            "description": "鳥取市内のカトリック教会。",
+            "prefecture": "鳥取県",
+            "latitude": "35.496700",
+            "longitude": "134.228300"
+        },
+        {
+            "name": "カトリック松江教会",
+            "description": "松江城近くにある美しい教会。",
+            "prefecture": "島根県",
+            "latitude": "35.475000",
+            "longitude": "133.050000"
+        },
+        {
+            "name": "日本基督教団松江教会",
+            "description": "松江市内のプロテスタント教会。",
+            "prefecture": "島根県",
+            "latitude": "35.470000",
+            "longitude": "133.055000"
+        },
+        {
+            "name": "日本基督教団岡山教会",
+            "description": "岡山空襲を免れた歴史ある教会。",
+            "prefecture": "岡山県",
+            "latitude": "34.665000",
+            "longitude": "133.930000"
+        },
+        {
+            "name": "カトリック岡山教会",
+            "description": "岡山市内のカトリック教会。",
+            "prefecture": "岡山県",
+            "latitude": "34.668300",
+            "longitude": "133.921700"
+        },
+        {
+            "name": "世界平和記念聖堂(カトリック幟町教会)",
+            "description": "村野藤吾設計。戦後の復興と平和を祈念して建てられた重要文化財。",
+            "prefecture": "広島県",
+            "latitude": "34.394700",
+            "longitude": "132.468300"
+        },
+        {
+            "name": "日本基督教団広島流川教会",
+            "description": "被爆建物の一つとして知られる（現在の会堂は再建だが歴史を伝える）。",
+            "prefecture": "広島県",
+            "latitude": "34.391700",
+            "longitude": "132.466700"
+        },
+        {
+            "name": "山口サビエル記念聖堂",
+            "description": "フランシスコ・ザビエルの来日400年を記念して建てられた。三角形の白い聖堂が特徴。",
+            "prefecture": "山口県",
+            "latitude": "34.178300",
+            "longitude": "131.473900"
+        },
+        {
+            "name": "日本基督教団山口教会",
+            "description": "ロマネスク様式の会堂。",
+            "prefecture": "山口県",
+            "latitude": "34.175000",
+            "longitude": "131.470000"
+        },
+        {
+            "name": "カトリック徳島教会",
+            "description": "徳島市内のカトリック教会。",
+            "prefecture": "徳島県",
+            "latitude": "34.071700",
+            "longitude": "134.551700"
+        },
+        {
+            "name": "日本基督教団徳島教会",
+            "description": "徳島市内のプロテスタント教会。",
+            "prefecture": "徳島県",
+            "latitude": "34.070000",
+            "longitude": "134.550000"
+        },
+        {
+            "name": "カトリック高松教会",
+            "description": "香川県庁近くの教会。",
+            "prefecture": "香川県",
+            "latitude": "34.341700",
+            "longitude": "134.045000"
+        },
+        {
+            "name": "日本基督教団高松教会",
+            "description": "高松市内のプロテスタント教会。",
+            "prefecture": "香川県",
+            "latitude": "34.345000",
+            "longitude": "134.048300"
+        },
+        {
+            "name": "カトリック松山教会",
+            "description": "松山市内のカトリック教会。",
+            "prefecture": "愛媛県",
+            "latitude": "33.840000",
+            "longitude": "132.765000"
+        },
+        {
+            "name": "日本基督教団松山教会",
+            "description": "国登録有形文化財の石造りの会堂。",
+            "prefecture": "愛媛県",
+            "latitude": "33.838300",
+            "longitude": "132.763300"
+        },
+        {
+            "name": "カトリック高知教会",
+            "description": "高知市内のカトリック教会。",
+            "prefecture": "高知県",
+            "latitude": "33.560000",
+            "longitude": "133.535000"
+        },
+        {
+            "name": "日本基督教団高知教会",
+            "description": "高知市内のプロテスタント教会。歴史ある建物。",
+            "prefecture": "高知県",
+            "latitude": "33.561700",
+            "longitude": "133.538300"
+        },
+        {
+            "name": "カトリック大名町教会",
+            "description": "福岡教区のカテドラル。勝利の聖母聖堂。",
+            "prefecture": "福岡県",
+            "latitude": "33.586700",
+            "longitude": "130.395000"
+        },
+        {
+            "name": "カトリック今村教会",
+            "description": "レンガ造りの双塔が美しい教会。重要文化財。",
+            "prefecture": "福岡県",
+            "latitude": "33.376700",
+            "longitude": "130.605000"
+        },
+        {
+            "name": "日本基督教団福岡警固教会",
+            "description": "赤レンガの教会。",
+            "prefecture": "福岡県",
+            "latitude": "33.583300",
+            "longitude": "130.391700"
+        },
+        {
+            "name": "カトリック佐賀教会",
+            "description": "佐賀市内のカトリック教会。",
+            "prefecture": "佐賀県",
+            "latitude": "33.255000",
+            "longitude": "130.301700"
+        },
+        {
+            "name": "日本基督教団佐賀教会",
+            "description": "ヴォーリズ設計の会堂を持つ。",
+            "prefecture": "佐賀県",
+            "latitude": "33.250000",
+            "longitude": "130.300000"
+        },
+        {
+            "name": "大浦天主堂",
+            "description": "現存する日本最古のキリスト教建築。国宝・世界遺産。",
+            "prefecture": "長崎県",
+            "latitude": "32.734200",
+            "longitude": "129.870300"
+        },
+        {
+            "name": "浦上天主堂",
+            "description": "原爆で倒壊後、再建されたカトリックの拠点。",
+            "prefecture": "長崎県",
+            "latitude": "32.776700",
+            "longitude": "129.863300"
+        },
+        {
+            "name": "カトリック田平教会",
+            "description": "レンガ造りの美しい教会。重要文化財。",
+            "prefecture": "長崎県",
+            "latitude": "33.345000",
+            "longitude": "129.580000"
+        },
+        {
+            "name": "カトリック﨑津教会",
+            "description": "「海の天主堂」。ゴシック様式の教会で、堂内は畳敷き。世界遺産。",
+            "prefecture": "熊本県",
+            "latitude": "32.311700",
+            "longitude": "130.026700"
+        },
+        {
+            "name": "カトリック手取教会",
+            "description": "熊本市中心部にある教会。加藤清正の像の近く。",
+            "prefecture": "熊本県",
+            "latitude": "32.803300",
+            "longitude": "130.710000"
+        },
+        {
+            "name": "カトリック大江教会",
+            "description": "丘の上に立つ白亜のロマネスク様式教会。",
+            "prefecture": "熊本県",
+            "latitude": "32.316700",
+            "longitude": "130.033300"
+        },
+        {
+            "name": "カトリック大分教会",
+            "description": "大分教区のカテドラル。フランシスコ・ザビエルゆかりの地。",
+            "prefecture": "大分県",
+            "latitude": "33.238300",
+            "longitude": "131.608300"
+        },
+        {
+            "name": "日本基督教団別府教会",
+            "description": "別府市内のプロテスタント教会。",
+            "prefecture": "大分県",
+            "latitude": "33.278300",
+            "longitude": "131.501700"
+        },
+        {
+            "name": "カトリック宮崎教会",
+            "description": "宮崎市内のカトリック教会。",
+            "prefecture": "宮崎県",
+            "latitude": "31.916700",
+            "longitude": "131.423300"
+        },
+        {
+            "name": "日本基督教団宮崎教会",
+            "description": "宮崎市内のプロテスタント教会。",
+            "prefecture": "宮崎県",
+            "latitude": "31.915000",
+            "longitude": "131.421700"
+        },
+        {
+            "name": "ザビエル記念聖堂(カトリック鹿児島カテドラル)",
+            "description": "ザビエル渡来の地に建つ、独創的な形の教会。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.590000",
+            "longitude": "130.553300"
+        },
+        {
+            "name": "日本基督教団鹿児島教会",
+            "description": "国登録有形文化財の石造り礼拝堂。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.588300",
+            "longitude": "130.551700"
+        },
+        {
+            "name": "カトリック開南教会",
+            "description": "那覇市内のカトリック教会。",
+            "prefecture": "沖縄県",
+            "latitude": "26.210000",
+            "longitude": "127.685000"
+        },
+        {
+            "name": "日本基督教団那覇バプテスト教会",
+            "description": "那覇市内のプロテスタント教会。",
+            "prefecture": "沖縄県",
+            "latitude": "26.225000",
+            "longitude": "127.695000"
+        }
+    ]
+}

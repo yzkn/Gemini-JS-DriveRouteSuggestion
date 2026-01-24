@@ -1,0 +1,662 @@
+{
+    "municipalities": [
+        {
+            "name": "旭川市旭山動物園 (旭川市)",
+            "description": "行動展示で有名な日本最北の動物園。",
+            "prefecture": "北海道",
+            "latitude": 43.768611,
+            "longitude": 142.480000
+        },
+        {
+            "name": "札幌市円山動物園 (札幌市)",
+            "description": "北海道初の動物園。ホッキョクグマ館などが人気。",
+            "prefecture": "北海道",
+            "latitude": 43.052500,
+            "longitude": 141.309444
+        },
+        {
+            "name": "恩賜上野動物園 (台東区)",
+            "description": "日本最初の動物園。ジャイアントパンダが有名。",
+            "prefecture": "東京都",
+            "latitude": 35.717222,
+            "longitude": 139.771389
+        },
+        {
+            "name": "多摩動物公園 (日野市)",
+            "description": "広大な敷地で動物をより自然な状態で展示。",
+            "prefecture": "東京都",
+            "latitude": 35.648333,
+            "longitude": 139.401389
+        },
+        {
+            "name": "よこはま動物園ズーラシア (横浜市)",
+            "description": "生息環境展示を取り入れた国内最大級の動物園。",
+            "prefecture": "神奈川県",
+            "latitude": 35.495000,
+            "longitude": 139.525556
+        },
+        {
+            "name": "東武動物公園 (宮代町)",
+            "description": "遊園地と動物園が融合。ホワイトタイガーが有名。",
+            "prefecture": "埼玉県",
+            "latitude": 36.025000,
+            "longitude": 139.716667
+        },
+        {
+            "name": "富士サファリパーク (裾野市)",
+            "description": "日本最大級のサファリパーク。",
+            "prefecture": "静岡県",
+            "latitude": 35.250000,
+            "longitude": 138.800000
+        },
+        {
+            "name": "東山動植物園 (名古屋市)",
+            "description": "飼育種類数国内トップクラス。イケメンゴリラ「シャバーニ」がいる。",
+            "prefecture": "愛知県",
+            "latitude": 35.155833,
+            "longitude": 136.980000
+        },
+        {
+            "name": "アドベンチャーワールド (白浜町)",
+            "description": "ジャイアントパンダの繁殖実績で有名。サファリもある。",
+            "prefecture": "和歌山県",
+            "latitude": 33.666667,
+            "longitude": 135.366667
+        },
+        {
+            "name": "天王寺動物園 (大阪市)",
+            "description": "100年以上の歴史を持つ都市型動物園。",
+            "prefecture": "大阪府",
+            "latitude": 34.650000,
+            "longitude": 135.510000
+        },
+        {
+            "name": "神戸市立王子動物園 (神戸市)",
+            "description": "パンダとコアラを同時に見られる（パンダは現在高齢で非公開等の場合あり）。",
+            "prefecture": "兵庫県",
+            "latitude": 34.711111,
+            "longitude": 135.216667
+        },
+        {
+            "name": "愛媛県立とべ動物園 (砥部町)",
+            "description": "人工哺育のホッキョクグマ「ピース」がいる。",
+            "prefecture": "愛媛県",
+            "latitude": 33.766667,
+            "longitude": 132.783333
+        },
+        {
+            "name": "高知県立のいち動物公園 (香南市)",
+            "description": "広々とした展示場。人気ランキングで上位常連。",
+            "prefecture": "高知県",
+            "latitude": 33.566667,
+            "longitude": 133.700000
+        },
+        {
+            "name": "九州自然動物公園アフリカンサファリ (宇佐市)",
+            "description": "日本最大級のサファリパーク。",
+            "prefecture": "大分県",
+            "latitude": 33.366667,
+            "longitude": 131.433333
+        },
+        {
+            "name": "長崎バイオパーク (西海市)",
+            "description": "カピバラなど動物との距離が近い。",
+            "prefecture": "長崎県",
+            "latitude": 33.000000,
+            "longitude": 129.783333
+        },
+        {
+            "name": "沖縄こどもの国 (沖縄市)",
+            "description": "沖縄県唯一の動物園。",
+            "prefecture": "沖縄県",
+            "latitude": 26.333333,
+            "longitude": 127.800000
+        },
+        {
+            "name": "釧路市動物園 (釧路市)",
+            "description": "国内最大級の面積。シマフクロウの保護増殖でも知られる。",
+            "prefecture": "北海道",
+            "latitude": 43.076389,
+            "longitude": 144.295278
+        },
+        {
+            "name": "おびひろ動物園 (帯広市)",
+            "description": "緑ヶ丘公園内にある動物園。",
+            "prefecture": "北海道",
+            "latitude": 42.912500,
+            "longitude": 143.181667
+        },
+        {
+            "name": "ノースサファリサッポロ (札幌市)",
+            "description": "体験型動物園。「日本一危険な動物園」エリアも。",
+            "prefecture": "北海道",
+            "latitude": 42.946389,
+            "longitude": 141.226111
+        },
+        {
+            "name": "八木山動物公園フジサキの杜 (仙台市)",
+            "description": "アフリカゾウやライオンなど多数飼育。",
+            "prefecture": "宮城県",
+            "latitude": 38.245833,
+            "longitude": 140.843611
+        },
+        {
+            "name": "秋田市大森山動物園ミルヴェ (秋田市)",
+            "description": "「まんまタイム」などのふれあいが人気。",
+            "prefecture": "秋田県",
+            "latitude": 39.673611,
+            "longitude": 140.065833
+        },
+        {
+            "name": "盛岡市動物公園ZOOMO (盛岡市)",
+            "description": "自然の地形を生かした動物公園。",
+            "prefecture": "岩手県",
+            "latitude": 39.733333,
+            "longitude": 141.216667
+        },
+        {
+            "name": "岩手サファリパーク (一関市)",
+            "description": "バスや自家用車で回るサファリパーク。",
+            "prefecture": "岩手県",
+            "latitude": 38.933333,
+            "longitude": 141.316667
+        },
+        {
+            "name": "東北サファリパーク (二本松市)",
+            "description": "ホワイトライオンなどがいる。",
+            "prefecture": "福島県",
+            "latitude": 37.633333,
+            "longitude": 140.350000
+        },
+        {
+            "name": "弥生いこいの広場 (弘前市)",
+            "description": "岩木山麓の動物園。",
+            "prefecture": "青森県",
+            "latitude": 40.633333,
+            "longitude": 140.416667
+        },
+        {
+            "name": "井の頭自然文化園 (武蔵野市)",
+            "description": "井の頭公園内。リスの小径や水生物館がある。",
+            "prefecture": "東京都",
+            "latitude": 35.701389,
+            "longitude": 139.573611
+        },
+        {
+            "name": "野毛山動物園 (横浜市)",
+            "description": "入園無料。みなとみらいを見下ろす高台にある。",
+            "prefecture": "神奈川県",
+            "latitude": 35.444444,
+            "longitude": 139.623611
+        },
+        {
+            "name": "横浜市立金沢動物園 (横浜市)",
+            "description": "草食動物を中心に展示。コアラがいる。",
+            "prefecture": "神奈川県",
+            "latitude": 35.345833,
+            "longitude": 139.608333
+        },
+        {
+            "name": "千葉市動物公園 (千葉市)",
+            "description": "立ち上がるレッサーパンダ「風太」で有名になった。",
+            "prefecture": "千葉県",
+            "latitude": 35.633333,
+            "longitude": 140.125000
+        },
+        {
+            "name": "市川市動植物園 (市川市)",
+            "description": "レッサーパンダやオランウータンがいる。",
+            "prefecture": "千葉県",
+            "latitude": 35.758333,
+            "longitude": 139.966667
+        },
+        {
+            "name": "埼玉県こども動物自然公園 (東松山市)",
+            "description": "コアラやクオッカなどオーストラリアの動物が充実。",
+            "prefecture": "埼玉県",
+            "latitude": 36.008333,
+            "longitude": 139.383333
+        },
+        {
+            "name": "大宮公園小動物園 (さいたま市)",
+            "description": "大宮公園内にある無料動物園。",
+            "prefecture": "埼玉県",
+            "latitude": 35.916667,
+            "longitude": 139.633333
+        },
+        {
+            "name": "日立市かみね動物園 (日立市)",
+            "description": "太平洋を一望できる動物園。",
+            "prefecture": "茨城県",
+            "latitude": 36.616667,
+            "longitude": 140.666667
+        },
+        {
+            "name": "宇都宮動物園 (宇都宮市)",
+            "description": "「自然とどうぶつとこどもたち」がテーマ。",
+            "prefecture": "栃木県",
+            "latitude": 36.633333,
+            "longitude": 139.866667
+        },
+        {
+            "name": "那須どうぶつ王国 (那須町)",
+            "description": "広大な敷地でのパフォーマンスやふれあいが魅力。",
+            "prefecture": "栃木県",
+            "latitude": 37.066667,
+            "longitude": 140.050000
+        },
+        {
+            "name": "那須サファリパーク (那須町)",
+            "description": "野生動物を間近で観察できる。",
+            "prefecture": "栃木県",
+            "latitude": 37.050000,
+            "longitude": 140.016667
+        },
+        {
+            "name": "群馬サファリパーク (富岡市)",
+            "description": "ホワイトタイガーやライオンなど。",
+            "prefecture": "群馬県",
+            "latitude": 36.266667,
+            "longitude": 138.900000
+        },
+        {
+            "name": "桐生が岡動物園 (桐生市)",
+            "description": "入園無料。高台にある。",
+            "prefecture": "群馬県",
+            "latitude": 36.416667,
+            "longitude": 139.333333
+        },
+        {
+            "name": "伊豆アニマルキングダム (東伊豆町)",
+            "description": "動物園、遊園地、ゴルフ場の複合施設。",
+            "prefecture": "静岡県",
+            "latitude": 34.783333,
+            "longitude": 139.050000
+        },
+        {
+            "name": "夢見ヶ崎動物公園 (川崎市)",
+            "description": "無料の動物公園。",
+            "prefecture": "神奈川県",
+            "latitude": 35.550000,
+            "longitude": 139.666667
+        },
+        {
+            "name": "江戸川区自然動物園 (江戸川区)",
+            "description": "無料。レッサーパンダやオオアリクイなど。",
+            "prefecture": "東京都",
+            "latitude": 35.666667,
+            "longitude": 139.858333
+        },
+        {
+            "name": "足立区生物園 (足立区)",
+            "description": "昆虫や魚類、小動物など。",
+            "prefecture": "東京都",
+            "latitude": 35.791667,
+            "longitude": 139.808333
+        },
+        {
+            "name": "羽村市動物公園 (羽村市)",
+            "description": "アットホームな雰囲気。",
+            "prefecture": "東京都",
+            "latitude": 35.758333,
+            "longitude": 139.316667
+        },
+        {
+            "name": "町田リス園 (町田市)",
+            "description": "タイワンリスが放し飼い。",
+            "prefecture": "東京都",
+            "latitude": 35.583333,
+            "longitude": 139.450000
+        },
+        {
+            "name": "マザー牧場 (富津市)",
+            "description": "観光牧場だが動物とのふれあいがメイン。",
+            "prefecture": "千葉県",
+            "latitude": 35.250000,
+            "longitude": 139.933333
+        },
+        {
+            "name": "市原ぞうの国 (市原市)",
+            "description": "国内最多のゾウを飼育。",
+            "prefecture": "千葉県",
+            "latitude": 35.366667,
+            "longitude": 140.216667
+        },
+        {
+            "name": "豊橋総合動植物公園（のんほいパーク） (豊橋市)",
+            "description": "動物園、植物園、自然史博物館、遊園地がある。",
+            "prefecture": "愛知県",
+            "latitude": 34.716667,
+            "longitude": 137.416667
+        },
+        {
+            "name": "日本平動物園 (静岡市)",
+            "description": "レッサーパンダの聖地。",
+            "prefecture": "静岡県",
+            "latitude": 34.966667,
+            "longitude": 138.433333
+        },
+        {
+            "name": "浜松市動物園 (浜松市)",
+            "description": "ゴールデンライオンタマリンなど。",
+            "prefecture": "静岡県",
+            "latitude": 34.758333,
+            "longitude": 137.666667
+        },
+        {
+            "name": "伊豆シャボテン動物公園 (伊東市)",
+            "description": "カピバラの露天風呂発祥の地。",
+            "prefecture": "静岡県",
+            "latitude": 34.908333,
+            "longitude": 139.100000
+        },
+        {
+            "name": "熱川バナナワニ園 (東伊豆町)",
+            "description": "世界中のワニを飼育。",
+            "prefecture": "静岡県",
+            "latitude": 34.816667,
+            "longitude": 139.066667
+        },
+        {
+            "name": "いしかわ動物園 (能美市)",
+            "description": "ホワイトタイガーやトキの公開。",
+            "prefecture": "石川県",
+            "latitude": 36.433333,
+            "longitude": 136.566667
+        },
+        {
+            "name": "富山市ファミリーパーク (富山市)",
+            "description": "「里山の自然」をテーマにした動物園。",
+            "prefecture": "富山県",
+            "latitude": 36.683333,
+            "longitude": 137.166667
+        },
+        {
+            "name": "高岡古城公園動物園 (高岡市)",
+            "description": "無料。古城公園内。",
+            "prefecture": "富山県",
+            "latitude": 36.745833,
+            "longitude": 137.016667
+        },
+        {
+            "name": "須坂市動物園 (須坂市)",
+            "description": "アカカンガルーの「ハッチ」で有名になった。",
+            "prefecture": "長野県",
+            "latitude": 36.650000,
+            "longitude": 138.316667
+        },
+        {
+            "name": "茶臼山動物園 (長野市)",
+            "description": "レッサーパンダの森。",
+            "prefecture": "長野県",
+            "latitude": 36.583333,
+            "longitude": 138.133333
+        },
+        {
+            "name": "小諸市動物園 (小諸市)",
+            "description": "懐古園内にある長野県最古の動物園。",
+            "prefecture": "長野県",
+            "latitude": 36.325000,
+            "longitude": 138.416667
+        },
+        {
+            "name": "飯田市立動物園 (飯田市)",
+            "description": "小さな動物園。",
+            "prefecture": "長野県",
+            "latitude": 35.516667,
+            "longitude": 137.816667
+        },
+        {
+            "name": "大町山岳博物館 (大町市)",
+            "description": "付属園でカモシカなどを飼育。",
+            "prefecture": "長野県",
+            "latitude": 36.508333,
+            "longitude": 137.850000
+        },
+        {
+            "name": "甲府市遊亀公園附属動物園 (甲府市)",
+            "description": "大正8年開園の歴史ある動物園。",
+            "prefecture": "山梨県",
+            "latitude": 35.650000,
+            "longitude": 138.583333
+        },
+        {
+            "name": "山梨市立万力動物園 (山梨市)",
+            "description": "万力公園内。",
+            "prefecture": "山梨県",
+            "latitude": 35.691667,
+            "longitude": 138.683333
+        },
+        {
+            "name": "鯖江市西山動物園 (鯖江市)",
+            "description": "レッサーパンダの繁殖で有名。無料。",
+            "prefecture": "福井県",
+            "latitude": 35.950000,
+            "longitude": 136.183333
+        },
+        {
+            "name": "ニフレル (吹田市)",
+            "description": "海遊館プロデュースの「生きているミュージアム」。",
+            "prefecture": "大阪府",
+            "latitude": 34.805833,
+            "longitude": 135.533333
+        },
+        {
+            "name": "京都市動物園 (京都市)",
+            "description": "日本で2番目に開園した動物園。",
+            "prefecture": "京都府",
+            "latitude": 35.013889,
+            "longitude": 135.783333
+        },
+        {
+            "name": "神戸どうぶつ王国 (神戸市)",
+            "description": "花と動物のテーマパーク。ハシビロコウなどが人気。",
+            "prefecture": "兵庫県",
+            "latitude": 34.655556,
+            "longitude": 135.222222
+        },
+        {
+            "name": "姫路市立動物園 (姫路市)",
+            "description": "姫路城三の丸広場に隣接。",
+            "prefecture": "兵庫県",
+            "latitude": 34.838889,
+            "longitude": 134.694444
+        },
+        {
+            "name": "姫路セントラルパーク (姫路市)",
+            "description": "サファリパークと遊園地。",
+            "prefecture": "兵庫県",
+            "latitude": 34.883333,
+            "longitude": 134.750000
+        },
+        {
+            "name": "淡路ファームパーク イングランドの丘 (南あわじ市)",
+            "description": "コアラがいる農業公園。",
+            "prefecture": "兵庫県",
+            "latitude": 34.283333,
+            "longitude": 134.750000
+        },
+        {
+            "name": "和歌山公園動物園 (和歌山市)",
+            "description": "和歌山城公園内にある無料動物園。",
+            "prefecture": "和歌山県",
+            "latitude": 34.225000,
+            "longitude": 135.166667
+        },
+        {
+            "name": "五月山動物園 (池田市)",
+            "description": "ウォンバットがいる無料動物園。",
+            "prefecture": "大阪府",
+            "latitude": 34.825000,
+            "longitude": 135.433333
+        },
+        {
+            "name": "ひらかたパーク (枚方市)",
+            "description": "遊園地内に「ワンダーガーデン」などの動物エリアがある。",
+            "prefecture": "大阪府",
+            "latitude": 34.808333,
+            "longitude": 135.633333
+        },
+        {
+            "name": "ワールド牧場 (河南町)",
+            "description": "動物とふれあえる観光牧場。",
+            "prefecture": "大阪府",
+            "latitude": 34.483333,
+            "longitude": 135.616667
+        },
+        {
+            "name": "池田動物園 (岡山市)",
+            "description": "山を利用した動物園。",
+            "prefecture": "岡山県",
+            "latitude": 34.675000,
+            "longitude": 133.900000
+        },
+        {
+            "name": "広島市安佐動物公園 (広島市)",
+            "description": "オオサンショウウオの飼育で有名。",
+            "prefecture": "広島県",
+            "latitude": 34.466667,
+            "longitude": 132.383333
+        },
+        {
+            "name": "福山市立動物園 (福山市)",
+            "description": "日本で唯一ボルネオゾウを飼育。",
+            "prefecture": "広島県",
+            "latitude": 34.550000,
+            "longitude": 133.316667
+        },
+        {
+            "name": "周南市徳山動物園 (周南市)",
+            "description": "頭を抱えるマレーグマ「ツヨシ」で話題になった。",
+            "prefecture": "山口県",
+            "latitude": 34.058333,
+            "longitude": 131.816667
+        },
+        {
+            "name": "秋吉台自然動物公園サファリランド (美祢市)",
+            "description": "石灰岩の大地にあるサファリパーク。",
+            "prefecture": "山口県",
+            "latitude": 34.266667,
+            "longitude": 131.283333
+        },
+        {
+            "name": "ときわ動物園 (宇部市)",
+            "description": "生息環境展示を行い、シロテテナガザルなどがいる。",
+            "prefecture": "山口県",
+            "latitude": 33.950000,
+            "longitude": 131.283333
+        },
+        {
+            "name": "わんぱーくこうちアニマルランド (高知市)",
+            "description": "都市公園内の動物園。",
+            "prefecture": "高知県",
+            "latitude": 33.550000,
+            "longitude": 133.550000
+        },
+        {
+            "name": "徳島市とくしま動物園 (徳島市)",
+            "description": "「ステラプリスクール」など。",
+            "prefecture": "徳島県",
+            "latitude": 34.016667,
+            "longitude": 134.533333
+        },
+        {
+            "name": "しろとり動物園 (東かがわ市)",
+            "description": "自由すぎる動物園として知られる。",
+            "prefecture": "香川県",
+            "latitude": 34.233333,
+            "longitude": 134.333333
+        },
+        {
+            "name": "新屋島水族館 (高松市)",
+            "description": "山の上にある水族館だが、イルカやマナティーがいる。（水族館カテゴリか？）",
+            "prefecture": "香川県",
+            "latitude": 34.358333,
+            "longitude": 134.100000
+        },
+        {
+            "name": "福岡市動物園 (福岡市)",
+            "description": "都心に近い動物園。",
+            "prefecture": "福岡県",
+            "latitude": 33.566667,
+            "longitude": 130.383333
+        },
+        {
+            "name": "到津の森公園 (北九州市)",
+            "description": "市民の寄付で存続した動物公園。",
+            "prefecture": "福岡県",
+            "latitude": 33.866667,
+            "longitude": 130.850000
+        },
+        {
+            "name": "大牟田市動物園 (大牟田市)",
+            "description": "動物福祉（エンリッチメント）に力を入れている。",
+            "prefecture": "福岡県",
+            "latitude": 33.016667,
+            "longitude": 130.433333
+        },
+        {
+            "name": "久留米市鳥類センター (久留米市)",
+            "description": "鳥類専門の動物園。",
+            "prefecture": "福岡県",
+            "latitude": 33.316667,
+            "longitude": 130.516667
+        },
+        {
+            "name": "海の中道海浜公園 動物の森 (福岡市)",
+            "description": "カンガルーやカピバラとふれあえる。",
+            "prefecture": "福岡県",
+            "latitude": 33.650000,
+            "longitude": 130.366667
+        },
+        {
+            "name": "熊本市動植物園 (熊本市)",
+            "description": "震災から復興。",
+            "prefecture": "熊本県",
+            "latitude": 32.766667,
+            "longitude": 130.750000
+        },
+        {
+            "name": "阿蘇カドリー・ドミニオン (阿蘇市)",
+            "description": "クマのショーやパンくん（チンパンジー）で有名。",
+            "prefecture": "熊本県",
+            "latitude": 32.933333,
+            "longitude": 131.066667
+        },
+        {
+            "name": "高崎山自然動物園 (大分市)",
+            "description": "野生のニホンザルの餌付け。",
+            "prefecture": "大分県",
+            "latitude": 33.250000,
+            "longitude": 131.533333
+        },
+        {
+            "name": "宮崎市フェニックス自然動物園 (宮崎市)",
+            "description": "アジアゾウやマサイキリンなど。",
+            "prefecture": "宮崎県",
+            "latitude": 31.966667,
+            "longitude": 131.466667
+        },
+        {
+            "name": "鹿児島市平川動物公園 (鹿児島市)",
+            "description": "桜島を借景にしたアフリカ園。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.483333,
+            "longitude": 130.500000
+        },
+        {
+            "name": "九十九島動植物園森きらら (佐世保市)",
+            "description": "ペンギン館など。",
+            "prefecture": "長崎県",
+            "latitude": 33.166667,
+            "longitude": 129.683333
+        },
+        {
+            "name": "ネオパークオキナワ (名護市)",
+            "description": "鳥類が放し飼いされている。",
+            "prefecture": "沖縄県",
+            "latitude": 26.600000,
+            "longitude": 127.983333
+        }
+    ]
+}

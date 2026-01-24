@@ -1,0 +1,732 @@
+{
+    "municipalities": [
+        {
+            "name": "五稜郭",
+            "description": "星型の洋式城郭。箱館戦争の舞台。",
+            "prefecture": "北海道",
+            "latitude": "41.796900",
+            "longitude": "140.757000"
+        },
+        {
+            "name": "松前城(福山城)",
+            "description": "北海道唯一の日本式城郭。",
+            "prefecture": "北海道",
+            "latitude": "41.429400",
+            "longitude": "140.108600"
+        },
+        {
+            "name": "弘前城",
+            "description": "現存天守を持つ城。桜の名所。",
+            "prefecture": "青森県",
+            "latitude": "40.608100",
+            "longitude": "140.464200"
+        },
+        {
+            "name": "根城",
+            "description": "中世の城館跡がきれいに復元されている。",
+            "prefecture": "青森県",
+            "latitude": "40.506900",
+            "longitude": "141.465000"
+        },
+        {
+            "name": "盛岡城",
+            "description": "東北三名城の一つ。石垣が美しい。",
+            "prefecture": "岩手県",
+            "latitude": "39.700300",
+            "longitude": "141.150800"
+        },
+        {
+            "name": "九戸城",
+            "description": "豊臣秀吉の奥州仕置最後の戦いの地。",
+            "prefecture": "岩手県",
+            "latitude": "40.266100",
+            "longitude": "141.295000"
+        },
+        {
+            "name": "仙台城(青葉城)",
+            "description": "伊達政宗が築城。騎馬像からの眺めが良い。",
+            "prefecture": "宮城県",
+            "latitude": "38.253100",
+            "longitude": "140.856100"
+        },
+        {
+            "name": "白石城",
+            "description": "片倉小十郎の居城。木造復元天守がある。",
+            "prefecture": "宮城県",
+            "latitude": "38.002500",
+            "longitude": "140.618600"
+        },
+        {
+            "name": "久保田城",
+            "description": "佐竹氏の居城。現在は千秋公園となっている。",
+            "prefecture": "秋田県",
+            "latitude": "39.721400",
+            "longitude": "140.123900"
+        },
+        {
+            "name": "横手城",
+            "description": "横手公園内にある展望台として模擬天守が建つ。",
+            "prefecture": "秋田県",
+            "latitude": "39.324200",
+            "longitude": "140.565800"
+        },
+        {
+            "name": "山形城(霞城公園)",
+            "description": "最上義光が築いた城。本丸一文字門などが復元。",
+            "prefecture": "山形県",
+            "latitude": "38.254200",
+            "longitude": "140.328100"
+        },
+        {
+            "name": "上山城",
+            "description": "「羽州の名城」と称された。現在は郷土資料館。",
+            "prefecture": "山形県",
+            "latitude": "38.156900",
+            "longitude": "140.274400"
+        },
+        {
+            "name": "会津若松城(鶴ヶ城)",
+            "description": "幕末の戊辰戦争の舞台。赤瓦の天守。",
+            "prefecture": "福島県",
+            "latitude": "37.487800",
+            "longitude": "139.929700"
+        },
+        {
+            "name": "小峰城",
+            "description": "東北三名城の一つ。木造復元三重櫓がある。",
+            "prefecture": "福島県",
+            "latitude": "37.132500",
+            "longitude": "140.213600"
+        },
+        {
+            "name": "水戸城",
+            "description": "徳川御三家の城。大手門などが復元されている。",
+            "prefecture": "茨城県",
+            "latitude": "36.375800",
+            "longitude": "140.478600"
+        },
+        {
+            "name": "土浦城",
+            "description": "水に浮かぶ亀城とも呼ばれた。現存する櫓門がある。",
+            "prefecture": "茨城県",
+            "latitude": "36.082500",
+            "longitude": "140.198900"
+        },
+        {
+            "name": "宇都宮城",
+            "description": "関東七名城の一つ。土塁と櫓が復元されている。",
+            "prefecture": "栃木県",
+            "latitude": "36.554200",
+            "longitude": "139.884700"
+        },
+        {
+            "name": "唐沢山城",
+            "description": "関東屈指の山城。石垣がよく残る。",
+            "prefecture": "栃木県",
+            "latitude": "36.353300",
+            "longitude": "139.600600"
+        },
+        {
+            "name": "金山城",
+            "description": "石垣や石敷きが復元された中世の山城。",
+            "prefecture": "群馬県",
+            "latitude": "36.311700",
+            "longitude": "139.373900"
+        },
+        {
+            "name": "名胡桃城",
+            "description": "豊臣秀吉の小田原征伐のきっかけとなった城。",
+            "prefecture": "群馬県",
+            "latitude": "36.666900",
+            "longitude": "138.986700"
+        },
+        {
+            "name": "忍城",
+            "description": "「のぼうの城」の舞台。水攻めに耐えた浮き城。",
+            "prefecture": "埼玉県",
+            "latitude": "36.138900",
+            "longitude": "139.453600"
+        },
+        {
+            "name": "川越城",
+            "description": "現存する本丸御殿がある。",
+            "prefecture": "埼玉県",
+            "latitude": "35.926100",
+            "longitude": "139.493300"
+        },
+        {
+            "name": "佐倉城",
+            "description": "土塁や空堀がよく残る。国立歴史民俗博物館がある。",
+            "prefecture": "千葉県",
+            "latitude": "35.722500",
+            "longitude": "140.217800"
+        },
+        {
+            "name": "大多喜城",
+            "description": "本多忠勝の居城。現在は県立中央博物館大多喜城分館。",
+            "prefecture": "千葉県",
+            "latitude": "35.283100",
+            "longitude": "140.240800"
+        },
+        {
+            "name": "江戸城(皇居東御苑)",
+            "description": "徳川将軍家の居城。巨大な石垣や富士見櫓が現存。",
+            "prefecture": "東京都",
+            "latitude": "35.686700",
+            "longitude": "139.756400"
+        },
+        {
+            "name": "八王子城",
+            "description": "北条氏照の居城。山城としての遺構が残る。",
+            "prefecture": "東京都",
+            "latitude": "35.656700",
+            "longitude": "139.260000"
+        },
+        {
+            "name": "小田原城",
+            "description": "北条氏の拠点。難攻不落の城。",
+            "prefecture": "神奈川県",
+            "latitude": "35.251100",
+            "longitude": "139.153900"
+        },
+        {
+            "name": "石垣山城(石垣山一夜城)",
+            "description": "豊臣秀吉が小田原攻めのために築いた城。",
+            "prefecture": "神奈川県",
+            "latitude": "35.235800",
+            "longitude": "139.130600"
+        },
+        {
+            "name": "春日山城",
+            "description": "上杉謙信の居城。広大な山城。",
+            "prefecture": "新潟県",
+            "latitude": "37.142500",
+            "longitude": "138.218900"
+        },
+        {
+            "name": "新発田城",
+            "description": "「あやめ城」とも呼ばれる。三階櫓などが復元。",
+            "prefecture": "新潟県",
+            "latitude": "37.954700",
+            "longitude": "139.325300"
+        },
+        {
+            "name": "富山城",
+            "description": "模擬天守があり、博物館となっている。",
+            "prefecture": "富山県",
+            "latitude": "36.692500",
+            "longitude": "137.211400"
+        },
+        {
+            "name": "高岡城",
+            "description": "前田利長が築城。水堀が完全に残る。",
+            "prefecture": "富山県",
+            "latitude": "36.745600",
+            "longitude": "137.013600"
+        },
+        {
+            "name": "金沢城",
+            "description": "加賀百万石の居城。石川門や五十間長屋が見事。",
+            "prefecture": "石川県",
+            "latitude": "36.565800",
+            "longitude": "136.659400"
+        },
+        {
+            "name": "七尾城",
+            "description": "能登畠山氏の山城。石垣が残る。",
+            "prefecture": "石川県",
+            "latitude": "37.015300",
+            "longitude": "136.985600"
+        },
+        {
+            "name": "丸岡城",
+            "description": "現存最古級の天守を持つ。",
+            "prefecture": "福井県",
+            "latitude": "36.152200",
+            "longitude": "136.272200"
+        },
+        {
+            "name": "越前大野城",
+            "description": "雲海に浮かぶ「天空の城」として知られる。",
+            "prefecture": "福井県",
+            "latitude": "35.986900",
+            "longitude": "136.481700"
+        },
+        {
+            "name": "甲府城(舞鶴城)",
+            "description": "武田氏滅亡後に築かれた城。石垣からの眺めが良い。",
+            "prefecture": "山梨県",
+            "latitude": "35.665300",
+            "longitude": "138.571400"
+        },
+        {
+            "name": "要害山城",
+            "description": "武田信玄生誕の地とされる詰めの城。",
+            "prefecture": "山梨県",
+            "latitude": "35.702800",
+            "longitude": "138.590800"
+        },
+        {
+            "name": "松本城",
+            "description": "国宝。黒い外壁から「烏城」とも呼ばれる。",
+            "prefecture": "長野県",
+            "latitude": "36.238900",
+            "longitude": "137.969200"
+        },
+        {
+            "name": "上田城",
+            "description": "真田氏の居城。徳川軍を二度撃退した。",
+            "prefecture": "長野県",
+            "latitude": "36.403900",
+            "longitude": "138.243300"
+        },
+        {
+            "name": "高島城",
+            "description": "諏訪湖に浮かぶように見えたことから「諏訪の浮城」と呼ばれる。",
+            "prefecture": "長野県",
+            "latitude": "36.039700",
+            "longitude": "138.113300"
+        },
+        {
+            "name": "岐阜城",
+            "description": "金華山山頂にある織田信長の城。",
+            "prefecture": "岐阜県",
+            "latitude": "35.433900",
+            "longitude": "136.782200"
+        },
+        {
+            "name": "大垣城",
+            "description": "関ヶ原の戦いで西軍の本拠地となった。",
+            "prefecture": "岐阜県",
+            "latitude": "35.361400",
+            "longitude": "136.613900"
+        },
+        {
+            "name": "岩村城",
+            "description": "日本三大山城の一つ。女城主の伝説がある。",
+            "prefecture": "岐阜県",
+            "latitude": "35.360600",
+            "longitude": "137.451900"
+        },
+        {
+            "name": "駿府城",
+            "description": "徳川家康が晩年を過ごした城。東御門などが復元。",
+            "prefecture": "静岡県",
+            "latitude": "34.978900",
+            "longitude": "138.383100"
+        },
+        {
+            "name": "掛川城",
+            "description": "日本初の本格木造復元天守。",
+            "prefecture": "静岡県",
+            "latitude": "34.775000",
+            "longitude": "138.014700"
+        },
+        {
+            "name": "山中城",
+            "description": "障子堀などの独特な遺構が残る。",
+            "prefecture": "静岡県",
+            "latitude": "35.138900",
+            "longitude": "139.006700"
+        },
+        {
+            "name": "名古屋城",
+            "description": "金の鯱で有名。本丸御殿が復元された。",
+            "prefecture": "愛知県",
+            "latitude": "35.184700",
+            "longitude": "136.900000"
+        },
+        {
+            "name": "犬山城",
+            "description": "国宝。木曽川沿いの丘上にある現存天守。",
+            "prefecture": "愛知県",
+            "latitude": "35.388300",
+            "longitude": "136.939200"
+        },
+        {
+            "name": "岡崎城",
+            "description": "徳川家康生誕の城。",
+            "prefecture": "愛知県",
+            "latitude": "34.956400",
+            "longitude": "137.158900"
+        },
+        {
+            "name": "伊賀上野城",
+            "description": "高石垣で有名。模擬天守がある。",
+            "prefecture": "三重県",
+            "latitude": "34.770600",
+            "longitude": "136.128600"
+        },
+        {
+            "name": "松阪城",
+            "description": "蒲生氏郷が築城。壮大な石垣が残る。",
+            "prefecture": "三重県",
+            "latitude": "34.576100",
+            "longitude": "136.527500"
+        },
+        {
+            "name": "彦根城",
+            "description": "国宝。ひこにゃんでも有名。",
+            "prefecture": "滋賀県",
+            "latitude": "35.276900",
+            "longitude": "136.251700"
+        },
+        {
+            "name": "安土城",
+            "description": "織田信長が築いた幻の名城。石垣や天主台が残る。",
+            "prefecture": "滋賀県",
+            "latitude": "35.155800",
+            "longitude": "136.139200"
+        },
+        {
+            "name": "長浜城",
+            "description": "豊臣秀吉が最初に築いた城。",
+            "prefecture": "滋賀県",
+            "latitude": "35.376900",
+            "longitude": "136.258900"
+        },
+        {
+            "name": "二条城",
+            "description": "世界遺産。大政奉還の舞台。",
+            "prefecture": "京都府",
+            "latitude": "35.014200",
+            "longitude": "135.748100"
+        },
+        {
+            "name": "福知山城",
+            "description": "明智光秀が築城。再建天守がある。",
+            "prefecture": "京都府",
+            "latitude": "35.297200",
+            "longitude": "135.129200"
+        },
+        {
+            "name": "大阪城",
+            "description": "豊臣秀吉が築き、徳川氏が再建。巨大な石垣と天守。",
+            "prefecture": "大阪府",
+            "latitude": "34.687200",
+            "longitude": "135.525800"
+        },
+        {
+            "name": "岸和田城",
+            "description": "「千亀利城」とも呼ばれる。八陣の庭が有名。",
+            "prefecture": "大阪府",
+            "latitude": "34.458900",
+            "longitude": "135.370300"
+        },
+        {
+            "name": "姫路城",
+            "description": "世界遺産・国宝。白鷺城と呼ばれる美しい城。",
+            "prefecture": "兵庫県",
+            "latitude": "34.839400",
+            "longitude": "134.693900"
+        },
+        {
+            "name": "竹田城",
+            "description": "「日本のマチュピチュ」と呼ばれる天空の城。",
+            "prefecture": "兵庫県",
+            "latitude": "35.300600",
+            "longitude": "134.829400"
+        },
+        {
+            "name": "明石城",
+            "description": "二つの櫓が現存。明石駅の目の前。",
+            "prefecture": "兵庫県",
+            "latitude": "34.652500",
+            "longitude": "134.991900"
+        },
+        {
+            "name": "大和郡山城",
+            "description": "筒井順慶や豊臣秀長ゆかりの城。桜の名所。",
+            "prefecture": "奈良県",
+            "latitude": "34.651700",
+            "longitude": "135.780600"
+        },
+        {
+            "name": "高取城",
+            "description": "日本三大山城の一つ。比高差が大きい。",
+            "prefecture": "奈良県",
+            "latitude": "34.429400",
+            "longitude": "135.828600"
+        },
+        {
+            "name": "和歌山城",
+            "description": "徳川御三家・紀州徳川家の居城。",
+            "prefecture": "和歌山県",
+            "latitude": "34.226900",
+            "longitude": "135.172800"
+        },
+        {
+            "name": "新宮城",
+            "description": "熊野川沿いの高台にある城。",
+            "prefecture": "和歌山県",
+            "latitude": "33.729700",
+            "longitude": "135.998300"
+        },
+        {
+            "name": "鳥取城",
+            "description": "羽柴秀吉の兵糧攻めで知られる。山上の丸と山下の丸がある。",
+            "prefecture": "鳥取県",
+            "latitude": "35.509700",
+            "longitude": "134.238900"
+        },
+        {
+            "name": "米子城",
+            "description": "「山陰随一の名城」とされた。石垣からの眺望が素晴らしい。",
+            "prefecture": "鳥取県",
+            "latitude": "35.424200",
+            "longitude": "133.323600"
+        },
+        {
+            "name": "松江城",
+            "description": "国宝。千鳥城とも呼ばれる現存天守。",
+            "prefecture": "島根県",
+            "latitude": "35.475000",
+            "longitude": "133.050600"
+        },
+        {
+            "name": "津和野城",
+            "description": "山頂に石垣が残る。リフトで登れる。",
+            "prefecture": "島根県",
+            "latitude": "34.459400",
+            "longitude": "131.765600"
+        },
+        {
+            "name": "岡山城",
+            "description": "黒い外観から「烏城」と呼ばれる。",
+            "prefecture": "岡山県",
+            "latitude": "34.665300",
+            "longitude": "133.936100"
+        },
+        {
+            "name": "備中松山城",
+            "description": "現存天守を持つ山城としては最も高い場所にある。",
+            "prefecture": "岡山県",
+            "latitude": "34.809200",
+            "longitude": "133.622200"
+        },
+        {
+            "name": "津山城",
+            "description": "立派な石垣が残る。桜の名所。",
+            "prefecture": "岡山県",
+            "latitude": "35.063300",
+            "longitude": "134.004700"
+        },
+        {
+            "name": "広島城",
+            "description": "毛利輝元が築城。原爆で倒壊したが再建。",
+            "prefecture": "広島県",
+            "latitude": "34.402200",
+            "longitude": "132.458900"
+        },
+        {
+            "name": "福山城",
+            "description": "新幹線ホームから見える城。伏見櫓は現存。",
+            "prefecture": "広島県",
+            "latitude": "34.491400",
+            "longitude": "133.361100"
+        },
+        {
+            "name": "岩国城",
+            "description": "錦帯橋を見下ろす山頂にある城。",
+            "prefecture": "山口県",
+            "latitude": "34.173900",
+            "longitude": "132.176400"
+        },
+        {
+            "name": "萩城",
+            "description": "毛利氏の居城。指月山麓にある。",
+            "prefecture": "山口県",
+            "latitude": "34.417800",
+            "longitude": "131.383100"
+        },
+        {
+            "name": "徳島城",
+            "description": "蜂須賀氏の居城。庭園（表御殿庭園）が有名。",
+            "prefecture": "徳島県",
+            "latitude": "34.074700",
+            "longitude": "134.556400"
+        },
+        {
+            "name": "一宮城",
+            "description": "山城の遺構がよく残る。",
+            "prefecture": "徳島県",
+            "latitude": "34.030800",
+            "longitude": "134.475000"
+        },
+        {
+            "name": "高松城(玉藻公園)",
+            "description": "日本三大水城の一つ。海水を引いた堀。",
+            "prefecture": "香川県",
+            "latitude": "34.350300",
+            "longitude": "134.051400"
+        },
+        {
+            "name": "丸亀城",
+            "description": "現存天守と高石垣で有名。",
+            "prefecture": "香川県",
+            "latitude": "34.286100",
+            "longitude": "133.797800"
+        },
+        {
+            "name": "松山城",
+            "description": "現存天守。ロープウェイで登れる。",
+            "prefecture": "愛媛県",
+            "latitude": "33.845600",
+            "longitude": "132.765300"
+        },
+        {
+            "name": "宇和島城",
+            "description": "伊達氏の居城。現存天守。",
+            "prefecture": "愛媛県",
+            "latitude": "33.219400",
+            "longitude": "132.565300"
+        },
+        {
+            "name": "大洲城",
+            "description": "木造で完全復元された天守。",
+            "prefecture": "愛媛県",
+            "latitude": "33.509700",
+            "longitude": "132.541900"
+        },
+        {
+            "name": "高知城",
+            "description": "現存天守。本丸御殿も残る。",
+            "prefecture": "高知県",
+            "latitude": "33.560800",
+            "longitude": "133.531400"
+        },
+        {
+            "name": "岡豊城",
+            "description": "長宗我部元親の居城跡。",
+            "prefecture": "高知県",
+            "latitude": "33.597500",
+            "longitude": "133.613300"
+        },
+        {
+            "name": "福岡城",
+            "description": "黒田官兵衛・長政親子が築城。広大な石垣。",
+            "prefecture": "福岡県",
+            "latitude": "33.584700",
+            "longitude": "130.383100"
+        },
+        {
+            "name": "小倉城",
+            "description": "唐造りの天守が特徴。",
+            "prefecture": "福岡県",
+            "latitude": "33.884400",
+            "longitude": "130.874400"
+        },
+        {
+            "name": "佐賀城",
+            "description": "本丸御殿が木造復元されている。",
+            "prefecture": "佐賀県",
+            "latitude": "33.248300",
+            "longitude": "130.301900"
+        },
+        {
+            "name": "名護屋城",
+            "description": "豊臣秀吉の朝鮮出兵の拠点。広大な遺跡。",
+            "prefecture": "佐賀県",
+            "latitude": "33.529700",
+            "longitude": "129.870300"
+        },
+        {
+            "name": "唐津城",
+            "description": "「舞鶴城」とも呼ばれる海辺の城。",
+            "prefecture": "佐賀県",
+            "latitude": "33.454200",
+            "longitude": "129.979400"
+        },
+        {
+            "name": "島原城",
+            "description": "安土桃山様式の壮麗な城。キリシタン史料館。",
+            "prefecture": "長崎県",
+            "latitude": "32.788900",
+            "longitude": "130.370300"
+        },
+        {
+            "name": "平戸城",
+            "description": "平戸藩主松浦氏の居城。海を望む。",
+            "prefecture": "長崎県",
+            "latitude": "33.370300",
+            "longitude": "129.557200"
+        },
+        {
+            "name": "熊本城",
+            "description": "加藤清正築城。武者返しと呼ばれる石垣が特徴。",
+            "prefecture": "熊本県",
+            "latitude": "32.806100",
+            "longitude": "130.705800"
+        },
+        {
+            "name": "人吉城",
+            "description": "球磨川沿いの城。石垣には「武者返し」がある。",
+            "prefecture": "熊本県",
+            "latitude": "32.210000",
+            "longitude": "130.763300"
+        },
+        {
+            "name": "大分府内城",
+            "description": "水堀に囲まれた城。廊下橋が復元。",
+            "prefecture": "大分県",
+            "latitude": "33.240800",
+            "longitude": "131.611100"
+        },
+        {
+            "name": "岡城",
+            "description": "滝廉太郎「荒城の月」のモデルとなった山城。",
+            "prefecture": "大分県",
+            "latitude": "32.968600",
+            "longitude": "131.309700"
+        },
+        {
+            "name": "延岡城",
+            "description": "「千人殺しの石垣」と呼ばれる高石垣がある。",
+            "prefecture": "宮崎県",
+            "latitude": "32.585600",
+            "longitude": "131.660600"
+        },
+        {
+            "name": "飫肥城",
+            "description": "「九州の小京都」。大手門や藩主御殿が復元。",
+            "prefecture": "宮崎県",
+            "latitude": "31.628300",
+            "longitude": "131.353300"
+        },
+        {
+            "name": "鹿児島城(鶴丸城)",
+            "description": "島津氏の居城。御楼門が復元された。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.597500",
+            "longitude": "130.554200"
+        },
+        {
+            "name": "知覧城",
+            "description": "シラス台地を利用した中世の山城。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.365600",
+            "longitude": "130.437200"
+        },
+        {
+            "name": "首里城",
+            "description": "琉球王国の王城。世界遺産。",
+            "prefecture": "沖縄県",
+            "latitude": "26.217200",
+            "longitude": "127.719400"
+        },
+        {
+            "name": "今帰仁城",
+            "description": "世界遺産。美しい曲線の城壁。",
+            "prefecture": "沖縄県",
+            "latitude": "26.691900",
+            "longitude": "127.928600"
+        },
+        {
+            "name": "中城城",
+            "description": "世界遺産。石積みの技術が高い。",
+            "prefecture": "沖縄県",
+            "latitude": "26.285800",
+            "longitude": "127.800600"
+        }
+    ]
+}

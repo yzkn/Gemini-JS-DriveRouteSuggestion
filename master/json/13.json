@@ -1,0 +1,704 @@
+{
+    "municipalities": [
+        {
+            "name": "宗谷岬",
+            "description": "日本最北端の地。",
+            "prefecture": "北海道",
+            "latitude": 45.516667,
+            "longitude": 141.933333
+        },
+        {
+            "name": "納沙布岬",
+            "description": "日本本土最東端。",
+            "prefecture": "北海道",
+            "latitude": 43.383333,
+            "longitude": 145.816667
+        },
+        {
+            "name": "襟裳岬",
+            "description": "強風で知られる岬。岩礁が沖へ続く。",
+            "prefecture": "北海道",
+            "latitude": 41.925000,
+            "longitude": 143.241667
+        },
+        {
+            "name": "地球岬",
+            "description": "100mの断崖絶壁。太平洋を一望。",
+            "prefecture": "北海道",
+            "latitude": 42.300000,
+            "longitude": 141.000000
+        },
+        {
+            "name": "神威岬",
+            "description": "積丹半島の先端。積丹ブルーの海。",
+            "prefecture": "北海道",
+            "latitude": 43.333333,
+            "longitude": 140.350000
+        },
+        {
+            "name": "知床岬",
+            "description": "世界自然遺産。船からしか見られない秘境。",
+            "prefecture": "北海道",
+            "latitude": 44.350000,
+            "longitude": 145.333333
+        },
+        {
+            "name": "能取岬",
+            "description": "オホーツク海に突き出た岬。流氷が見える。",
+            "prefecture": "北海道",
+            "latitude": 44.116667,
+            "longitude": 144.250000
+        },
+        {
+            "name": "恵山岬",
+            "description": "活火山恵山の麓にある岬。",
+            "prefecture": "北海道",
+            "latitude": 41.816667,
+            "longitude": 141.183333
+        },
+        {
+            "name": "立待岬",
+            "description": "函館山南東端。津軽海峡を望む。",
+            "prefecture": "北海道",
+            "latitude": 41.750000,
+            "longitude": 140.716667
+        },
+        {
+            "name": "積丹岬",
+            "description": "島武意海岸がある岬。",
+            "prefecture": "北海道",
+            "latitude": 43.383333,
+            "longitude": 140.466667
+        },
+        {
+            "name": "弁慶岬",
+            "description": "寿都町にある岬。",
+            "prefecture": "北海道",
+            "latitude": 42.816667,
+            "longitude": 140.366667
+        },
+        {
+            "name": "落石岬",
+            "description": "根室市のサカイツツジ自生地。",
+            "prefecture": "北海道",
+            "latitude": 43.166667,
+            "longitude": 145.516667
+        },
+        {
+            "name": "霧多布岬",
+            "description": "湯沸岬とも呼ばれる。",
+            "prefecture": "北海道",
+            "latitude": 43.066667,
+            "longitude": 145.133333
+        },
+        {
+            "name": "愛冠岬",
+            "description": "厚岸町。「愛の栄冠」に通じる。",
+            "prefecture": "北海道",
+            "latitude": 43.033333,
+            "longitude": 144.833333
+        },
+        {
+            "name": "チキウ岬",
+            "description": "（地球岬の別表記だが一応）",
+            "prefecture": "北海道",
+            "latitude": 42.300000,
+            "longitude": 141.000000
+        },
+        {
+            "name": "黄金岬",
+            "description": "留萌市の夕日の名所。",
+            "prefecture": "北海道",
+            "latitude": 43.950000,
+            "longitude": 141.633333
+        },
+        {
+            "name": "スコトン岬",
+            "description": "礼文島最北端。",
+            "prefecture": "北海道",
+            "latitude": 45.466667,
+            "longitude": 140.966667
+        },
+        {
+            "name": "仙法志御崎",
+            "description": "利尻島南端。",
+            "prefecture": "北海道",
+            "latitude": 45.100000,
+            "longitude": 141.183333
+        },
+        {
+            "name": "大間崎",
+            "description": "本州最北端。",
+            "prefecture": "青森県",
+            "latitude": 41.550000,
+            "longitude": 140.916667
+        },
+        {
+            "name": "竜飛崎",
+            "description": "津軽半島最北端。風が強い。",
+            "prefecture": "青森県",
+            "latitude": 41.250000,
+            "longitude": 140.333333
+        },
+        {
+            "name": "尻屋崎",
+            "description": "下北半島北東端。寒立馬が放牧されている。",
+            "prefecture": "青森県",
+            "latitude": 41.433333,
+            "longitude": 141.466667
+        },
+        {
+            "name": "入道崎",
+            "description": "男鹿半島北西端。北緯40度線。",
+            "prefecture": "秋田県",
+            "latitude": 40.000000,
+            "longitude": 139.700000
+        },
+        {
+            "name": "魹ヶ崎",
+            "description": "本州最東端の岬。",
+            "prefecture": "岩手県",
+            "latitude": 39.550000,
+            "longitude": 142.066667
+        },
+        {
+            "name": "黒崎",
+            "description": "三陸海岸の断崖。",
+            "prefecture": "岩手県",
+            "latitude": 40.000000,
+            "longitude": 141.933333
+        },
+        {
+            "name": "御崎（唐桑半島）",
+            "description": "リアス式海岸の景勝地。",
+            "prefecture": "宮城県",
+            "latitude": 38.866667,
+            "longitude": 141.650000
+        },
+        {
+            "name": "塩屋埼",
+            "description": "美空ひばりの歌碑と灯台がある。",
+            "prefecture": "福島県",
+            "latitude": 36.983333,
+            "longitude": 140.966667
+        },
+        {
+            "name": "鵜の尾岬",
+            "description": "相馬市。",
+            "prefecture": "福島県",
+            "latitude": 37.816667,
+            "longitude": 140.966667
+        },
+        {
+            "name": "犬吠埼",
+            "description": "関東最東端。初日の出の名所。",
+            "prefecture": "千葉県",
+            "latitude": 35.700000,
+            "longitude": 140.866667
+        },
+        {
+            "name": "野島崎",
+            "description": "房総半島最南端。",
+            "prefecture": "千葉県",
+            "latitude": 34.900000,
+            "longitude": 139.883333
+        },
+        {
+            "name": "洲崎",
+            "description": "房総半島南西端。東京湾の入り口。",
+            "prefecture": "千葉県",
+            "latitude": 34.966667,
+            "longitude": 139.750000
+        },
+        {
+            "name": "太東崎",
+            "description": "いすみ市。",
+            "prefecture": "千葉県",
+            "latitude": 35.300000,
+            "longitude": 140.400000
+        },
+        {
+            "name": "富津岬",
+            "description": "東京湾に突き出た砂州の岬。",
+            "prefecture": "千葉県",
+            "latitude": 35.300000,
+            "longitude": 139.800000
+        },
+        {
+            "name": "大房岬",
+            "description": "南房総国定公園。",
+            "prefecture": "千葉県",
+            "latitude": 35.050000,
+            "longitude": 139.816667
+        },
+        {
+            "name": "刑部岬",
+            "description": "屏風ヶ浦の西端。",
+            "prefecture": "千葉県",
+            "latitude": 35.700000,
+            "longitude": 140.716667
+        },
+        {
+            "name": "観音崎",
+            "description": "日本最古の洋式灯台。",
+            "prefecture": "神奈川県",
+            "latitude": 35.250000,
+            "longitude": 139.750000
+        },
+        {
+            "name": "真鶴岬",
+            "description": "相模湾に突き出た半島。",
+            "prefecture": "神奈川県",
+            "latitude": 35.133333,
+            "longitude": 139.150000
+        },
+        {
+            "name": "剱崎",
+            "description": "三浦半島南東端。",
+            "prefecture": "神奈川県",
+            "latitude": 35.133333,
+            "longitude": 139.666667
+        },
+        {
+            "name": "長者ヶ崎",
+            "description": "葉山町と横須賀市の境。",
+            "prefecture": "神奈川県",
+            "latitude": 35.250000,
+            "longitude": 139.566667
+        },
+        {
+            "name": "稲村ヶ崎",
+            "description": "鎌倉の古戦場。夕日と富士山。",
+            "prefecture": "神奈川県",
+            "latitude": 35.300000,
+            "longitude": 139.533333
+        },
+        {
+            "name": "石廊崎",
+            "description": "伊豆半島最南端。",
+            "prefecture": "静岡県",
+            "latitude": 34.600000,
+            "longitude": 138.850000
+        },
+        {
+            "name": "御前崎",
+            "description": "静岡県最南端。",
+            "prefecture": "静岡県",
+            "latitude": 34.600000,
+            "longitude": 138.216667
+        },
+        {
+            "name": "大瀬崎",
+            "description": "五島列島・福江島の断崖。",
+            "prefecture": "長崎県",
+            "latitude": 32.616667,
+            "longitude": 128.600000
+        },
+        {
+            "name": "城ヶ崎",
+            "description": "（海岸カテゴリで既出だが岬として）",
+            "prefecture": "静岡県",
+            "latitude": 34.883333,
+            "longitude": 139.133333
+        },
+        {
+            "name": "恋人岬",
+            "description": "伊豆市。",
+            "prefecture": "静岡県",
+            "latitude": 34.850000,
+            "longitude": 138.750000
+        },
+        {
+            "name": "黄金崎",
+            "description": "夕日に染まる岩壁。",
+            "prefecture": "静岡県",
+            "latitude": 34.833333,
+            "longitude": 138.766667
+        },
+        {
+            "name": "爪木崎",
+            "description": "水仙の群生地。柱状節理。",
+            "prefecture": "静岡県",
+            "latitude": 34.650000,
+            "longitude": 138.983333
+        },
+        {
+            "name": "伊良湖岬",
+            "description": "渥美半島先端。",
+            "prefecture": "愛知県",
+            "latitude": 34.583333,
+            "longitude": 137.016667
+        },
+        {
+            "name": "羽豆岬",
+            "description": "知多半島先端。",
+            "prefecture": "愛知県",
+            "latitude": 34.700000,
+            "longitude": 136.966667
+        },
+        {
+            "name": "禄剛崎",
+            "description": "能登半島最先端。",
+            "prefecture": "石川県",
+            "latitude": 37.516667,
+            "longitude": 137.316667
+        },
+        {
+            "name": "珠洲岬（聖域の岬）",
+            "description": "パワースポットとして知られる。",
+            "prefecture": "石川県",
+            "latitude": 37.500000,
+            "longitude": 137.333333
+        },
+        {
+            "name": "越前岬",
+            "description": "越前海岸にある岬。水仙。",
+            "prefecture": "福井県",
+            "latitude": 35.983333,
+            "longitude": 136.000000
+        },
+        {
+            "name": "立石岬",
+            "description": "敦賀半島の先端。",
+            "prefecture": "福井県",
+            "latitude": 35.766667,
+            "longitude": 136.016667
+        },
+        {
+            "name": "角田岬",
+            "description": "角田山の麓にある灯台。",
+            "prefecture": "新潟県",
+            "latitude": 37.816667,
+            "longitude": 138.833333
+        },
+        {
+            "name": "大王崎",
+            "description": "絵描きの町として知られる。",
+            "prefecture": "三重県",
+            "latitude": 34.283333,
+            "longitude": 136.900000
+        },
+        {
+            "name": "潮岬",
+            "description": "本州最南端。",
+            "prefecture": "和歌山県",
+            "latitude": 33.433333,
+            "longitude": 135.750000
+        },
+        {
+            "name": "日ノ御埼",
+            "description": "紀伊水道に突出。",
+            "prefecture": "和歌山県",
+            "latitude": 33.883333,
+            "longitude": 135.066667
+        },
+        {
+            "name": "樫野埼",
+            "description": "紀伊大島の東端。トルコ記念館。",
+            "prefecture": "和歌山県",
+            "latitude": 33.466667,
+            "longitude": 135.866667
+        },
+        {
+            "name": "経ヶ岬",
+            "description": "近畿最北端。",
+            "prefecture": "京都府",
+            "latitude": 35.766667,
+            "longitude": 135.216667
+        },
+        {
+            "name": "日和山（城崎）",
+            "description": "日本海を一望。",
+            "prefecture": "兵庫県",
+            "latitude": 35.650000,
+            "longitude": 134.816667
+        },
+        {
+            "name": "日御碕",
+            "description": "日本一高い石造灯台がある。",
+            "prefecture": "島根県",
+            "latitude": 35.433333,
+            "longitude": 132.616667
+        },
+        {
+            "name": "地蔵崎",
+            "description": "島根半島東端。美保関灯台。",
+            "prefecture": "島根県",
+            "latitude": 35.550000,
+            "longitude": 133.316667
+        },
+        {
+            "name": "多古鼻",
+            "description": "島根半島北端。",
+            "prefecture": "島根県",
+            "latitude": 35.566667,
+            "longitude": 133.100000
+        },
+        {
+            "name": "長手岬",
+            "description": "大田市。",
+            "prefecture": "島根県",
+            "latitude": 35.216667,
+            "longitude": 132.400000
+        },
+        {
+            "name": "那沙美崎",
+            "description": "江田島。",
+            "prefecture": "広島県",
+            "latitude": 34.250000,
+            "longitude": 132.416667
+        },
+        {
+            "name": "川尻岬",
+            "description": "本州最北西端。",
+            "prefecture": "山口県",
+            "latitude": 34.433333,
+            "longitude": 130.983333
+        },
+        {
+            "name": "火の山",
+            "description": "関門海峡を望む。",
+            "prefecture": "山口県",
+            "latitude": 33.966667,
+            "longitude": 130.950000
+        },
+        {
+            "name": "室戸岬",
+            "description": "乱礁遊歩道があり、地質遺産が見られる。",
+            "prefecture": "高知県",
+            "latitude": 33.250000,
+            "longitude": 134.183333
+        },
+        {
+            "name": "足摺岬",
+            "description": "四国最南端。断崖絶壁。",
+            "prefecture": "高知県",
+            "latitude": 32.716667,
+            "longitude": 133.016667
+        },
+        {
+            "name": "佐田岬",
+            "description": "日本一細長い半島の先端。",
+            "prefecture": "愛媛県",
+            "latitude": 33.350000,
+            "longitude": 132.016667
+        },
+        {
+            "name": "蒲生田岬",
+            "description": "四国最東端。",
+            "prefecture": "徳島県",
+            "latitude": 33.833333,
+            "longitude": 134.750000
+        },
+        {
+            "name": "竹居観音岬",
+            "description": "四国最北端。",
+            "prefecture": "香川県",
+            "latitude": 34.400000,
+            "longitude": 134.133333
+        },
+        {
+            "name": "高茂岬",
+            "description": "愛媛県最南端。断崖絶壁。",
+            "prefecture": "愛媛県",
+            "latitude": 32.933333,
+            "longitude": 132.416667
+        },
+        {
+            "name": "波戸岬",
+            "description": "玄界灘に突き出た岬。恋人の聖地。",
+            "prefecture": "佐賀県",
+            "latitude": 33.550000,
+            "longitude": 129.850000
+        },
+        {
+            "name": "都井岬",
+            "description": "野生の御崎馬が生息する。",
+            "prefecture": "宮崎県",
+            "latitude": 31.366667,
+            "longitude": 131.350000
+        },
+        {
+            "name": "日向岬（馬ヶ背）",
+            "description": "柱状節理の断崖絶壁。",
+            "prefecture": "宮崎県",
+            "latitude": 32.433333,
+            "longitude": 131.683333
+        },
+        {
+            "name": "佐多岬",
+            "description": "九州本土最南端。",
+            "prefecture": "鹿児島県",
+            "latitude": 30.983333,
+            "longitude": 130.650000
+        },
+        {
+            "name": "長崎鼻",
+            "description": "薩摩半島の最南端。開聞岳の眺望。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.150000,
+            "longitude": 130.583333
+        },
+        {
+            "name": "野母崎",
+            "description": "長崎半島先端。軍艦島が見える。",
+            "prefecture": "長崎県",
+            "latitude": 32.566667,
+            "longitude": 129.750000
+        },
+        {
+            "name": "神崎鼻",
+            "description": "日本本土最西端。",
+            "prefecture": "長崎県",
+            "latitude": 33.216667,
+            "longitude": 129.550000
+        },
+        {
+            "name": "鶴御崎",
+            "description": "九州最東端。",
+            "prefecture": "大分県",
+            "latitude": 32.933333,
+            "longitude": 132.083333
+        },
+        {
+            "name": "関崎",
+            "description": "佐賀関半島の先端。関サバ・関アジ。",
+            "prefecture": "大分県",
+            "latitude": 33.266667,
+            "longitude": 131.916667
+        },
+        {
+            "name": "部埼",
+            "description": "北九州市。",
+            "prefecture": "福岡県",
+            "latitude": 33.950000,
+            "longitude": 131.016667
+        },
+        {
+            "name": "火之神公園（枕崎）",
+            "description": "立神岩が見える。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.250000,
+            "longitude": 130.283333
+        },
+        {
+            "name": "笠沙恵比寿（野間岬）",
+            "description": "（野間岬）薩摩半島西端。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.416667,
+            "longitude": 130.133333
+        },
+        {
+            "name": "喜屋武岬",
+            "description": "沖縄本島最南端。",
+            "prefecture": "沖縄県",
+            "latitude": 26.083333,
+            "longitude": 127.666667
+        },
+        {
+            "name": "辺戸岬",
+            "description": "沖縄本島最北端。",
+            "prefecture": "沖縄県",
+            "latitude": 26.866667,
+            "longitude": 128.250000
+        },
+        {
+            "name": "残波岬",
+            "description": "断崖絶壁と灯台。",
+            "prefecture": "沖縄県",
+            "latitude": 26.433333,
+            "longitude": 127.716667
+        },
+        {
+            "name": "真栄田岬",
+            "description": "ダイビングスポット「青の洞窟」。",
+            "prefecture": "沖縄県",
+            "latitude": 26.433333,
+            "longitude": 127.766667
+        },
+        {
+            "name": "万座毛",
+            "description": "象の鼻の岩。",
+            "prefecture": "沖縄県",
+            "latitude": 26.500000,
+            "longitude": 127.850000
+        },
+        {
+            "name": "知念岬",
+            "description": "南部東海岸。",
+            "prefecture": "沖縄県",
+            "latitude": 26.166667,
+            "longitude": 127.816667
+        },
+        {
+            "name": "東平安名崎",
+            "description": "宮古島の最東端。日本の都市公園百選。",
+            "prefecture": "沖縄県",
+            "latitude": 24.716667,
+            "longitude": 125.466667
+        },
+        {
+            "name": "西平安名崎",
+            "description": "宮古島。",
+            "prefecture": "沖縄県",
+            "latitude": 24.916667,
+            "longitude": 125.266667
+        },
+        {
+            "name": "御神崎",
+            "description": "石垣島西端。夕日の名所。",
+            "prefecture": "沖縄県",
+            "latitude": 24.450000,
+            "longitude": 124.066667
+        },
+        {
+            "name": "平久保崎",
+            "description": "石垣島最北端。",
+            "prefecture": "沖縄県",
+            "latitude": 24.616667,
+            "longitude": 124.316667
+        },
+        {
+            "name": "西崎",
+            "description": "与那国島。日本最西端の岬。",
+            "prefecture": "沖縄県",
+            "latitude": 24.466667,
+            "longitude": 122.933333
+        },
+        {
+            "name": "東崎",
+            "description": "与那国島。与那国馬が放牧されている。",
+            "prefecture": "沖縄県",
+            "latitude": 24.466667,
+            "longitude": 123.033333
+        },
+        {
+            "name": "猫崎",
+            "description": "キューピーに見える半島。",
+            "prefecture": "兵庫県",
+            "latitude": 35.666667,
+            "longitude": 134.750000
+        },
+        {
+            "name": "美保関",
+            "description": "島根半島東端。",
+            "prefecture": "島根県",
+            "latitude": 35.550000,
+            "longitude": 133.316667
+        },
+        {
+            "name": "赤壁",
+            "description": "隠岐・知夫里島の断崖。",
+            "prefecture": "島根県",
+            "latitude": 36.000000,
+            "longitude": 133.016667
+        },
+        {
+            "name": "千畳敷（長門）",
+            "description": "高台にある草原。",
+            "prefecture": "山口県",
+            "latitude": 34.416667,
+            "longitude": 131.133333
+        }
+    ]
+}

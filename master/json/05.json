@@ -1,0 +1,711 @@
+{
+    "municipalities": [
+        {
+            "name": "石北峠",
+            "description": "大雪山系の北側を越える峠。展望台がある。",
+            "prefecture": "北海道",
+            "latitude": 43.766667,
+            "longitude": 143.033333
+        },
+        {
+            "name": "美幌峠",
+            "description": "屈斜路湖の大パノラマが広がる絶景の峠。",
+            "prefecture": "北海道",
+            "latitude": 43.583333,
+            "longitude": 144.233333
+        },
+        {
+            "name": "狩勝峠",
+            "description": "十勝平野を見下ろす日本新八景の一つ。",
+            "prefecture": "北海道",
+            "latitude": 43.150000,
+            "longitude": 142.766667
+        },
+        {
+            "name": "中山峠",
+            "description": "羊蹄山の眺望で知られる。あげいもが名物。",
+            "prefecture": "北海道",
+            "latitude": 42.850000,
+            "longitude": 141.083333
+        },
+        {
+            "name": "日勝峠",
+            "description": "日高山脈を越える交通の難所。",
+            "prefecture": "北海道",
+            "latitude": 43.016667,
+            "longitude": 142.966667
+        },
+        {
+            "name": "知床峠",
+            "description": "羅臼岳と国後島を望む知床横断道路の峠。",
+            "prefecture": "北海道",
+            "latitude": 44.050000,
+            "longitude": 145.133333
+        },
+        {
+            "name": "三国峠",
+            "description": "北海道の国道で最も標高が高い峠。樹海が美しい。",
+            "prefecture": "北海道",
+            "latitude": 43.566667,
+            "longitude": 143.150000
+        },
+        {
+            "name": "北見峠",
+            "description": "浮島湿原に近い峠。",
+            "prefecture": "北海道",
+            "latitude": 43.883333,
+            "longitude": 143.083333
+        },
+        {
+            "name": "塩狩峠",
+            "description": "三浦綾子の小説の舞台として有名。",
+            "prefecture": "北海道",
+            "latitude": 43.983333,
+            "longitude": 142.450000
+        },
+        {
+            "name": "野塚峠",
+            "description": "日高山脈を越えるトンネルがある。",
+            "prefecture": "北海道",
+            "latitude": 42.183333,
+            "longitude": 143.050000
+        },
+        {
+            "name": "矢立峠",
+            "description": "天然秋田杉の美林で知られる。",
+            "prefecture": "秋田県・青森県",
+            "latitude": 40.416667,
+            "longitude": 140.583333
+        },
+        {
+            "name": "発荷峠",
+            "description": "十和田湖の展望が素晴らしい。",
+            "prefecture": "秋田県",
+            "latitude": 40.383333,
+            "longitude": 140.883333
+        },
+        {
+            "name": "八幡平",
+            "description": "アスピーテラインが通る高原の峠。",
+            "prefecture": "岩手県・秋田県",
+            "latitude": 39.950000,
+            "longitude": 140.850000
+        },
+        {
+            "name": "国見峠",
+            "description": "駒ヶ岳への登山口。",
+            "prefecture": "岩手県・秋田県",
+            "latitude": 39.750000,
+            "longitude": 140.783333
+        },
+        {
+            "name": "仙人峠",
+            "description": "紅葉の名所として知られる難所。",
+            "prefecture": "岩手県",
+            "latitude": 39.300000,
+            "longitude": 141.716667
+        },
+        {
+            "name": "笹谷峠",
+            "description": "古くからの交通の要衝。八丁平の散策路がある。",
+            "prefecture": "宮城県・山形県",
+            "latitude": 38.216667,
+            "longitude": 140.450000
+        },
+        {
+            "name": "刈田峠",
+            "description": "蔵王エコーラインの峠。",
+            "prefecture": "宮城県",
+            "latitude": 38.133333,
+            "longitude": 140.466667
+        },
+        {
+            "name": "金山峠",
+            "description": "羽州街道の難所。",
+            "prefecture": "山形県・宮城県",
+            "latitude": 38.050000,
+            "longitude": 140.333333
+        },
+        {
+            "name": "板谷峠",
+            "description": "かつての鉄道のスイッチバックで有名。",
+            "prefecture": "山形県・福島県",
+            "latitude": 37.816667,
+            "longitude": 140.233333
+        },
+        {
+            "name": "大内峠",
+            "description": "会津盆地の展望が良い。",
+            "prefecture": "福島県",
+            "latitude": 37.533333,
+            "longitude": 139.866667
+        },
+        {
+            "name": "六十里越",
+            "description": "只見と魚沼を結ぶ豪雪地帯の峠。",
+            "prefecture": "福島県・新潟県",
+            "latitude": 37.333333,
+            "longitude": 139.233333
+        },
+        {
+            "name": "土湯峠",
+            "description": "磐梯吾妻スカイラインの入り口。",
+            "prefecture": "福島県",
+            "latitude": 37.666667,
+            "longitude": 140.283333
+        },
+        {
+            "name": "中山峠",
+            "description": "国道49号の峠。",
+            "prefecture": "福島県",
+            "latitude": 37.516667,
+            "longitude": 140.150000
+        },
+        {
+            "name": "金精峠",
+            "description": "日光と尾瀬を結ぶ高標高の峠。",
+            "prefecture": "栃木県・群馬県",
+            "latitude": 36.816667,
+            "longitude": 139.400000
+        },
+        {
+            "name": "三国峠",
+            "description": "関東と越後を結ぶ交通の要衝。三国街道。",
+            "prefecture": "群馬県・新潟県",
+            "latitude": 36.766667,
+            "longitude": 138.833333
+        },
+        {
+            "name": "暮坂峠",
+            "description": "若山牧水が愛した峠。",
+            "prefecture": "群馬県",
+            "latitude": 36.600000,
+            "longitude": 138.716667
+        },
+        {
+            "name": "碓氷峠",
+            "description": "旧中山道の難所。めがね橋が有名。",
+            "prefecture": "群馬県・長野県",
+            "latitude": 36.333333,
+            "longitude": 138.633333
+        },
+        {
+            "name": "十石峠",
+            "description": "米の輸送に使われた峠。",
+            "prefecture": "群馬県・長野県",
+            "latitude": 36.100000,
+            "longitude": 138.650000
+        },
+        {
+            "name": "雁坂峠",
+            "description": "日本三大峠の一つ。雁坂トンネルがある。",
+            "prefecture": "埼玉県・山梨県",
+            "latitude": 35.883333,
+            "longitude": 138.816667
+        },
+        {
+            "name": "正丸峠",
+            "description": "奥武蔵グリーンラインの峠。",
+            "prefecture": "埼玉県",
+            "latitude": 35.933333,
+            "longitude": 139.150000
+        },
+        {
+            "name": "小仏峠",
+            "description": "甲州街道の関所があった峠。",
+            "prefecture": "東京都・神奈川県",
+            "latitude": 35.633333,
+            "longitude": 139.233333
+        },
+        {
+            "name": "和田峠",
+            "description": "陣馬山へのハイキングコース。",
+            "prefecture": "東京都・神奈川県",
+            "latitude": 35.666667,
+            "longitude": 139.150000
+        },
+        {
+            "name": "大垂水峠",
+            "description": "甲州街道の峠。かつて走り屋で有名。",
+            "prefecture": "東京都・神奈川県",
+            "latitude": 35.616667,
+            "longitude": 139.250000
+        },
+        {
+            "name": "箱根峠",
+            "description": "東海道の難所。箱根駅伝の舞台。",
+            "prefecture": "神奈川県・静岡県",
+            "latitude": 35.183333,
+            "longitude": 139.033333
+        },
+        {
+            "name": "足柄峠",
+            "description": "金太郎伝説の残る峠。富士山の眺望が良い。",
+            "prefecture": "神奈川県・静岡県",
+            "latitude": 35.316667,
+            "longitude": 139.016667
+        },
+        {
+            "name": "ヤビツ峠",
+            "description": "サイクリストに人気の丹沢の峠。",
+            "prefecture": "神奈川県",
+            "latitude": 35.416667,
+            "longitude": 139.216667
+        },
+        {
+            "name": "犬越路",
+            "description": "東海自然歩道の難所。",
+            "prefecture": "神奈川県・山梨県",
+            "latitude": 35.483333,
+            "longitude": 139.083333
+        },
+        {
+            "name": "大菩薩峠",
+            "description": "中里介山の小説で有名。ハイキング名所。",
+            "prefecture": "山梨県",
+            "latitude": 35.733333,
+            "longitude": 138.833333
+        },
+        {
+            "name": "御坂峠",
+            "description": "富士山と河口湖の展望が素晴らしい。",
+            "prefecture": "山梨県",
+            "latitude": 35.533333,
+            "longitude": 138.783333
+        },
+        {
+            "name": "笹子峠",
+            "description": "甲州街道の難所。笹子トンネル。",
+            "prefecture": "山梨県",
+            "latitude": 35.616667,
+            "longitude": 138.833333
+        },
+        {
+            "name": "柳沢峠",
+            "description": "青梅街道の最高地点。富士山が見える。",
+            "prefecture": "山梨県",
+            "latitude": 35.783333,
+            "longitude": 138.800000
+        },
+        {
+            "name": "麦草峠",
+            "description": "国道299号の最高地点（2127m）。",
+            "prefecture": "長野県",
+            "latitude": 36.050000,
+            "longitude": 138.333333
+        },
+        {
+            "name": "渋峠",
+            "description": "国道最高地点（2172m）がある峠。",
+            "prefecture": "群馬県・長野県",
+            "latitude": 36.666667,
+            "longitude": 138.566667
+        },
+        {
+            "name": "和田峠",
+            "description": "中山道の最高地点。黒曜石の産地。",
+            "prefecture": "長野県",
+            "latitude": 36.116667,
+            "longitude": 138.083333
+        },
+        {
+            "name": "杖突峠",
+            "description": "諏訪盆地と八ヶ岳の展望が良い。",
+            "prefecture": "長野県",
+            "latitude": 35.983333,
+            "longitude": 138.133333
+        },
+        {
+            "name": "野麦峠",
+            "description": "『あゝ野麦峠』で知られる歴史の峠。",
+            "prefecture": "長野県・岐阜県",
+            "latitude": 36.033333,
+            "longitude": 137.633333
+        },
+        {
+            "name": "安房峠",
+            "description": "北アルプスを越える険しい峠。",
+            "prefecture": "長野県・岐阜県",
+            "latitude": 36.200000,
+            "longitude": 137.583333
+        },
+        {
+            "name": "鳥居峠",
+            "description": "中山道の峠。木曽路の入り口。",
+            "prefecture": "長野県",
+            "latitude": 35.966667,
+            "longitude": 137.800000
+        },
+        {
+            "name": "馬籠峠",
+            "description": "馬籠宿と妻籠宿を結ぶ旧街道の峠。",
+            "prefecture": "岐阜県・長野県",
+            "latitude": 35.550000,
+            "longitude": 137.583333
+        },
+        {
+            "name": "権兵衛峠",
+            "description": "伊那谷と木曽谷を結ぶ。",
+            "prefecture": "長野県",
+            "latitude": 35.850000,
+            "longitude": 137.866667
+        },
+        {
+            "name": "青崩峠",
+            "description": "日本の秘境100選にも選ばれた崩落の激しい峠。",
+            "prefecture": "長野県・静岡県",
+            "latitude": 35.250000,
+            "longitude": 137.916667
+        },
+        {
+            "name": "倶利伽羅峠",
+            "description": "源平合戦の古戦場として有名。",
+            "prefecture": "富山県・石川県",
+            "latitude": 36.666667,
+            "longitude": 136.816667
+        },
+        {
+            "name": "木の芽峠",
+            "description": "北陸道と若狭湾の分岐点。",
+            "prefecture": "福井県",
+            "latitude": 35.633333,
+            "longitude": 136.116667
+        },
+        {
+            "name": "天城峠",
+            "description": "川端康成『伊豆の踊子』の舞台。旧天城トンネル。",
+            "prefecture": "静岡県",
+            "latitude": 34.833333,
+            "longitude": 138.916667
+        },
+        {
+            "name": "宇津ノ谷峠",
+            "description": "旧東海道の面影を残す峠。",
+            "prefecture": "静岡県",
+            "latitude": 34.933333,
+            "longitude": 138.300000
+        },
+        {
+            "name": "薩埵峠",
+            "description": "歌川広重の浮世絵にも描かれた富士山と海の絶景地。",
+            "prefecture": "静岡県",
+            "latitude": 35.066667,
+            "longitude": 138.550000
+        },
+        {
+            "name": "小夜の中山",
+            "description": "「夜泣き石」伝説で知られる東海道の難所。",
+            "prefecture": "静岡県",
+            "latitude": 34.816667,
+            "longitude": 138.083333
+        },
+        {
+            "name": "本坂峠",
+            "description": "姫街道の峠。",
+            "prefecture": "静岡県・愛知県",
+            "latitude": 34.783333,
+            "longitude": 137.516667
+        },
+        {
+            "name": "伊勢神峠",
+            "description": "伊勢神宮への遥拝所があった。",
+            "prefecture": "愛知県",
+            "latitude": 35.166667,
+            "longitude": 137.400000
+        },
+        {
+            "name": "鈴鹿峠",
+            "description": "東海道の難所。伊勢湾と近江盆地を隔てる。",
+            "prefecture": "三重県・滋賀県",
+            "latitude": 34.900000,
+            "longitude": 136.350000
+        },
+        {
+            "name": "長野峠",
+            "description": "伊賀と伊勢を結ぶ。",
+            "prefecture": "三重県",
+            "latitude": 34.733333,
+            "longitude": 136.316667
+        },
+        {
+            "name": "青山峠",
+            "description": "近鉄大阪線のトンネルがある。",
+            "prefecture": "三重県",
+            "latitude": 34.666667,
+            "longitude": 136.250000
+        },
+        {
+            "name": "暗峠",
+            "description": "国道308号の急勾配で有名な「酷道」。石畳が残る。",
+            "prefecture": "大阪府・奈良県",
+            "latitude": 34.666667,
+            "longitude": 135.666667
+        },
+        {
+            "name": "竹内峠",
+            "description": "日本最古の官道と言われる竹内街道の峠。",
+            "prefecture": "大阪府・奈良県",
+            "latitude": 34.516667,
+            "longitude": 135.683333
+        },
+        {
+            "name": "水越峠",
+            "description": "葛城山と金剛山の間にある峠。",
+            "prefecture": "大阪府・奈良県",
+            "latitude": 34.433333,
+            "longitude": 135.683333
+        },
+        {
+            "name": "芋峠",
+            "description": "吉野へ抜ける古道。",
+            "prefecture": "奈良県",
+            "latitude": 34.433333,
+            "longitude": 135.833333
+        },
+        {
+            "name": "洞ヶ峠",
+            "description": "日和見の代名詞となった峠。",
+            "prefecture": "京都府・大阪府",
+            "latitude": 34.866667,
+            "longitude": 135.700000
+        },
+        {
+            "name": "京見峠",
+            "description": "京都市街を一望できる。",
+            "prefecture": "京都府",
+            "latitude": 35.066667,
+            "longitude": 135.733333
+        },
+        {
+            "name": "花折峠",
+            "description": "鯖街道の峠。",
+            "prefecture": "滋賀県・京都府",
+            "latitude": 35.216667,
+            "longitude": 135.850000
+        },
+        {
+            "name": "百井峠",
+            "description": "酷道477号の難所。",
+            "prefecture": "京都府",
+            "latitude": 35.133333,
+            "longitude": 135.816667
+        },
+        {
+            "name": "船坂峠",
+            "description": "播磨と美作の国境。",
+            "prefecture": "兵庫県・岡山県",
+            "latitude": 34.933333,
+            "longitude": 134.333333
+        },
+        {
+            "name": "戸倉峠",
+            "description": "氷ノ山に近い峠。",
+            "prefecture": "兵庫県・鳥取県",
+            "latitude": 35.333333,
+            "longitude": 134.483333
+        },
+        {
+            "name": "鍵掛峠",
+            "description": "大山南壁の絶好のビュースポット。",
+            "prefecture": "鳥取県",
+            "latitude": 35.350000,
+            "longitude": 133.550000
+        },
+        {
+            "name": "四十曲峠",
+            "description": "出雲街道の難所。",
+            "prefecture": "鳥取県・岡山県",
+            "latitude": 35.150000,
+            "longitude": 133.400000
+        },
+        {
+            "name": "人形峠",
+            "description": "ウラン鉱山で知られる。",
+            "prefecture": "岡山県・鳥取県",
+            "latitude": 35.300000,
+            "longitude": 133.933333
+        },
+        {
+            "name": "赤名峠",
+            "description": "出雲と備後を結ぶ。",
+            "prefecture": "島根県・広島県",
+            "latitude": 34.966667,
+            "longitude": 132.733333
+        },
+        {
+            "name": "欽明寺峠",
+            "description": "岩国市にある峠。",
+            "prefecture": "山口県",
+            "latitude": 34.133333,
+            "longitude": 132.116667
+        },
+        {
+            "name": "野呂山（さざなみスカイライン）",
+            "description": "瀬戸内海の展望が良い。",
+            "prefecture": "広島県",
+            "latitude": 34.250000,
+            "longitude": 132.683333
+        },
+        {
+            "name": "三坂峠",
+            "description": "松山と高知を結ぶ街道の難所。",
+            "prefecture": "愛媛県",
+            "latitude": 33.733333,
+            "longitude": 132.850000
+        },
+        {
+            "name": "法華津峠",
+            "description": "宇和海を見下ろす絶景。",
+            "prefecture": "愛媛県",
+            "latitude": 33.316667,
+            "longitude": 132.500000
+        },
+        {
+            "name": "地芳峠",
+            "description": "四国カルストへの入り口。",
+            "prefecture": "愛媛県・高知県",
+            "latitude": 33.483333,
+            "longitude": 132.950000
+        },
+        {
+            "name": "京柱峠",
+            "description": "酷道439号の難所。眺望が良い。",
+            "prefecture": "徳島県・高知県",
+            "latitude": 33.833333,
+            "longitude": 133.866667
+        },
+        {
+            "name": "寒風山トンネル（寒風山）",
+            "description": "旧道からの景色が素晴らしい。",
+            "prefecture": "高知県・愛媛県",
+            "latitude": 33.816667,
+            "longitude": 133.266667
+        },
+        {
+            "name": "冷水峠",
+            "description": "長崎街道の難所。現在は有料道路トンネルがある。",
+            "prefecture": "福岡県",
+            "latitude": 33.483333,
+            "longitude": 130.633333
+        },
+        {
+            "name": "三瀬峠",
+            "description": "福岡と佐賀を最短で結ぶ。",
+            "prefecture": "福岡県・佐賀県",
+            "latitude": 33.450000,
+            "longitude": 130.300000
+        },
+        {
+            "name": "八木山峠",
+            "description": "飯塚と福岡を結ぶヘアピンカーブの多い峠。",
+            "prefecture": "福岡県",
+            "latitude": 33.633333,
+            "longitude": 130.616667
+        },
+        {
+            "name": "俵坂",
+            "description": "嬉野と大村の境。",
+            "prefecture": "佐賀県・長崎県",
+            "latitude": 33.050000,
+            "longitude": 129.966667
+        },
+        {
+            "name": "仁田峠",
+            "description": "雲仙普賢岳の展望所。ツツジが美しい。",
+            "prefecture": "長崎県",
+            "latitude": 32.750000,
+            "longitude": 130.283333
+        },
+        {
+            "name": "日見峠",
+            "description": "長崎街道の難所。",
+            "prefecture": "長崎県",
+            "latitude": 32.750000,
+            "longitude": 129.916667
+        },
+        {
+            "name": "牧ノ戸峠",
+            "description": "やまなみハイウェイの最高地点。",
+            "prefecture": "大分県",
+            "latitude": 33.100000,
+            "longitude": 131.233333
+        },
+        {
+            "name": "水分峠",
+            "description": "湯布院への入り口。",
+            "prefecture": "大分県",
+            "latitude": 33.266667,
+            "longitude": 131.300000
+        },
+        {
+            "name": "三国峠",
+            "description": "豊後・日向・肥後の国境。",
+            "prefecture": "大分県・宮崎県",
+            "latitude": 32.883333,
+            "longitude": 131.416667
+        },
+        {
+            "name": "高森峠",
+            "description": "阿蘇外輪山を越える九十九折の峠。",
+            "prefecture": "熊本県",
+            "latitude": 32.816667,
+            "longitude": 131.150000
+        },
+        {
+            "name": "箱石峠",
+            "description": "阿蘇の根子岳が美しく見える。",
+            "prefecture": "熊本県",
+            "latitude": 32.933333,
+            "longitude": 131.183333
+        },
+        {
+            "name": "仙酔峡",
+            "description": "阿蘇高岳の麓。ミヤマキリシマの名所。",
+            "prefecture": "熊本県",
+            "latitude": 32.900000,
+            "longitude": 131.116667
+        },
+        {
+            "name": "日ノ尾峠",
+            "description": "根子岳と高岳の間にある峠。",
+            "prefecture": "熊本県",
+            "latitude": 32.883333,
+            "longitude": 131.150000
+        },
+        {
+            "name": "国見峠",
+            "description": "椎葉村へ抜ける峠。",
+            "prefecture": "宮崎県",
+            "latitude": 32.500000,
+            "longitude": 131.150000
+        },
+        {
+            "name": "堀切峠",
+            "description": "日南海岸の絶景スポット。フェニックスが並ぶ。",
+            "prefecture": "宮崎県",
+            "latitude": 31.800000,
+            "longitude": 131.466667
+        },
+        {
+            "name": "矢岳峠",
+            "description": "肥薩線の日本三大車窓で有名。",
+            "prefecture": "宮崎県・熊本県",
+            "latitude": 32.083333,
+            "longitude": 130.733333
+        },
+        {
+            "name": "大口峠",
+            "description": "伊佐市にある峠。",
+            "prefecture": "鹿児島県",
+            "latitude": 32.050000,
+            "longitude": 130.616667
+        },
+        {
+            "name": "多幸山（フェーレー岩）",
+            "description": "宮古島にある伝説の岩がある峠（丘）。",
+            "prefecture": "沖縄県",
+            "latitude": 24.750000,
+            "longitude": 125.300000
+        }
+    ]
+}

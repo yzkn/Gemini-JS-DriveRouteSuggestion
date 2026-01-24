@@ -1,0 +1,256 @@
+{
+    "municipalities": [
+        {
+            "name": "法隆寺 (斑鳩町)",
+            "description": "世界遺産。世界最古の木造建築群。",
+            "prefecture": "奈良県",
+            "latitude": 34.614167,
+            "longitude": 135.735833
+        },
+        {
+            "name": "姫路城 (姫路市)",
+            "description": "世界遺産。白鷺城。現存天守。",
+            "prefecture": "兵庫県",
+            "latitude": 34.839444,
+            "longitude": 134.693889
+        },
+        {
+            "name": "清水寺 (京都市)",
+            "description": "世界遺産。清水の舞台。",
+            "prefecture": "京都府",
+            "latitude": 34.994722,
+            "longitude": 135.785000
+        },
+        {
+            "name": "鹿苑寺 (金閣寺) (京都市)",
+            "description": "世界遺産。金閣。",
+            "prefecture": "京都府",
+            "latitude": 35.039444,
+            "longitude": 135.729444
+        },
+        {
+            "name": "厳島神社 (廿日市市)",
+            "description": "世界遺産。海上の社殿。",
+            "prefecture": "広島県",
+            "latitude": 34.295833,
+            "longitude": 132.319722
+        },
+        {
+            "name": "原爆ドーム (広島市)",
+            "description": "世界遺産。負の遺産。",
+            "prefecture": "広島県",
+            "latitude": 34.395556,
+            "longitude": 132.453611
+        },
+        {
+            "name": "東大寺 (奈良市)",
+            "description": "世界遺産。大仏殿。",
+            "prefecture": "奈良県",
+            "latitude": 34.688889,
+            "longitude": 135.839722
+        },
+        {
+            "name": "日光東照宮 (日光市)",
+            "description": "世界遺産。徳川家康を祀る。",
+            "prefecture": "栃木県",
+            "latitude": 36.758056,
+            "longitude": 139.598889
+        },
+        {
+            "name": "白川郷 (白川村)",
+            "description": "世界遺産。荻町合掌造り集落。",
+            "prefecture": "岐阜県",
+            "latitude": 36.256111,
+            "longitude": 136.906667
+        },
+        {
+            "name": "首里城跡 (那覇市)",
+            "description": "世界遺産。琉球王国の居城。",
+            "prefecture": "沖縄県",
+            "latitude": 26.218333,
+            "longitude": 127.715278
+        },
+        {
+            "name": "中尊寺 (平泉町)",
+            "description": "世界遺産。金色堂。",
+            "prefecture": "岩手県",
+            "latitude": 39.001667,
+            "longitude": 141.103056
+        },
+        {
+            "name": "富士山 (富士吉田市他)",
+            "description": "世界遺産。山頂信仰遺跡。",
+            "prefecture": "山梨県",
+            "latitude": 35.360556,
+            "longitude": 138.727778
+        },
+        {
+            "name": "富岡製糸場 (富岡市)",
+            "description": "世界遺産。国宝。",
+            "prefecture": "群馬県",
+            "latitude": 36.255278,
+            "longitude": 138.888611
+        },
+        {
+            "name": "旧グラバー住宅 (長崎市)",
+            "description": "世界遺産。",
+            "prefecture": "長崎県",
+            "latitude": 32.733056,
+            "longitude": 129.869722
+        },
+        {
+            "name": "端島炭坑 (長崎市)",
+            "description": "世界遺産。軍艦島。",
+            "prefecture": "長崎県",
+            "latitude": 32.627778,
+            "longitude": 129.738889
+        },
+        {
+            "name": "国立西洋美術館 (台東区)",
+            "description": "世界遺産。ル・コルビュジエ設計。",
+            "prefecture": "東京都",
+            "latitude": 35.715278,
+            "longitude": 139.775833
+        },
+        {
+            "name": "宗像大社辺津宮 (宗像市)",
+            "description": "世界遺産。本土。",
+            "prefecture": "福岡県",
+            "latitude": 33.831111,
+            "longitude": 130.514444
+        },
+        {
+            "name": "大浦天主堂 (長崎市)",
+            "description": "世界遺産。国宝。",
+            "prefecture": "長崎県",
+            "latitude": 32.734167,
+            "longitude": 129.870278
+        },
+        {
+            "name": "大仙陵古墳 (仁徳天皇陵) (堺市)",
+            "description": "世界遺産。日本最大の前方後円墳。",
+            "prefecture": "大阪府",
+            "latitude": 34.564444,
+            "longitude": 135.487778
+        },
+        {
+            "name": "三内丸山遺跡 (青森市)",
+            "description": "世界遺産。",
+            "prefecture": "青森県",
+            "latitude": 40.811111,
+            "longitude": 140.696389
+        },
+        {
+            "name": "佐渡金山 (佐渡市)",
+            "description": "世界遺産。相川金銀山。",
+            "prefecture": "新潟県",
+            "latitude": 38.041667,
+            "longitude": 138.258333
+        },
+        {
+            "name": "平等院 (宇治市)",
+            "description": "世界遺産。鳳凰堂。",
+            "prefecture": "京都府",
+            "latitude": 34.889444,
+            "longitude": 135.807778
+        },
+        {
+            "name": "二条城 (京都市)",
+            "description": "世界遺産。徳川家の居城。",
+            "prefecture": "京都府",
+            "latitude": 35.014167,
+            "longitude": 135.748056
+        },
+        {
+            "name": "熊野本宮大社 (田辺市)",
+            "description": "世界遺産。熊野三山。",
+            "prefecture": "和歌山県",
+            "latitude": 33.840278,
+            "longitude": 135.773889
+        },
+        {
+            "name": "高野山金剛峯寺 (高野町)",
+            "description": "世界遺産。",
+            "prefecture": "和歌山県",
+            "latitude": 34.212500,
+            "longitude": 135.586111
+        },
+        {
+            "name": "石見銀山遺跡 (大田市)",
+            "description": "世界遺産。龍源寺間歩など。",
+            "prefecture": "島根県",
+            "latitude": 35.105278,
+            "longitude": 132.436944
+        },
+        {
+            "name": "毛越寺 (平泉町)",
+            "description": "世界遺産。浄土庭園。",
+            "prefecture": "岩手県",
+            "latitude": 38.989722,
+            "longitude": 141.115278
+        },
+        {
+            "name": "富士山本宮浅間大社 (富士宮市)",
+            "description": "世界遺産。",
+            "prefecture": "静岡県",
+            "latitude": 35.226389,
+            "longitude": 138.610556
+        },
+        {
+            "name": "三保松原 (静岡市)",
+            "description": "世界遺産。",
+            "prefecture": "静岡県",
+            "latitude": 34.996111,
+            "longitude": 138.523056
+        },
+        {
+            "name": "韮山反射炉 (伊豆の国市)",
+            "description": "世界遺産。",
+            "prefecture": "静岡県",
+            "latitude": 35.040278,
+            "longitude": 138.963056
+        },
+        {
+            "name": "三角西港 (宇城市)",
+            "description": "世界遺産。",
+            "prefecture": "熊本県",
+            "latitude": 32.616667,
+            "longitude": 130.466667
+        },
+        {
+            "name": "官営八幡製鐵所関連施設 (北九州市)",
+            "description": "世界遺産。旧本事務所など。",
+            "prefecture": "福岡県",
+            "latitude": 33.869444,
+            "longitude": 130.808333
+        },
+        {
+            "name": "宗像大社沖津宮 (宗像市)",
+            "description": "世界遺産。沖ノ島。",
+            "prefecture": "福岡県",
+            "latitude": 34.243333,
+            "longitude": 130.106667
+        },
+        {
+            "name": "原城跡 (南島原市)",
+            "description": "世界遺産。島原の乱。",
+            "prefecture": "長崎県",
+            "latitude": 32.628889,
+            "longitude": 130.255556
+        },
+        {
+            "name": "大湯環状列石 (鹿角市)",
+            "description": "世界遺産。",
+            "prefecture": "秋田県",
+            "latitude": 40.291667,
+            "longitude": 140.803611
+        },
+        {
+            "name": "是川石器時代遺跡 (八戸市)",
+            "description": "世界遺産。",
+            "prefecture": "青森県",
+            "latitude": 40.483333,
+            "longitude": 141.483333
+        }
+    ]
+}

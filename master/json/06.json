@@ -1,0 +1,704 @@
+{
+    "municipalities": [
+        {
+            "name": "石狩川",
+            "description": "北海道遺産にも選定されている日本第3位の長さの川。",
+            "prefecture": "北海道",
+            "latitude": 43.283333,
+            "longitude": 141.383333
+        },
+        {
+            "name": "天塩川",
+            "description": "日本第4位の長さ。カヌーの聖地として知られる。",
+            "prefecture": "北海道",
+            "latitude": 44.883333,
+            "longitude": 141.750000
+        },
+        {
+            "name": "十勝川",
+            "description": "モール温泉で有名な川。冬にはジュエリーアイスが見られる。",
+            "prefecture": "北海道",
+            "latitude": 42.916667,
+            "longitude": 143.200000
+        },
+        {
+            "name": "釧路川",
+            "description": "釧路湿原を蛇行して流れる美しい川。カヌー下りが人気。",
+            "prefecture": "北海道",
+            "latitude": 43.100000,
+            "longitude": 144.400000
+        },
+        {
+            "name": "千歳川",
+            "description": "支笏湖を源流とする清流。インディアン水車がある。",
+            "prefecture": "北海道",
+            "latitude": 42.833333,
+            "longitude": 141.650000
+        },
+        {
+            "name": "空知川",
+            "description": "ラフティングの名所として知られる。",
+            "prefecture": "北海道",
+            "latitude": 43.550000,
+            "longitude": 142.466667
+        },
+        {
+            "name": "尻別川",
+            "description": "清流日本一に何度も認定されている。ニセコでのラフティングが盛ん。",
+            "prefecture": "北海道",
+            "latitude": 42.800000,
+            "longitude": 140.683333
+        },
+        {
+            "name": "沙流川",
+            "description": "日高山脈から流れる川。アイヌ文化との関わりが深い。",
+            "prefecture": "北海道",
+            "latitude": 42.600000,
+            "longitude": 142.066667
+        },
+        {
+            "name": "常呂川",
+            "description": "北見市を流れる川。",
+            "prefecture": "北海道",
+            "latitude": 43.800000,
+            "longitude": 143.883333
+        },
+        {
+            "name": "鵡川",
+            "description": "シシャモの産地として有名。激流下りも。",
+            "prefecture": "北海道",
+            "latitude": 42.583333,
+            "longitude": 142.050000
+        },
+        {
+            "name": "北上川",
+            "description": "東北地方最大の河川。石巻の河口付近はヨシ原が広がる。",
+            "prefecture": "宮城県・岩手県",
+            "latitude": 38.566667,
+            "longitude": 141.450000
+        },
+        {
+            "name": "最上川",
+            "description": "日本三大急流の一つ。松尾芭蕉の句で有名。最上川舟下り。",
+            "prefecture": "山形県",
+            "latitude": 38.716667,
+            "longitude": 140.083333
+        },
+        {
+            "name": "阿武隈川",
+            "description": "東北第2の大河。阿武隈ライン舟下りが楽しめる。",
+            "prefecture": "宮城県・福島県",
+            "latitude": 37.950000,
+            "longitude": 140.750000
+        },
+        {
+            "name": "奥入瀬川",
+            "description": "十和田湖から流れる清流。奥入瀬渓流が有名。",
+            "prefecture": "青森県",
+            "latitude": 40.583333,
+            "longitude": 141.216667
+        },
+        {
+            "name": "米代川",
+            "description": "アユ釣りのメッカとして知られる。",
+            "prefecture": "秋田県",
+            "latitude": 40.216667,
+            "longitude": 140.033333
+        },
+        {
+            "name": "雄物川",
+            "description": "秋田市を流れる大河。花火大会の会場にもなる。",
+            "prefecture": "秋田県",
+            "latitude": 39.716667,
+            "longitude": 140.083333
+        },
+        {
+            "name": "岩木川",
+            "description": "津軽平野を潤す川。十三湖に注ぐ。",
+            "prefecture": "青森県",
+            "latitude": 40.866667,
+            "longitude": 140.350000
+        },
+        {
+            "name": "只見川",
+            "description": "秘境を流れる川。只見線と共に撮影される絶景スポットが多い。",
+            "prefecture": "福島県",
+            "latitude": 37.483333,
+            "longitude": 139.683333
+        },
+        {
+            "name": "阿賀野川",
+            "description": "日本有数の水量を誇る大河。ライン下りがある。",
+            "prefecture": "新潟県・福島県",
+            "latitude": 37.950000,
+            "longitude": 139.133333
+        },
+        {
+            "name": "名取川",
+            "description": "仙台市を流れる川。芋煮会で有名。",
+            "prefecture": "宮城県",
+            "latitude": 38.183333,
+            "longitude": 140.950000
+        },
+        {
+            "name": "利根川",
+            "description": "流域面積日本一の坂東太郎。日本の発展を支えた川。",
+            "prefecture": "千葉県・茨城県・埼玉県・群馬県",
+            "latitude": 35.800000,
+            "longitude": 140.816667
+        },
+        {
+            "name": "荒川",
+            "description": "東京を流れる大河。長瀞ライン下りが有名。",
+            "prefecture": "東京都・埼玉県",
+            "latitude": 36.116667,
+            "longitude": 139.116667
+        },
+        {
+            "name": "隅田川",
+            "description": "東京の下町を流れる。屋形船や花火大会で親しまれる。",
+            "prefecture": "東京都",
+            "latitude": 35.710000,
+            "longitude": 139.800000
+        },
+        {
+            "name": "多摩川",
+            "description": "首都圏のオアシス。上流は御岳渓谷など自然豊か。",
+            "prefecture": "東京都・神奈川県・山梨県",
+            "latitude": 35.800000,
+            "longitude": 139.233333
+        },
+        {
+            "name": "那珂川",
+            "description": "関東の清流。アユ漁が盛ん。",
+            "prefecture": "茨城県・栃木県",
+            "latitude": 36.333333,
+            "longitude": 140.600000
+        },
+        {
+            "name": "鬼怒川",
+            "description": "温泉地を流れる川。鬼怒川ライン下り。",
+            "prefecture": "栃木県・茨城県",
+            "latitude": 36.833333,
+            "longitude": 139.716667
+        },
+        {
+            "name": "神田川",
+            "description": "フォークソングで有名。桜並木が美しい。",
+            "prefecture": "東京都",
+            "latitude": 35.710000,
+            "longitude": 139.700000
+        },
+        {
+            "name": "目黒川",
+            "description": "都内有数の桜の名所。",
+            "prefecture": "東京都",
+            "latitude": 35.650000,
+            "longitude": 139.690000
+        },
+        {
+            "name": "渡良瀬川",
+            "description": "足尾銅山からの歴史を持つ川。トロッコ列車が並走。",
+            "prefecture": "栃木県・群馬県",
+            "latitude": 36.500000,
+            "longitude": 139.400000
+        },
+        {
+            "name": "久慈川",
+            "description": "袋田の滝がある川。",
+            "prefecture": "茨城県・福島県",
+            "latitude": 36.833333,
+            "longitude": 140.400000
+        },
+        {
+            "name": "相模川",
+            "description": "山中湖を源流とする川。",
+            "prefecture": "神奈川県",
+            "latitude": 35.500000,
+            "longitude": 139.366667
+        },
+        {
+            "name": "信濃川",
+            "description": "日本一長い川。長野県では千曲川と呼ばれる。",
+            "prefecture": "新潟県・長野県",
+            "latitude": 37.916667,
+            "longitude": 139.050000
+        },
+        {
+            "name": "千曲川",
+            "description": "信濃川の上流部。五木ひろしの歌でも有名。",
+            "prefecture": "長野県",
+            "latitude": 36.400000,
+            "longitude": 138.116667
+        },
+        {
+            "name": "木曽川",
+            "description": "日本ラインと呼ばれる景勝地を持つ。",
+            "prefecture": "愛知県・岐阜県・長野県",
+            "latitude": 35.416667,
+            "longitude": 136.966667
+        },
+        {
+            "name": "長良川",
+            "description": "日本三大清流の一つ。鵜飼で有名。",
+            "prefecture": "岐阜県・三重県・愛知県",
+            "latitude": 35.433333,
+            "longitude": 136.766667
+        },
+        {
+            "name": "揖斐川",
+            "description": "木曽三川の一つ。",
+            "prefecture": "岐阜県・三重県",
+            "latitude": 35.200000,
+            "longitude": 136.683333
+        },
+        {
+            "name": "天竜川",
+            "description": "諏訪湖から流れる暴れ川。天竜ライン下り。",
+            "prefecture": "静岡県・長野県・愛知県",
+            "latitude": 35.400000,
+            "longitude": 137.833333
+        },
+        {
+            "name": "富士川",
+            "description": "日本三大急流の一つ。富士山を望む。",
+            "prefecture": "静岡県・山梨県",
+            "latitude": 35.150000,
+            "longitude": 138.633333
+        },
+        {
+            "name": "神通川",
+            "description": "富山市を流れる川。",
+            "prefecture": "富山県・岐阜県",
+            "latitude": 36.700000,
+            "longitude": 137.216667
+        },
+        {
+            "name": "黒部川",
+            "description": "黒部ダムや黒部峡谷で知られる急流。",
+            "prefecture": "富山県",
+            "latitude": 36.883333,
+            "longitude": 137.533333
+        },
+        {
+            "name": "柿田川",
+            "description": "富士山の湧き水からなる日本三大清流の一つ。全長1.2km。",
+            "prefecture": "静岡県",
+            "latitude": 35.116667,
+            "longitude": 138.900000
+        },
+        {
+            "name": "狩野川",
+            "description": "伊豆半島を流れる川。アユ釣りが有名。",
+            "prefecture": "静岡県",
+            "latitude": 35.083333,
+            "longitude": 138.916667
+        },
+        {
+            "name": "大井川",
+            "description": "「箱根八里は馬でも越すが越すに越されぬ大井川」と謳われた。",
+            "prefecture": "静岡県",
+            "latitude": 34.800000,
+            "longitude": 138.166667
+        },
+        {
+            "name": "安倍川",
+            "description": "静岡市を流れる清流。安倍川餅の発祥地。",
+            "prefecture": "静岡県",
+            "latitude": 35.000000,
+            "longitude": 138.383333
+        },
+        {
+            "name": "庄川",
+            "description": "白川郷や五箇山を流れる。",
+            "prefecture": "富山県・岐阜県",
+            "latitude": 36.566667,
+            "longitude": 136.983333
+        },
+        {
+            "name": "九頭竜川",
+            "description": "福井県のシンボル。",
+            "prefecture": "福井県",
+            "latitude": 36.133333,
+            "longitude": 136.250000
+        },
+        {
+            "name": "犀川",
+            "description": "金沢市内を流れる男川。",
+            "prefecture": "石川県",
+            "latitude": 36.550000,
+            "longitude": 136.650000
+        },
+        {
+            "name": "浅野川",
+            "description": "金沢市内を流れる女川。友禅流しが行われる。",
+            "prefecture": "石川県",
+            "latitude": 36.566667,
+            "longitude": 136.666667
+        },
+        {
+            "name": "梓川",
+            "description": "上高地を流れる美しい清流。",
+            "prefecture": "長野県",
+            "latitude": 36.250000,
+            "longitude": 137.633333
+        },
+        {
+            "name": "犀川",
+            "description": "松本市を流れる川。ラフティングが盛ん。",
+            "prefecture": "長野県",
+            "latitude": 36.233333,
+            "longitude": 137.966667
+        },
+        {
+            "name": "淀川",
+            "description": "琵琶湖から流れ出る瀬田川・宇治川が合流する大河。",
+            "prefecture": "大阪府・京都府・滋賀県",
+            "latitude": 34.716667,
+            "longitude": 135.483333
+        },
+        {
+            "name": "鴨川",
+            "description": "京都の町中を流れる憩いの川。納涼床が有名。",
+            "prefecture": "京都府",
+            "latitude": 35.000000,
+            "longitude": 135.766667
+        },
+        {
+            "name": "宇治川",
+            "description": "源氏物語の舞台。鵜飼が行われる。",
+            "prefecture": "京都府",
+            "latitude": 34.883333,
+            "longitude": 135.800000
+        },
+        {
+            "name": "保津川（桂川）",
+            "description": "保津川下りで有名。嵐山を流れる。",
+            "prefecture": "京都府",
+            "latitude": 35.016667,
+            "longitude": 135.666667
+        },
+        {
+            "name": "由良川",
+            "description": "京都丹後鉄道の橋梁撮影スポットが人気。",
+            "prefecture": "京都府",
+            "latitude": 35.533333,
+            "longitude": 135.283333
+        },
+        {
+            "name": "熊野川",
+            "description": "世界遺産の「川の参詣道」。川舟下りがある。",
+            "prefecture": "和歌山県・三重県・奈良県",
+            "latitude": 33.733333,
+            "longitude": 135.983333
+        },
+        {
+            "name": "紀の川",
+            "description": "和歌山平野を流れる大河。",
+            "prefecture": "和歌山県・奈良県",
+            "latitude": 34.233333,
+            "longitude": 135.166667
+        },
+        {
+            "name": "吉野川",
+            "description": "紀の川の上流部。桜の名所・吉野山付近を流れる。",
+            "prefecture": "奈良県",
+            "latitude": 34.383333,
+            "longitude": 135.850000
+        },
+        {
+            "name": "道頓堀川",
+            "description": "大阪ミナミの象徴。グリコの看板前を流れる。",
+            "prefecture": "大阪府",
+            "latitude": 34.668889,
+            "longitude": 135.501389
+        },
+        {
+            "name": "古座川",
+            "description": "「クリスタルリバー」と呼ばれる透明度の高い川。",
+            "prefecture": "和歌山県",
+            "latitude": 33.533333,
+            "longitude": 135.816667
+        },
+        {
+            "name": "日置川",
+            "description": "アユ釣りやキャンプで人気。",
+            "prefecture": "和歌山県",
+            "latitude": 33.566667,
+            "longitude": 135.433333
+        },
+        {
+            "name": "宮川",
+            "description": "日本一の清流に選ばれたことがある。伊勢神宮の禊の川。",
+            "prefecture": "三重県",
+            "latitude": 34.450000,
+            "longitude": 136.733333
+        },
+        {
+            "name": "五十鈴川",
+            "description": "伊勢神宮内宮の御手洗場がある清流。",
+            "prefecture": "三重県",
+            "latitude": 34.455000,
+            "longitude": 136.723333
+        },
+        {
+            "name": "江の川",
+            "description": "中国地方最大の河川。鵜飼が行われる。",
+            "prefecture": "島根県・広島県",
+            "latitude": 35.016667,
+            "longitude": 132.233333
+        },
+        {
+            "name": "高梁川",
+            "description": "岡山三大河川の一つ。",
+            "prefecture": "岡山県",
+            "latitude": 34.600000,
+            "longitude": 133.766667
+        },
+        {
+            "name": "旭川",
+            "description": "岡山城の背後を流れる。後楽園がある。",
+            "prefecture": "岡山県",
+            "latitude": 34.666667,
+            "longitude": 133.933333
+        },
+        {
+            "name": "吉井川",
+            "description": "岡山三大河川の一つ。",
+            "prefecture": "岡山県",
+            "latitude": 34.650000,
+            "longitude": 134.050000
+        },
+        {
+            "name": "太田川",
+            "description": "広島市内の三角州を形成する川。",
+            "prefecture": "広島県",
+            "latitude": 34.400000,
+            "longitude": 132.450000
+        },
+        {
+            "name": "錦川",
+            "description": "名勝・錦帯橋が架かる清流。",
+            "prefecture": "山口県",
+            "latitude": 34.166667,
+            "longitude": 132.183333
+        },
+        {
+            "name": "日野川",
+            "description": "大山を源流とする川。オシドリの飛来地。",
+            "prefecture": "鳥取県",
+            "latitude": 35.450000,
+            "longitude": 133.366667
+        },
+        {
+            "name": "千代川",
+            "description": "鳥取市を流れる川。",
+            "prefecture": "鳥取県",
+            "latitude": 35.533333,
+            "longitude": 134.216667
+        },
+        {
+            "name": "斐伊川",
+            "description": "ヤマタノオロチ伝説の舞台。",
+            "prefecture": "島根県",
+            "latitude": 35.433333,
+            "longitude": 132.966667
+        },
+        {
+            "name": "高津川",
+            "description": "ダムがない清流として知られる。",
+            "prefecture": "島根県",
+            "latitude": 34.683333,
+            "longitude": 131.833333
+        },
+        {
+            "name": "吉野川",
+            "description": "四国三郎と呼ばれる暴れ川。大歩危・小歩危の渓谷美。",
+            "prefecture": "徳島県・高知県",
+            "latitude": 34.083333,
+            "longitude": 134.566667
+        },
+        {
+            "name": "四万十川",
+            "description": "日本最後の清流。沈下橋の風景が有名。",
+            "prefecture": "高知県",
+            "latitude": 32.933333,
+            "longitude": 132.933333
+        },
+        {
+            "name": "仁淀川",
+            "description": "「仁淀ブルー」と呼ばれる驚異的な透明度を誇る。",
+            "prefecture": "高知県・愛媛県",
+            "latitude": 33.550000,
+            "longitude": 133.350000
+        },
+        {
+            "name": "那賀川",
+            "description": "徳島県南部を流れる清流。",
+            "prefecture": "徳島県",
+            "latitude": 33.933333,
+            "longitude": 134.616667
+        },
+        {
+            "name": "肱川",
+            "description": "大洲市の鵜飼で知られる。",
+            "prefecture": "愛媛県",
+            "latitude": 33.516667,
+            "longitude": 132.550000
+        },
+        {
+            "name": "重信川",
+            "description": "松山平野を流れる。",
+            "prefecture": "愛媛県",
+            "latitude": 33.800000,
+            "longitude": 132.750000
+        },
+        {
+            "name": "鏡川",
+            "description": "高知市内を流れる川。坂本龍馬ゆかり。",
+            "prefecture": "高知県",
+            "latitude": 33.550000,
+            "longitude": 133.533333
+        },
+        {
+            "name": "穴吹川",
+            "description": "四国一の清流に選ばれることも多い。",
+            "prefecture": "徳島県",
+            "latitude": 34.050000,
+            "longitude": 134.166667
+        },
+        {
+            "name": "筑後川",
+            "description": "九州最大の河川。筑紫次郎。",
+            "prefecture": "福岡県・佐賀県・熊本県・大分県",
+            "latitude": 33.200000,
+            "longitude": 130.366667
+        },
+        {
+            "name": "球磨川",
+            "description": "日本三大急流の一つ。川下りやラフティングが盛ん。",
+            "prefecture": "熊本県",
+            "latitude": 32.216667,
+            "longitude": 130.750000
+        },
+        {
+            "name": "大淀川",
+            "description": "宮崎市街地を流れる大河。",
+            "prefecture": "宮崎県・鹿児島県",
+            "latitude": 31.900000,
+            "longitude": 131.433333
+        },
+        {
+            "name": "川内川",
+            "description": "九州第2位の長さ。",
+            "prefecture": "鹿児島県・熊本県・宮崎県",
+            "latitude": 31.833333,
+            "longitude": 130.200000
+        },
+        {
+            "name": "遠賀川",
+            "description": "鮭が遡上する川。",
+            "prefecture": "福岡県",
+            "latitude": 33.900000,
+            "longitude": 130.666667
+        },
+        {
+            "name": "菊池川",
+            "description": "日本名水百選の源流を持つ。",
+            "prefecture": "熊本県",
+            "latitude": 32.883333,
+            "longitude": 130.550000
+        },
+        {
+            "name": "白川",
+            "description": "阿蘇カルデラを水源とする川。",
+            "prefecture": "熊本県",
+            "latitude": 32.800000,
+            "longitude": 130.700000
+        },
+        {
+            "name": "緑川",
+            "description": "石橋が多く残る川。",
+            "prefecture": "熊本県",
+            "latitude": 32.700000,
+            "longitude": 130.650000
+        },
+        {
+            "name": "五ヶ瀬川",
+            "description": "高千穂峡を流れる川。",
+            "prefecture": "宮崎県",
+            "latitude": 32.583333,
+            "longitude": 131.666667
+        },
+        {
+            "name": "小丸川",
+            "description": "高鍋町を流れる。",
+            "prefecture": "宮崎県",
+            "latitude": 32.133333,
+            "longitude": 131.533333
+        },
+        {
+            "name": "肝属川",
+            "description": "大隅半島を流れる。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.333333,
+            "longitude": 131.066667
+        },
+        {
+            "name": "松浦川",
+            "description": "唐津市を流れる。",
+            "prefecture": "佐賀県",
+            "latitude": 33.450000,
+            "longitude": 129.983333
+        },
+        {
+            "name": "嘉瀬川",
+            "description": "佐賀バルーンフェスタの会場となる。",
+            "prefecture": "佐賀県",
+            "latitude": 33.250000,
+            "longitude": 130.283333
+        },
+        {
+            "name": "本明川",
+            "description": "諫早市を流れる。飛び石がある。",
+            "prefecture": "長崎県",
+            "latitude": 32.850000,
+            "longitude": 130.050000
+        },
+        {
+            "name": "山国川",
+            "description": "耶馬渓を形成する川。",
+            "prefecture": "大分県・福岡県",
+            "latitude": 33.583333,
+            "longitude": 131.183333
+        },
+        {
+            "name": "大野川",
+            "description": "「原尻の滝」がある。",
+            "prefecture": "大分県",
+            "latitude": 33.266667,
+            "longitude": 131.733333
+        },
+        {
+            "name": "番匠川",
+            "description": "佐伯市を流れる清流。",
+            "prefecture": "大分県",
+            "latitude": 32.966667,
+            "longitude": 131.900000
+        },
+        {
+            "name": "浦内川",
+            "description": "沖縄県最長の川。マングローブクルーズが人気。",
+            "prefecture": "沖縄県",
+            "latitude": 24.400000,
+            "longitude": 123.783333
+        },
+        {
+            "name": "仲間川",
+            "description": "西表島のマングローブ林を流れる。",
+            "prefecture": "沖縄県",
+            "latitude": 24.266667,
+            "longitude": 123.866667
+        }
+    ]
+}

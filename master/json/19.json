@@ -1,0 +1,445 @@
+{
+    "municipalities": [
+        {
+            "name": "中頓別鍾乳洞（中頓別風穴）",
+            "description": "軍艦岩にある鍾乳洞。風穴とも呼ばれる。",
+            "prefecture": "北海道",
+            "latitude": 44.966667,
+            "longitude": 142.300000
+        },
+        {
+            "name": "恵山風穴",
+            "description": "活火山恵山にある風穴。",
+            "prefecture": "北海道",
+            "latitude": 41.816667,
+            "longitude": 141.166667
+        },
+        {
+            "name": "然別湖畔の風穴",
+            "description": "ガレ場から冷気が吹き出す。",
+            "prefecture": "北海道",
+            "latitude": 43.283333,
+            "longitude": 143.100000
+        },
+        {
+            "name": "社台の滝（風穴）",
+            "description": "滝の裏に風穴がある。",
+            "prefecture": "北海道",
+            "latitude": 42.600000,
+            "longitude": 141.350000
+        },
+        {
+            "name": "ポンモシリ風穴",
+            "description": "天売島。",
+            "prefecture": "北海道",
+            "latitude": 44.433333,
+            "longitude": 141.316667
+        },
+        {
+            "name": "長走風穴",
+            "description": "国指定天然記念物。高山植物群落がある。",
+            "prefecture": "秋田県",
+            "latitude": 40.350000,
+            "longitude": 140.633333
+        },
+        {
+            "name": "鳥海山獅子ヶ鼻湿原（風穴）",
+            "description": "風穴からの冷気で独特の植生。",
+            "prefecture": "秋田県",
+            "latitude": 39.216667,
+            "longitude": 139.966667
+        },
+        {
+            "name": "中山風穴",
+            "description": "国指定天然記念物。冷気により高山植物が育つ。",
+            "prefecture": "福島県",
+            "latitude": 37.216667,
+            "longitude": 139.900000
+        },
+        {
+            "name": "早川風穴",
+            "description": "三島町にある風穴。",
+            "prefecture": "福島県",
+            "latitude": 37.466667,
+            "longitude": 139.550000
+        },
+        {
+            "name": "遠野の風穴",
+            "description": "遠野市。",
+            "prefecture": "岩手県",
+            "latitude": 39.333333,
+            "longitude": 141.533333
+        },
+        {
+            "name": "荒船風穴",
+            "description": "世界遺産「富岡製糸場と絹産業遺産群」の構成資産。日本最大規模の蚕種貯蔵施設。",
+            "prefecture": "群馬県",
+            "latitude": 36.250000,
+            "longitude": 138.650000
+        },
+        {
+            "name": "嵩山風穴",
+            "description": "中之条町。蚕種貯蔵に使われた。",
+            "prefecture": "群馬県",
+            "latitude": 36.600000,
+            "longitude": 138.866667
+        },
+        {
+            "name": "赤城風穴",
+            "description": "赤城山麓。",
+            "prefecture": "群馬県",
+            "latitude": 36.550000,
+            "longitude": 139.150000
+        },
+        {
+            "name": "黒風穴",
+            "description": "榛名山。",
+            "prefecture": "群馬県",
+            "latitude": 36.483333,
+            "longitude": 138.866667
+        },
+        {
+            "name": "百尋ノ滝（風穴）",
+            "description": "川苔山。",
+            "prefecture": "東京都",
+            "latitude": 35.833333,
+            "longitude": 139.116667
+        },
+        {
+            "name": "富岳風穴",
+            "description": "青木ヶ原樹海にある溶岩洞窟。天然記念物。",
+            "prefecture": "山梨県",
+            "latitude": 35.466667,
+            "longitude": 138.650000
+        },
+        {
+            "name": "鳴沢氷穴",
+            "description": "一年中氷が見られる竪穴型洞窟。天然記念物。",
+            "prefecture": "山梨県",
+            "latitude": 35.466667,
+            "longitude": 138.666667
+        },
+        {
+            "name": "西湖コウモリ穴",
+            "description": "富士山麓で最大規模の溶岩洞窟。",
+            "prefecture": "山梨県",
+            "latitude": 35.500000,
+            "longitude": 138.683333
+        },
+        {
+            "name": "富士風穴",
+            "description": "国の天然記念物。入洞には許可が必要。",
+            "prefecture": "山梨県",
+            "latitude": 35.450000,
+            "longitude": 138.633333
+        },
+        {
+            "name": "本栖風穴",
+            "description": "第一、第二がある。",
+            "prefecture": "山梨県",
+            "latitude": 35.450000,
+            "longitude": 138.600000
+        },
+        {
+            "name": "駒門風穴",
+            "description": "富士山麓で最大級の溶岩洞窟。",
+            "prefecture": "静岡県",
+            "latitude": 35.216667,
+            "longitude": 138.916667
+        },
+        {
+            "name": "人穴富士講遺跡（人穴）",
+            "description": "富士宮市。溶岩洞穴。",
+            "prefecture": "静岡県",
+            "latitude": 35.366667,
+            "longitude": 138.583333
+        },
+        {
+            "name": "印野の熔岩隧道（御胎内）",
+            "description": "御殿場市。国の天然記念物。",
+            "prefecture": "静岡県",
+            "latitude": 35.316667,
+            "longitude": 138.866667
+        },
+        {
+            "name": "須山のお胎内",
+            "description": "裾野市。世界遺産構成資産。",
+            "prefecture": "静岡県",
+            "latitude": 35.266667,
+            "longitude": 138.800000
+        },
+        {
+            "name": "大室山風穴",
+            "description": "伊豆大室山。",
+            "prefecture": "静岡県",
+            "latitude": 34.900000,
+            "longitude": 139.100000
+        },
+        {
+            "name": "氷風穴",
+            "description": "小諸市。蚕種貯蔵に使われた。",
+            "prefecture": "長野県",
+            "latitude": 36.333333,
+            "longitude": 138.416667
+        },
+        {
+            "name": "稲子風穴",
+            "description": "小海町。風穴の氷室。",
+            "prefecture": "長野県",
+            "latitude": 36.066667,
+            "longitude": 138.450000
+        },
+        {
+            "name": "風穴の里",
+            "description": "松本市稲核。天然の冷蔵庫。",
+            "prefecture": "長野県",
+            "latitude": 36.183333,
+            "longitude": 137.783333
+        },
+        {
+            "name": "弘法山風穴",
+            "description": "松本市。",
+            "prefecture": "長野県",
+            "latitude": 36.200000,
+            "longitude": 137.966667
+        },
+        {
+            "name": "青木湖畔の風穴",
+            "description": "大町市。",
+            "prefecture": "長野県",
+            "latitude": 36.616667,
+            "longitude": 137.850000
+        },
+        {
+            "name": "神津牧場風穴",
+            "description": "下仁田。",
+            "prefecture": "群馬県",
+            "latitude": 36.216667,
+            "longitude": 138.616667
+        },
+        {
+            "name": "白馬風穴",
+            "description": "白馬岳。",
+            "prefecture": "長野県",
+            "latitude": 36.750000,
+            "longitude": 137.766667
+        },
+        {
+            "name": "鷲沢風穴",
+            "description": "浜松市。水平天井の鍾乳洞。",
+            "prefecture": "静岡県",
+            "latitude": 34.866667,
+            "longitude": 137.750000
+        },
+        {
+            "name": "篠立風穴",
+            "description": "いなべ市。県指定天然記念物。",
+            "prefecture": "三重県",
+            "latitude": 35.166667,
+            "longitude": 136.483333
+        },
+        {
+            "name": "入道ヶ岳（井戸谷）風穴",
+            "description": "鈴鹿市。",
+            "prefecture": "三重県",
+            "latitude": 34.966667,
+            "longitude": 136.450000
+        },
+        {
+            "name": "河内の風穴",
+            "description": "多賀町。関西有数の鍾乳洞。",
+            "prefecture": "滋賀県",
+            "latitude": 35.250000,
+            "longitude": 136.333333
+        },
+        {
+            "name": "質志鍾乳洞（質志の風穴）",
+            "description": "京都府唯一の鍾乳洞。",
+            "prefecture": "京都府",
+            "latitude": 35.216667,
+            "longitude": 135.400000
+        },
+        {
+            "name": "蝙蝠の窟",
+            "description": "役行者が修行した洞窟。",
+            "prefecture": "奈良県",
+            "latitude": 34.250000,
+            "longitude": 135.900000
+        },
+        {
+            "name": "秋吉台の風穴群",
+            "description": "秋芳洞周辺には多数の風穴がある。",
+            "prefecture": "山口県",
+            "latitude": 34.233333,
+            "longitude": 131.300000
+        },
+        {
+            "name": "萬津屋風穴",
+            "description": "出雲市。天然の冷蔵庫として利用。",
+            "prefecture": "島根県",
+            "latitude": 35.283333,
+            "longitude": 132.683333
+        },
+        {
+            "name": "八雲風穴",
+            "description": "出雲市。夏季のみ公開。",
+            "prefecture": "島根県",
+            "latitude": 35.266667,
+            "longitude": 132.750000
+        },
+        {
+            "name": "福寿海（風穴）",
+            "description": "大田市。",
+            "prefecture": "島根県",
+            "latitude": 35.150000,
+            "longitude": 132.550000
+        },
+        {
+            "name": "笠山風穴",
+            "description": "萩市。笠山の溶岩台地にある。",
+            "prefecture": "山口県",
+            "latitude": 34.433333,
+            "longitude": 131.400000
+        },
+        {
+            "name": "天狗高原の風穴",
+            "description": "四国カルスト。",
+            "prefecture": "高知県",
+            "latitude": 33.483333,
+            "longitude": 133.000000
+        },
+        {
+            "name": "江川の湧水（異常水温）",
+            "description": "冬温かく夏冷たい不思議な現象。",
+            "prefecture": "徳島県",
+            "latitude": 34.066667,
+            "longitude": 134.350000
+        },
+        {
+            "name": "雲仙風穴（原生沼）",
+            "description": "雲仙地獄周辺。",
+            "prefecture": "長崎県",
+            "latitude": 32.733333,
+            "longitude": 130.266667
+        },
+        {
+            "name": "普賢岳風穴",
+            "description": "普賢岳山頂付近の北風穴・西風穴。",
+            "prefecture": "長崎県",
+            "latitude": 32.750000,
+            "longitude": 130.283333
+        },
+        {
+            "name": "神和峯の風穴",
+            "description": "霧島市。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.850000,
+            "longitude": 130.733333
+        },
+        {
+            "name": "大室山（神奈川）風穴",
+            "description": "丹沢。",
+            "prefecture": "神奈川県",
+            "latitude": 35.533333,
+            "longitude": 139.050000
+        },
+        {
+            "name": "板敷山の風穴",
+            "description": "石岡市。",
+            "prefecture": "茨城県",
+            "latitude": 36.266667,
+            "longitude": 140.216667
+        },
+        {
+            "name": "浅間山風穴",
+            "description": "御代田町。",
+            "prefecture": "長野県",
+            "latitude": 36.366667,
+            "longitude": 138.533333
+        },
+        {
+            "name": "剗の海（せのうみ）",
+            "description": "富士山の噴火で埋まった湖跡の風穴群。",
+            "prefecture": "山梨県",
+            "latitude": 35.483333,
+            "longitude": 138.650000
+        },
+        {
+            "name": "精進口登山道の風穴",
+            "description": "富士山。",
+            "prefecture": "山梨県",
+            "latitude": 35.416667,
+            "longitude": 138.666667
+        },
+        {
+            "name": "雁穴",
+            "description": "溶岩洞窟。",
+            "prefecture": "山梨県",
+            "latitude": 35.416667,
+            "longitude": 138.650000
+        },
+        {
+            "name": "本栖氷穴",
+            "description": "富士山麓。",
+            "prefecture": "山梨県",
+            "latitude": 35.433333,
+            "longitude": 138.616667
+        },
+        {
+            "name": "神座風穴",
+            "description": "忍野村。",
+            "prefecture": "山梨県",
+            "latitude": 35.450000,
+            "longitude": 138.850000
+        },
+        {
+            "name": "大室風穴",
+            "description": "精進口。",
+            "prefecture": "山梨県",
+            "latitude": 35.433333,
+            "longitude": 138.650000
+        },
+        {
+            "name": "メガネ穴",
+            "description": "溶岩洞窟。",
+            "prefecture": "山梨県",
+            "latitude": 35.466667,
+            "longitude": 138.650000
+        },
+        {
+            "name": "龍宮洞穴",
+            "description": "溶岩洞窟。セノウミ神社。",
+            "prefecture": "山梨県",
+            "latitude": 35.483333,
+            "longitude": 138.666667
+        },
+        {
+            "name": "船津胎内樹型",
+            "description": "溶岩樹型。",
+            "prefecture": "山梨県",
+            "latitude": 35.450000,
+            "longitude": 138.750000
+        },
+        {
+            "name": "吉田胎内樹型",
+            "description": "溶岩樹型。",
+            "prefecture": "山梨県",
+            "latitude": 35.433333,
+            "longitude": 138.766667
+        },
+        {
+            "name": "波の橋立",
+            "description": "青海島。風穴がある。",
+            "prefecture": "山口県",
+            "latitude": 34.416667,
+            "longitude": 131.200000
+        },
+        {
+            "name": "橘湖",
+            "description": "（カルデラ湖、近くに風穴あり）",
+            "prefecture": "北海道",
+            "latitude": 42.533333,
+            "longitude": 141.133333
+        }
+    ]
+}

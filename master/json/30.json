@@ -1,0 +1,683 @@
+{
+    "municipalities": [
+        {
+            "name": "弁天台場跡",
+            "description": "箱館戦争で新選組が守った台場跡。",
+            "prefecture": "北海道",
+            "latitude": "41.773300",
+            "longitude": "140.697500"
+        },
+        {
+            "name": "四稜郭",
+            "description": "五稜郭の支城として築かれた星形の洋式城郭。",
+            "prefecture": "北海道",
+            "latitude": "41.821900",
+            "longitude": "140.768100"
+        },
+        {
+            "name": "大間崎砲台跡",
+            "description": "津軽海峡防衛のために築かれた砲台跡。",
+            "prefecture": "青森県",
+            "latitude": "41.545600",
+            "longitude": "140.912500"
+        },
+        {
+            "name": "葦毛崎展望台(旧海軍望楼)",
+            "description": "太平洋戦争末期に旧日本軍が設けた軍事施設。",
+            "prefecture": "青森県",
+            "latitude": "40.536700",
+            "longitude": "141.583300"
+        },
+        {
+            "name": "宮古港海戦記念碑(閉伊崎砲台跡)",
+            "description": "宮古湾海戦ゆかりの地。砲台があった。",
+            "prefecture": "岩手県",
+            "latitude": "39.673900",
+            "longitude": "142.008900"
+        },
+        {
+            "name": "釜石艦砲射撃の碑(旧防備衛所周辺)",
+            "description": "釜石製鉄所防衛のための施設があった場所。",
+            "prefecture": "岩手県",
+            "latitude": "39.266700",
+            "longitude": "141.883300"
+        },
+        {
+            "name": "金華山監視哨跡",
+            "description": "旧海軍の監視所跡。",
+            "prefecture": "宮城県",
+            "latitude": "38.293300",
+            "longitude": "141.576700"
+        },
+        {
+            "name": "船岡海軍火薬廠跡",
+            "description": "現在は船岡城址公園周辺。かつての軍事施設。",
+            "prefecture": "宮城県",
+            "latitude": "38.053100",
+            "longitude": "140.766700"
+        },
+        {
+            "name": "戸賀湾展望台(旧軍監視所跡)",
+            "description": "男鹿半島にある旧軍の監視所跡。",
+            "prefecture": "秋田県",
+            "latitude": "39.948300",
+            "longitude": "139.703300"
+        },
+        {
+            "name": "椿台陣屋跡",
+            "description": "戊辰戦争時の秋田藩の拠点。",
+            "prefecture": "秋田県",
+            "latitude": "39.638900",
+            "longitude": "140.183300"
+        },
+        {
+            "name": "長谷堂城跡",
+            "description": "「慶長出羽合戦」の激戦地。天然の要塞。",
+            "prefecture": "山形県",
+            "latitude": "38.226700",
+            "longitude": "140.273300"
+        },
+        {
+            "name": "八向楯",
+            "description": "最上川に面した断崖絶壁の要害。",
+            "prefecture": "山形県",
+            "latitude": "38.750000",
+            "longitude": "140.033300"
+        },
+        {
+            "name": "白河関跡",
+            "description": "古代の関所・要塞。",
+            "prefecture": "福島県",
+            "latitude": "36.985800",
+            "longitude": "140.222500"
+        },
+        {
+            "name": "母成峠古戦場跡",
+            "description": "戊辰戦争の激戦地。防塁跡が残る。",
+            "prefecture": "福島県",
+            "latitude": "37.585800",
+            "longitude": "140.233300"
+        },
+        {
+            "name": "阿波崎城跡",
+            "description": "北朝方の拠点となった要害。",
+            "prefecture": "茨城県",
+            "latitude": "36.066700",
+            "longitude": "140.350000"
+        },
+        {
+            "name": "大洗磯前神社(旧砲台跡)",
+            "description": "幕末に海防のために砲台が築かれた。",
+            "prefecture": "茨城県",
+            "latitude": "36.315000",
+            "longitude": "140.587800"
+        },
+        {
+            "name": "足尾銅山(要塞的な坑道)",
+            "description": "（注: 産業遺産だが要塞的な雰囲気を持つ。代替: 宇都宮陸軍飛行場掩体壕）",
+            "prefecture": "栃木県",
+            "latitude": "36.529200",
+            "longitude": "139.907800"
+        },
+        {
+            "name": "金山城跡(要害山)",
+            "description": "佐野市にある山城要塞。",
+            "prefecture": "栃木県",
+            "latitude": "36.353300",
+            "longitude": "139.600600"
+        },
+        {
+            "name": "碓氷関所跡",
+            "description": "中山道の要衝を守る関所。",
+            "prefecture": "群馬県",
+            "latitude": "36.336400",
+            "longitude": "138.731700"
+        },
+        {
+            "name": "岩櫃城跡",
+            "description": "真田氏の難攻不落の要塞。",
+            "prefecture": "群馬県",
+            "latitude": "36.561900",
+            "longitude": "138.802800"
+        },
+        {
+            "name": "吉見百穴(地下軍需工場跡)",
+            "description": "戦時中に掘られた地下要塞的な軍需工場跡。",
+            "prefecture": "埼玉県",
+            "latitude": "36.039700",
+            "longitude": "139.421400"
+        },
+        {
+            "name": "鉢形城跡",
+            "description": "北条氏の北関東支配の拠点要塞。",
+            "prefecture": "埼玉県",
+            "latitude": "36.108300",
+            "longitude": "139.196700"
+        },
+        {
+            "name": "第一海堡・第二海堡",
+            "description": "東京湾に浮かぶ人工島の要塞。（上陸クルーズあり）",
+            "prefecture": "千葉県",
+            "latitude": "35.313600",
+            "longitude": "139.825800"
+        },
+        {
+            "name": "館山海軍航空隊赤山地下壕跡",
+            "description": "総延長1.6kmの地下要塞跡。",
+            "prefecture": "千葉県",
+            "latitude": "34.975300",
+            "longitude": "139.855000"
+        },
+        {
+            "name": "富津岬(明治の砲台跡)",
+            "description": "富津元洲堡塁砲台跡。",
+            "prefecture": "千葉県",
+            "latitude": "35.311100",
+            "longitude": "139.813100"
+        },
+        {
+            "name": "第三台場(台場公園)",
+            "description": "幕末に築かれた海上要塞。",
+            "prefecture": "東京都",
+            "latitude": "35.636700",
+            "longitude": "139.770300"
+        },
+        {
+            "name": "市ヶ谷台(防衛省)",
+            "description": "極東国際軍事裁判の舞台。現代の防衛拠点。",
+            "prefecture": "東京都",
+            "latitude": "35.692800",
+            "longitude": "139.726700"
+        },
+        {
+            "name": "猿島要塞",
+            "description": "東京湾に浮かぶ無人島に残るレンガ造りの要塞跡。",
+            "prefecture": "神奈川県",
+            "latitude": "35.291900",
+            "longitude": "139.695300"
+        },
+        {
+            "name": "観音崎砲台跡",
+            "description": "日本最古の洋式砲台跡。",
+            "prefecture": "神奈川県",
+            "latitude": "35.256700",
+            "longitude": "139.743100"
+        },
+        {
+            "name": "千代ヶ崎砲台跡",
+            "description": "国の史跡に指定された東京湾要塞の一つ。",
+            "prefecture": "神奈川県",
+            "latitude": "35.228900",
+            "longitude": "139.720800"
+        },
+        {
+            "name": "直江津捕虜収容所跡(平和記念公園)",
+            "description": "戦時中の収容所跡。",
+            "prefecture": "新潟県",
+            "latitude": "37.163300",
+            "longitude": "138.245000"
+        },
+        {
+            "name": "春日山城跡",
+            "description": "中世最大の山岳要塞。",
+            "prefecture": "新潟県",
+            "latitude": "37.142500",
+            "longitude": "138.218900"
+        },
+        {
+            "name": "増山城跡",
+            "description": "越中の堅固な山城要塞。",
+            "prefecture": "富山県",
+            "latitude": "36.639700",
+            "longitude": "136.985800"
+        },
+        {
+            "name": "朝日山城跡",
+            "description": "氷見市にある山城。",
+            "prefecture": "富山県",
+            "latitude": "36.850000",
+            "longitude": "136.983300"
+        },
+        {
+            "name": "金沢城(菱櫓・五十間長屋)",
+            "description": "防御機能を備えた巨大な長屋要塞。",
+            "prefecture": "石川県",
+            "latitude": "36.565800",
+            "longitude": "136.659400"
+        },
+        {
+            "name": "鳥越城跡",
+            "description": "一向一揆の山岳要塞。",
+            "prefecture": "石川県",
+            "latitude": "36.335300",
+            "longitude": "136.587800"
+        },
+        {
+            "name": "玄蕃尾城跡",
+            "description": "柴田勝家の本陣要塞。土塁が見事。",
+            "prefecture": "福井県",
+            "latitude": "35.617800",
+            "longitude": "136.208300"
+        },
+        {
+            "name": "小浜藩台場跡",
+            "description": "幕末の砲台跡。",
+            "prefecture": "福井県",
+            "latitude": "35.503300",
+            "longitude": "135.716700"
+        },
+        {
+            "name": "新府城跡",
+            "description": "武田氏最後の要塞。",
+            "prefecture": "山梨県",
+            "latitude": "35.733300",
+            "longitude": "138.423900"
+        },
+        {
+            "name": "岩殿山(岩殿城跡)",
+            "description": "断崖絶壁の天然要塞。",
+            "prefecture": "山梨県",
+            "latitude": "35.619200",
+            "longitude": "138.950800"
+        },
+        {
+            "name": "松代大本営跡",
+            "description": "太平洋戦争末期に掘られた地下要塞。",
+            "prefecture": "長野県",
+            "latitude": "36.550000",
+            "longitude": "138.200000"
+        },
+        {
+            "name": "上田城",
+            "description": "徳川軍を二度防いだ鉄壁の要塞。",
+            "prefecture": "長野県",
+            "latitude": "36.403900",
+            "longitude": "138.243300"
+        },
+        {
+            "name": "岐阜城",
+            "description": "難攻不落の山城要塞。",
+            "prefecture": "岐阜県",
+            "latitude": "35.433900",
+            "longitude": "136.782200"
+        },
+        {
+            "name": "苗木城跡",
+            "description": "天然の巨岩を利用した要塞。",
+            "prefecture": "岐阜県",
+            "latitude": "35.503600",
+            "longitude": "137.491400"
+        },
+        {
+            "name": "山中城跡",
+            "description": "障子堀で知られる北条氏の要塞。",
+            "prefecture": "静岡県",
+            "latitude": "35.138900",
+            "longitude": "139.006700"
+        },
+        {
+            "name": "高天神城跡",
+            "description": "「難攻不落」と謳われた要塞。",
+            "prefecture": "静岡県",
+            "latitude": "34.693100",
+            "longitude": "138.033600"
+        },
+        {
+            "name": "大高緑地(大高城跡周辺)",
+            "description": "桶狭間の戦いの前哨戦の舞台。",
+            "prefecture": "愛知県",
+            "latitude": "35.061700",
+            "longitude": "136.945000"
+        },
+        {
+            "name": "小牧山城",
+            "description": "織田信長・徳川家康が陣を敷いた要塞。",
+            "prefecture": "愛知県",
+            "latitude": "35.291400",
+            "longitude": "136.911700"
+        },
+        {
+            "name": "九鬼水軍発祥の地(波切城跡)",
+            "description": "海賊大名の拠点。",
+            "prefecture": "三重県",
+            "latitude": "34.275000",
+            "longitude": "136.891700"
+        },
+        {
+            "name": "多気北畠氏城館跡",
+            "description": "霧山城などの要塞群。",
+            "prefecture": "三重県",
+            "latitude": "34.522200",
+            "longitude": "136.333300"
+        },
+        {
+            "name": "小谷城跡",
+            "description": "浅井氏の山岳要塞。",
+            "prefecture": "滋賀県",
+            "latitude": "35.459200",
+            "longitude": "136.279200"
+        },
+        {
+            "name": "比叡山延暦寺(武装寺院)",
+            "description": "かつては信長と対立した一大要塞。",
+            "prefecture": "滋賀県",
+            "latitude": "35.070000",
+            "longitude": "135.841100"
+        },
+        {
+            "name": "舞鶴赤れんがパーク(旧海軍軍需部)",
+            "description": "鎮守府が置かれた軍事要塞都市の遺構。",
+            "prefecture": "京都府",
+            "latitude": "35.475000",
+            "longitude": "135.385000"
+        },
+        {
+            "name": "槙島城跡",
+            "description": "宇治川の中州にあった水城要塞。",
+            "prefecture": "京都府",
+            "latitude": "34.903300",
+            "longitude": "135.791700"
+        },
+        {
+            "name": "真田丸跡(三光神社)",
+            "description": "大坂の陣で真田信繁が築いた出城（要塞）。",
+            "prefecture": "大阪府",
+            "latitude": "34.673600",
+            "longitude": "135.529400"
+        },
+        {
+            "name": "千早城跡",
+            "description": "楠木正成の山岳要塞。",
+            "prefecture": "大阪府",
+            "latitude": "34.417500",
+            "longitude": "135.651400"
+        },
+        {
+            "name": "竹田城跡",
+            "description": "石垣が完存する山岳要塞。",
+            "prefecture": "兵庫県",
+            "latitude": "35.300600",
+            "longitude": "134.829400"
+        },
+        {
+            "name": "由良要塞跡(生石公園)",
+            "description": "紀淡海峡を守るために築かれたレンガ造りの砲台跡。",
+            "prefecture": "兵庫県",
+            "latitude": "34.276400",
+            "longitude": "134.951100"
+        },
+        {
+            "name": "高取城跡",
+            "description": "日本最強の山城要塞の一つ。",
+            "prefecture": "奈良県",
+            "latitude": "34.429400",
+            "longitude": "135.828600"
+        },
+        {
+            "name": "信貴山城跡",
+            "description": "松永久秀の山岳要塞。",
+            "prefecture": "奈良県",
+            "latitude": "34.608300",
+            "longitude": "135.670800"
+        },
+        {
+            "name": "友ヶ島(由良要塞)",
+            "description": "「ラピュタの島」と呼ばれる旧陸軍の砲台跡。",
+            "prefecture": "和歌山県",
+            "latitude": "34.283100",
+            "longitude": "135.003300"
+        },
+        {
+            "name": "雑賀崎台場跡",
+            "description": "紀州藩の海防施設。",
+            "prefecture": "和歌山県",
+            "latitude": "34.183300",
+            "longitude": "135.133300"
+        },
+        {
+            "name": "鳥取城跡(山上ノ丸)",
+            "description": "かつての堅固な山城要塞。",
+            "prefecture": "鳥取県",
+            "latitude": "35.509700",
+            "longitude": "134.238900"
+        },
+        {
+            "name": "お台場公園(由良台場跡)",
+            "description": "幕末に築かれた砲台跡。",
+            "prefecture": "鳥取県",
+            "latitude": "35.505000",
+            "longitude": "133.708300"
+        },
+        {
+            "name": "石見銀山(山吹城跡)",
+            "description": "銀山を守るための要塞。",
+            "prefecture": "島根県",
+            "latitude": "35.105000",
+            "longitude": "132.441700"
+        },
+        {
+            "name": "浜田城跡",
+            "description": "海岸防衛の要塞的性格を持つ。",
+            "prefecture": "島根県",
+            "latitude": "34.901100",
+            "longitude": "132.076900"
+        },
+        {
+            "name": "鬼ノ城",
+            "description": "古代の朝鮮式山城（要塞）。",
+            "prefecture": "岡山県",
+            "latitude": "34.729700",
+            "longitude": "133.758300"
+        },
+        {
+            "name": "備中松山城",
+            "description": "岩盤上の要塞。",
+            "prefecture": "岡山県",
+            "latitude": "34.809200",
+            "longitude": "133.622200"
+        },
+        {
+            "name": "大久野島(毒ガス島)",
+            "description": "かつての毒ガス製造所・砲台跡がある要塞の島。",
+            "prefecture": "広島県",
+            "latitude": "34.308900",
+            "longitude": "132.993300"
+        },
+        {
+            "name": "呉鎮守府関連施設",
+            "description": "旧海軍の拠点。",
+            "prefecture": "広島県",
+            "latitude": "34.241700",
+            "longitude": "132.555000"
+        },
+        {
+            "name": "火の山公園(下関要塞)",
+            "description": "関門海峡を見下ろす砲台跡が残る。",
+            "prefecture": "山口県",
+            "latitude": "33.971700",
+            "longitude": "130.958300"
+        },
+        {
+            "name": "壇ノ浦古戦場(みもすそ川公園)",
+            "description": "長州砲台のレプリカがある。",
+            "prefecture": "山口県",
+            "latitude": "33.961700",
+            "longitude": "130.957500"
+        },
+        {
+            "name": "一宮城跡",
+            "description": "天然の要害を利用した山城。",
+            "prefecture": "徳島県",
+            "latitude": "34.030800",
+            "longitude": "134.475000"
+        },
+        {
+            "name": "津田砲台跡",
+            "description": "幕末の砲台跡。",
+            "prefecture": "徳島県",
+            "latitude": "34.050000",
+            "longitude": "134.583300"
+        },
+        {
+            "name": "屋島城跡",
+            "description": "古代山城。城壁が復元されている。",
+            "prefecture": "香川県",
+            "latitude": "34.355600",
+            "longitude": "134.103100"
+        },
+        {
+            "name": "丸亀城",
+            "description": "高石垣を持つ要塞。",
+            "prefecture": "香川県",
+            "latitude": "34.286100",
+            "longitude": "133.797800"
+        },
+        {
+            "name": "佐田岬砲台跡",
+            "description": "豊予要塞の一部。豊予海峡を監視した。",
+            "prefecture": "愛媛県",
+            "latitude": "33.343300",
+            "longitude": "132.018900"
+        },
+        {
+            "name": "来島海峡の芸予要塞跡(小島)",
+            "description": "日露戦争時代に築かれたレンガ造りの要塞。",
+            "prefecture": "愛媛県",
+            "latitude": "34.123300",
+            "longitude": "132.973300"
+        },
+        {
+            "name": "種崎砲台跡",
+            "description": "高知湾を守る砲台跡。",
+            "prefecture": "高知県",
+            "latitude": "33.533300",
+            "longitude": "133.566700"
+        },
+        {
+            "name": "岡豊城跡",
+            "description": "四国統一を目指した長宗我部氏の要塞。",
+            "prefecture": "高知県",
+            "latitude": "33.597500",
+            "longitude": "133.613300"
+        },
+        {
+            "name": "大野城跡",
+            "description": "大宰府防衛のための古代山城要塞。",
+            "prefecture": "福岡県",
+            "latitude": "33.539700",
+            "longitude": "130.511100"
+        },
+        {
+            "name": "下関要塞(門司側)",
+            "description": "田向山砲台跡など。",
+            "prefecture": "福岡県",
+            "latitude": "33.921900",
+            "longitude": "130.983300"
+        },
+        {
+            "name": "名護屋城跡",
+            "description": "朝鮮出兵の巨大な前線基地要塞。",
+            "prefecture": "佐賀県",
+            "latitude": "33.529700",
+            "longitude": "129.870300"
+        },
+        {
+            "name": "吉野ヶ里遺跡(環壕集落)",
+            "description": "弥生時代の防御的集落（要塞）。",
+            "prefecture": "佐賀県",
+            "latitude": "33.324400",
+            "longitude": "130.388900"
+        },
+        {
+            "name": "対馬要塞(姫神山砲台跡など)",
+            "description": "国境の島を守るために築かれた巨大要塞群。",
+            "prefecture": "長崎県",
+            "latitude": "34.416700",
+            "longitude": "129.333300"
+        },
+        {
+            "name": "石田城(福江城)",
+            "description": "幕末に築かれた海城要塞。",
+            "prefecture": "長崎県",
+            "latitude": "32.695300",
+            "longitude": "128.841400"
+        },
+        {
+            "name": "佐世保要塞(丸出山堡塁観測所跡)",
+            "description": "軍港佐世保を守る要塞。",
+            "prefecture": "長崎県",
+            "latitude": "33.150000",
+            "longitude": "129.700000"
+        },
+        {
+            "name": "熊本城",
+            "description": "西南戦争で政府軍が籠城した最強の要塞。",
+            "prefecture": "熊本県",
+            "latitude": "32.806100",
+            "longitude": "130.705800"
+        },
+        {
+            "name": "鞠智城跡",
+            "description": "古代の朝鮮式山城要塞。",
+            "prefecture": "熊本県",
+            "latitude": "33.003900",
+            "longitude": "130.781700"
+        },
+        {
+            "name": "佐伯城跡",
+            "description": "続日本100名城。山頂の石垣要塞。",
+            "prefecture": "大分県",
+            "latitude": "32.960800",
+            "longitude": "131.895000"
+        },
+        {
+            "name": "豊予要塞(丹賀砲台跡)",
+            "description": "豊予海峡を守る砲台跡。",
+            "prefecture": "大分県",
+            "latitude": "33.266700",
+            "longitude": "131.950000"
+        },
+        {
+            "name": "都於郡城跡",
+            "description": "中世の巨大山城要塞。",
+            "prefecture": "宮崎県",
+            "latitude": "32.051900",
+            "longitude": "131.406900"
+        },
+        {
+            "name": "高鍋城跡",
+            "description": "財部城。石垣が残る。",
+            "prefecture": "宮崎県",
+            "latitude": "32.133300",
+            "longitude": "131.533300"
+        },
+        {
+            "name": "志布志城跡",
+            "description": "シラス台地を利用した山城群。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.482800",
+            "longitude": "131.109700"
+        },
+        {
+            "name": "佐多岬砲台跡",
+            "description": "本土最南端の砲台跡。",
+            "prefecture": "鹿児島県",
+            "latitude": "30.995000",
+            "longitude": "130.660000"
+        },
+        {
+            "name": "旧海軍司令部壕",
+            "description": "沖縄戦当時の司令部がそのまま残る地下要塞。",
+            "prefecture": "沖縄県",
+            "latitude": "26.192500",
+            "longitude": "127.675000"
+        },
+        {
+            "name": "中城城跡",
+            "description": "ペリー提督も驚嘆した石積みの要塞。",
+            "prefecture": "沖縄県",
+            "latitude": "26.285800",
+            "longitude": "127.800600"
+        }
+    ]
+}

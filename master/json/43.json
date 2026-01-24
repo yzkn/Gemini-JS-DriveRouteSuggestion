@@ -1,0 +1,361 @@
+{
+    "municipalities": [
+        {
+            "name": "東京駅丸の内駅舎 (千代田区)",
+            "description": "辰野金吾設計。赤レンガ造りの壮麗な駅舎。重要文化財。",
+            "prefecture": "東京都",
+            "latitude": 35.681111,
+            "longitude": 139.767222
+        },
+        {
+            "name": "日本銀行本店本館 (中央区)",
+            "description": "辰野金吾設計。ネオ・バロック様式。重要文化財。",
+            "prefecture": "東京都",
+            "latitude": 35.685833,
+            "longitude": 139.774444
+        },
+        {
+            "name": "迎賓館赤坂離宮 (港区)",
+            "description": "ネオ・バロック様式の西洋宮殿。国宝。",
+            "prefecture": "東京都",
+            "latitude": 35.680278,
+            "longitude": 139.729167
+        },
+        {
+            "name": "富岡製糸場 (富岡市)",
+            "description": "国宝。世界遺産。明治5年設立の模範工場。",
+            "prefecture": "群馬県",
+            "latitude": 36.255278,
+            "longitude": 138.888611
+        },
+        {
+            "name": "北海道庁旧本庁舎 (札幌市)",
+            "description": "赤れんが庁舎。アメリカ風ネオ・バロック様式の煉瓦造建築。",
+            "prefecture": "北海道",
+            "latitude": 43.064722,
+            "longitude": 141.347778
+        },
+        {
+            "name": "横浜赤レンガ倉庫 (横浜市)",
+            "description": "明治末期から大正初期の煉瓦造建築。",
+            "prefecture": "神奈川県",
+            "latitude": 35.452778,
+            "longitude": 139.643333
+        },
+        {
+            "name": "原爆ドーム (広島市)",
+            "description": "世界遺産。旧広島県産業奨励館。",
+            "prefecture": "広島県",
+            "latitude": 34.395556,
+            "longitude": 132.453611
+        },
+        {
+            "name": "錦帯橋 (岩国市)",
+            "description": "名勝。木造五連アーチ橋。",
+            "prefecture": "山口県",
+            "latitude": 34.167778,
+            "longitude": 132.178333
+        },
+        {
+            "name": "眼鏡橋 (長崎市)",
+            "description": "重要文化財。日本最古のアーチ型石橋。",
+            "prefecture": "長崎県",
+            "latitude": 32.747222,
+            "longitude": 129.880000
+        },
+        {
+            "name": "通潤橋 (山都町)",
+            "description": "国宝。江戸時代の石造アーチ水路橋。",
+            "prefecture": "熊本県",
+            "latitude": 32.683333,
+            "longitude": 130.991667
+        },
+        {
+            "name": "日本橋 (中央区)",
+            "description": "重要文化財。ルネサンス様式の石造アーチ橋。",
+            "prefecture": "東京都",
+            "latitude": 35.684167,
+            "longitude": 139.774444
+        },
+        {
+            "name": "大阪市中央公会堂 (大阪市)",
+            "description": "重要文化財。中之島のシンボル。",
+            "prefecture": "大阪府",
+            "latitude": 34.693611,
+            "longitude": 135.503889
+        },
+        {
+            "name": "京都府庁旧本館 (京都市)",
+            "description": "重要文化財。ルネサンス様式。",
+            "prefecture": "京都府",
+            "latitude": 35.021667,
+            "longitude": 135.755278
+        },
+        {
+            "name": "道後温泉本館 (松山市)",
+            "description": "重要文化財。日本の公衆浴場の代表。",
+            "prefecture": "愛媛県",
+            "latitude": 33.851944,
+            "longitude": 132.786389
+        },
+        {
+            "name": "札幌市時計台 (札幌市)",
+            "description": "旧札幌農学校演武場。重要文化財。",
+            "prefecture": "北海道",
+            "latitude": 43.062500,
+            "longitude": 141.353611
+        },
+        {
+            "name": "旧開智学校 (松本市)",
+            "description": "国宝。擬洋風建築の代表作。",
+            "prefecture": "長野県",
+            "latitude": 36.241667,
+            "longitude": 137.975000
+        },
+        {
+            "name": "門司港駅 (北九州市)",
+            "description": "重要文化財。ネオ・ルネサンス様式の木造駅舎。",
+            "prefecture": "福岡県",
+            "latitude": 33.945000,
+            "longitude": 130.961667
+        },
+        {
+            "name": "金山城跡 (太田市)",
+            "description": "国指定史跡。石垣や石畳が整備された戦国時代の山城。",
+            "prefecture": "群馬県",
+            "latitude": 36.321111,
+            "longitude": 139.375556
+        },
+        {
+            "name": "旧三笠ホテル (軽井沢町)",
+            "description": "重要文化財。純西洋式の木造ホテル。",
+            "prefecture": "長野県",
+            "latitude": 36.368611,
+            "longitude": 138.616667
+        },
+        {
+            "name": "八千代座 (山鹿市)",
+            "description": "重要文化財。明治の芝居小屋。",
+            "prefecture": "熊本県",
+            "latitude": 33.011667,
+            "longitude": 130.688333
+        },
+        {
+            "name": "大浦天主堂 (長崎市)",
+            "description": "国宝。日本最古の教会堂。",
+            "prefecture": "長崎県",
+            "latitude": 32.734167,
+            "longitude": 129.870278
+        },
+        {
+            "name": "築地本願寺 (中央区)",
+            "description": "伊東忠太設計。インド様式の石造寺院。重要文化財。",
+            "prefecture": "東京都",
+            "latitude": 35.667222,
+            "longitude": 139.773333
+        },
+        {
+            "name": "三角西港 (宇城市)",
+            "description": "世界遺産。明治の港湾施設が完全な形で残る。",
+            "prefecture": "熊本県",
+            "latitude": 32.616667,
+            "longitude": 130.466667
+        },
+        {
+            "name": "博物館網走監獄 (網走市)",
+            "description": "明治時代の監獄施設を移築復元。重要文化財。",
+            "prefecture": "北海道",
+            "latitude": 44.009444,
+            "longitude": 144.246667
+        },
+        {
+            "name": "六華苑 (桑名市)",
+            "description": "重要文化財。ジョサイア・コンドル設計の洋館。",
+            "prefecture": "三重県",
+            "latitude": 35.075000,
+            "longitude": 136.696667
+        },
+        {
+            "name": "南禅寺水路閣 (京都市)",
+            "description": "琵琶湖疏水の水道橋。レンガ造り。",
+            "prefecture": "京都府",
+            "latitude": 35.011111,
+            "longitude": 135.794444
+        },
+        {
+            "name": "蓬莱橋 (島田市)",
+            "description": "世界一長い木造歩道橋。",
+            "prefecture": "静岡県",
+            "latitude": 34.833333,
+            "longitude": 138.183333
+        },
+        {
+            "name": "旧金毘羅大芝居（金丸座） (琴平町)",
+            "description": "重要文化財。現存する日本最古の芝居小屋。",
+            "prefecture": "香川県",
+            "latitude": 34.185000,
+            "longitude": 133.818333
+        },
+        {
+            "name": "旧大社駅 (出雲市)",
+            "description": "重要文化財。純和風の木造駅舎。",
+            "prefecture": "島根県",
+            "latitude": 35.388889,
+            "longitude": 132.688889
+        },
+        {
+            "name": "神奈川県立歴史博物館 (横浜市)",
+            "description": "旧横浜正金銀行本店本館。重要文化財。",
+            "prefecture": "神奈川県",
+            "latitude": 35.449167,
+            "longitude": 139.636667
+        },
+        {
+            "name": "ニコライ堂 (千代田区)",
+            "description": "日本ハリストス正教会教団復活大聖堂。重要文化財。",
+            "prefecture": "東京都",
+            "latitude": 35.698333,
+            "longitude": 139.765556
+        },
+        {
+            "name": "自由学園明日館 (豊島区)",
+            "description": "重要文化財。フランク・ロイド・ライト設計。",
+            "prefecture": "東京都",
+            "latitude": 35.728333,
+            "longitude": 139.708333
+        },
+        {
+            "name": "博物館明治村 (犬山市)",
+            "description": "帝国ホテル中央玄関など多数の歴史的建造物を移築。",
+            "prefecture": "愛知県",
+            "latitude": 35.341111,
+            "longitude": 136.988056
+        },
+        {
+            "name": "豊郷小学校旧校舎群 (豊郷町)",
+            "description": "ヴォーリズ設計。東洋一の小学校と言われた。",
+            "prefecture": "滋賀県",
+            "latitude": 35.205278,
+            "longitude": 136.231944
+        },
+        {
+            "name": "日御碕灯台 (出雲市)",
+            "description": "石造り灯台として日本一の高さ。",
+            "prefecture": "島根県",
+            "latitude": 35.433333,
+            "longitude": 132.628889
+        },
+        {
+            "name": "角島灯台 (下関市)",
+            "description": "御影石造りの洋式灯台。",
+            "prefecture": "山口県",
+            "latitude": 34.358333,
+            "longitude": 130.850000
+        },
+        {
+            "name": "横浜市開港記念会館 (横浜市)",
+            "description": "重要文化財。ジャックの塔。",
+            "prefecture": "神奈川県",
+            "latitude": 35.448056,
+            "longitude": 139.641667
+        },
+        {
+            "name": "奈良ホテル (奈良市)",
+            "description": "辰野金吾設計。関西の迎賓館。",
+            "prefecture": "奈良県",
+            "latitude": 34.681111,
+            "longitude": 135.835000
+        },
+        {
+            "name": "ホテルニューグランド (横浜市)",
+            "description": "クラシックホテル。マッカーサーが滞在。",
+            "prefecture": "神奈川県",
+            "latitude": 35.444167,
+            "longitude": 139.650000
+        },
+        {
+            "name": "泉布観 (大阪市)",
+            "description": "重要文化財。大阪最古の洋風建築。",
+            "prefecture": "大阪府",
+            "latitude": 34.696111,
+            "longitude": 135.519722
+        },
+        {
+            "name": "旧居留地十五番館 (神戸市)",
+            "description": "重要文化財。神戸旧居留地に唯一残る異人館。",
+            "prefecture": "兵庫県",
+            "latitude": 34.686944,
+            "longitude": 135.193056
+        },
+        {
+            "name": "旧第五十九銀行本店本館 (弘前市)",
+            "description": "重要文化財。青森銀行記念館。",
+            "prefecture": "青森県",
+            "latitude": 40.601111,
+            "longitude": 140.464722
+        },
+        {
+            "name": "康楽館 (小坂町)",
+            "description": "日本最古級の現役木造芝居小屋。重要文化財。",
+            "prefecture": "秋田県",
+            "latitude": 40.328333,
+            "longitude": 140.741667
+        },
+        {
+            "name": "岩手銀行赤レンガ館 (盛岡市)",
+            "description": "辰野金吾設計。旧盛岡銀行本店。重要文化財。",
+            "prefecture": "岩手県",
+            "latitude": 39.699722,
+            "longitude": 141.154167
+        },
+        {
+            "name": "旧碓氷峠鉄道施設 (安中市)",
+            "description": "めがね橋（碓氷第三橋梁）。重要文化財。",
+            "prefecture": "群馬県",
+            "latitude": 36.357500,
+            "longitude": 138.697500
+        },
+        {
+            "name": "誠之堂・清風亭 (深谷市)",
+            "description": "重要文化財。第一銀行ゆかりの建築。",
+            "prefecture": "埼玉県",
+            "latitude": 36.208333,
+            "longitude": 139.266667
+        },
+        {
+            "name": "日本煉瓦製造旧煉瓦製造施設 (深谷市)",
+            "description": "重要文化財。東京駅のレンガを製造。",
+            "prefecture": "埼玉県",
+            "latitude": 36.183333,
+            "longitude": 139.233333
+        },
+        {
+            "name": "牛久シャトー (牛久市)",
+            "description": "重要文化財。日本初の本格的ワイン醸造場。",
+            "prefecture": "茨城県",
+            "latitude": 35.978611,
+            "longitude": 140.143333
+        },
+        {
+            "name": "石川県立歴史博物館 (金沢市)",
+            "description": "旧金沢陸軍兵器支廠。赤レンガ建築。重要文化財。",
+            "prefecture": "石川県",
+            "latitude": 36.558333,
+            "longitude": 136.662500
+        },
+        {
+            "name": "萬翠荘 (松山市)",
+            "description": "重要文化財。久松伯爵の別邸。",
+            "prefecture": "愛媛県",
+            "latitude": 33.841111,
+            "longitude": 132.770278
+        },
+        {
+            "name": "旧集成館 (鹿児島市)",
+            "description": "世界遺産。反射炉跡や機械工場（尚古集成館）。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.616667,
+            "longitude": 130.566667
+        }
+    ]
+}
