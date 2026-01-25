@@ -1,0 +1,641 @@
+{
+    "municipalities": [
+        {
+            "name": "イタンキ浜",
+            "description": "鳴き砂で知られる海岸。室蘭市。",
+            "prefecture": "北海道",
+            "latitude": 42.333333,
+            "longitude": 141.000000
+        },
+        {
+            "name": "石狩浜（あそびーち石狩）",
+            "description": "石狩市にある広大な砂浜。",
+            "prefecture": "北海道",
+            "latitude": 43.250000,
+            "longitude": 141.366667
+        },
+        {
+            "name": "ゴールデンビーチるもい",
+            "description": "道北最大級の海水浴場。",
+            "prefecture": "北海道",
+            "latitude": 43.950000,
+            "longitude": 141.633333
+        },
+        {
+            "name": "小樽ドリームビーチ",
+            "description": "札幌から近い人気のビーチ。",
+            "prefecture": "北海道",
+            "latitude": 43.150000,
+            "longitude": 141.216667
+        },
+        {
+            "name": "浄土ヶ浜",
+            "description": "白い流紋岩と松の緑、海の青が美しい。",
+            "prefecture": "岩手県",
+            "latitude": 39.650000,
+            "longitude": 141.983333
+        },
+        {
+            "name": "高田松原",
+            "description": "復興祈念公園として整備された砂浜。",
+            "prefecture": "岩手県",
+            "latitude": 39.000000,
+            "longitude": 141.633333
+        },
+        {
+            "name": "小田の浜",
+            "description": "気仙沼大島にある美しいビーチ。",
+            "prefecture": "宮城県",
+            "latitude": 38.850000,
+            "longitude": 141.616667
+        },
+        {
+            "name": "菖蒲田海水浴場",
+            "description": "東北最古の海水浴場の一つ。",
+            "prefecture": "宮城県",
+            "latitude": 38.283333,
+            "longitude": 141.066667
+        },
+        {
+            "name": "由良海岸",
+            "description": "白山島が浮かぶ景勝地。快水浴場百選。",
+            "prefecture": "山形県",
+            "latitude": 38.716667,
+            "longitude": 139.700000
+        },
+        {
+            "name": "湯野浜海岸",
+            "description": "日本海に沈む夕日が美しい。",
+            "prefecture": "山形県",
+            "latitude": 38.783333,
+            "longitude": 139.750000
+        },
+        {
+            "name": "釜谷浜",
+            "description": "風力発電の風車が並ぶ。",
+            "prefecture": "秋田県",
+            "latitude": 40.116667,
+            "longitude": 139.983333
+        },
+        {
+            "name": "宮沢海水浴場",
+            "description": "遠浅で透明度が高い。",
+            "prefecture": "秋田県",
+            "latitude": 39.950000,
+            "longitude": 139.916667
+        },
+        {
+            "name": "勿来海水浴場",
+            "description": "県内最大級の広さ。",
+            "prefecture": "福島県",
+            "latitude": 36.866667,
+            "longitude": 140.783333
+        },
+        {
+            "name": "薄磯海水浴場",
+            "description": "塩屋埼灯台の近く。",
+            "prefecture": "福島県",
+            "latitude": 36.983333,
+            "longitude": 140.966667
+        },
+        {
+            "name": "大洗サンビーチ",
+            "description": "遠浅で広大な砂浜。ユニバーサルビーチ。",
+            "prefecture": "茨城県",
+            "latitude": 36.300000,
+            "longitude": 140.566667
+        },
+        {
+            "name": "阿字ヶ浦海水浴場",
+            "description": "「東洋のナポリ」とも呼ばれる弧状のビーチ。",
+            "prefecture": "茨城県",
+            "latitude": 36.383333,
+            "longitude": 140.616667
+        },
+        {
+            "name": "伊師浜海岸",
+            "description": "ウミウ捕獲場がある。快水浴場百選。",
+            "prefecture": "茨城県",
+            "latitude": 36.650000,
+            "longitude": 140.733333
+        },
+        {
+            "name": "九十九里浜",
+            "description": "日本最大級の砂浜海岸。",
+            "prefecture": "千葉県",
+            "latitude": 35.500000,
+            "longitude": 140.450000
+        },
+        {
+            "name": "片貝海水浴場",
+            "description": "九十九里浜の中央。サーフィンが盛ん。",
+            "prefecture": "千葉県",
+            "latitude": 35.533333,
+            "longitude": 140.450000
+        },
+        {
+            "name": "守谷海水浴場",
+            "description": "透明度が高く、日本の渚百選に選出。",
+            "prefecture": "千葉県",
+            "latitude": 35.133333,
+            "longitude": 140.266667
+        },
+        {
+            "name": "御宿中央海水浴場",
+            "description": "童謡「月の沙漠」の舞台。",
+            "prefecture": "千葉県",
+            "latitude": 35.183333,
+            "longitude": 140.350000
+        },
+        {
+            "name": "沖ノ島海水浴場",
+            "description": "館山市にある無人島と繋がる砂州。",
+            "prefecture": "千葉県",
+            "latitude": 34.983333,
+            "longitude": 139.816667
+        },
+        {
+            "name": "由比ガ浜",
+            "description": "鎌倉の代表的なビーチ。",
+            "prefecture": "神奈川県",
+            "latitude": 35.310000,
+            "longitude": 139.540000
+        },
+        {
+            "name": "材木座海岸",
+            "description": "鎌倉時代からの港湾遺跡がある。",
+            "prefecture": "神奈川県",
+            "latitude": 35.305000,
+            "longitude": 139.555000
+        },
+        {
+            "name": "七里ヶ浜",
+            "description": "江ノ島と富士山を望む景勝地。",
+            "prefecture": "神奈川県",
+            "latitude": 35.305000,
+            "longitude": 139.510000
+        },
+        {
+            "name": "江ノ島（片瀬東浜・西浜）",
+            "description": "日本屈指の賑わいを見せるビーチ。",
+            "prefecture": "神奈川県",
+            "latitude": 35.310000,
+            "longitude": 139.485000
+        },
+        {
+            "name": "サザンビーチちがさき",
+            "description": "烏帽子岩が見える。",
+            "prefecture": "神奈川県",
+            "latitude": 35.316667,
+            "longitude": 139.400000
+        },
+        {
+            "name": "一色海岸",
+            "description": "葉山御用邸の裏手に広がる。",
+            "prefecture": "神奈川県",
+            "latitude": 35.266667,
+            "longitude": 139.583333
+        },
+        {
+            "name": "森戸海岸",
+            "description": "夕日の名所。",
+            "prefecture": "神奈川県",
+            "latitude": 35.275000,
+            "longitude": 139.570000
+        },
+        {
+            "name": "三浦海岸",
+            "description": "三浦半島最大級のビーチ。",
+            "prefecture": "神奈川県",
+            "latitude": 35.183333,
+            "longitude": 139.650000
+        },
+        {
+            "name": "お台場海浜公園",
+            "description": "人工海浜。レインボーブリッジが見える。",
+            "prefecture": "東京都",
+            "latitude": 35.630000,
+            "longitude": 139.775000
+        },
+        {
+            "name": "葛西海浜公園",
+            "description": "西なぎさ・東なぎさ。",
+            "prefecture": "東京都",
+            "latitude": 35.633333,
+            "longitude": 139.860000
+        },
+        {
+            "name": "瀬波温泉海水浴場",
+            "description": "夕日が美しい。",
+            "prefecture": "新潟県",
+            "latitude": 38.216667,
+            "longitude": 139.433333
+        },
+        {
+            "name": "鯨波海水浴場",
+            "description": "日本の渚百選。",
+            "prefecture": "新潟県",
+            "latitude": 37.366667,
+            "longitude": 138.533333
+        },
+        {
+            "name": "ヒスイ海岸（宮崎・境海岸）",
+            "description": "ヒスイの原石が打ち上げられる。",
+            "prefecture": "富山県",
+            "latitude": 36.966667,
+            "longitude": 137.600000
+        },
+        {
+            "name": "雨晴海岸",
+            "description": "立山連峰を海上越しに望む。",
+            "prefecture": "富山県",
+            "latitude": 36.816667,
+            "longitude": 137.050000
+        },
+        {
+            "name": "千里浜なぎさドライブウェイ",
+            "description": "日本で唯一車で走れる砂浜。",
+            "prefecture": "石川県",
+            "latitude": 36.883333,
+            "longitude": 136.750000
+        },
+        {
+            "name": "内灘海岸",
+            "description": "広大な砂丘が広がる。",
+            "prefecture": "石川県",
+            "latitude": 36.650000,
+            "longitude": 136.633333
+        },
+        {
+            "name": "増穂浦海岸",
+            "description": "美しい貝殻が打ち寄せられる「貝寄せの浜」。",
+            "prefecture": "石川県",
+            "latitude": 37.133333,
+            "longitude": 136.733333
+        },
+        {
+            "name": "水晶浜海水浴場",
+            "description": "水晶のように透明な水と白い砂。",
+            "prefecture": "福井県",
+            "latitude": 35.700000,
+            "longitude": 135.983333
+        },
+        {
+            "name": "気比の松原",
+            "description": "日本三大松原の一つ。",
+            "prefecture": "福井県",
+            "latitude": 35.650000,
+            "longitude": 136.050000
+        },
+        {
+            "name": "若狭和田ビーチ",
+            "description": "アジア初のブルーフラッグ認証。",
+            "prefecture": "福井県",
+            "latitude": 35.483333,
+            "longitude": 135.533333
+        },
+        {
+            "name": "三保の松原",
+            "description": "富士山と松原の絶景。世界遺産。",
+            "prefecture": "静岡県",
+            "latitude": 35.000000,
+            "longitude": 138.516667
+        },
+        {
+            "name": "白浜大浜海水浴場",
+            "description": "伊豆半島最大のビーチ。サーフィンのメッカ。",
+            "prefecture": "静岡県",
+            "latitude": 34.683333,
+            "longitude": 138.966667
+        },
+        {
+            "name": "弓ヶ浜",
+            "description": "美しい弓形の砂浜。",
+            "prefecture": "静岡県",
+            "latitude": 34.633333,
+            "longitude": 138.883333
+        },
+        {
+            "name": "入田浜",
+            "description": "南国のような雰囲気のビーチ。",
+            "prefecture": "静岡県",
+            "latitude": 34.666667,
+            "longitude": 138.933333
+        },
+        {
+            "name": "多大々浜",
+            "description": "（多々戸浜）サーフィンで有名。",
+            "prefecture": "静岡県",
+            "latitude": 34.666667,
+            "longitude": 138.933333
+        },
+        {
+            "name": "熱海サンビーチ",
+            "description": "夜間のライトアップが幻想的。",
+            "prefecture": "静岡県",
+            "latitude": 35.100000,
+            "longitude": 139.083333
+        },
+        {
+            "name": "内海海水浴場",
+            "description": "東海地方最大級の海水浴場。",
+            "prefecture": "愛知県",
+            "latitude": 34.733333,
+            "longitude": 136.866667
+        },
+        {
+            "name": "ココナッツビーチ伊良湖",
+            "description": "伊良湖岬にある。",
+            "prefecture": "愛知県",
+            "latitude": 34.583333,
+            "longitude": 137.016667
+        },
+        {
+            "name": "千鳥ヶ浜",
+            "description": "鳥羽十景の一つ。",
+            "prefecture": "三重県",
+            "latitude": 34.416667,
+            "longitude": 136.883333
+        },
+        {
+            "name": "御座白浜海水浴場",
+            "description": "透明度の高い白い砂浜。",
+            "prefecture": "三重県",
+            "latitude": 34.266667,
+            "longitude": 136.766667
+        },
+        {
+            "name": "七里御浜",
+            "description": "日本一長い砂礫海岸。遊泳禁止だが景勝地。",
+            "prefecture": "三重県",
+            "latitude": 33.800000,
+            "longitude": 136.000000
+        },
+        {
+            "name": "白良浜",
+            "description": "真っ白な砂浜が広がるリゾート地。",
+            "prefecture": "和歌山県",
+            "latitude": 33.683333,
+            "longitude": 135.333333
+        },
+        {
+            "name": "那智の浜（ブルービーチ那智）",
+            "description": "快水浴場百選特選。",
+            "prefecture": "和歌山県",
+            "latitude": 33.633333,
+            "longitude": 135.933333
+        },
+        {
+            "name": "慶野松原",
+            "description": "淡路島最大の海水浴場。夕日の名所。",
+            "prefecture": "兵庫県",
+            "latitude": 34.333333,
+            "longitude": 134.733333
+        },
+        {
+            "name": "竹野浜",
+            "description": "山陰海岸ジオパークの一部。透明度が高い。",
+            "prefecture": "兵庫県",
+            "latitude": 35.666667,
+            "longitude": 134.766667
+        },
+        {
+            "name": "須磨海水浴場",
+            "description": "阪神間からアクセスが良い人気のビーチ。",
+            "prefecture": "兵庫県",
+            "latitude": 34.633333,
+            "longitude": 135.116667
+        },
+        {
+            "name": "天橋立",
+            "description": "日本三景。砂州に松並木が続く。",
+            "prefecture": "京都府",
+            "latitude": 35.566667,
+            "longitude": 135.183333
+        },
+        {
+            "name": "琴引浜",
+            "description": "鳴き砂で有名。",
+            "prefecture": "京都府",
+            "latitude": 35.700000,
+            "longitude": 135.033333
+        },
+        {
+            "name": "夕日ヶ浦海岸",
+            "description": "夕日が美しいロングビーチ。",
+            "prefecture": "京都府",
+            "latitude": 35.666667,
+            "longitude": 134.933333
+        },
+        {
+            "name": "近江舞子水泳場",
+            "description": "琵琶湖で最も人気のある水泳場。",
+            "prefecture": "滋賀県",
+            "latitude": 35.233333,
+            "longitude": 135.950000
+        },
+        {
+            "name": "マキノサニービーチ",
+            "description": "奥琵琶湖の美しい浜。",
+            "prefecture": "滋賀県",
+            "latitude": 35.466667,
+            "longitude": 136.050000
+        },
+        {
+            "name": "鳥取砂丘",
+            "description": "日本最大級の砂丘。海岸線も美しい。",
+            "prefecture": "鳥取県",
+            "latitude": 35.533333,
+            "longitude": 134.233333
+        },
+        {
+            "name": "白兎海岸",
+            "description": "「因幡の白兎」伝説の地。",
+            "prefecture": "鳥取県",
+            "latitude": 35.550000,
+            "longitude": 134.133333
+        },
+        {
+            "name": "浦富海岸",
+            "description": "山陰の松島。",
+            "prefecture": "鳥取県",
+            "latitude": 35.583333,
+            "longitude": 134.300000
+        },
+        {
+            "name": "皆生温泉海水浴場",
+            "description": "温泉街にあるビーチ。",
+            "prefecture": "鳥取県",
+            "latitude": 35.450000,
+            "longitude": 133.350000
+        },
+        {
+            "name": "稲佐の浜",
+            "description": "出雲大社の西方にある神話の浜。",
+            "prefecture": "島根県",
+            "latitude": 35.400000,
+            "longitude": 132.666667
+        },
+        {
+            "name": "琴ヶ浜",
+            "description": "鳴き砂の浜。",
+            "prefecture": "島根県",
+            "latitude": 35.150000,
+            "longitude": 132.383333
+        },
+        {
+            "name": "渋川海岸",
+            "description": "瀬戸内海国立公園を代表する海水浴場。",
+            "prefecture": "岡山県",
+            "latitude": 34.450000,
+            "longitude": 133.900000
+        },
+        {
+            "name": "沙美海岸",
+            "description": "日本最古の海水浴場と言われる。",
+            "prefecture": "岡山県",
+            "latitude": 34.516667,
+            "longitude": 133.650000
+        },
+        {
+            "name": "桂浜（広島）",
+            "description": "倉橋島にある美しい砂浜。",
+            "prefecture": "広島県",
+            "latitude": 34.100000,
+            "longitude": 132.533333
+        },
+        {
+            "name": "瀬戸田サンセットビーチ",
+            "description": "しまなみ海道の生口島にある。",
+            "prefecture": "広島県",
+            "latitude": 34.283333,
+            "longitude": 133.083333
+        },
+        {
+            "name": "菊ヶ浜",
+            "description": "萩城跡の東に広がる白砂青松の海岸。",
+            "prefecture": "山口県",
+            "latitude": 34.416667,
+            "longitude": 131.383333
+        },
+        {
+            "name": "虹ケ浜",
+            "description": "光市にある遠浅のビーチ。",
+            "prefecture": "山口県",
+            "latitude": 33.950000,
+            "longitude": 131.933333
+        },
+        {
+            "name": "角島大橋周辺の砂浜（コバルトブルービーチ等）",
+            "description": "角島にある美しいビーチ。",
+            "prefecture": "山口県",
+            "latitude": 34.350000,
+            "longitude": 130.850000
+        },
+        {
+            "name": "桂浜",
+            "description": "坂本龍馬像がある名所。遊泳禁止だが散策に。",
+            "prefecture": "高知県",
+            "latitude": 33.500000,
+            "longitude": 133.566667
+        },
+        {
+            "name": "白山洞門・桜浜",
+            "description": "足摺岬近く。",
+            "prefecture": "高知県",
+            "latitude": 32.733333,
+            "longitude": 133.016667
+        },
+        {
+            "name": "大砂海水浴場",
+            "description": "快水浴場百選。",
+            "prefecture": "徳島県",
+            "latitude": 33.616667,
+            "longitude": 134.350000
+        },
+        {
+            "name": "田井ノ浜",
+            "description": "臨時駅が開設される。",
+            "prefecture": "徳島県",
+            "latitude": 33.733333,
+            "longitude": 134.633333
+        },
+        {
+            "name": "琴弾公園（有明浜）",
+            "description": "銭形砂絵がある。",
+            "prefecture": "香川県",
+            "latitude": 34.133333,
+            "longitude": 133.633333
+        },
+        {
+            "name": "津田の松原",
+            "description": "白砂青松の景勝地。",
+            "prefecture": "香川県",
+            "latitude": 34.283333,
+            "longitude": 134.250000
+        },
+        {
+            "name": "父母ヶ浜",
+            "description": "「日本のウユニ塩湖」として人気の撮影スポット。",
+            "prefecture": "香川県",
+            "latitude": 34.200000,
+            "longitude": 133.650000
+        },
+        {
+            "name": "桜井海岸",
+            "description": "白砂青松が続く。",
+            "prefecture": "愛媛県",
+            "latitude": 34.016667,
+            "longitude": 133.033333
+        },
+        {
+            "name": "百道浜（シーサイドももち）",
+            "description": "福岡タワー近くの人工海浜。",
+            "prefecture": "福岡県",
+            "latitude": 33.593333,
+            "longitude": 130.351667
+        },
+        {
+            "name": "芥屋海水浴場",
+            "description": "快水浴場百選。糸島。",
+            "prefecture": "福岡県",
+            "latitude": 33.583333,
+            "longitude": 130.133333
+        },
+        {
+            "name": "虹の松原",
+            "description": "日本三大松原。",
+            "prefecture": "佐賀県",
+            "latitude": 33.433333,
+            "longitude": 130.016667
+        },
+        {
+            "name": "高浜海水浴場",
+            "description": "軍艦島が見える美しいビーチ。日本の渚百選。",
+            "prefecture": "長崎県",
+            "latitude": 32.600000,
+            "longitude": 129.750000
+        },
+        {
+            "name": "人津久の浜",
+            "description": "平戸島にある美しい浜。",
+            "prefecture": "長崎県",
+            "latitude": 33.266667,
+            "longitude": 129.416667
+        },
+        {
+            "name": "筒城浜",
+            "description": "壱岐島を代表するビーチ。",
+            "prefecture": "長崎県",
+            "latitude": 33.733333,
+            "longitude": 129.750000
+        },
+        {
+            "name": "高浜海水浴場（五島）",
+            "description": "五島列島・福江島。日本一美しいとも言われる。",
+            "prefecture": "長崎県",
+            "latitude": 32.700000,
+            "longitude": 128.600000
+        }
+    ]
+}

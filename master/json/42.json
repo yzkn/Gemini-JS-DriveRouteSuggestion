@@ -1,0 +1,144 @@
+{
+    "municipalities": [
+        {
+            "name": "多胡碑 (高崎市)",
+            "description": "特別史跡。上野三碑の一つ。奈良時代の石碑。",
+            "prefecture": "群馬県",
+            "latitude": 36.257500,
+            "longitude": 139.011667
+        },
+        {
+            "name": "那須国造碑 (大田原市)",
+            "description": "国宝。日本三古碑の一つ。飛鳥時代の石碑。",
+            "prefecture": "栃木県",
+            "latitude": 36.822778,
+            "longitude": 140.126389
+        },
+        {
+            "name": "多賀城碑 (多賀城市)",
+            "description": "重要文化財。日本三古碑の一つ。奈良時代の石碑。",
+            "prefecture": "宮城県",
+            "latitude": 38.309444,
+            "longitude": 140.988056
+        },
+        {
+            "name": "日本国道路元標 (中央区)",
+            "description": "日本の道路の起点。日本橋の中央にある。",
+            "prefecture": "東京都",
+            "latitude": 35.684167,
+            "longitude": 139.774444
+        },
+        {
+            "name": "原爆死没者慰霊碑 (広島市)",
+            "description": "広島平和都市記念碑。安らかに眠って下さい 過ちは繰返しませぬから。",
+            "prefecture": "広島県",
+            "latitude": 34.394722,
+            "longitude": 132.454722
+        },
+        {
+            "name": "芭蕉翁古池の句碑 (江東区)",
+            "description": "「古池や蛙飛びこむ水の音」発祥の地。",
+            "prefecture": "東京都",
+            "latitude": 35.681944,
+            "longitude": 139.798333
+        },
+        {
+            "name": "石川啄木歌碑 (函館市)",
+            "description": "大森浜。「東海の小島の磯の白砂に...」。",
+            "prefecture": "北海道",
+            "latitude": 41.776667,
+            "longitude": 140.738889
+        },
+        {
+            "name": "宮沢賢治詩碑 (花巻市)",
+            "description": "羅須地人協会跡。「雨ニモマケズ...」。",
+            "prefecture": "岩手県",
+            "latitude": 39.380000,
+            "longitude": 141.116667
+        },
+        {
+            "name": "太宰治文学碑 (三鷹市)",
+            "description": "玉川上水沿い。",
+            "prefecture": "東京都",
+            "latitude": 35.696667,
+            "longitude": 139.566667
+        },
+        {
+            "name": "坂本龍馬像・碑 (高知市)",
+            "description": "桂浜。",
+            "prefecture": "高知県",
+            "latitude": 33.497222,
+            "longitude": 133.573611
+        },
+        {
+            "name": "西郷隆盛誕生地碑 (鹿児島市)",
+            "description": "加治屋町。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.591667,
+            "longitude": 130.550000
+        },
+        {
+            "name": "日本最北端の地の碑 (稚内市)",
+            "description": "宗谷岬にある碑。",
+            "prefecture": "北海道",
+            "latitude": 45.523056,
+            "longitude": 141.936667
+        },
+        {
+            "name": "日本最南端の碑 (竹富町)",
+            "description": "波照間島にある碑。",
+            "prefecture": "沖縄県",
+            "latitude": 24.045278,
+            "longitude": 123.776667
+        },
+        {
+            "name": "平和の礎 (糸満市)",
+            "description": "沖縄戦の全戦没者の氏名を刻んだ記念碑。",
+            "prefecture": "沖縄県",
+            "latitude": 26.095278,
+            "longitude": 127.723333
+        },
+        {
+            "name": "万葉歌碑 (明日香村)",
+            "description": "犬養孝揮毫の碑が多数。飛鳥坐神社など。",
+            "prefecture": "奈良県",
+            "latitude": 34.471667,
+            "longitude": 135.821667
+        },
+        {
+            "name": "宇治橋断碑 (宇治市)",
+            "description": "重要文化財。宇治橋の架橋由来を記した日本最古の碑。",
+            "prefecture": "京都府",
+            "latitude": 34.893333,
+            "longitude": 135.803333
+        },
+        {
+            "name": "蒙古襲来之碑 (福岡市)",
+            "description": "東公園内。",
+            "prefecture": "福岡県",
+            "latitude": 33.608333,
+            "longitude": 130.421667
+        },
+        {
+            "name": "忠犬ハチ公像・碑 (渋谷区)",
+            "description": "渋谷駅前。",
+            "prefecture": "東京都",
+            "latitude": 35.659167,
+            "longitude": 139.700556
+        },
+        {
+            "name": "鉄道発祥の地碑 (港区)",
+            "description": "旧新橋停車場。",
+            "prefecture": "東京都",
+            "latitude": 35.665278,
+            "longitude": 139.761111
+        },
+        {
+            "name": "クラーク博士像・碑 (札幌市)",
+            "description": "羊ヶ丘展望台。「Boys, be ambitious」。",
+            "prefecture": "北海道",
+            "latitude": 42.998333,
+            "longitude": 141.395833
+        }
+    ]
+}

@@ -1,0 +1,704 @@
+{
+    "municipalities": [
+        {
+            "name": "層雲峡",
+            "description": "柱状節理の断崖絶壁が続く大渓谷。",
+            "prefecture": "北海道",
+            "latitude": 43.722500,
+            "longitude": 142.955556
+        },
+        {
+            "name": "天人峡",
+            "description": "羽衣の滝がある深い渓谷。",
+            "prefecture": "北海道",
+            "latitude": 43.623333,
+            "longitude": 142.783333
+        },
+        {
+            "name": "定山渓",
+            "description": "札幌の奥座敷。紅葉の名所。",
+            "prefecture": "北海道",
+            "latitude": 42.966667,
+            "longitude": 141.166667
+        },
+        {
+            "name": "豊平峡",
+            "description": "豊平川上流のダム湖を中心とした渓谷。",
+            "prefecture": "北海道",
+            "latitude": 42.966667,
+            "longitude": 141.133333
+        },
+        {
+            "name": "錦仙峡",
+            "description": "滝上町にある渓谷。",
+            "prefecture": "北海道",
+            "latitude": 44.183333,
+            "longitude": 143.083333
+        },
+        {
+            "name": "神居古潭",
+            "description": "石狩川の激流が作り出した渓谷。カムイコタン。",
+            "prefecture": "北海道",
+            "latitude": 43.766667,
+            "longitude": 142.233333
+        },
+        {
+            "name": "奥入瀬渓流",
+            "description": "十和田湖から流れる清流と木々の美しさ。",
+            "prefecture": "青森県",
+            "latitude": 40.522222,
+            "longitude": 140.961111
+        },
+        {
+            "name": "薬研渓流",
+            "description": "下北半島の原生林を流れる渓流。",
+            "prefecture": "青森県",
+            "latitude": 41.366667,
+            "longitude": 141.050000
+        },
+        {
+            "name": "中野もみじ山",
+            "description": "紅葉の名所として知られる渓谷。",
+            "prefecture": "青森県",
+            "latitude": 40.616667,
+            "longitude": 140.600000
+        },
+        {
+            "name": "玄美渓",
+            "description": "磐井川の侵食によってできた奇岩の名勝。",
+            "prefecture": "岩手県",
+            "latitude": 38.916667,
+            "longitude": 141.050000
+        },
+        {
+            "name": "猊鼻渓",
+            "description": "砂鉄川沿いの断崖絶壁。舟下りが有名。",
+            "prefecture": "岩手県",
+            "latitude": 38.991667,
+            "longitude": 141.250000
+        },
+        {
+            "name": "馬仙峡",
+            "description": "日本最大級の夫婦岩がある。",
+            "prefecture": "岩手県",
+            "latitude": 40.283333,
+            "longitude": 141.300000
+        },
+        {
+            "name": "抱返り渓谷",
+            "description": "玉川中流の碧い渓流。紅葉の名所。",
+            "prefecture": "秋田県",
+            "latitude": 39.633333,
+            "longitude": 140.650000
+        },
+        {
+            "name": "小安峡",
+            "description": "大噴湯で知られる温泉渓谷。",
+            "prefecture": "秋田県",
+            "latitude": 39.066667,
+            "longitude": 140.633333
+        },
+        {
+            "name": "鳴子峡",
+            "description": "大谷川の侵食によるV字峡谷。紅葉が絶景。",
+            "prefecture": "宮城県",
+            "latitude": 38.733333,
+            "longitude": 140.683333
+        },
+        {
+            "name": "磊々峡",
+            "description": "秋保温泉にある奇岩の渓谷。",
+            "prefecture": "宮城県",
+            "latitude": 38.216667,
+            "longitude": 140.716667
+        },
+        {
+            "name": "二口峡谷",
+            "description": "秋保大滝の上流にある。",
+            "prefecture": "宮城県",
+            "latitude": 38.266667,
+            "longitude": 140.533333
+        },
+        {
+            "name": "最上峡",
+            "description": "最上川舟下りのハイライト。",
+            "prefecture": "山形県",
+            "latitude": 38.733333,
+            "longitude": 140.050000
+        },
+        {
+            "name": "紅葉川渓谷",
+            "description": "山寺の奥にある渓谷。",
+            "prefecture": "山形県",
+            "latitude": 38.316667,
+            "longitude": 140.433333
+        },
+        {
+            "name": "塔のへつり",
+            "description": "阿賀川沿いの奇岩群。吊り橋がある。",
+            "prefecture": "福島県",
+            "latitude": 37.300000,
+            "longitude": 139.900000
+        },
+        {
+            "name": "中津川渓谷",
+            "description": "裏磐梯の紅葉の名所。",
+            "prefecture": "福島県",
+            "latitude": 37.633333,
+            "longitude": 140.116667
+        },
+        {
+            "name": "雪割渓谷",
+            "description": "阿武隈川源流。",
+            "prefecture": "福島県",
+            "latitude": 37.216667,
+            "longitude": 139.950000
+        },
+        {
+            "name": "龍王峡",
+            "description": "鬼怒川温泉と川治温泉の間にある。",
+            "prefecture": "栃木県",
+            "latitude": 36.866667,
+            "longitude": 139.716667
+        },
+        {
+            "name": "瀬戸合峡",
+            "description": "鬼怒川上流の深い峡谷。",
+            "prefecture": "栃木県",
+            "latitude": 36.916667,
+            "longitude": 139.633333
+        },
+        {
+            "name": "塩原渓谷",
+            "description": "箒川沿いの温泉と滝の渓谷。",
+            "prefecture": "栃木県",
+            "latitude": 36.966667,
+            "longitude": 139.816667
+        },
+        {
+            "name": "華厳渓谷",
+            "description": "華厳の滝下流の大谷川渓谷。",
+            "prefecture": "栃木県",
+            "latitude": 36.733333,
+            "longitude": 139.516667
+        },
+        {
+            "name": "吾妻峡",
+            "description": "関東の耶馬渓と呼ばれる。",
+            "prefecture": "群馬県",
+            "latitude": 36.566667,
+            "longitude": 138.733333
+        },
+        {
+            "name": "照葉峡",
+            "description": "俳人・水原秋桜子が命名した11の滝。",
+            "prefecture": "群馬県",
+            "latitude": 36.850000,
+            "longitude": 139.133333
+        },
+        {
+            "name": "高津戸峡",
+            "description": "渡良瀬川の景勝地。",
+            "prefecture": "群馬県",
+            "latitude": 36.433333,
+            "longitude": 139.283333
+        },
+        {
+            "name": "諏訪峡",
+            "description": "水上温泉近くの利根川渓谷。",
+            "prefecture": "群馬県",
+            "latitude": 36.766667,
+            "longitude": 138.966667
+        },
+        {
+            "name": "長瀞",
+            "description": "岩畳が有名。ライン下り。",
+            "prefecture": "埼玉県",
+            "latitude": 36.100000,
+            "longitude": 139.100000
+        },
+        {
+            "name": "中津峡",
+            "description": "奥秩父の紅葉の名所。",
+            "prefecture": "埼玉県",
+            "latitude": 35.966667,
+            "longitude": 138.866667
+        },
+        {
+            "name": "嵐山渓谷",
+            "description": "京都の嵐山に似ていることから命名。",
+            "prefecture": "埼玉県",
+            "latitude": 36.033333,
+            "longitude": 139.316667
+        },
+        {
+            "name": "花貫渓谷",
+            "description": "汐見滝吊り橋が有名。",
+            "prefecture": "茨城県",
+            "latitude": 36.783333,
+            "longitude": 140.633333
+        },
+        {
+            "name": "竜神峡",
+            "description": "竜神大吊橋がある。",
+            "prefecture": "茨城県",
+            "latitude": 36.683333,
+            "longitude": 140.466667
+        },
+        {
+            "name": "養老渓谷",
+            "description": "房総半島一の紅葉スポット。",
+            "prefecture": "千葉県",
+            "latitude": 35.266667,
+            "longitude": 140.150000
+        },
+        {
+            "name": "秋川渓谷",
+            "description": "都心から近い清流。",
+            "prefecture": "東京都",
+            "latitude": 35.733333,
+            "longitude": 139.233333
+        },
+        {
+            "name": "御岳渓谷",
+            "description": "多摩川上流。カヌーやボルダリング。",
+            "prefecture": "東京都",
+            "latitude": 35.800000,
+            "longitude": 139.183333
+        },
+        {
+            "name": "鳩ノ巣渓谷",
+            "description": "奥多摩の巨岩・奇岩の渓谷。",
+            "prefecture": "東京都",
+            "latitude": 35.816667,
+            "longitude": 139.133333
+        },
+        {
+            "name": "日原渓谷",
+            "description": "鍾乳洞がある。",
+            "prefecture": "東京都",
+            "latitude": 35.833333,
+            "longitude": 139.050000
+        },
+        {
+            "name": "ユーシン渓谷",
+            "description": "「ユーシンブルー」と呼ばれる青い水。",
+            "prefecture": "神奈川県",
+            "latitude": 35.433333,
+            "longitude": 139.116667
+        },
+        {
+            "name": "清津峡",
+            "description": "日本三大峡谷の一つ。柱状節理。",
+            "prefecture": "新潟県",
+            "latitude": 36.950000,
+            "longitude": 138.766667
+        },
+        {
+            "name": "黒部峡谷",
+            "description": "日本一深いV字峡谷。トロッコ電車。",
+            "prefecture": "富山県",
+            "latitude": 36.733333,
+            "longitude": 137.666667
+        },
+        {
+            "name": "神通峡",
+            "description": "神通川の中流。",
+            "prefecture": "富山県",
+            "latitude": 36.566667,
+            "longitude": 137.233333
+        },
+        {
+            "name": "手取峡谷",
+            "description": "綿ヶ滝などがある。",
+            "prefecture": "石川県",
+            "latitude": 36.333333,
+            "longitude": 136.633333
+        },
+        {
+            "name": "鶴仙渓",
+            "description": "山中温泉にある渓谷。",
+            "prefecture": "石川県",
+            "latitude": 36.233333,
+            "longitude": 136.366667
+        },
+        {
+            "name": "九頭竜峡",
+            "description": "紅葉が美しい。",
+            "prefecture": "福井県",
+            "latitude": 35.883333,
+            "longitude": 136.766667
+        },
+        {
+            "name": "御岳昇仙峡",
+            "description": "日本一の渓谷美とも称される。覚円峰。",
+            "prefecture": "山梨県",
+            "latitude": 35.733333,
+            "longitude": 138.566667
+        },
+        {
+            "name": "西沢渓谷",
+            "description": "七ツ釜五段の滝など美しい滝が続く。",
+            "prefecture": "山梨県",
+            "latitude": 35.850000,
+            "longitude": 138.766667
+        },
+        {
+            "name": "尾白川渓谷",
+            "description": "甲斐駒ヶ岳の麓。名水百選。",
+            "prefecture": "山梨県",
+            "latitude": 35.800000,
+            "longitude": 138.266667
+        },
+        {
+            "name": "天竜峡",
+            "description": "天竜川の舟下り。",
+            "prefecture": "長野県",
+            "latitude": 35.433333,
+            "longitude": 137.816667
+        },
+        {
+            "name": "寝覚の床",
+            "description": "木曽川の花崗岩地形。浦島太郎伝説。",
+            "prefecture": "長野県",
+            "latitude": 35.783333,
+            "longitude": 137.700000
+        },
+        {
+            "name": "阿寺渓谷",
+            "description": "「阿寺ブルー」の清流。",
+            "prefecture": "長野県",
+            "latitude": 35.650000,
+            "longitude": 137.600000
+        },
+        {
+            "name": "高瀬渓谷",
+            "description": "紅葉の名所。",
+            "prefecture": "長野県",
+            "latitude": 36.483333,
+            "longitude": 137.716667
+        },
+        {
+            "name": "横谷峡",
+            "description": "蓼科高原にある。",
+            "prefecture": "長野県",
+            "latitude": 36.033333,
+            "longitude": 138.250000
+        },
+        {
+            "name": "恵那峡",
+            "description": "木曽川のダム湖による景勝地。",
+            "prefecture": "岐阜県",
+            "latitude": 35.466667,
+            "longitude": 137.416667
+        },
+        {
+            "name": "飛水峡",
+            "description": "飛騨川の甌穴群。",
+            "prefecture": "岐阜県",
+            "latitude": 35.533333,
+            "longitude": 137.133333
+        },
+        {
+            "name": "付知峡",
+            "description": "森林浴の森日本100選。",
+            "prefecture": "岐阜県",
+            "latitude": 35.683333,
+            "longitude": 137.450000
+        },
+        {
+            "name": "寸又峡",
+            "description": "夢の吊り橋がある。",
+            "prefecture": "静岡県",
+            "latitude": 35.166667,
+            "longitude": 138.116667
+        },
+        {
+            "name": "接岨峡",
+            "description": "大井川鐵道沿線。",
+            "prefecture": "静岡県",
+            "latitude": 35.183333,
+            "longitude": 138.166667
+        },
+        {
+            "name": "香嵐渓",
+            "description": "東海随一の紅葉の名所。",
+            "prefecture": "愛知県",
+            "latitude": 35.133333,
+            "longitude": 137.316667
+        },
+        {
+            "name": "鳳来峡",
+            "description": "宇連川の上流。",
+            "prefecture": "愛知県",
+            "latitude": 34.983333,
+            "longitude": 137.616667
+        },
+        {
+            "name": "瀞峡",
+            "description": "吉野熊野国立公園の大渓谷。ウォータージェット船。",
+            "prefecture": "和歌山県・三重県・奈良県",
+            "latitude": 33.900000,
+            "longitude": 135.883333
+        },
+        {
+            "name": "大杉谷",
+            "description": "日本三大峡谷の一つ。秘境。",
+            "prefecture": "三重県",
+            "latitude": 34.250000,
+            "longitude": 136.200000
+        },
+        {
+            "name": "香落渓",
+            "description": "青蓮寺川沿いの柱状節理。",
+            "prefecture": "三重県",
+            "latitude": 34.566667,
+            "longitude": 136.100000
+        },
+        {
+            "name": "御手洗渓谷",
+            "description": "天川村。エメラルドグリーンの水。",
+            "prefecture": "奈良県",
+            "latitude": 34.266667,
+            "longitude": 135.900000
+        },
+        {
+            "name": "保津峡",
+            "description": "保津川下りやトロッコ列車。",
+            "prefecture": "京都府",
+            "latitude": 35.016667,
+            "longitude": 135.633333
+        },
+        {
+            "name": "るり渓",
+            "description": "国の名勝。",
+            "prefecture": "京都府",
+            "latitude": 35.033333,
+            "longitude": 135.400000
+        },
+        {
+            "name": "摂津峡",
+            "description": "高槻市にある景勝地。",
+            "prefecture": "大阪府",
+            "latitude": 34.883333,
+            "longitude": 135.583333
+        },
+        {
+            "name": "蓬莱峡",
+            "description": "六甲山の裏側にあるバッドランド地形。",
+            "prefecture": "兵庫県",
+            "latitude": 34.816667,
+            "longitude": 135.300000
+        },
+        {
+            "name": "音水渓谷",
+            "description": "宍粟市。",
+            "prefecture": "兵庫県",
+            "latitude": 35.183333,
+            "longitude": 134.500000
+        },
+        {
+            "name": "古座川峡",
+            "description": "一枚岩などがある。",
+            "prefecture": "和歌山県",
+            "latitude": 33.566667,
+            "longitude": 135.800000
+        },
+        {
+            "name": "奇絶峡",
+            "description": "田辺市にある。",
+            "prefecture": "和歌山県",
+            "latitude": 33.766667,
+            "longitude": 135.416667
+        },
+        {
+            "name": "三段峡",
+            "description": "特別名勝。黒淵や猿飛。",
+            "prefecture": "広島県",
+            "latitude": 34.616667,
+            "longitude": 132.216667
+        },
+        {
+            "name": "帝釈峡",
+            "description": "日本百景。天然橋「雄橋」。",
+            "prefecture": "広島県",
+            "latitude": 34.850000,
+            "longitude": 133.216667
+        },
+        {
+            "name": "井倉峡",
+            "description": "高梁川の渓谷。井倉洞がある。",
+            "prefecture": "岡山県",
+            "latitude": 34.933333,
+            "longitude": 133.500000
+        },
+        {
+            "name": "豪渓",
+            "description": "総社市にある紅葉の名所。",
+            "prefecture": "岡山県",
+            "latitude": 34.733333,
+            "longitude": 133.700000
+        },
+        {
+            "name": "奥津渓",
+            "description": "吉井川源流。",
+            "prefecture": "岡山県",
+            "latitude": 35.250000,
+            "longitude": 133.916667
+        },
+        {
+            "name": "断魚渓",
+            "description": "江の川支流。",
+            "prefecture": "島根県",
+            "latitude": 34.933333,
+            "longitude": 132.433333
+        },
+        {
+            "name": "鬼の舌震",
+            "description": "巨岩が積み重なるV字峡谷。",
+            "prefecture": "島根県",
+            "latitude": 35.183333,
+            "longitude": 133.050000
+        },
+        {
+            "name": "立久恵峡",
+            "description": "神戸川の渓谷。「山陰の耶馬渓」。",
+            "prefecture": "島根県",
+            "latitude": 35.316667,
+            "longitude": 132.733333
+        },
+        {
+            "name": "長門峡",
+            "description": "阿武川の渓谷。",
+            "prefecture": "山口県",
+            "latitude": 34.333333,
+            "longitude": 131.533333
+        },
+        {
+            "name": "寂地峡",
+            "description": "五竜の滝がある。",
+            "prefecture": "山口県",
+            "latitude": 34.383333,
+            "longitude": 132.050000
+        },
+        {
+            "name": "大歩危・小歩危",
+            "description": "吉野川の激流が削った結晶片岩の峡谷。",
+            "prefecture": "徳島県",
+            "latitude": 33.883333,
+            "longitude": 133.766667
+        },
+        {
+            "name": "祖谷渓",
+            "description": "深いV字谷。小便小僧。",
+            "prefecture": "徳島県",
+            "latitude": 33.916667,
+            "longitude": 133.816667
+        },
+        {
+            "name": "高の瀬峡",
+            "description": "紅葉の名所。",
+            "prefecture": "徳島県",
+            "latitude": 33.833333,
+            "longitude": 134.116667
+        },
+        {
+            "name": "面河渓",
+            "description": "石鎚山麓の美しい渓谷。",
+            "prefecture": "愛媛県",
+            "latitude": 33.733333,
+            "longitude": 133.050000
+        },
+        {
+            "name": "滑床渓谷",
+            "description": "雪輪の滝とキャニオニング。",
+            "prefecture": "愛媛県",
+            "latitude": 33.216667,
+            "longitude": 132.650000
+        },
+        {
+            "name": "別子ライン",
+            "description": "国領川上流。",
+            "prefecture": "愛媛県",
+            "latitude": 33.916667,
+            "longitude": 133.316667
+        },
+        {
+            "name": "中津渓谷",
+            "description": "仁淀ブルー。",
+            "prefecture": "高知県",
+            "latitude": 33.566667,
+            "longitude": 133.166667
+        },
+        {
+            "name": "安居渓谷",
+            "description": "仁淀ブルーの聖地。",
+            "prefecture": "高知県",
+            "latitude": 33.633333,
+            "longitude": 133.183333
+        },
+        {
+            "name": "長沢の滝",
+            "description": "（滝カテゴリだが渓谷も含む）",
+            "prefecture": "高知県",
+            "latitude": 33.433333,
+            "longitude": 133.000000
+        },
+        {
+            "name": "耶馬渓",
+            "description": "日本三大奇勝。青の洞門。",
+            "prefecture": "大分県",
+            "latitude": 33.500000,
+            "longitude": 131.133333
+        },
+        {
+            "name": "九酔渓",
+            "description": "九重夢大吊橋近くの渓谷。",
+            "prefecture": "大分県",
+            "latitude": 33.183333,
+            "longitude": 131.216667
+        },
+        {
+            "name": "由布川峡谷",
+            "description": "「東洋のチロル」。",
+            "prefecture": "大分県",
+            "latitude": 33.233333,
+            "longitude": 131.433333
+        },
+        {
+            "name": "藤河内渓谷",
+            "description": "花崗岩の一枚岩。",
+            "prefecture": "大分県",
+            "latitude": 32.833333,
+            "longitude": 131.550000
+        },
+        {
+            "name": "高千穂峡",
+            "description": "柱状節理の断崖と真名井の滝。",
+            "prefecture": "宮崎県",
+            "latitude": 32.700000,
+            "longitude": 131.300000
+        },
+        {
+            "name": "見立渓谷",
+            "description": "日之影町。",
+            "prefecture": "宮崎県",
+            "latitude": 32.750000,
+            "longitude": 131.416667
+        },
+        {
+            "name": "菊池渓谷",
+            "description": "天然のクーラーと呼ばれる癒やしの森。",
+            "prefecture": "熊本県",
+            "latitude": 32.983333,
+            "longitude": 130.950000
+        },
+        {
+            "name": "蘇陽峡",
+            "description": "「九州のグランドキャニオン」。",
+            "prefecture": "熊本県",
+            "latitude": 32.733333,
+            "longitude": 131.133333
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "municipalities": [
+        {
+            "name": "ノースサファリサッポロ (札幌市)",
+            "description": "超体験型動物テーマパーク。「日本一危険な動物園」エリアなど。",
+            "prefecture": "北海道",
+            "latitude": 42.946389,
+            "longitude": 141.226111
+        },
+        {
+            "name": "岩手サファリパーク (一関市)",
+            "description": "「天空のサバンナ」。バスから草食動物にエサやりができる。",
+            "prefecture": "岩手県",
+            "latitude": 38.933333,
+            "longitude": 141.316667
+        },
+        {
+            "name": "東北サファリパーク (二本松市)",
+            "description": "ホワイトライオンなどの希少動物を放し飼い展示。",
+            "prefecture": "福島県",
+            "latitude": 37.633333,
+            "longitude": 140.350000
+        },
+        {
+            "name": "那須サファリパーク (那須町)",
+            "description": "約70種700頭羽の野生動物が暮らす。",
+            "prefecture": "栃木県",
+            "latitude": 37.050000,
+            "longitude": 140.016667
+        },
+        {
+            "name": "群馬サファリパーク (富岡市)",
+            "description": "日本で唯一スマトラゾウを飼育。",
+            "prefecture": "群馬県",
+            "latitude": 36.266667,
+            "longitude": 138.900000
+        },
+        {
+            "name": "富士サファリパーク (裾野市)",
+            "description": "日本最大級のサファリパーク。富士山を背景に動物たちが見られる。",
+            "prefecture": "静岡県",
+            "latitude": 35.250000,
+            "longitude": 138.800000
+        },
+        {
+            "name": "伊豆アニマルキングダム (東伊豆町)",
+            "description": "ウォーキングサファリで動物に接近できる。",
+            "prefecture": "静岡県",
+            "latitude": 34.783333,
+            "longitude": 139.050000
+        },
+        {
+            "name": "アドベンチャーワールド (白浜町)",
+            "description": "サファリワールド、マリンワールド、パンダラブなどを併設するテーマパーク。",
+            "prefecture": "和歌山県",
+            "latitude": 33.666667,
+            "longitude": 135.366667
+        },
+        {
+            "name": "姫路セントラルパーク (姫路市)",
+            "description": "ドライブスルーサファリとウォーキングサファリ、遊園地がある。",
+            "prefecture": "兵庫県",
+            "latitude": 34.883333,
+            "longitude": 134.750000
+        },
+        {
+            "name": "秋吉台自然動物公園サファリランド (美祢市)",
+            "description": "カルスト台地にあるサファリパーク。",
+            "prefecture": "山口県",
+            "latitude": 34.266667,
+            "longitude": 131.283333
+        },
+        {
+            "name": "九州自然動物公園アフリカンサファリ (宇佐市)",
+            "description": "日本最大級のサファリパーク。ジャングルバスが人気。",
+            "prefecture": "大分県",
+            "latitude": 33.366667,
+            "longitude": 131.433333
+        }
+    ]
+}

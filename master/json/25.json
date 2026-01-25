@@ -1,0 +1,690 @@
+{
+    "municipalities": [
+        {
+            "name": "成田山函館別院",
+            "description": "函館の守り神として親しまれる。",
+            "prefecture": "北海道",
+            "latitude": "41.768600",
+            "longitude": "140.713000"
+        },
+        {
+            "name": "真宗大谷派札幌別院",
+            "description": "「東本願寺札幌別院」として知られる。",
+            "prefecture": "北海道",
+            "latitude": "43.053600",
+            "longitude": "141.353300"
+        },
+        {
+            "name": "恐山菩提寺",
+            "description": "日本三大霊場の一つ。イタコで知られる。",
+            "prefecture": "青森県",
+            "latitude": "41.295300",
+            "longitude": "141.090600"
+        },
+        {
+            "name": "青龍寺",
+            "description": "昭和大仏（日本最大の青銅製大仏）がある。",
+            "prefecture": "青森県",
+            "latitude": "40.803300",
+            "longitude": "140.806100"
+        },
+        {
+            "name": "中尊寺",
+            "description": "世界遺産。黄金の金色堂で有名。",
+            "prefecture": "岩手県",
+            "latitude": "39.002200",
+            "longitude": "141.100600"
+        },
+        {
+            "name": "毛越寺",
+            "description": "世界遺産。浄土庭園が美しい。",
+            "prefecture": "岩手県",
+            "latitude": "38.989700",
+            "longitude": "141.116700"
+        },
+        {
+            "name": "瑞巌寺",
+            "description": "伊達政宗ゆかりの国宝寺院。松島にある。",
+            "prefecture": "宮城県",
+            "latitude": "38.371900",
+            "longitude": "141.059400"
+        },
+        {
+            "name": "円通院",
+            "description": "伊達光宗の菩提寺。紅葉の名所。",
+            "prefecture": "宮城県",
+            "latitude": "38.371400",
+            "longitude": "141.057800"
+        },
+        {
+            "name": "天徳寺",
+            "description": "佐竹氏の菩提寺。重要文化財。",
+            "prefecture": "秋田県",
+            "latitude": "39.743100",
+            "longitude": "140.136100"
+        },
+        {
+            "name": "雲昌寺",
+            "description": "死ぬまでに行きたい！世界の絶景に選ばれたアジサイ寺。",
+            "prefecture": "秋田県",
+            "latitude": "39.923000",
+            "longitude": "139.754000"
+        },
+        {
+            "name": "立石寺",
+            "description": "「山寺」の通称で有名。松尾芭蕉の句で知られる。",
+            "prefecture": "山形県",
+            "latitude": "38.312800",
+            "longitude": "140.437200"
+        },
+        {
+            "name": "善寳寺",
+            "description": "海の守護、龍神信仰の寺。",
+            "prefecture": "山形県",
+            "latitude": "38.775000",
+            "longitude": "139.771100"
+        },
+        {
+            "name": "円蔵寺",
+            "description": "会津柳津にある名刹。赤べこ発祥の地。",
+            "prefecture": "福島県",
+            "latitude": "37.531100",
+            "longitude": "139.770600"
+        },
+        {
+            "name": "白水阿弥陀堂",
+            "description": "国宝。平安時代の浄土庭園。",
+            "prefecture": "福島県",
+            "latitude": "37.037800",
+            "longitude": "140.844400"
+        },
+        {
+            "name": "牛久大仏",
+            "description": "世界最大の青銅製立像。",
+            "prefecture": "茨城県",
+            "latitude": "35.981700",
+            "longitude": "140.220300"
+        },
+        {
+            "name": "雨引観音(楽法寺)",
+            "description": "安産子育ての霊場。紫陽花の名所。",
+            "prefecture": "茨城県",
+            "latitude": "36.338900",
+            "longitude": "140.106700"
+        },
+        {
+            "name": "日光山輪王寺",
+            "description": "世界遺産。三仏堂などがある。",
+            "prefecture": "栃木県",
+            "latitude": "36.754400",
+            "longitude": "139.596700"
+        },
+        {
+            "name": "鑁阿寺",
+            "description": "足利氏の館跡にある寺。国宝。",
+            "prefecture": "栃木県",
+            "latitude": "36.337500",
+            "longitude": "139.447800"
+        },
+        {
+            "name": "水澤観世音(水澤寺)",
+            "description": "坂東三十三観音の一つ。水沢うどんで有名。",
+            "prefecture": "群馬県",
+            "latitude": "36.486700",
+            "longitude": "138.948300"
+        },
+        {
+            "name": "茂林寺",
+            "description": "分福茶釜の伝説で知られる。",
+            "prefecture": "群馬県",
+            "latitude": "36.233600",
+            "longitude": "139.544200"
+        },
+        {
+            "name": "喜多院",
+            "description": "川越にある天台宗の寺院。五百羅漢。",
+            "prefecture": "埼玉県",
+            "latitude": "35.922800",
+            "longitude": "139.488300"
+        },
+        {
+            "name": "妻沼聖天山(歓喜院)",
+            "description": "国宝の本殿を持つ。縁結び。",
+            "prefecture": "埼玉県",
+            "latitude": "36.230000",
+            "longitude": "139.375600"
+        },
+        {
+            "name": "成田山新勝寺",
+            "description": "初詣客数全国トップクラスの不動尊信仰の中心。",
+            "prefecture": "千葉県",
+            "latitude": "35.786700",
+            "longitude": "140.318300"
+        },
+        {
+            "name": "日本寺",
+            "description": "鋸山にある。日本最大級の摩崖仏。",
+            "prefecture": "千葉県",
+            "latitude": "35.158100",
+            "longitude": "139.824200"
+        },
+        {
+            "name": "浅草寺",
+            "description": "都内最古の寺。雷門で有名。",
+            "prefecture": "東京都",
+            "latitude": "35.714700",
+            "longitude": "139.796700"
+        },
+        {
+            "name": "増上寺",
+            "description": "徳川家の菩提寺。東京タワーの麓。",
+            "prefecture": "東京都",
+            "latitude": "35.657200",
+            "longitude": "139.748300"
+        },
+        {
+            "name": "柴又帝釈天(題経寺)",
+            "description": "「寅さん」ゆかりの寺。",
+            "prefecture": "東京都",
+            "latitude": "35.758300",
+            "longitude": "139.878300"
+        },
+        {
+            "name": "高徳院",
+            "description": "鎌倉の大仏。",
+            "prefecture": "神奈川県",
+            "latitude": "35.316700",
+            "longitude": "139.536100"
+        },
+        {
+            "name": "長谷寺",
+            "description": "紫陽花と観音様で知られる鎌倉の寺。",
+            "prefecture": "神奈川県",
+            "latitude": "35.312500",
+            "longitude": "139.533000"
+        },
+        {
+            "name": "川崎大師(平間寺)",
+            "description": "厄除けのお大師さま。",
+            "prefecture": "神奈川県",
+            "latitude": "35.534200",
+            "longitude": "139.733600"
+        },
+        {
+            "name": "国上寺",
+            "description": "良寛ゆかりの古刹。",
+            "prefecture": "新潟県",
+            "latitude": "37.643300",
+            "longitude": "138.815600"
+        },
+        {
+            "name": "西福寺",
+            "description": "石川雲蝶の彫刻で有名。「越後の日光」。",
+            "prefecture": "新潟県",
+            "latitude": "37.234700",
+            "longitude": "138.983900"
+        },
+        {
+            "name": "瑞龍寺",
+            "description": "加賀藩主前田利長の菩提寺。国宝。",
+            "prefecture": "富山県",
+            "latitude": "36.735300",
+            "longitude": "137.010300"
+        },
+        {
+            "name": "日石寺",
+            "description": "大岩の不動明王。",
+            "prefecture": "富山県",
+            "latitude": "36.671100",
+            "longitude": "137.387800"
+        },
+        {
+            "name": "那谷寺",
+            "description": "奇岩遊仙境と呼ばれる景観。",
+            "prefecture": "石川県",
+            "latitude": "36.313100",
+            "longitude": "136.422800"
+        },
+        {
+            "name": "妙立寺",
+            "description": "「忍者寺」として知られる複雑な建築。",
+            "prefecture": "石川県",
+            "latitude": "36.555800",
+            "longitude": "136.649400"
+        },
+        {
+            "name": "永平寺",
+            "description": "曹洞宗の大本山。座禅修行の道場。",
+            "prefecture": "福井県",
+            "latitude": "36.056100",
+            "longitude": "136.355300"
+        },
+        {
+            "name": "平泉寺白山神社",
+            "description": "（注：神仏分離で神社だが、苔の美しい旧境内地が著名）→ 明通寺（国宝）を選択",
+            "prefecture": "福井県",
+            "latitude": "35.452800",
+            "longitude": "135.803300"
+        },
+        {
+            "name": "身延山久遠寺",
+            "description": "日蓮宗の総本山。しだれ桜が有名。",
+            "prefecture": "山梨県",
+            "latitude": "35.385300",
+            "longitude": "138.423900"
+        },
+        {
+            "name": "恵林寺",
+            "description": "武田信玄の菩提寺。「心頭滅却すれば…」",
+            "prefecture": "山梨県",
+            "latitude": "35.730300",
+            "longitude": "138.718300"
+        },
+        {
+            "name": "善光寺",
+            "description": "一生に一度は善光寺参り。無宗派の寺。",
+            "prefecture": "長野県",
+            "latitude": "36.661700",
+            "longitude": "138.187800"
+        },
+        {
+            "name": "北向観音",
+            "description": "善光寺と対でお参りすると良いとされる。",
+            "prefecture": "長野県",
+            "latitude": "36.355600",
+            "longitude": "138.156700"
+        },
+        {
+            "name": "華厳寺",
+            "description": "西国三十三所観音霊場の満願結願の寺。",
+            "prefecture": "岐阜県",
+            "latitude": "35.536900",
+            "longitude": "136.621400"
+        },
+        {
+            "name": "正法寺",
+            "description": "岐阜大仏（籠大仏）がある。",
+            "prefecture": "岐阜県",
+            "latitude": "35.430300",
+            "longitude": "136.772500"
+        },
+        {
+            "name": "修禅寺",
+            "description": "修善寺温泉の中心にある古刹。",
+            "prefecture": "静岡県",
+            "latitude": "34.971400",
+            "longitude": "138.932800"
+        },
+        {
+            "name": "龍潭寺",
+            "description": "井伊直虎ゆかりの寺。庭園が美しい。",
+            "prefecture": "静岡県",
+            "latitude": "34.823600",
+            "longitude": "137.670300"
+        },
+        {
+            "name": "大須観音(寶生院)",
+            "description": "大須商店街の中心。",
+            "prefecture": "愛知県",
+            "latitude": "35.159700",
+            "longitude": "136.900000"
+        },
+        {
+            "name": "豊川稲荷(妙厳寺)",
+            "description": "日本三大稲荷の一つ。千本のぼり。",
+            "prefecture": "愛知県",
+            "latitude": "34.825000",
+            "longitude": "137.394400"
+        },
+        {
+            "name": "金剛證寺",
+            "description": "伊勢神宮の鬼門を守る寺。朝熊山。",
+            "prefecture": "三重県",
+            "latitude": "34.460800",
+            "longitude": "136.780600"
+        },
+        {
+            "name": "専修寺",
+            "description": "真宗高田派の本山。御影堂と如来堂は国宝。",
+            "prefecture": "三重県",
+            "latitude": "34.766400",
+            "longitude": "136.505300"
+        },
+        {
+            "name": "比叡山延暦寺",
+            "description": "天台宗の総本山。世界遺産。",
+            "prefecture": "滋賀県",
+            "latitude": "35.070000",
+            "longitude": "135.841100"
+        },
+        {
+            "name": "石山寺",
+            "description": "紫式部が源氏物語を起筆した寺。",
+            "prefecture": "滋賀県",
+            "latitude": "34.960300",
+            "longitude": "135.905300"
+        },
+        {
+            "name": "清水寺",
+            "description": "「清水の舞台」で有名。世界遺産。",
+            "prefecture": "京都府",
+            "latitude": "34.994700",
+            "longitude": "135.785000"
+        },
+        {
+            "name": "金閣寺(鹿苑寺)",
+            "description": "金色の舎利殿が象徴的。世界遺産。",
+            "prefecture": "京都府",
+            "latitude": "35.039400",
+            "longitude": "135.729200"
+        },
+        {
+            "name": "東寺(教王護国寺)",
+            "description": "五重塔は京都のランドマーク。世界遺産。",
+            "prefecture": "京都府",
+            "latitude": "34.980600",
+            "longitude": "135.747800"
+        },
+        {
+            "name": "四天王寺",
+            "description": "聖徳太子建立の日本最古級の官寺。",
+            "prefecture": "大阪府",
+            "latitude": "34.653300",
+            "longitude": "135.516400"
+        },
+        {
+            "name": "勝尾寺",
+            "description": "勝ち運の寺。ダルマが有名。",
+            "prefecture": "大阪府",
+            "latitude": "34.862200",
+            "longitude": "135.490300"
+        },
+        {
+            "name": "圓教寺",
+            "description": "「西の比叡山」。映画ラストサムライのロケ地。",
+            "prefecture": "兵庫県",
+            "latitude": "34.891900",
+            "longitude": "134.658300"
+        },
+        {
+            "name": "中山寺",
+            "description": "安産祈願で有名。エスカレーターがある。",
+            "prefecture": "兵庫県",
+            "latitude": "34.820800",
+            "longitude": "135.367500"
+        },
+        {
+            "name": "東大寺",
+            "description": "奈良の大仏さまで知られる。世界遺産。",
+            "prefecture": "奈良県",
+            "latitude": "34.689000",
+            "longitude": "135.839800"
+        },
+        {
+            "name": "法隆寺",
+            "description": "世界最古の木造建築群。世界遺産。",
+            "prefecture": "奈良県",
+            "latitude": "34.614100",
+            "longitude": "135.735700"
+        },
+        {
+            "name": "薬師寺",
+            "description": "東塔は国宝。西塔と対をなす。",
+            "prefecture": "奈良県",
+            "latitude": "34.668300",
+            "longitude": "135.784400"
+        },
+        {
+            "name": "金剛峯寺",
+            "description": "高野山真言宗の総本山。世界遺産。",
+            "prefecture": "和歌山県",
+            "latitude": "34.213300",
+            "longitude": "135.585600"
+        },
+        {
+            "name": "紀三井寺",
+            "description": "早咲きの桜の名所。西国三十三所。",
+            "prefecture": "和歌山県",
+            "latitude": "34.185300",
+            "longitude": "135.190600"
+        },
+        {
+            "name": "三徳山三佛寺",
+            "description": "断崖絶壁にある国宝「投入堂」で有名。",
+            "prefecture": "鳥取県",
+            "latitude": "35.396900",
+            "longitude": "133.958300"
+        },
+        {
+            "name": "大山寺",
+            "description": "大山信仰の中心地。",
+            "prefecture": "鳥取県",
+            "latitude": "35.392800",
+            "longitude": "133.531700"
+        },
+        {
+            "name": "一畑薬師(一畑寺)",
+            "description": "「目のお薬師様」として信仰される。",
+            "prefecture": "島根県",
+            "latitude": "35.466700",
+            "longitude": "132.882200"
+        },
+        {
+            "name": "清水寺",
+            "description": "安来市にある古刹。三重塔がある。",
+            "prefecture": "島根県",
+            "latitude": "35.378900",
+            "longitude": "133.272200"
+        },
+        {
+            "name": "西大寺(観音院)",
+            "description": "日本三大奇祭「はだか祭り」で有名。",
+            "prefecture": "岡山県",
+            "latitude": "34.646700",
+            "longitude": "134.032200"
+        },
+        {
+            "name": "曹源寺",
+            "description": "池田家の菩提寺。外国人の修行僧が多い。",
+            "prefecture": "岡山県",
+            "latitude": "34.636700",
+            "longitude": "133.958900"
+        },
+        {
+            "name": "千光寺",
+            "description": "尾道のシンボル的な寺。眺望が良い。",
+            "prefecture": "広島県",
+            "latitude": "34.410300",
+            "longitude": "133.197200"
+        },
+        {
+            "name": "佛通寺",
+            "description": "紅葉の名所として知られる禅寺。",
+            "prefecture": "広島県",
+            "latitude": "34.460800",
+            "longitude": "133.045000"
+        },
+        {
+            "name": "瑠璃光寺",
+            "description": "国宝の五重塔は日本三名塔の一つ。",
+            "prefecture": "山口県",
+            "latitude": "34.188300",
+            "longitude": "131.472500"
+        },
+        {
+            "name": "功山寺",
+            "description": "高杉晋作が挙兵した寺。国宝仏殿。",
+            "prefecture": "山口県",
+            "latitude": "33.987800",
+            "longitude": "130.963300"
+        },
+        {
+            "name": "霊山寺",
+            "description": "四国八十八箇所霊場の第一番札所。",
+            "prefecture": "徳島県",
+            "latitude": "34.159400",
+            "longitude": "134.503600"
+        },
+        {
+            "name": "薬王寺",
+            "description": "厄除けの寺として全国的に有名。",
+            "prefecture": "徳島県",
+            "latitude": "33.731400",
+            "longitude": "134.527500"
+        },
+        {
+            "name": "善通寺",
+            "description": "弘法大師空海の生誕地。総本山。",
+            "prefecture": "香川県",
+            "latitude": "34.225800",
+            "longitude": "133.774700"
+        },
+        {
+            "name": "八栗寺",
+            "description": "五剣山の中腹にある。ケーブルカーで参拝。",
+            "prefecture": "香川県",
+            "latitude": "34.356700",
+            "longitude": "134.137800"
+        },
+        {
+            "name": "石手寺",
+            "description": "道後温泉近く。ミシュランガイドにも掲載。",
+            "prefecture": "愛媛県",
+            "latitude": "33.848300",
+            "longitude": "132.796900"
+        },
+        {
+            "name": "大山寺",
+            "description": "「四国のへそ」とも。力餅行事。",
+            "prefecture": "愛媛県",
+            "latitude": "34.145800",
+            "longitude": "133.447800"
+        },
+        {
+            "name": "竹林寺",
+            "description": "高知市にある学問の神様。五重塔がある。",
+            "prefecture": "高知県",
+            "latitude": "33.545300",
+            "longitude": "133.557200"
+        },
+        {
+            "name": "岩本寺",
+            "description": "本堂の天井画がユニーク。",
+            "prefecture": "高知県",
+            "latitude": "33.212800",
+            "longitude": "133.134200"
+        },
+        {
+            "name": "東長寺",
+            "description": "福岡大仏がある。空海創建。",
+            "prefecture": "福岡県",
+            "latitude": "33.595000",
+            "longitude": "130.415000"
+        },
+        {
+            "name": "南蔵院",
+            "description": "世界最大級のブロンズ製釈迦涅槃像。",
+            "prefecture": "福岡県",
+            "latitude": "33.618600",
+            "longitude": "130.526100"
+        },
+        {
+            "name": "大興善寺",
+            "description": "つつじ寺として親しまれる。契山。",
+            "prefecture": "佐賀県",
+            "latitude": "33.414200",
+            "longitude": "130.490800"
+        },
+        {
+            "name": "清水寺",
+            "description": "清水の滝の近くにある。",
+            "prefecture": "佐賀県",
+            "latitude": "33.308900",
+            "longitude": "130.186700"
+        },
+        {
+            "name": "崇福寺",
+            "description": "中国様式の赤寺。国宝。",
+            "prefecture": "長崎県",
+            "latitude": "32.740800",
+            "longitude": "129.883300"
+        },
+        {
+            "name": "興福寺",
+            "description": "日本最古の黄檗禅宗の寺院。",
+            "prefecture": "長崎県",
+            "latitude": "32.747800",
+            "longitude": "129.882500"
+        },
+        {
+            "name": "本妙寺",
+            "description": "加藤清正の菩提寺。",
+            "prefecture": "熊本県",
+            "latitude": "32.816400",
+            "longitude": "130.686900"
+        },
+        {
+            "name": "霊巌洞(雲巌禅寺)",
+            "description": "宮本武蔵が五輪書を書いた洞窟。",
+            "prefecture": "熊本県",
+            "latitude": "32.825800",
+            "longitude": "130.603100"
+        },
+        {
+            "name": "富貴寺",
+            "description": "大堂は九州最古の木造建築。国宝。",
+            "prefecture": "大分県",
+            "latitude": "33.539200",
+            "longitude": "131.527200"
+        },
+        {
+            "name": "両子寺",
+            "description": "国東半島の六郷満山総持院。",
+            "prefecture": "大分県",
+            "latitude": "33.571400",
+            "longitude": "131.603900"
+        },
+        {
+            "name": "今山大師",
+            "description": "高さ17mの「延岡大師」がある。",
+            "prefecture": "宮崎県",
+            "latitude": "32.585300",
+            "longitude": "131.666700"
+        },
+        {
+            "name": "定善寺",
+            "description": "日向市にある日蓮宗の古刹。",
+            "prefecture": "宮崎県",
+            "latitude": "32.428600",
+            "longitude": "131.649200"
+        },
+        {
+            "name": "感応寺",
+            "description": "島津家ゆかりの禅寺（出水市）。",
+            "prefecture": "鹿児島県",
+            "latitude": "32.083300",
+            "longitude": "130.350000"
+        },
+        {
+            "name": "最福寺",
+            "description": "厄除けと大弁才天で知られる。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.493900",
+            "longitude": "130.493600"
+        },
+        {
+            "name": "首里観音堂(慈眼院)",
+            "description": "首里の街を見下ろす。",
+            "prefecture": "沖縄県",
+            "latitude": "26.216700",
+            "longitude": "127.712500"
+        },
+        {
+            "name": "波上山護国寺",
+            "description": "現存する沖縄最古の寺院。",
+            "prefecture": "沖縄県",
+            "latitude": "26.220800",
+            "longitude": "127.671400"
+        }
+    ]
+}

@@ -1,0 +1,704 @@
+{
+    "municipalities": [
+        {
+            "name": "北海道大学植物園",
+            "description": "札幌市中心部にある歴史ある植物園。約4000種の植物が植栽されている。",
+            "prefecture": "北海道",
+            "latitude": 43.064167,
+            "longitude": 141.343056
+        },
+        {
+            "name": "函館市熱帯植物園",
+            "description": "温泉熱を利用した温室がある。冬にはサル山で温泉に浸かるサルが見られる。",
+            "prefecture": "北海道",
+            "latitude": 41.779444,
+            "longitude": 140.787500
+        },
+        {
+            "name": "百合が原公園",
+            "description": "世界のユリやライラックなど、四季折々の花が楽しめる。",
+            "prefecture": "北海道",
+            "latitude": 43.125000,
+            "longitude": 141.383333
+        },
+        {
+            "name": "真鍋庭園",
+            "description": "帯広市にある日本初のコニファーガーデン。",
+            "prefecture": "北海道",
+            "latitude": 42.900000,
+            "longitude": 143.216667
+        },
+        {
+            "name": "紫竹ガーデン",
+            "description": "帯広市にある広大なフラワーガーデン。",
+            "prefecture": "北海道",
+            "latitude": 42.850000,
+            "longitude": 143.183333
+        },
+        {
+            "name": "十勝千年の森",
+            "description": "清水町にある環境貢献型の庭園。",
+            "prefecture": "北海道",
+            "latitude": 42.983333,
+            "longitude": 142.900000
+        },
+        {
+            "name": "ファーム富田",
+            "description": "中富良野町にあるラベンダー畑で有名な観光農園。",
+            "prefecture": "北海道",
+            "latitude": 43.416667,
+            "longitude": 142.466667
+        },
+        {
+            "name": "四季彩の丘",
+            "description": "美瑛町にある展望花畑。",
+            "prefecture": "北海道",
+            "latitude": 43.533333,
+            "longitude": 142.450000
+        },
+        {
+            "name": "東北大学植物園",
+            "description": "仙台城の御裏林を保存・利用した植物園。国の天然記念物。",
+            "prefecture": "宮城県",
+            "latitude": 38.258333,
+            "longitude": 140.850000
+        },
+        {
+            "name": "仙台市野草園",
+            "description": "東北地方の野生植物を中心に植栽。",
+            "prefecture": "宮城県",
+            "latitude": 38.233333,
+            "longitude": 140.866667
+        },
+        {
+            "name": "秋田国際ダリア園",
+            "description": "世界中のダリアが集まる。",
+            "prefecture": "秋田県",
+            "latitude": 39.600000,
+            "longitude": 140.200000
+        },
+        {
+            "name": "国営みちのく杜の湖畔公園",
+            "description": "広大な敷地に四季折々の花畑が広がる。",
+            "prefecture": "宮城県",
+            "latitude": 38.183333,
+            "longitude": 140.666667
+        },
+        {
+            "name": "筑波実験植物園",
+            "description": "国立科学博物館の分館。植物の多様性を学べる。",
+            "prefecture": "茨城県",
+            "latitude": 36.116667,
+            "longitude": 140.116667
+        },
+        {
+            "name": "茨城県植物園",
+            "description": "那珂市にある植物園。熱帯植物館がある。",
+            "prefecture": "茨城県",
+            "latitude": 36.483333,
+            "longitude": 140.483333
+        },
+        {
+            "name": "あしかがフラワーパーク",
+            "description": "大藤棚で有名。冬のイルミネーションも人気。",
+            "prefecture": "栃木県",
+            "latitude": 36.316667,
+            "longitude": 139.516667
+        },
+        {
+            "name": "ぐんまフラワーパーク",
+            "description": "赤城山麓にある花と緑のテーマパーク。",
+            "prefecture": "群馬県",
+            "latitude": 36.466667,
+            "longitude": 139.183333
+        },
+        {
+            "name": "神代植物公園",
+            "description": "都内唯一の植物公園。バラ園が有名。",
+            "prefecture": "東京都",
+            "latitude": 35.666667,
+            "longitude": 139.550000
+        },
+        {
+            "name": "小石川植物園",
+            "description": "東京大学の附属植物園。日本最古の植物園。",
+            "prefecture": "東京都",
+            "latitude": 35.716667,
+            "longitude": 139.750000
+        },
+        {
+            "name": "新宿御苑（温室）",
+            "description": "皇室ゆかりの庭園にある大型温室。",
+            "prefecture": "東京都",
+            "latitude": 35.683333,
+            "longitude": 139.716667
+        },
+        {
+            "name": "夢の島熱帯植物館",
+            "description": "ごみ焼却熱を利用したドーム型温室。",
+            "prefecture": "東京都",
+            "latitude": 35.650000,
+            "longitude": 139.833333
+        },
+        {
+            "name": "国立科学博物館附属自然教育園",
+            "description": "都心に残された貴重な自然林。",
+            "prefecture": "東京都",
+            "latitude": 35.633333,
+            "longitude": 139.716667
+        },
+        {
+            "name": "東京都薬用植物園",
+            "description": "薬用植物を専門に栽培・展示。",
+            "prefecture": "東京都",
+            "latitude": 35.733333,
+            "longitude": 139.433333
+        },
+        {
+            "name": "八丈植物公園",
+            "description": "八丈島の自然を活かした公園。キョンがいる。",
+            "prefecture": "東京都",
+            "latitude": 33.116667,
+            "longitude": 139.783333
+        },
+        {
+            "name": "神奈川県立大船フラワーセンター",
+            "description": "観賞植物の生産振興と普及を図る施設。",
+            "prefecture": "神奈川県",
+            "latitude": 35.350000,
+            "longitude": 139.533333
+        },
+        {
+            "name": "箱根湿生花園",
+            "description": "湿原植物や高山植物を中心に展示。",
+            "prefecture": "神奈川県",
+            "latitude": 35.266667,
+            "longitude": 139.016667
+        },
+        {
+            "name": "小田原フラワーガーデン",
+            "description": "トロピカルドーム温室やバラ園がある。",
+            "prefecture": "神奈川県",
+            "latitude": 35.283333,
+            "longitude": 139.133333
+        },
+        {
+            "name": "横浜市こども植物園",
+            "description": "植物の展示や体験学習を行う。",
+            "prefecture": "神奈川県",
+            "latitude": 35.433333,
+            "longitude": 139.583333
+        },
+        {
+            "name": "京成バラ園",
+            "description": "国内最大級のバラ園。",
+            "prefecture": "千葉県",
+            "latitude": 35.716667,
+            "longitude": 140.083333
+        },
+        {
+            "name": "千葉市花の美術館（三陽メディアフラワーミュージアム）",
+            "description": "花の美術館。",
+            "prefecture": "千葉県",
+            "latitude": 35.633333,
+            "longitude": 140.066667
+        },
+        {
+            "name": "新潟県立植物園",
+            "description": "熱帯植物ドームや水生植物など。",
+            "prefecture": "新潟県",
+            "latitude": 37.866667,
+            "longitude": 139.116667
+        },
+        {
+            "name": "富山県中央植物園",
+            "description": "日本海側有数の総合植物園。",
+            "prefecture": "富山県",
+            "latitude": 36.650000,
+            "longitude": 137.183333
+        },
+        {
+            "name": "氷見市海浜植物園",
+            "description": "海浜植物をテーマにした植物園。",
+            "prefecture": "富山県",
+            "latitude": 36.866667,
+            "longitude": 136.983333
+        },
+        {
+            "name": "福井県総合グリーンセンター",
+            "description": "タマネギ型の大温室がある。",
+            "prefecture": "福井県",
+            "latitude": 36.116667,
+            "longitude": 136.266667
+        },
+        {
+            "name": "白馬五竜高山植物園",
+            "description": "標高1500mにある高山植物園。",
+            "prefecture": "長野県",
+            "latitude": 36.666667,
+            "longitude": 137.816667
+        },
+        {
+            "name": "東山動植物園（植物園）",
+            "description": "約7000種の植物を展示。大温室は重要文化財。",
+            "prefecture": "愛知県",
+            "latitude": 35.150000,
+            "longitude": 136.983333
+        },
+        {
+            "name": "ぎふワールド・ローズガーデン",
+            "description": "世界最大級のバラ園。",
+            "prefecture": "岐阜県",
+            "latitude": 35.416667,
+            "longitude": 137.050000
+        },
+        {
+            "name": "はままつフラワーパーク",
+            "description": "浜名湖畔にある植物園。四季折々の花。",
+            "prefecture": "静岡県",
+            "latitude": 34.766667,
+            "longitude": 137.650000
+        },
+        {
+            "name": "掛川花鳥園",
+            "description": "花と鳥のテーマパーク。ベゴニアが美しい。",
+            "prefecture": "静岡県",
+            "latitude": 34.766667,
+            "longitude": 138.016667
+        },
+        {
+            "name": "伊豆シャボテン動物公園",
+            "description": "サボテンと動物のテーマパーク。",
+            "prefecture": "静岡県",
+            "latitude": 34.900000,
+            "longitude": 139.100000
+        },
+        {
+            "name": "熱川バナナワニ園",
+            "description": "熱帯植物とワニの飼育。",
+            "prefecture": "静岡県",
+            "latitude": 34.816667,
+            "longitude": 139.066667
+        },
+        {
+            "name": "富士花鳥園",
+            "description": "朝霧高原にある花と鳥の園。",
+            "prefecture": "静岡県",
+            "latitude": 35.416667,
+            "longitude": 138.583333
+        },
+        {
+            "name": "安城産業文化公園デンパーク",
+            "description": "デンマーク風の庭園。",
+            "prefecture": "愛知県",
+            "latitude": 34.933333,
+            "longitude": 137.066667
+        },
+        {
+            "name": "なばなの里",
+            "description": "ベゴニアガーデンやイルミネーション。",
+            "prefecture": "三重県",
+            "latitude": 35.083333,
+            "longitude": 136.700000
+        },
+        {
+            "name": "鈴鹿の森庭園",
+            "description": "しだれ梅の名所。",
+            "prefecture": "三重県",
+            "latitude": 34.966667,
+            "longitude": 136.450000
+        },
+        {
+            "name": "赤塚植物園（レッドヒル ヒーサーの森）",
+            "description": "里山庭園。",
+            "prefecture": "三重県",
+            "latitude": 34.783333,
+            "longitude": 136.500000
+        },
+        {
+            "name": "京都府立植物園",
+            "description": "日本最古の公立総合植物園。",
+            "prefecture": "京都府",
+            "latitude": 35.050000,
+            "longitude": 135.750000
+        },
+        {
+            "name": "宇治市植物公園",
+            "description": "立体花壇や温室がある。",
+            "prefecture": "京都府",
+            "latitude": 34.866667,
+            "longitude": 135.766667
+        },
+        {
+            "name": "咲くやこの花館",
+            "description": "日本最大級の温室を持つ植物園。",
+            "prefecture": "大阪府",
+            "latitude": 34.716667,
+            "longitude": 135.566667
+        },
+        {
+            "name": "大阪公立大学附属植物園",
+            "description": "研究と教育を目的とした植物園。一般公開も。",
+            "prefecture": "大阪府",
+            "latitude": 34.766667,
+            "longitude": 135.683333
+        },
+        {
+            "name": "大阪市立長居植物園",
+            "description": "長居公園内にある植物園。",
+            "prefecture": "大阪府",
+            "latitude": 34.616667,
+            "longitude": 135.516667
+        },
+        {
+            "name": "神戸布引ハーブ園",
+            "description": "日本最大級のハーブ園。ロープウェイでアクセス。",
+            "prefecture": "兵庫県",
+            "latitude": 34.716667,
+            "longitude": 135.183333
+        },
+        {
+            "name": "六甲高山植物園",
+            "description": "六甲山頂付近にある高山植物園。",
+            "prefecture": "兵庫県",
+            "latitude": 34.766667,
+            "longitude": 135.233333
+        },
+        {
+            "name": "兵庫県立淡路夢舞台公苑温室（あわじグリーン館）",
+            "description": "安藤忠雄設計の巨大温室。",
+            "prefecture": "兵庫県",
+            "latitude": 34.566667,
+            "longitude": 135.016667
+        },
+        {
+            "name": "あわじ花さじき",
+            "description": "広大な花畑と海のパノラマ。",
+            "prefecture": "兵庫県",
+            "latitude": 34.600000,
+            "longitude": 135.000000
+        },
+        {
+            "name": "須磨離宮公園（植物園）",
+            "description": "バラ園が有名な西洋式庭園と植物園。",
+            "prefecture": "兵庫県",
+            "latitude": 34.650000,
+            "longitude": 135.116667
+        },
+        {
+            "name": "和歌山県植物公園緑花センター",
+            "description": "パノラマ花壇や温室。",
+            "prefecture": "和歌山県",
+            "latitude": 34.283333,
+            "longitude": 135.283333
+        },
+        {
+            "name": "手柄山温室植物園",
+            "description": "姫路市にある大小2つの温室。",
+            "prefecture": "兵庫県",
+            "latitude": 34.816667,
+            "longitude": 134.666667
+        },
+        {
+            "name": "草津市立水生植物公園みずの森",
+            "description": "ハスやスイレンのコレクション。",
+            "prefecture": "滋賀県",
+            "latitude": 35.066667,
+            "longitude": 135.950000
+        },
+        {
+            "name": "とっとり花回廊",
+            "description": "日本最大級のフラワーパーク。",
+            "prefecture": "鳥取県",
+            "latitude": 35.383333,
+            "longitude": 133.366667
+        },
+        {
+            "name": "松江フォーゲルパーク",
+            "description": "花と鳥のテーマパーク。全天候型。",
+            "prefecture": "島根県",
+            "latitude": 35.466667,
+            "longitude": 132.950000
+        },
+        {
+            "name": "半田山植物園",
+            "description": "岡山市街を一望できる丘陵地にある。",
+            "prefecture": "岡山県",
+            "latitude": 34.683333,
+            "longitude": 133.916667
+        },
+        {
+            "name": "RSKバラ園",
+            "description": "450品種、15,000株のバラ。",
+            "prefecture": "岡山県",
+            "latitude": 34.650000,
+            "longitude": 133.850000
+        },
+        {
+            "name": "広島市植物公園",
+            "description": "瀬戸内海国立公園を一望できる。",
+            "prefecture": "広島県",
+            "latitude": 34.366667,
+            "longitude": 132.350000
+        },
+        {
+            "name": "やまぐちフラワーランド",
+            "description": "歴史と自然に囲まれた花と緑の庭園。",
+            "prefecture": "山口県",
+            "latitude": 33.966667,
+            "longitude": 132.100000
+        },
+        {
+            "name": "ときわミュージアム（世界を旅する植物館）",
+            "description": "珍しい植物を原産地のゾーンごとに展示。",
+            "prefecture": "山口県",
+            "latitude": 33.950000,
+            "longitude": 131.283333
+        },
+        {
+            "name": "高知県立牧野植物園",
+            "description": "植物学者・牧野富太郎ゆかりの植物園。",
+            "prefecture": "高知県",
+            "latitude": 33.550000,
+            "longitude": 133.583333
+        },
+        {
+            "name": "北川村「モネの庭」マルモッタン",
+            "description": "クロード・モネの庭を再現。世界で唯一公認。",
+            "prefecture": "高知県",
+            "latitude": 33.450000,
+            "longitude": 134.050000
+        },
+        {
+            "name": "福岡市動植物園",
+            "description": "動物園と植物園が併設された総合公園。",
+            "prefecture": "福岡県",
+            "latitude": 33.566667,
+            "longitude": 130.383333
+        },
+        {
+            "name": "のこのしまアイランドパーク",
+            "description": "博多湾に浮かぶ能古島の花の名所。",
+            "prefecture": "福岡県",
+            "latitude": 33.633333,
+            "longitude": 130.300000
+        },
+        {
+            "name": "九十九島動植物園森きらら",
+            "description": "九十九島の自然と癒し。",
+            "prefecture": "長崎県",
+            "latitude": 33.166667,
+            "longitude": 129.700000
+        },
+        {
+            "name": "熊本市動植物園",
+            "description": "江津湖畔にある。",
+            "prefecture": "熊本県",
+            "latitude": 32.766667,
+            "longitude": 130.766667
+        },
+        {
+            "name": "宮崎県立青島亜熱帯植物園",
+            "description": "青島にあるトロピカルな植物園。",
+            "prefecture": "宮崎県",
+            "latitude": 31.800000,
+            "longitude": 131.466667
+        },
+        {
+            "name": "フローランテ宮崎",
+            "description": "四季折々の花と緑のある公園。",
+            "prefecture": "宮崎県",
+            "latitude": 31.933333,
+            "longitude": 131.450000
+        },
+        {
+            "name": "フラワーパークかごしま",
+            "description": "薩摩半島最南端の植物公園。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.183333,
+            "longitude": 130.583333
+        },
+        {
+            "name": "東南植物楽園",
+            "description": "日本最大級の屋外植物園。ヤシ並木。",
+            "prefecture": "沖縄県",
+            "latitude": 26.383333,
+            "longitude": 127.800000
+        },
+        {
+            "name": "熱帯ドリームセンター",
+            "description": "海洋博公園内にある熱帯植物園。",
+            "prefecture": "沖縄県",
+            "latitude": 26.683333,
+            "longitude": 127.866667
+        },
+        {
+            "name": "ネオパークオキナワ",
+            "description": "動植物公園。フライングケージ。",
+            "prefecture": "沖縄県",
+            "latitude": 26.600000,
+            "longitude": 127.966667
+        },
+        {
+            "name": "ビオスの丘",
+            "description": "亜熱帯の森とランの花。",
+            "prefecture": "沖縄県",
+            "latitude": 26.433333,
+            "longitude": 127.800000
+        },
+        {
+            "name": "上野ファーム",
+            "description": "旭川市にある英国風ガーデン。",
+            "prefecture": "北海道",
+            "latitude": 43.800000,
+            "longitude": 142.450000
+        },
+        {
+            "name": "銀河庭園",
+            "description": "恵庭市。広大なエコロジーガーデン。",
+            "prefecture": "北海道",
+            "latitude": 42.933333,
+            "longitude": 141.600000
+        },
+        {
+            "name": "六花の森",
+            "description": "中札内村。六花亭ゆかりの野草園。",
+            "prefecture": "北海道",
+            "latitude": 42.700000,
+            "longitude": 143.150000
+        },
+        {
+            "name": "みちのくアジサイ園",
+            "description": "一関市。杉林の中のアジサイ。",
+            "prefecture": "岩手県",
+            "latitude": 38.933333,
+            "longitude": 141.050000
+        },
+        {
+            "name": "花巻温泉バラ園",
+            "description": "宮沢賢治設計の日時計花壇がある。",
+            "prefecture": "岩手県",
+            "latitude": 39.433333,
+            "longitude": 141.100000
+        },
+        {
+            "name": "長井あやめ公園",
+            "description": "500種100万本のあやめ。",
+            "prefecture": "山形県",
+            "latitude": 38.116667,
+            "longitude": 140.033333
+        },
+        {
+            "name": "東沢バラ公園",
+            "description": "村山市。日本有数のバラ園。",
+            "prefecture": "山形県",
+            "latitude": 38.483333,
+            "longitude": 140.383333
+        },
+        {
+            "name": "国営ひたち海浜公園",
+            "description": "ネモフィラやコキアで世界的にも有名。",
+            "prefecture": "茨城県",
+            "latitude": 36.400000,
+            "longitude": 140.600000
+        },
+        {
+            "name": "くりはま花の国",
+            "description": "横須賀市。コスモスとポピー。",
+            "prefecture": "神奈川県",
+            "latitude": 35.216667,
+            "longitude": 139.700000
+        },
+        {
+            "name": "板橋区立熱帯環境植物館",
+            "description": "東南アジアの熱帯雨林を再現。",
+            "prefecture": "東京都",
+            "latitude": 35.791667,
+            "longitude": 139.666667
+        },
+        {
+            "name": "京王百草園",
+            "description": "梅の名所。",
+            "prefecture": "東京都",
+            "latitude": 35.650000,
+            "longitude": 139.416667
+        },
+        {
+            "name": "向島百花園",
+            "description": "江戸時代の文人趣味の庭園。",
+            "prefecture": "東京都",
+            "latitude": 35.725000,
+            "longitude": 139.816667
+        },
+        {
+            "name": "ACAO FOREST",
+            "description": "熱海の丘陵地に広がるバラとハーブの庭園。",
+            "prefecture": "静岡県",
+            "latitude": 35.116667,
+            "longitude": 139.066667
+        },
+        {
+            "name": "修善寺虹の郷",
+            "description": "イギリス村や日本庭園がある。",
+            "prefecture": "静岡県",
+            "latitude": 34.966667,
+            "longitude": 138.933333
+        },
+        {
+            "name": "可睡ゆりの園",
+            "description": "袋井市。150種200万輪のユリ。",
+            "prefecture": "静岡県",
+            "latitude": 34.783333,
+            "longitude": 137.916667
+        },
+        {
+            "name": "名古屋市東谷山フルーツパーク",
+            "description": "果物をテーマにした農業公園。",
+            "prefecture": "愛知県",
+            "latitude": 35.250000,
+            "longitude": 137.033333
+        },
+        {
+            "name": "国営木曽三川公園（138タワーパーク）",
+            "description": "四季の花畑。",
+            "prefecture": "愛知県・岐阜県・三重県",
+            "latitude": 35.283333,
+            "longitude": 136.816667
+        },
+        {
+            "name": "万博記念公園（自然文化園）",
+            "description": "太陽の塔周辺に広がる公園。",
+            "prefecture": "大阪府",
+            "latitude": 34.816667,
+            "longitude": 135.533333
+        },
+        {
+            "name": "淡路島国営明石海峡公園",
+            "description": "チューリップやコスモス。",
+            "prefecture": "兵庫県",
+            "latitude": 34.566667,
+            "longitude": 135.000000
+        },
+        {
+            "name": "由志園",
+            "description": "大根島にある日本庭園。牡丹。",
+            "prefecture": "島根県",
+            "latitude": 35.500000,
+            "longitude": 133.166667
+        },
+        {
+            "name": "みろくの里",
+            "description": "遊園地だが日本庭園や美術館も併設。",
+            "prefecture": "広島県",
+            "latitude": 34.383333,
+            "longitude": 133.316667
+        },
+        {
+            "name": "世羅高原農場",
+            "description": "チューリップ、ひまわり、ダリア。",
+            "prefecture": "広島県",
+            "latitude": 34.616667,
+            "longitude": 132.966667
+        }
+    ]
+}

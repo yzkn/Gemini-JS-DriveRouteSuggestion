@@ -1,0 +1,704 @@
+{
+    "municipalities": [
+        {
+            "name": "白滝ジオパーク（黒曜石露頭）",
+            "description": "赤石山。",
+            "prefecture": "北海道",
+            "latitude": 43.900000,
+            "longitude": 143.083333
+        },
+        {
+            "name": "白滝ジオパーク",
+            "description": "日本最大級の黒曜石産地。",
+            "prefecture": "北海道",
+            "latitude": 43.883333,
+            "longitude": 143.116667
+        },
+        {
+            "name": "白滝ジオパーク交流センター",
+            "description": "遠軽町。",
+            "prefecture": "北海道",
+            "latitude": 43.883333,
+            "longitude": 143.116667
+        },
+        {
+            "name": "大雪山（黒岳）",
+            "description": "大雪山ジオパーク構想。",
+            "prefecture": "北海道",
+            "latitude": 43.700000,
+            "longitude": 142.933333
+        },
+        {
+            "name": "三笠ジオパーク",
+            "description": "一億年の時間旅行と炭鉱遺産。",
+            "prefecture": "北海道",
+            "latitude": 43.250000,
+            "longitude": 141.883333
+        },
+        {
+            "name": "三笠市立博物館",
+            "description": "三笠ジオパークの中核施設。アンモナイト。",
+            "prefecture": "北海道",
+            "latitude": 43.250000,
+            "longitude": 141.883333
+        },
+        {
+            "name": "とかち鹿追ジオパーク",
+            "description": "凍れ（しばれ）が育む生命と大地。",
+            "prefecture": "北海道",
+            "latitude": 43.100000,
+            "longitude": 142.983333
+        },
+        {
+            "name": "洞爺湖ビジターセンター",
+            "description": "洞爺湖有珠山ジオパークの拠点。",
+            "prefecture": "北海道",
+            "latitude": 42.566667,
+            "longitude": 140.833333
+        },
+        {
+            "name": "洞爺湖有珠山ジオパーク",
+            "description": "変動する大地と人との共生を学ぶ。ユネスコ世界ジオパーク。",
+            "prefecture": "北海道",
+            "latitude": 42.558333,
+            "longitude": 140.825000
+        },
+        {
+            "name": "昭和新山",
+            "description": "麦畑が隆起してできた火山。",
+            "prefecture": "北海道",
+            "latitude": 42.541667,
+            "longitude": 140.866667
+        },
+        {
+            "name": "有珠山ロープウェイ",
+            "description": "火口原を一望できる。",
+            "prefecture": "北海道",
+            "latitude": 42.533333,
+            "longitude": 140.850000
+        },
+        {
+            "name": "橘湖",
+            "description": "（カルデラ湖、近くに風穴あり）",
+            "prefecture": "北海道",
+            "latitude": 42.533333,
+            "longitude": 141.133333
+        },
+        {
+            "name": "様似郷土館",
+            "description": "アポイ岳ジオパーク。",
+            "prefecture": "北海道",
+            "latitude": 42.133333,
+            "longitude": 142.933333
+        },
+        {
+            "name": "アポイ岳ジオパーク",
+            "description": "地球深部から現れたかんらん岩の山。ユネスコ世界ジオパーク。",
+            "prefecture": "北海道",
+            "latitude": 42.110000,
+            "longitude": 143.020000
+        },
+        {
+            "name": "アポイ岳ジオパークビジターセンター",
+            "description": "様似町。",
+            "prefecture": "北海道",
+            "latitude": 42.100000,
+            "longitude": 143.016667
+        },
+        {
+            "name": "久慈琥珀博物館",
+            "description": "三陸ジオパーク。",
+            "prefecture": "岩手県",
+            "latitude": 40.183333,
+            "longitude": 141.766667
+        },
+        {
+            "name": "八幡平ビジターセンター",
+            "description": "八幡平ジオパーク。",
+            "prefecture": "秋田県",
+            "latitude": 39.966667,
+            "longitude": 140.783333
+        },
+        {
+            "name": "男鹿半島・大潟ジオパーク",
+            "description": "大地と人の物語。一の目潟など。",
+            "prefecture": "秋田県",
+            "latitude": 39.950000,
+            "longitude": 139.950000
+        },
+        {
+            "name": "八幡平ジオパーク",
+            "description": "火山と雪が織りなす大自然。",
+            "prefecture": "岩手県",
+            "latitude": 39.950000,
+            "longitude": 140.950000
+        },
+        {
+            "name": "男鹿半島・大潟ジオパークセンター",
+            "description": "男鹿市。",
+            "prefecture": "秋田県",
+            "latitude": 39.950000,
+            "longitude": 139.900000
+        },
+        {
+            "name": "三陸ジオパーク",
+            "description": "太古の地層とリアス海岸。",
+            "prefecture": "青森県・岩手県・宮城県",
+            "latitude": 39.650000,
+            "longitude": 141.950000
+        },
+        {
+            "name": "浄土ヶ浜ビジターセンター",
+            "description": "三陸ジオパーク。",
+            "prefecture": "岩手県",
+            "latitude": 39.650000,
+            "longitude": 141.983333
+        },
+        {
+            "name": "ゆざわジオパーク",
+            "description": "温泉と地熱の恵み。",
+            "prefecture": "秋田県",
+            "latitude": 39.160000,
+            "longitude": 140.480000
+        },
+        {
+            "name": "鳥海山・飛島ジオパーク",
+            "description": "日本海と鳥海山の水の循環。",
+            "prefecture": "秋田県・山形県",
+            "latitude": 39.100000,
+            "longitude": 139.950000
+        },
+        {
+            "name": "栗駒山麓ジオパーク",
+            "description": "度重なる災害を乗り越えてきた共生の歴史。",
+            "prefecture": "宮城県",
+            "latitude": 38.816667,
+            "longitude": 140.966667
+        },
+        {
+            "name": "栗駒山麓ジオパークビジターセンター",
+            "description": "栗原市。",
+            "prefecture": "宮城県",
+            "latitude": 38.800000,
+            "longitude": 140.983333
+        },
+        {
+            "name": "佐渡ジオパーク",
+            "description": "金山と大地の多様性。",
+            "prefecture": "新潟県",
+            "latitude": 38.000000,
+            "longitude": 138.383333
+        },
+        {
+            "name": "佐渡博物館",
+            "description": "佐渡ジオパーク。",
+            "prefecture": "新潟県",
+            "latitude": 38.000000,
+            "longitude": 138.350000
+        },
+        {
+            "name": "裏磐梯サイトステーション",
+            "description": "磐梯山ジオパーク。",
+            "prefecture": "福島県",
+            "latitude": 37.650000,
+            "longitude": 140.083333
+        },
+        {
+            "name": "磐梯山ジオパーク",
+            "description": "1888年の噴火による地形変化。",
+            "prefecture": "福島県",
+            "latitude": 37.600000,
+            "longitude": 140.066667
+        },
+        {
+            "name": "糸魚川ユネスコ世界ジオパーク",
+            "description": "世界ジオパーク第1号。ヒスイとフォッサマグナ。",
+            "prefecture": "新潟県",
+            "latitude": 37.033333,
+            "longitude": 137.866667
+        },
+        {
+            "name": "フォッサマグナミュージアム",
+            "description": "糸魚川ジオパークの中核施設。",
+            "prefecture": "新潟県",
+            "latitude": 37.033333,
+            "longitude": 137.850000
+        },
+        {
+            "name": "苗場山麓ジオパーク",
+            "description": "日本最大級の河岸段丘。",
+            "prefecture": "新潟県",
+            "latitude": 37.000000,
+            "longitude": 138.633333
+        },
+        {
+            "name": "フォッサマグナパーク",
+            "description": "断層が見られる公園。",
+            "prefecture": "新潟県",
+            "latitude": 37.000000,
+            "longitude": 137.850000
+        },
+        {
+            "name": "地獄谷野猿公苑",
+            "description": "志賀高原ユネスコエコパーク/ジオパーク。",
+            "prefecture": "長野県",
+            "latitude": 36.733333,
+            "longitude": 138.466667
+        },
+        {
+            "name": "立山黒部ジオパーク",
+            "description": "高低差4000mのダイナミックな地形。",
+            "prefecture": "富山県",
+            "latitude": 36.650000,
+            "longitude": 137.500000
+        },
+        {
+            "name": "立山カルデラ砂防博物館",
+            "description": "立山黒部ジオパーク。",
+            "prefecture": "富山県",
+            "latitude": 36.583333,
+            "longitude": 137.516667
+        },
+        {
+            "name": "浅間山北麓ジオパーク",
+            "description": "浅間山の噴火と高原の自然。",
+            "prefecture": "群馬県",
+            "latitude": 36.450000,
+            "longitude": 138.533333
+        },
+        {
+            "name": "白山手取川ジオパーク",
+            "description": "山から海への水の旅。ユネスコ世界ジオパーク。",
+            "prefecture": "石川県",
+            "latitude": 36.433333,
+            "longitude": 136.633333
+        },
+        {
+            "name": "浅間山火山博物館",
+            "description": "長野原町。",
+            "prefecture": "群馬県",
+            "latitude": 36.433333,
+            "longitude": 138.533333
+        },
+        {
+            "name": "筑波山地域ジオパーク",
+            "description": "関東平野にそびえる名峰と暮らし。",
+            "prefecture": "茨城県",
+            "latitude": 36.225000,
+            "longitude": 140.106667
+        },
+        {
+            "name": "下仁田ジオパーク",
+            "description": "根なし山と中央構造線。",
+            "prefecture": "群馬県",
+            "latitude": 36.216667,
+            "longitude": 138.783333
+        },
+        {
+            "name": "下仁田町自然史館",
+            "description": "下仁田ジオパーク。",
+            "prefecture": "群馬県",
+            "latitude": 36.216667,
+            "longitude": 138.783333
+        },
+        {
+            "name": "神津牧場",
+            "description": "日本最古の洋式牧場。ジオサイト。",
+            "prefecture": "群馬県",
+            "latitude": 36.216667,
+            "longitude": 138.616667
+        },
+        {
+            "name": "隠岐ジオパーク",
+            "description": "大地の記憶と生態系。ユネスコ世界ジオパーク。",
+            "prefecture": "島根県",
+            "latitude": 36.200000,
+            "longitude": 133.333333
+        },
+        {
+            "name": "隠岐自然館",
+            "description": "隠岐ジオパークの拠点。",
+            "prefecture": "島根県",
+            "latitude": 36.200000,
+            "longitude": 133.316667
+        },
+        {
+            "name": "隠岐世界ジオパーク空港",
+            "description": "隠岐の島町。",
+            "prefecture": "島根県",
+            "latitude": 36.183333,
+            "longitude": 133.316667
+        },
+        {
+            "name": "ジオパーク秩父（県立自然の博物館）",
+            "description": "長瀞町。",
+            "prefecture": "埼玉県",
+            "latitude": 36.100000,
+            "longitude": 139.100000
+        },
+        {
+            "name": "恐竜化石発掘現場",
+            "description": "勝山市。",
+            "prefecture": "福井県",
+            "latitude": 36.083333,
+            "longitude": 136.533333
+        },
+        {
+            "name": "恐竜渓谷ふくい勝山ジオパーク",
+            "description": "恐竜化石の宝庫。",
+            "prefecture": "福井県",
+            "latitude": 36.066667,
+            "longitude": 136.500000
+        },
+        {
+            "name": "福井県立恐竜博物館",
+            "description": "恐竜渓谷ふくい勝山ジオパーク。",
+            "prefecture": "福井県",
+            "latitude": 36.066667,
+            "longitude": 136.500000
+        },
+        {
+            "name": "平泉寺白山神社",
+            "description": "白山信仰。ジオパーク構成資産。",
+            "prefecture": "福井県",
+            "latitude": 36.033333,
+            "longitude": 136.533333
+        },
+        {
+            "name": "秩父ジオパーク",
+            "description": "太古の海の記憶と人々の暮らし。",
+            "prefecture": "埼玉県",
+            "latitude": 36.000000,
+            "longitude": 139.083333
+        },
+        {
+            "name": "瑞牆山",
+            "description": "花崗岩の岩峰。",
+            "prefecture": "山梨県",
+            "latitude": 35.883333,
+            "longitude": 138.583333
+        },
+        {
+            "name": "南アルプスジオパークセンター",
+            "description": "伊那市。",
+            "prefecture": "長野県",
+            "latitude": 35.833333,
+            "longitude": 138.083333
+        },
+        {
+            "name": "丹後松島",
+            "description": "山陰海岸ジオパーク。",
+            "prefecture": "京都府",
+            "latitude": 35.766667,
+            "longitude": 135.133333
+        },
+        {
+            "name": "銚子ジオパークミュージアム",
+            "description": "銚子市青少年文化会館内。",
+            "prefecture": "千葉県",
+            "latitude": 35.733333,
+            "longitude": 140.833333
+        },
+        {
+            "name": "銚子ポートタワー",
+            "description": "銚子ジオパーク。",
+            "prefecture": "千葉県",
+            "latitude": 35.733333,
+            "longitude": 140.850000
+        },
+        {
+            "name": "銚子ジオパーク",
+            "description": "関東最東端、地球の丸さを実感。",
+            "prefecture": "千葉県",
+            "latitude": 35.700000,
+            "longitude": 140.850000
+        },
+        {
+            "name": "南アルプス（中央構造線エリア）ジオパーク",
+            "description": "中央構造線と南アルプスの隆起。",
+            "prefecture": "長野県",
+            "latitude": 35.700000,
+            "longitude": 138.100000
+        },
+        {
+            "name": "山陰海岸ジオパーク",
+            "description": "日本海形成の歴史。ユネスコ世界ジオパーク。",
+            "prefecture": "京都府・兵庫県・鳥取県",
+            "latitude": 35.650000,
+            "longitude": 134.750000
+        },
+        {
+            "name": "余部橋梁",
+            "description": "山陰海岸ジオパーク。鉄道遺産。",
+            "prefecture": "兵庫県",
+            "latitude": 35.650000,
+            "longitude": 134.516667
+        },
+        {
+            "name": "南アルプス市芦安山岳館",
+            "description": "南アルプスジオパーク。",
+            "prefecture": "山梨県",
+            "latitude": 35.633333,
+            "longitude": 138.366667
+        },
+        {
+            "name": "山陰海岸ジオパーク館",
+            "description": "新温泉町。",
+            "prefecture": "兵庫県",
+            "latitude": 35.616667,
+            "longitude": 134.433333
+        },
+        {
+            "name": "大島断層（根尾谷）",
+            "description": "特別天然記念物。",
+            "prefecture": "岐阜県",
+            "latitude": 35.616667,
+            "longitude": 136.683333
+        },
+        {
+            "name": "根尾谷断層観察館",
+            "description": "本巣市。",
+            "prefecture": "岐阜県",
+            "latitude": 35.616667,
+            "longitude": 136.683333
+        },
+        {
+            "name": "玄武洞公園",
+            "description": "山陰海岸ジオパーク。",
+            "prefecture": "兵庫県",
+            "latitude": 35.583333,
+            "longitude": 134.800000
+        },
+        {
+            "name": "玄武洞ミュージアム",
+            "description": "豊岡市。",
+            "prefecture": "兵庫県",
+            "latitude": 35.583333,
+            "longitude": 134.800000
+        },
+        {
+            "name": "田後港",
+            "description": "山陰海岸ジオパーク。",
+            "prefecture": "鳥取県",
+            "latitude": 35.583333,
+            "longitude": 134.316667
+        },
+        {
+            "name": "中央構造線北川露頭",
+            "description": "大鹿村。国の天然記念物。",
+            "prefecture": "長野県",
+            "latitude": 35.583333,
+            "longitude": 138.050000
+        },
+        {
+            "name": "中央構造線博物館",
+            "description": "大鹿村。",
+            "prefecture": "長野県",
+            "latitude": 35.566667,
+            "longitude": 138.033333
+        },
+        {
+            "name": "鳥取砂丘ビジターセンター",
+            "description": "山陰海岸ジオパーク。",
+            "prefecture": "鳥取県",
+            "latitude": 35.533333,
+            "longitude": 134.233333
+        },
+        {
+            "name": "島根半島・宍道湖中海ジオパーク",
+            "description": "国引き神話の舞台。",
+            "prefecture": "島根県",
+            "latitude": 35.500000,
+            "longitude": 133.000000
+        },
+        {
+            "name": "剗の海（せのうみ）",
+            "description": "富士山の噴火で埋まった湖跡の風穴群。",
+            "prefecture": "山梨県",
+            "latitude": 35.483333,
+            "longitude": 138.650000
+        },
+        {
+            "name": "龍宮洞穴",
+            "description": "溶岩洞窟。セノウミ神社。",
+            "prefecture": "山梨県",
+            "latitude": 35.483333,
+            "longitude": 138.666667
+        },
+        {
+            "name": "メガネ穴",
+            "description": "溶岩洞窟。",
+            "prefecture": "山梨県",
+            "latitude": 35.466667,
+            "longitude": 138.650000
+        },
+        {
+            "name": "神座風穴",
+            "description": "忍野村。",
+            "prefecture": "山梨県",
+            "latitude": 35.450000,
+            "longitude": 138.850000
+        },
+        {
+            "name": "船津胎内樹型",
+            "description": "溶岩樹型。",
+            "prefecture": "山梨県",
+            "latitude": 35.450000,
+            "longitude": 138.750000
+        },
+        {
+            "name": "本栖氷穴",
+            "description": "富士山麓。",
+            "prefecture": "山梨県",
+            "latitude": 35.433333,
+            "longitude": 138.616667
+        },
+        {
+            "name": "大室風穴",
+            "description": "精進口。",
+            "prefecture": "山梨県",
+            "latitude": 35.433333,
+            "longitude": 138.650000
+        },
+        {
+            "name": "吉田胎内樹型",
+            "description": "溶岩樹型。",
+            "prefecture": "山梨県",
+            "latitude": 35.433333,
+            "longitude": 138.766667
+        },
+        {
+            "name": "菜の花台",
+            "description": "箱根ジオパーク（ヤビツ峠）。",
+            "prefecture": "神奈川県",
+            "latitude": 35.416667,
+            "longitude": 139.216667
+        },
+        {
+            "name": "精進口登山道の風穴",
+            "description": "富士山。",
+            "prefecture": "山梨県",
+            "latitude": 35.416667,
+            "longitude": 138.666667
+        },
+        {
+            "name": "雁穴",
+            "description": "溶岩洞窟。",
+            "prefecture": "山梨県",
+            "latitude": 35.416667,
+            "longitude": 138.650000
+        },
+        {
+            "name": "遠山郷（下栗の里）",
+            "description": "南アルプスジオパーク。日本のチロル。",
+            "prefecture": "長野県",
+            "latitude": 35.383333,
+            "longitude": 137.966667
+        },
+        {
+            "name": "箱根ジオミュージアム",
+            "description": "大涌谷にある。",
+            "prefecture": "神奈川県",
+            "latitude": 35.241667,
+            "longitude": 139.025000
+        },
+        {
+            "name": "大涌谷",
+            "description": "箱根ジオパークのハイライト。",
+            "prefecture": "神奈川県",
+            "latitude": 35.241667,
+            "longitude": 139.016667
+        },
+        {
+            "name": "箱根ジオパーク",
+            "description": "火山の恵みと歴史。",
+            "prefecture": "神奈川県",
+            "latitude": 35.233333,
+            "longitude": 139.016667
+        },
+        {
+            "name": "鵜原理想郷",
+            "description": "南房総。",
+            "prefecture": "千葉県",
+            "latitude": 35.133333,
+            "longitude": 140.283333
+        },
+        {
+            "name": "丹那断層",
+            "description": "伊豆半島ジオパーク。",
+            "prefecture": "静岡県",
+            "latitude": 35.100000,
+            "longitude": 139.000000
+        },
+        {
+            "name": "伊豆半島ジオパークミュージアム（ジオリア）",
+            "description": "修善寺にある拠点。",
+            "prefecture": "静岡県",
+            "latitude": 34.966667,
+            "longitude": 138.966667
+        },
+        {
+            "name": "小室山",
+            "description": "伊豆半島ジオパーク。",
+            "prefecture": "静岡県",
+            "latitude": 34.933333,
+            "longitude": 139.133333
+        },
+        {
+            "name": "伊豆半島ジオパーク",
+            "description": "南から来た火山の贈り物。ユネスコ世界ジオパーク。",
+            "prefecture": "静岡県",
+            "latitude": 34.900000,
+            "longitude": 138.933333
+        },
+        {
+            "name": "大室山",
+            "description": "伊豆半島ジオパーク。スコリア丘。",
+            "prefecture": "静岡県",
+            "latitude": 34.900000,
+            "longitude": 139.100000
+        },
+        {
+            "name": "伊豆大島ジオパーク",
+            "description": "生きている火山との共生。",
+            "prefecture": "東京都",
+            "latitude": 34.750000,
+            "longitude": 139.400000
+        },
+        {
+            "name": "伊豆大島火山博物館",
+            "description": "伊豆大島ジオパーク。",
+            "prefecture": "東京都",
+            "latitude": 34.750000,
+            "longitude": 139.383333
+        },
+        {
+            "name": "大島三原山",
+            "description": "伊豆大島ジオパーク。",
+            "prefecture": "東京都",
+            "latitude": 34.733333,
+            "longitude": 139.383333
+        },
+        {
+            "name": "地層大切断面",
+            "description": "伊豆大島。バームクーヘン。",
+            "prefecture": "東京都",
+            "latitude": 34.700000,
+            "longitude": 139.366667
+        },
+        {
+            "name": "波浮港",
+            "description": "伊豆大島。火口湖が海と繋がった港。",
+            "prefecture": "東京都",
+            "latitude": 34.683333,
+            "longitude": 139.400000
+        },
+        {
+            "name": "龍宮窟",
+            "description": "伊豆半島ジオパーク。ハート型の天窓。",
+            "prefecture": "静岡県",
+            "latitude": 34.633333,
+            "longitude": 138.883333
+        }
+    ]
+}

@@ -1,0 +1,704 @@
+{
+    "municipalities": [
+        {
+            "name": "羽衣の滝",
+            "description": "北海道最大の滝。天人峡にある。",
+            "prefecture": "北海道",
+            "latitude": 43.616667,
+            "longitude": 142.783333
+        },
+        {
+            "name": "インクラの滝",
+            "description": "「日本の滝百選」に選ばれた別名「別当賀の滝」。",
+            "prefecture": "北海道",
+            "latitude": 42.666667,
+            "longitude": 141.350000
+        },
+        {
+            "name": "飛竜の滝",
+            "description": "（同名の滝が多いので詳細確認、ここでは北海道のもの）",
+            "prefecture": "北海道",
+            "latitude": 42.500000,
+            "longitude": 141.133333
+        },
+        {
+            "name": "銀河の滝・流星の滝",
+            "description": "層雲峡にある双璧の滝。",
+            "prefecture": "北海道",
+            "latitude": 43.716667,
+            "longitude": 142.950000
+        },
+        {
+            "name": "オシンコシンの滝",
+            "description": "知床半島にある「双美の滝」。",
+            "prefecture": "北海道",
+            "latitude": 44.033333,
+            "longitude": 144.933333
+        },
+        {
+            "name": "フレペの滝",
+            "description": "知床の断崖から海に落ちる「乙女の涙」。",
+            "prefecture": "北海道",
+            "latitude": 44.066667,
+            "longitude": 145.083333
+        },
+        {
+            "name": "カムイワッカ湯の滝",
+            "description": "温泉が流れる滝。",
+            "prefecture": "北海道",
+            "latitude": 44.150000,
+            "longitude": 145.150000
+        },
+        {
+            "name": "アシリベツの滝",
+            "description": "滝野すずらん丘陵公園内にある。",
+            "prefecture": "北海道",
+            "latitude": 42.916667,
+            "longitude": 141.383333
+        },
+        {
+            "name": "賀老の滝",
+            "description": "日本の滝百選。「飛龍」とも呼ばれる。",
+            "prefecture": "北海道",
+            "latitude": 42.666667,
+            "longitude": 140.050000
+        },
+        {
+            "name": "くろくまの滝",
+            "description": "白神山地にある。",
+            "prefecture": "青森県",
+            "latitude": 40.733333,
+            "longitude": 140.166667
+        },
+        {
+            "name": "松見の滝",
+            "description": "奥入瀬渓流の支流にある。",
+            "prefecture": "青森県",
+            "latitude": 40.550000,
+            "longitude": 140.966667
+        },
+        {
+            "name": "不動の滝",
+            "description": "桜松神社の奥にある。",
+            "prefecture": "岩手県",
+            "latitude": 40.066667,
+            "longitude": 141.116667
+        },
+        {
+            "name": "七滝",
+            "description": "小坂町にある道の駅に隣接。",
+            "prefecture": "秋田県",
+            "latitude": 40.350000,
+            "longitude": 140.783333
+        },
+        {
+            "name": "茶釜の滝",
+            "description": "日本の滝百選。",
+            "prefecture": "秋田県",
+            "latitude": 40.033333,
+            "longitude": 140.350000
+        },
+        {
+            "name": "法体の滝",
+            "description": "鳥海山の雪解け水が流れる。",
+            "prefecture": "秋田県",
+            "latitude": 39.133333,
+            "longitude": 140.166667
+        },
+        {
+            "name": "安の滝",
+            "description": "日本の滝百選第2位に選ばれたこともある。",
+            "prefecture": "秋田県",
+            "latitude": 40.016667,
+            "longitude": 140.550000
+        },
+        {
+            "name": "秋保大滝",
+            "description": "日本三名瀑に数えられることもある。",
+            "prefecture": "宮城県",
+            "latitude": 38.283333,
+            "longitude": 140.600000
+        },
+        {
+            "name": "三階の滝",
+            "description": "蔵王にある。",
+            "prefecture": "宮城県",
+            "latitude": 38.133333,
+            "longitude": 140.516667
+        },
+        {
+            "name": "滑川大滝",
+            "description": "東北最大級の分岐瀑。",
+            "prefecture": "山形県",
+            "latitude": 37.833333,
+            "longitude": 140.183333
+        },
+        {
+            "name": "白糸の滝",
+            "description": "糸島市にある。",
+            "prefecture": "福岡県",
+            "latitude": 33.483333,
+            "longitude": 130.150000
+        },
+        {
+            "name": "七ツ滝",
+            "description": "日本の滝百選。",
+            "prefecture": "山形県",
+            "latitude": 38.600000,
+            "longitude": 139.950000
+        },
+        {
+            "name": "玉簾の滝",
+            "description": "弘法大師ゆかりの滝。",
+            "prefecture": "山形県",
+            "latitude": 38.933333,
+            "longitude": 139.983333
+        },
+        {
+            "name": "乙字ケ滝",
+            "description": "阿武隈川にかかる。",
+            "prefecture": "福島県",
+            "latitude": 37.233333,
+            "longitude": 140.383333
+        },
+        {
+            "name": "三条の滝",
+            "description": "尾瀬にある名瀑。",
+            "prefecture": "福島県",
+            "latitude": 36.966667,
+            "longitude": 139.283333
+        },
+        {
+            "name": "銚子ヶ滝",
+            "description": "安達太良山麓。",
+            "prefecture": "福島県",
+            "latitude": 37.616667,
+            "longitude": 140.233333
+        },
+        {
+            "name": "達沢不動滝",
+            "description": "中ノ沢温泉近く。",
+            "prefecture": "福島県",
+            "latitude": 37.600000,
+            "longitude": 140.200000
+        },
+        {
+            "name": "袋田の滝",
+            "description": "日本三名瀑の一つ。四度の滝。",
+            "prefecture": "茨城県",
+            "latitude": 36.766667,
+            "longitude": 140.383333
+        },
+        {
+            "name": "華厳の滝",
+            "description": "日本三名瀑の一つ。中禅寺湖から落下する。",
+            "prefecture": "栃木県",
+            "latitude": 36.733333,
+            "longitude": 139.500000
+        },
+        {
+            "name": "竜頭の滝",
+            "description": "奥日光にある。",
+            "prefecture": "栃木県",
+            "latitude": 36.750000,
+            "longitude": 139.450000
+        },
+        {
+            "name": "湯滝",
+            "description": "湯ノ湖から流れ落ちる。",
+            "prefecture": "栃木県",
+            "latitude": 36.783333,
+            "longitude": 139.433333
+        },
+        {
+            "name": "霧降の滝",
+            "description": "日光三名瀑の一つ。",
+            "prefecture": "栃木県",
+            "latitude": 36.766667,
+            "longitude": 139.633333
+        },
+        {
+            "name": "乙女の滝",
+            "description": "那須塩原にある。",
+            "prefecture": "栃木県",
+            "latitude": 37.033333,
+            "longitude": 139.933333
+        },
+        {
+            "name": "吹割の滝",
+            "description": "「東洋のナイアガラ」。",
+            "prefecture": "群馬県",
+            "latitude": 36.700000,
+            "longitude": 139.216667
+        },
+        {
+            "name": "常布の滝",
+            "description": "日本の滝百選。草津温泉近く。",
+            "prefecture": "群馬県",
+            "latitude": 36.633333,
+            "longitude": 138.566667
+        },
+        {
+            "name": "棚下不動滝",
+            "description": "裏見の滝。",
+            "prefecture": "群馬県",
+            "latitude": 36.533333,
+            "longitude": 139.050000
+        },
+        {
+            "name": "丸神の滝",
+            "description": "埼玉県唯一の日本の滝百選。",
+            "prefecture": "埼玉県",
+            "latitude": 36.033333,
+            "longitude": 138.933333
+        },
+        {
+            "name": "黒山三滝",
+            "description": "越生町にある。",
+            "prefecture": "埼玉県",
+            "latitude": 35.933333,
+            "longitude": 139.250000
+        },
+        {
+            "name": "払沢の滝",
+            "description": "東京都唯一の日本の滝百選。",
+            "prefecture": "東京都",
+            "latitude": 35.716667,
+            "longitude": 139.133333
+        },
+        {
+            "name": "洒水の滝",
+            "description": "山北町にある。",
+            "prefecture": "神奈川県",
+            "latitude": 35.350000,
+            "longitude": 139.066667
+        },
+        {
+            "name": "早戸大滝",
+            "description": "丹沢の幻の大滝。",
+            "prefecture": "神奈川県",
+            "latitude": 35.500000,
+            "longitude": 139.166667
+        },
+        {
+            "name": "飛龍の滝",
+            "description": "箱根にある。",
+            "prefecture": "神奈川県",
+            "latitude": 35.216667,
+            "longitude": 139.050000
+        },
+        {
+            "name": "粟又の滝（養老の滝）",
+            "description": "房総半島一の名瀑。",
+            "prefecture": "千葉県",
+            "latitude": 35.250000,
+            "longitude": 140.183333
+        },
+        {
+            "name": "濃溝の滝（亀岩の洞窟）",
+            "description": "ハート形に見える光が話題。",
+            "prefecture": "千葉県",
+            "latitude": 35.233333,
+            "longitude": 140.066667
+        },
+        {
+            "name": "称名滝",
+            "description": "落差日本一（350m）。",
+            "prefecture": "富山県",
+            "latitude": 36.583333,
+            "longitude": 137.533333
+        },
+        {
+            "name": "姥ヶ滝",
+            "description": "白山スーパー林道沿い。",
+            "prefecture": "石川県",
+            "latitude": 36.266667,
+            "longitude": 136.783333
+        },
+        {
+            "name": "龍双ケ滝",
+            "description": "日本の滝百選。",
+            "prefecture": "福井県",
+            "latitude": 35.916667,
+            "longitude": 136.383333
+        },
+        {
+            "name": "苗名滝",
+            "description": "地震滝とも呼ばれる。",
+            "prefecture": "新潟県・長野県",
+            "latitude": 36.850000,
+            "longitude": 138.133333
+        },
+        {
+            "name": "鈴ヶ滝",
+            "description": "村上市にある。",
+            "prefecture": "新潟県",
+            "latitude": 38.366667,
+            "longitude": 139.633333
+        },
+        {
+            "name": "米子大瀑布",
+            "description": "須坂市にある。",
+            "prefecture": "長野県",
+            "latitude": 36.583333,
+            "longitude": 138.416667
+        },
+        {
+            "name": "三本滝",
+            "description": "乗鞍高原にある。",
+            "prefecture": "長野県",
+            "latitude": 36.116667,
+            "longitude": 137.583333
+        },
+        {
+            "name": "善五郎の滝",
+            "description": "乗鞍高原。",
+            "prefecture": "長野県",
+            "latitude": 36.116667,
+            "longitude": 137.600000
+        },
+        {
+            "name": "千ヶ滝",
+            "description": "軽井沢。",
+            "prefecture": "長野県",
+            "latitude": 36.383333,
+            "longitude": 138.583333
+        },
+        {
+            "name": "田立の滝",
+            "description": "南木曽町にある滝群。",
+            "prefecture": "長野県",
+            "latitude": 35.616667,
+            "longitude": 137.550000
+        },
+        {
+            "name": "根尾の滝",
+            "description": "小坂の滝めぐりの一つ。",
+            "prefecture": "岐阜県",
+            "latitude": 35.916667,
+            "longitude": 137.366667
+        },
+        {
+            "name": "平湯大滝",
+            "description": "奥飛騨温泉郷にある。",
+            "prefecture": "岐阜県",
+            "latitude": 36.216667,
+            "longitude": 137.550000
+        },
+        {
+            "name": "養老の滝",
+            "description": "親孝行伝説で有名。",
+            "prefecture": "岐阜県",
+            "latitude": 35.283333,
+            "longitude": 136.533333
+        },
+        {
+            "name": "阿弥陀ヶ滝",
+            "description": "郡上市にある。",
+            "prefecture": "岐阜県",
+            "latitude": 35.950000,
+            "longitude": 136.833333
+        },
+        {
+            "name": "音止の滝",
+            "description": "白糸の滝の隣にある豪快な滝。",
+            "prefecture": "静岡県",
+            "latitude": 35.316667,
+            "longitude": 138.583333
+        },
+        {
+            "name": "浄蓮の滝",
+            "description": "伊豆の踊子や演歌で有名。",
+            "prefecture": "静岡県",
+            "latitude": 34.866667,
+            "longitude": 138.933333
+        },
+        {
+            "name": "河津七滝",
+            "description": "伊豆の滝群。",
+            "prefecture": "静岡県",
+            "latitude": 34.783333,
+            "longitude": 138.933333
+        },
+        {
+            "name": "阿寺の七滝",
+            "description": "新城市にある。",
+            "prefecture": "愛知県",
+            "latitude": 34.950000,
+            "longitude": 137.616667
+        },
+        {
+            "name": "那智の滝",
+            "description": "日本三名瀑の一つ。落差133mの一段の滝として日本一。",
+            "prefecture": "和歌山県",
+            "latitude": 33.666667,
+            "longitude": 135.883333
+        },
+        {
+            "name": "桑ノ木の滝",
+            "description": "新宮市にある。",
+            "prefecture": "和歌山県",
+            "latitude": 33.700000,
+            "longitude": 135.916667
+        },
+        {
+            "name": "八草の滝",
+            "description": "白浜町にある。",
+            "prefecture": "和歌山県",
+            "latitude": 33.633333,
+            "longitude": 135.533333
+        },
+        {
+            "name": "箕面滝",
+            "description": "紅葉の名所。",
+            "prefecture": "大阪府",
+            "latitude": 34.850000,
+            "longitude": 135.466667
+        },
+        {
+            "name": "金引の滝",
+            "description": "宮津市にある。",
+            "prefecture": "京都府",
+            "latitude": 35.533333,
+            "longitude": 135.183333
+        },
+        {
+            "name": "布引の滝",
+            "description": "新神戸駅の裏にある名瀑。",
+            "prefecture": "兵庫県",
+            "latitude": 34.716667,
+            "longitude": 135.183333
+        },
+        {
+            "name": "天滝",
+            "description": "養父市にある。",
+            "prefecture": "兵庫県",
+            "latitude": 35.333333,
+            "longitude": 134.633333
+        },
+        {
+            "name": "原不動滝",
+            "description": "宍粟市にある。",
+            "prefecture": "兵庫県",
+            "latitude": 35.150000,
+            "longitude": 134.483333
+        },
+        {
+            "name": "猿尾滝",
+            "description": "香美町にある。",
+            "prefecture": "兵庫県",
+            "latitude": 35.433333,
+            "longitude": 134.666667
+        },
+        {
+            "name": "不動七重の滝",
+            "description": "下北山村にある。",
+            "prefecture": "奈良県",
+            "latitude": 34.050000,
+            "longitude": 135.983333
+        },
+        {
+            "name": "笹の滝",
+            "description": "十津川村にある。",
+            "prefecture": "奈良県",
+            "latitude": 34.083333,
+            "longitude": 135.783333
+        },
+        {
+            "name": "双門の滝",
+            "description": "日本の滝百選。到達困難。",
+            "prefecture": "奈良県",
+            "latitude": 34.200000,
+            "longitude": 135.933333
+        },
+        {
+            "name": "赤目四十八滝",
+            "description": "忍者修行の地とされる滝群。",
+            "prefecture": "三重県",
+            "latitude": 34.566667,
+            "longitude": 136.083333
+        },
+        {
+            "name": "布引の滝（三重）",
+            "description": "熊野市にある。",
+            "prefecture": "三重県",
+            "latitude": 33.950000,
+            "longitude": 135.950000
+        },
+        {
+            "name": "神庭の滝",
+            "description": "西日本屈指の名瀑。野生のサルがいる。",
+            "prefecture": "岡山県",
+            "latitude": 35.116667,
+            "longitude": 133.683333
+        },
+        {
+            "name": "大山滝",
+            "description": "大山山麓にある。",
+            "prefecture": "鳥取県",
+            "latitude": 35.366667,
+            "longitude": 133.583333
+        },
+        {
+            "name": "雨滝",
+            "description": "鳥取市にある。",
+            "prefecture": "鳥取県",
+            "latitude": 35.466667,
+            "longitude": 134.383333
+        },
+        {
+            "name": "竜頭が滝",
+            "description": "裏見の滝。",
+            "prefecture": "島根県",
+            "latitude": 35.183333,
+            "longitude": 132.833333
+        },
+        {
+            "name": "八重滝",
+            "description": "竜頭が滝の近く。",
+            "prefecture": "島根県",
+            "latitude": 35.166667,
+            "longitude": 132.850000
+        },
+        {
+            "name": "壇鏡の滝",
+            "description": "隠岐の島にある。",
+            "prefecture": "島根県",
+            "latitude": 36.266667,
+            "longitude": 133.316667
+        },
+        {
+            "name": "常清滝",
+            "description": "三次市にある。",
+            "prefecture": "広島県",
+            "latitude": 34.866667,
+            "longitude": 132.733333
+        },
+        {
+            "name": "三段峡",
+            "description": "三段滝などが有名。",
+            "prefecture": "広島県",
+            "latitude": 34.616667,
+            "longitude": 132.216667
+        },
+        {
+            "name": "寂地峡五竜の滝",
+            "description": "岩国市にある。",
+            "prefecture": "山口県",
+            "latitude": 34.383333,
+            "longitude": 132.050000
+        },
+        {
+            "name": "轟九十九滝",
+            "description": "日本の滝百選。",
+            "prefecture": "徳島県",
+            "latitude": 33.683333,
+            "longitude": 134.283333
+        },
+        {
+            "name": "雨乞の滝",
+            "description": "神山町にある。",
+            "prefecture": "徳島県",
+            "latitude": 33.950000,
+            "longitude": 134.333333
+        },
+        {
+            "name": "大釜の滝",
+            "description": "那賀町にある。",
+            "prefecture": "徳島県",
+            "latitude": 33.883333,
+            "longitude": 134.233333
+        },
+        {
+            "name": "御来光の滝",
+            "description": "石鎚山にある。",
+            "prefecture": "愛媛県",
+            "latitude": 33.750000,
+            "longitude": 133.100000
+        },
+        {
+            "name": "雪輪の滝",
+            "description": "滑床渓谷にある。",
+            "prefecture": "愛媛県",
+            "latitude": 33.216667,
+            "longitude": 132.650000
+        },
+        {
+            "name": "白猪の滝",
+            "description": "冬の氷瀑が有名。",
+            "prefecture": "愛媛県",
+            "latitude": 33.783333,
+            "longitude": 132.933333
+        },
+        {
+            "name": "轟の滝",
+            "description": "日本の滝百選。",
+            "prefecture": "高知県",
+            "latitude": 33.683333,
+            "longitude": 133.766667
+        },
+        {
+            "name": "大樽の滝",
+            "description": "越知町にある。",
+            "prefecture": "高知県",
+            "latitude": 33.516667,
+            "longitude": 133.216667
+        },
+        {
+            "name": "龍王の滝",
+            "description": "大豊町にある。",
+            "prefecture": "高知県",
+            "latitude": 33.766667,
+            "longitude": 133.683333
+        },
+        {
+            "name": "原尻の滝",
+            "description": "「東洋のナイアガラ」。平野部にある。",
+            "prefecture": "大分県",
+            "latitude": 32.966667,
+            "longitude": 131.450000
+        },
+        {
+            "name": "震動の滝",
+            "description": "九重夢大吊橋から見える。",
+            "prefecture": "大分県",
+            "latitude": 33.166667,
+            "longitude": 131.233333
+        },
+        {
+            "name": "東椎屋の滝",
+            "description": "宇佐の三滝。",
+            "prefecture": "大分県",
+            "latitude": 33.383333,
+            "longitude": 131.383333
+        },
+        {
+            "name": "西椎屋の滝",
+            "description": "宇佐の三滝。",
+            "prefecture": "大分県",
+            "latitude": 33.366667,
+            "longitude": 131.333333
+        },
+        {
+            "name": "真名井の滝",
+            "description": "高千穂峡にある。",
+            "prefecture": "宮崎県",
+            "latitude": 32.700000,
+            "longitude": 131.300000
+        },
+        {
+            "name": "関之尾滝",
+            "description": "甌穴群がある。",
+            "prefecture": "宮崎県",
+            "latitude": 31.750000,
+            "longitude": 131.016667
+        },
+        {
+            "name": "行縢の滝",
+            "description": "行縢山にある。",
+            "prefecture": "宮崎県",
+            "latitude": 32.600000,
+            "longitude": 131.583333
+        }
+    ]
+}

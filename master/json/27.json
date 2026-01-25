@@ -1,0 +1,690 @@
+{
+    "municipalities": [
+        {
+            "name": "クラーク博士像",
+            "description": "「少年よ、大志を抱け」の言葉で有名な羊ヶ丘展望台の像。",
+            "prefecture": "北海道",
+            "latitude": "42.999400",
+            "longitude": "141.395600"
+        },
+        {
+            "name": "頭大仏",
+            "description": "真駒内滝野霊園にある、安藤忠雄設計の丘に埋もれた大仏。",
+            "prefecture": "北海道",
+            "latitude": "42.936700",
+            "longitude": "141.355600"
+        },
+        {
+            "name": "昭和大仏",
+            "description": "青龍寺にある日本最大の青銅製座像。",
+            "prefecture": "青森県",
+            "latitude": "40.803300",
+            "longitude": "140.806100"
+        },
+        {
+            "name": "自由の女神像",
+            "description": "おいらせ町にある、ニューヨークと同緯度であることを記念した像。",
+            "prefecture": "青森県",
+            "latitude": "40.605300",
+            "longitude": "141.425300"
+        },
+        {
+            "name": "釜石大観音",
+            "description": "釜石湾を見下ろす高さ48.5mの白亜の観音像。",
+            "prefecture": "岩手県",
+            "latitude": "39.261900",
+            "longitude": "141.896700"
+        },
+        {
+            "name": "宮沢賢治像(未来都市銀河地球鉄道壁画前)",
+            "description": "花巻駅近くのモニュメント。",
+            "prefecture": "岩手県",
+            "latitude": "39.395300",
+            "longitude": "141.109700"
+        },
+        {
+            "name": "伊達政宗公騎馬像",
+            "description": "仙台城跡（青葉山公園）にある仙台のシンボル。",
+            "prefecture": "宮城県",
+            "latitude": "38.253100",
+            "longitude": "140.856100"
+        },
+        {
+            "name": "仙台大観音",
+            "description": "高さ100mの巨大観音像。仙台のランドマーク。",
+            "prefecture": "宮城県",
+            "latitude": "38.300300",
+            "longitude": "140.823600"
+        },
+        {
+            "name": "なまはげ立像",
+            "description": "男鹿総合観光案内所にある巨大ななまはげ像。",
+            "prefecture": "秋田県",
+            "latitude": "39.878900",
+            "longitude": "139.851900"
+        },
+        {
+            "name": "田沢湖のたつこ像",
+            "description": "田沢湖畔にある金色の伝説の美女像。",
+            "prefecture": "秋田県",
+            "latitude": "39.730300",
+            "longitude": "140.647200"
+        },
+        {
+            "name": "上杉謙信公像",
+            "description": "上杉神社にある名将の像。",
+            "prefecture": "山形県",
+            "latitude": "37.909700",
+            "longitude": "140.106100"
+        },
+        {
+            "name": "松尾芭蕉像",
+            "description": "山寺（立石寺）にある俳聖の像。",
+            "prefecture": "山形県",
+            "latitude": "38.311700",
+            "longitude": "140.438600"
+        },
+        {
+            "name": "会津慈母大観音",
+            "description": "会津若松市にある高さ57mの観音像。",
+            "prefecture": "福島県",
+            "latitude": "37.531700",
+            "longitude": "139.951700"
+        },
+        {
+            "name": "野口英世像",
+            "description": "猪苗代町の生家近くや会津若松市などにある。",
+            "prefecture": "福島県",
+            "latitude": "37.556100",
+            "longitude": "140.122200"
+        },
+        {
+            "name": "牛久大仏",
+            "description": "高さ120m、青銅製立像として世界最大級。",
+            "prefecture": "茨城県",
+            "latitude": "35.981700",
+            "longitude": "140.220300"
+        },
+        {
+            "name": "水戸黄門像",
+            "description": "水戸駅北口にある徳川光圀公らの像。",
+            "prefecture": "茨城県",
+            "latitude": "36.371100",
+            "longitude": "140.476400"
+        },
+        {
+            "name": "平和観音",
+            "description": "大谷石の岩壁に彫られた高さ27mの観音像。",
+            "prefecture": "栃木県",
+            "latitude": "36.602200",
+            "longitude": "139.822500"
+        },
+        {
+            "name": "餃子像",
+            "description": "宇都宮駅前にあるビーナスが皮に包まれたシュールな像。",
+            "prefecture": "栃木県",
+            "latitude": "36.559200",
+            "longitude": "139.898300"
+        },
+        {
+            "name": "白衣大観音",
+            "description": "高崎観音山にある高さ41.8mの観音像。",
+            "prefecture": "群馬県",
+            "latitude": "36.305000",
+            "longitude": "138.989200"
+        },
+        {
+            "name": "茂林寺の狸像",
+            "description": "分福茶釜の伝説にちなむ狸の像の列。",
+            "prefecture": "群馬県",
+            "latitude": "36.233600",
+            "longitude": "139.544200"
+        },
+        {
+            "name": "渋沢栄一像",
+            "description": "深谷駅前にある「日本資本主義の父」の像。",
+            "prefecture": "埼玉県",
+            "latitude": "36.191100",
+            "longitude": "139.281700"
+        },
+        {
+            "name": "吉見百穴のヒカリゴケ(not statue)... 鳥居観音",
+            "description": "飯能市にある山頂の白い観音像。",
+            "prefecture": "埼玉県",
+            "latitude": "35.885600",
+            "longitude": "139.206400"
+        },
+        {
+            "name": "日本寺大仏",
+            "description": "鋸山にある日本最大級の石造大仏。",
+            "prefecture": "千葉県",
+            "latitude": "35.158100",
+            "longitude": "139.824200"
+        },
+        {
+            "name": "東京湾観音",
+            "description": "富津市にある高さ56mの観音像。",
+            "prefecture": "千葉県",
+            "latitude": "35.263900",
+            "longitude": "139.860300"
+        },
+        {
+            "name": "西郷隆盛像",
+            "description": "上野公園にある、犬を連れた有名な銅像。",
+            "prefecture": "東京都",
+            "latitude": "35.711900",
+            "longitude": "139.774400"
+        },
+        {
+            "name": "忠犬ハチ公像",
+            "description": "渋谷駅前の待ち合わせスポットとして世界的に有名。",
+            "prefecture": "東京都",
+            "latitude": "35.659100",
+            "longitude": "139.700600"
+        },
+        {
+            "name": "東京大仏",
+            "description": "板橋区乗蓮寺にある黒銅製の阿弥陀如来坐像。",
+            "prefecture": "東京都",
+            "latitude": "35.783100",
+            "longitude": "139.658300"
+        },
+        {
+            "name": "鎌倉大仏(高徳院)",
+            "description": "露座の大仏として国宝に指定されている。",
+            "prefecture": "神奈川県",
+            "latitude": "35.316700",
+            "longitude": "139.536100"
+        },
+        {
+            "name": "赤い靴はいてた女の子像",
+            "description": "山下公園にある童謡をモチーフにした像。",
+            "prefecture": "神奈川県",
+            "latitude": "35.445800",
+            "longitude": "139.649400"
+        },
+        {
+            "name": "越後胎内観音",
+            "description": "胎内市にある青銅製の観音像。",
+            "prefecture": "新潟県",
+            "latitude": "38.053100",
+            "longitude": "139.408300"
+        },
+        {
+            "name": "上杉謙信公像(春日山)",
+            "description": "春日山城跡にある像。",
+            "prefecture": "新潟県",
+            "latitude": "37.142500",
+            "longitude": "138.218900"
+        },
+        {
+            "name": "高岡大仏",
+            "description": "日本三大仏の一つに数えられることもある銅造阿弥陀如来坐像。",
+            "prefecture": "富山県",
+            "latitude": "36.745600",
+            "longitude": "137.013600"
+        },
+        {
+            "name": "おわら風の盆の像",
+            "description": "八尾町にある踊り手の像。",
+            "prefecture": "富山県",
+            "latitude": "36.575000",
+            "longitude": "137.138300"
+        },
+        {
+            "name": "ハニベ巌窟院の大仏",
+            "description": "巨大な仏頭が特徴的な珍スポット。",
+            "prefecture": "石川県",
+            "latitude": "36.386700",
+            "longitude": "136.505000"
+        },
+        {
+            "name": "前田利家公像",
+            "description": "尾山神社や金沢城公園近くにある。",
+            "prefecture": "石川県",
+            "latitude": "36.565800",
+            "longitude": "136.655600"
+        },
+        {
+            "name": "越前大仏(清大寺)",
+            "description": "勝山市にある屋内座像としては日本最大級の大仏。",
+            "prefecture": "福井県",
+            "latitude": "36.046700",
+            "longitude": "136.516700"
+        },
+        {
+            "name": "柴田勝家公像",
+            "description": "北ノ庄城址公園にある。",
+            "prefecture": "福井県",
+            "latitude": "36.062800",
+            "longitude": "136.221700"
+        },
+        {
+            "name": "武田信玄公像",
+            "description": "甲府駅前にある威厳ある座像。",
+            "prefecture": "山梨県",
+            "latitude": "35.666400",
+            "longitude": "138.568600"
+        },
+        {
+            "name": "平和観音",
+            "description": "韮崎市にある巨大な白衣観音。",
+            "prefecture": "山梨県",
+            "latitude": "35.706100",
+            "longitude": "138.450300"
+        },
+        {
+            "name": "善光寺の仁王像",
+            "description": "山門にある高村光雲と米原雲海の作。",
+            "prefecture": "長野県",
+            "latitude": "36.661700",
+            "longitude": "138.187800"
+        },
+        {
+            "name": "諏訪湖の湖上像(八重垣姫)",
+            "description": "諏訪湖畔にある像。",
+            "prefecture": "長野県",
+            "latitude": "36.046100",
+            "longitude": "138.108300"
+        },
+        {
+            "name": "岐阜大仏",
+            "description": "正法寺にある日本三大大仏の一つ（乾漆仏）。",
+            "prefecture": "岐阜県",
+            "latitude": "35.430300",
+            "longitude": "136.772500"
+        },
+        {
+            "name": "織田信長公像",
+            "description": "岐阜駅北口にある黄金の像。",
+            "prefecture": "岐阜県",
+            "latitude": "35.411100",
+            "longitude": "136.757200"
+        },
+        {
+            "name": "徳川家康公像",
+            "description": "静岡駅前や駿府城公園にある。",
+            "prefecture": "静岡県",
+            "latitude": "34.971700",
+            "longitude": "138.389200"
+        },
+        {
+            "name": "うなぎパイの像(Not statue per se) -> 熱海寛一お宮の像",
+            "description": "「金色夜叉」の有名なシーンを再現した像。熱海サンビーチ。",
+            "prefecture": "静岡県",
+            "latitude": "35.097500",
+            "longitude": "139.076700"
+        },
+        {
+            "name": "聚楽園大仏",
+            "description": "東海市にある高さ18.79mの鉄筋コンクリート製大仏。",
+            "prefecture": "愛知県",
+            "latitude": "35.045000",
+            "longitude": "136.906700"
+        },
+        {
+            "name": "名古屋駅のナナちゃん人形",
+            "description": "名鉄百貨店前にある巨大なマネキン。待ち合わせ場所。",
+            "prefecture": "愛知県",
+            "latitude": "35.168900",
+            "longitude": "136.883900"
+        },
+        {
+            "name": "純金大観音(伊勢安土桃山城下街? No longer there? No, at Houzan-ji/Daikanon-ji)",
+            "description": "大観音寺にある高さ33mの純金箔張りの観音像。",
+            "prefecture": "三重県",
+            "latitude": "34.685000",
+            "longitude": "136.505000"
+        },
+        {
+            "name": "松尾芭蕉像",
+            "description": "伊賀市（上野公園）などにある。",
+            "prefecture": "三重県",
+            "latitude": "34.768600",
+            "longitude": "136.128900"
+        },
+        {
+            "name": "長浜びわこ大仏",
+            "description": "平安山良疇寺にある阿弥陀如来像。",
+            "prefecture": "滋賀県",
+            "latitude": "35.366700",
+            "longitude": "136.261700"
+        },
+        {
+            "name": "井伊直弼公像",
+            "description": "彦根城近くにある。",
+            "prefecture": "滋賀県",
+            "latitude": "35.276400",
+            "longitude": "136.251700"
+        },
+        {
+            "name": "霊山観音",
+            "description": "高台寺近くにある高さ24mの白衣観音。",
+            "prefecture": "京都府",
+            "latitude": "35.000300",
+            "longitude": "135.782500"
+        },
+        {
+            "name": "坂本龍馬・中岡慎太郎像",
+            "description": "円山公園にある幕末の志士の像。",
+            "prefecture": "京都府",
+            "latitude": "35.003300",
+            "longitude": "135.781100"
+        },
+        {
+            "name": "出雲の阿国像",
+            "description": "四条大橋のたもとにある。",
+            "prefecture": "京都府",
+            "latitude": "35.003900",
+            "longitude": "135.771900"
+        },
+        {
+            "name": "太陽の塔",
+            "description": "岡本太郎作。万博記念公園のシンボル。",
+            "prefecture": "大阪府",
+            "latitude": "34.810000",
+            "longitude": "135.533300"
+        },
+        {
+            "name": "ビリケン像",
+            "description": "通天閣にある幸運の神様。",
+            "prefecture": "大阪府",
+            "latitude": "34.652500",
+            "longitude": "135.506400"
+        },
+        {
+            "name": "グリコサイン(Not a statue) -> 仁王像(Shitennoji)",
+            "description": "四天王寺の仁王像。",
+            "prefecture": "大阪府",
+            "latitude": "34.653300",
+            "longitude": "135.516400"
+        },
+        {
+            "name": "兵庫大仏",
+            "description": "能福寺にある日本三大大仏の一つとされることもある。",
+            "prefecture": "兵庫県",
+            "latitude": "34.668300",
+            "longitude": "135.172200"
+        },
+        {
+            "name": "鉄人28号モニュメント",
+            "description": "新長田にある高さ18mの実物大モニュメント。",
+            "prefecture": "兵庫県",
+            "latitude": "34.656100",
+            "longitude": "135.143600"
+        },
+        {
+            "name": "奈良の大仏(盧舎那仏)",
+            "description": "東大寺にある世界最大級の金銅仏。世界遺産。",
+            "prefecture": "奈良県",
+            "latitude": "34.689000",
+            "longitude": "135.839800"
+        },
+        {
+            "name": "飛鳥大仏",
+            "description": "飛鳥寺にある日本最古の仏像。",
+            "prefecture": "奈良県",
+            "latitude": "34.476700",
+            "longitude": "135.819700"
+        },
+        {
+            "name": "せんとくん",
+            "description": "奈良県庁前などにあるマスコットキャラクター像。",
+            "prefecture": "奈良県",
+            "latitude": "34.685300",
+            "longitude": "135.832800"
+        },
+        {
+            "name": "徳川吉宗公像",
+            "description": "和歌山市内にある暴れん坊将軍の像。",
+            "prefecture": "和歌山県",
+            "latitude": "34.226100",
+            "longitude": "135.176400"
+        },
+        {
+            "name": "身代わり大師",
+            "description": "高野山にある。",
+            "prefecture": "和歌山県",
+            "latitude": "34.213300",
+            "longitude": "135.585600"
+        },
+        {
+            "name": "水木しげるロードの妖怪ブロンズ像",
+            "description": "境港市にある177体以上の妖怪像。",
+            "prefecture": "鳥取県",
+            "latitude": "35.546100",
+            "longitude": "133.230000"
+        },
+        {
+            "name": "コナン像",
+            "description": "北栄町にある名探偵コナンの像。",
+            "prefecture": "鳥取県",
+            "latitude": "35.498300",
+            "longitude": "133.743300"
+        },
+        {
+            "name": "出雲阿国像",
+            "description": "出雲大社近くにある。",
+            "prefecture": "島根県",
+            "latitude": "35.399200",
+            "longitude": "132.685600"
+        },
+        {
+            "name": "小泉八雲像",
+            "description": "松江城周辺にある。",
+            "prefecture": "島根県",
+            "latitude": "35.476700",
+            "longitude": "133.050600"
+        },
+        {
+            "name": "桃太郎像",
+            "description": "岡山駅前にあるお供を連れた像。",
+            "prefecture": "岡山県",
+            "latitude": "34.666100",
+            "longitude": "133.918300"
+        },
+        {
+            "name": "吉備真備像",
+            "description": "倉敷市真備町などにある。",
+            "prefecture": "岡山県",
+            "latitude": "34.620000",
+            "longitude": "133.693300"
+        },
+        {
+            "name": "原爆の子の像",
+            "description": "平和記念公園にある千羽鶴が捧げられる像。",
+            "prefecture": "広島県",
+            "latitude": "34.394400",
+            "longitude": "132.452800"
+        },
+        {
+            "name": "祈りの像",
+            "description": "平和記念公園内。",
+            "prefecture": "広島県",
+            "latitude": "34.392800",
+            "longitude": "132.451700"
+        },
+        {
+            "name": "高杉晋作像",
+            "description": "萩市（晋作広場）や下関市（功山寺）にある。",
+            "prefecture": "山口県",
+            "latitude": "34.411700",
+            "longitude": "131.398300"
+        },
+        {
+            "name": "壇ノ浦の源義経・平知盛像",
+            "description": "関門海峡を望む古戦場にある躍動感ある像。",
+            "prefecture": "山口県",
+            "latitude": "33.961700",
+            "longitude": "130.957500"
+        },
+        {
+            "name": "阿波踊り像",
+            "description": "徳島駅前などにある踊る姿の像。",
+            "prefecture": "徳島県",
+            "latitude": "34.075000",
+            "longitude": "134.551700"
+        },
+        {
+            "name": "日和佐うみがめ博物館カレッタの像",
+            "description": "ウミガメの像。",
+            "prefecture": "徳島県",
+            "latitude": "33.729400",
+            "longitude": "134.529200"
+        },
+        {
+            "name": "銭形砂絵(Not statue)",
+            "description": "Wait, Statue? -> 二十四の瞳の像",
+            "prefecture": "香川県",
+            "latitude": "34.444200",
+            "longitude": "134.288300"
+        },
+        {
+            "name": "オリーブの女神像",
+            "description": "小豆島オリーブ公園にある。",
+            "prefecture": "香川県",
+            "latitude": "34.481100",
+            "longitude": "134.275800"
+        },
+        {
+            "name": "坊っちゃんカラクリ時計",
+            "description": "道後温泉駅前にある。像が登場する。",
+            "prefecture": "愛媛県",
+            "latitude": "33.850800",
+            "longitude": "132.785300"
+        },
+        {
+            "name": "正岡子規像",
+            "description": "松山城や道後にある。",
+            "prefecture": "愛媛県",
+            "latitude": "33.851700",
+            "longitude": "132.785000"
+        },
+        {
+            "name": "坂本龍馬像",
+            "description": "桂浜に立つ巨大な龍馬像。太平洋を見つめる。",
+            "prefecture": "高知県",
+            "latitude": "33.497500",
+            "longitude": "133.573900"
+        },
+        {
+            "name": "中岡慎太郎像",
+            "description": "室戸岬にある。",
+            "prefecture": "高知県",
+            "latitude": "33.248300",
+            "longitude": "134.177200"
+        },
+        {
+            "name": "福岡大仏",
+            "description": "東長寺にある木造座像としては日本最大級。",
+            "prefecture": "福岡県",
+            "latitude": "33.595000",
+            "longitude": "130.415000"
+        },
+        {
+            "name": "南蔵院の釈迦涅槃像",
+            "description": "篠栗町にある世界最大級のブロンズ製涅槃像。",
+            "prefecture": "福岡県",
+            "latitude": "33.618600",
+            "longitude": "130.526100"
+        },
+        {
+            "name": "陶山神社の磁器製鳥居・狛犬",
+            "description": "有田焼で作られた珍しい像。",
+            "prefecture": "佐賀県",
+            "latitude": "33.190600",
+            "longitude": "129.892800"
+        },
+        {
+            "name": "徐福像",
+            "description": "佐賀市金立公園などにある。",
+            "prefecture": "佐賀県",
+            "latitude": "33.325000",
+            "longitude": "130.291700"
+        },
+        {
+            "name": "平和祈念像",
+            "description": "長崎平和公園にある、平和を願う巨大な像。",
+            "prefecture": "長崎県",
+            "latitude": "32.775300",
+            "longitude": "129.863100"
+        },
+        {
+            "name": "坂本龍馬之像",
+            "description": "風頭公園にある龍馬像。",
+            "prefecture": "長崎県",
+            "latitude": "32.744400",
+            "longitude": "129.886100"
+        },
+        {
+            "name": "加藤清正公像",
+            "description": "熊本城周辺にある。",
+            "prefecture": "熊本県",
+            "latitude": "32.803300",
+            "longitude": "130.705000"
+        },
+        {
+            "name": "天草四郎像",
+            "description": "上天草市の藍のあまくさ村などにある。",
+            "prefecture": "熊本県",
+            "latitude": "32.533300",
+            "longitude": "130.416700"
+        },
+        {
+            "name": "臼杵石仏",
+            "description": "平安時代から鎌倉時代に彫られた磨崖仏群。国宝。",
+            "prefecture": "大分県",
+            "latitude": "33.090600",
+            "longitude": "131.761100"
+        },
+        {
+            "name": "熊野磨崖仏",
+            "description": "豊後高田市にある巨大な不動明王と大日如来。",
+            "prefecture": "大分県",
+            "latitude": "33.475600",
+            "longitude": "131.528300"
+        },
+        {
+            "name": "はにわ像(平和の塔周辺)",
+            "description": "平和台公園にあるはにわ園。",
+            "prefecture": "宮崎県",
+            "latitude": "31.946700",
+            "longitude": "131.416700"
+        },
+        {
+            "name": "モアイ像",
+            "description": "サンメッセ日南にある、イースター島公認のモアイ像。",
+            "prefecture": "宮崎県",
+            "latitude": "31.664200",
+            "longitude": "131.458900"
+        },
+        {
+            "name": "西郷隆盛像",
+            "description": "城山の麓にある軍服姿の西郷どん。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.595800",
+            "longitude": "130.553900"
+        },
+        {
+            "name": "大久保利通像",
+            "description": "鹿児島中央駅近くにある。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.583300",
+            "longitude": "130.543100"
+        },
+        {
+            "name": "残波大獅子",
+            "description": "残波岬公園にある高さ8.75mの日本最大級のシーサー。",
+            "prefecture": "沖縄県",
+            "latitude": "26.440800",
+            "longitude": "127.712800"
+        },
+        {
+            "name": "琉球王朝の石彫(玉陵のシーサー等)",
+            "description": "歴史的な石像。",
+            "prefecture": "沖縄県",
+            "latitude": "26.219700",
+            "longitude": "127.717200"
+        }
+    ]
+}

@@ -1,0 +1,704 @@
+{
+    "municipalities": [
+        {
+            "name": "利尻島",
+            "description": "利尻富士がそびえる美しい島。",
+            "prefecture": "北海道",
+            "latitude": 45.183333,
+            "longitude": 141.216667
+        },
+        {
+            "name": "礼文島",
+            "description": "高山植物の宝庫。「花の浮島」。",
+            "prefecture": "北海道",
+            "latitude": 45.350000,
+            "longitude": 141.033333
+        },
+        {
+            "name": "奥尻島",
+            "description": "鍋釣岩などの奇岩がある島。",
+            "prefecture": "北海道",
+            "latitude": 42.166667,
+            "longitude": 139.466667
+        },
+        {
+            "name": "天売島",
+            "description": "海鳥の繁殖地として有名。",
+            "prefecture": "北海道",
+            "latitude": 44.433333,
+            "longitude": 141.316667
+        },
+        {
+            "name": "焼尻島",
+            "description": "オンコ（イチイ）の原生林がある。",
+            "prefecture": "北海道",
+            "latitude": 44.433333,
+            "longitude": 141.416667
+        },
+        {
+            "name": "飛島",
+            "description": "バードウォッチングや釣りの名所。",
+            "prefecture": "山形県",
+            "latitude": 39.200000,
+            "longitude": 139.550000
+        },
+        {
+            "name": "金華山",
+            "description": "信仰の島。鹿が生息する。",
+            "prefecture": "宮城県",
+            "latitude": 38.283333,
+            "longitude": 141.566667
+        },
+        {
+            "name": "田代島",
+            "description": "猫の島として知られる。",
+            "prefecture": "宮城県",
+            "latitude": 38.283333,
+            "longitude": 141.416667
+        },
+        {
+            "name": "網地島",
+            "description": "東北のハワイと呼ばれる美しいビーチがある。",
+            "prefecture": "宮城県",
+            "latitude": 38.266667,
+            "longitude": 141.466667
+        },
+        {
+            "name": "気仙沼大島",
+            "description": "「緑の真珠」と呼ばれる。",
+            "prefecture": "宮城県",
+            "latitude": 38.866667,
+            "longitude": 141.616667
+        },
+        {
+            "name": "浦戸諸島（桂島など）",
+            "description": "松島湾に浮かぶ有人島群。",
+            "prefecture": "宮城県",
+            "latitude": 38.333333,
+            "longitude": 141.100000
+        },
+        {
+            "name": "伊豆大島",
+            "description": "三原山や椿で有名な伊豆諸島最大の島。",
+            "prefecture": "東京都",
+            "latitude": 34.750000,
+            "longitude": 139.400000
+        },
+        {
+            "name": "利島",
+            "description": "椿に覆われた円錐形の島。",
+            "prefecture": "東京都",
+            "latitude": 34.525000,
+            "longitude": 139.275000
+        },
+        {
+            "name": "新島",
+            "description": "白い砂浜とサーフィンで有名。",
+            "prefecture": "東京都",
+            "latitude": 34.366667,
+            "longitude": 139.250000
+        },
+        {
+            "name": "式根島",
+            "description": "リアス式海岸と温泉が魅力。",
+            "prefecture": "東京都",
+            "latitude": 34.316667,
+            "longitude": 139.216667
+        },
+        {
+            "name": "神津島",
+            "description": "天上山や星空保護区で知られる。",
+            "prefecture": "東京都",
+            "latitude": 34.216667,
+            "longitude": 139.150000
+        },
+        {
+            "name": "三宅島",
+            "description": "雄山を中心とした火山島。野鳥の楽園。",
+            "prefecture": "東京都",
+            "latitude": 34.083333,
+            "longitude": 139.516667
+        },
+        {
+            "name": "御蔵島",
+            "description": "野生のイルカと泳げる島。",
+            "prefecture": "東京都",
+            "latitude": 33.866667,
+            "longitude": 139.600000
+        },
+        {
+            "name": "八丈島",
+            "description": "八丈富士と温泉、亜熱帯植物の島。",
+            "prefecture": "東京都",
+            "latitude": 33.100000,
+            "longitude": 139.800000
+        },
+        {
+            "name": "青ヶ島",
+            "description": "二重カルデラを持つ絶海の孤島。",
+            "prefecture": "東京都",
+            "latitude": 32.466667,
+            "longitude": 139.766667
+        },
+        {
+            "name": "父島",
+            "description": "小笠原諸島の中心。世界自然遺産。",
+            "prefecture": "東京都",
+            "latitude": 27.066667,
+            "longitude": 142.200000
+        },
+        {
+            "name": "母島",
+            "description": "小笠原諸島。固有種が多く残る。",
+            "prefecture": "東京都",
+            "latitude": 26.650000,
+            "longitude": 142.150000
+        },
+        {
+            "name": "江の島",
+            "description": "湘南のシンボル。神社や展望台がある。",
+            "prefecture": "神奈川県",
+            "latitude": 35.300000,
+            "longitude": 139.483333
+        },
+        {
+            "name": "城ヶ島",
+            "description": "三浦半島の最南端。",
+            "prefecture": "神奈川県",
+            "latitude": 35.133333,
+            "longitude": 139.616667
+        },
+        {
+            "name": "猿島",
+            "description": "東京湾に浮かぶ無人島。要塞跡。",
+            "prefecture": "神奈川県",
+            "latitude": 35.283333,
+            "longitude": 139.683333
+        },
+        {
+            "name": "仁右衛門島",
+            "description": "鴨川市にある手漕ぎ舟で渡る島。",
+            "prefecture": "千葉県",
+            "latitude": 35.083333,
+            "longitude": 140.116667
+        },
+        {
+            "name": "佐渡島",
+            "description": "日本海最大の島。金山やトキで有名。",
+            "prefecture": "新潟県",
+            "latitude": 38.000000,
+            "longitude": 138.400000
+        },
+        {
+            "name": "粟島",
+            "description": "自然豊かな小さな島。",
+            "prefecture": "新潟県",
+            "latitude": 38.466667,
+            "longitude": 139.250000
+        },
+        {
+            "name": "能登島",
+            "description": "七尾湾に浮かぶ島。水族館やガラス美術館。",
+            "prefecture": "石川県",
+            "latitude": 37.116667,
+            "longitude": 136.950000
+        },
+        {
+            "name": "舳倉島",
+            "description": "渡り鳥の中継地として有名。",
+            "prefecture": "石川県",
+            "latitude": 37.850000,
+            "longitude": 136.916667
+        },
+        {
+            "name": "初島",
+            "description": "熱海から近いリゾートアイランド。",
+            "prefecture": "静岡県",
+            "latitude": 35.033333,
+            "longitude": 139.166667
+        },
+        {
+            "name": "日間賀島",
+            "description": "タコとフグの島。",
+            "prefecture": "愛知県",
+            "latitude": 34.700000,
+            "longitude": 137.000000
+        },
+        {
+            "name": "篠島",
+            "description": "シラスや鯛が名産。美しい海岸。",
+            "prefecture": "愛知県",
+            "latitude": 34.666667,
+            "longitude": 137.000000
+        },
+        {
+            "name": "佐久島",
+            "description": "アートの島。",
+            "prefecture": "愛知県",
+            "latitude": 34.716667,
+            "longitude": 137.050000
+        },
+        {
+            "name": "答志島",
+            "description": "鳥羽湾最大の島。",
+            "prefecture": "三重県",
+            "latitude": 34.516667,
+            "longitude": 136.883333
+        },
+        {
+            "name": "神島",
+            "description": "三島由紀夫『潮騒』の舞台。",
+            "prefecture": "三重県",
+            "latitude": 34.550000,
+            "longitude": 136.983333
+        },
+        {
+            "name": "淡路島",
+            "description": "瀬戸内海最大の島。花と食の宝庫。",
+            "prefecture": "兵庫県",
+            "latitude": 34.333333,
+            "longitude": 134.833333
+        },
+        {
+            "name": "沼島",
+            "description": "国生み神話の島。",
+            "prefecture": "兵庫県",
+            "latitude": 34.166667,
+            "longitude": 134.816667
+        },
+        {
+            "name": "家島諸島",
+            "description": "瀬戸内海の島々。",
+            "prefecture": "兵庫県",
+            "latitude": 34.666667,
+            "longitude": 134.533333
+        },
+        {
+            "name": "友ヶ島",
+            "description": "ラピュタのような要塞跡が残る無人島。",
+            "prefecture": "和歌山県",
+            "latitude": 34.283333,
+            "longitude": 135.000000
+        },
+        {
+            "name": "紀大島",
+            "description": "串本町の沖にある島。",
+            "prefecture": "和歌山県",
+            "latitude": 33.466667,
+            "longitude": 135.800000
+        },
+        {
+            "name": "沖島",
+            "description": "琵琶湖に浮かぶ有人島。",
+            "prefecture": "滋賀県",
+            "latitude": 35.200000,
+            "longitude": 136.066667
+        },
+        {
+            "name": "隠岐の島（島後）",
+            "description": "隠岐諸島最大の島。ジオパーク。",
+            "prefecture": "島根県",
+            "latitude": 36.250000,
+            "longitude": 133.333333
+        },
+        {
+            "name": "西ノ島",
+            "description": "国賀海岸などの絶景がある。",
+            "prefecture": "島根県",
+            "latitude": 36.100000,
+            "longitude": 133.000000
+        },
+        {
+            "name": "中ノ島（海士町）",
+            "description": "後鳥羽上皇ゆかりの島。",
+            "prefecture": "島根県",
+            "latitude": 36.083333,
+            "longitude": 133.100000
+        },
+        {
+            "name": "知夫里島",
+            "description": "赤壁などの景勝地。",
+            "prefecture": "島根県",
+            "latitude": 36.016667,
+            "longitude": 133.033333
+        },
+        {
+            "name": "厳島（宮島）",
+            "description": "日本三景。世界遺産・厳島神社がある。",
+            "prefecture": "広島県",
+            "latitude": 34.283333,
+            "longitude": 132.316667
+        },
+        {
+            "name": "江田島",
+            "description": "旧海軍兵学校がある。",
+            "prefecture": "広島県",
+            "latitude": 34.200000,
+            "longitude": 132.466667
+        },
+        {
+            "name": "倉橋島",
+            "description": "音戸の瀬戸で本土と繋がる。",
+            "prefecture": "広島県",
+            "latitude": 34.116667,
+            "longitude": 132.533333
+        },
+        {
+            "name": "大久野島",
+            "description": "ウサギの島。",
+            "prefecture": "広島県",
+            "latitude": 34.300000,
+            "longitude": 132.983333
+        },
+        {
+            "name": "生口島",
+            "description": "しまなみ海道の島。レモンの産地。",
+            "prefecture": "広島県",
+            "latitude": 34.300000,
+            "longitude": 133.100000
+        },
+        {
+            "name": "因島",
+            "description": "村上海賊ゆかりの島。",
+            "prefecture": "広島県",
+            "latitude": 34.316667,
+            "longitude": 133.166667
+        },
+        {
+            "name": "仙酔島",
+            "description": "鞆の浦に浮かぶ島。",
+            "prefecture": "広島県",
+            "latitude": 34.383333,
+            "longitude": 133.383333
+        },
+        {
+            "name": "周防大島（屋代島）",
+            "description": "瀬戸内のハワイ。",
+            "prefecture": "山口県",
+            "latitude": 33.916667,
+            "longitude": 132.216667
+        },
+        {
+            "name": "角島",
+            "description": "角島大橋で結ばれた美しい島。",
+            "prefecture": "山口県",
+            "latitude": 34.350000,
+            "longitude": 130.850000
+        },
+        {
+            "name": "青海島",
+            "description": "海上アルプス。（海岸カテゴリだが島としても）",
+            "prefecture": "山口県",
+            "latitude": 34.416667,
+            "longitude": 131.200000
+        },
+        {
+            "name": "祝島",
+            "description": "伝統的な石垣の集落。",
+            "prefecture": "山口県",
+            "latitude": 33.783333,
+            "longitude": 131.983333
+        },
+        {
+            "name": "小豆島",
+            "description": "オリーブと醤油の島。寒霞渓。",
+            "prefecture": "香川県",
+            "latitude": 34.500000,
+            "longitude": 134.300000
+        },
+        {
+            "name": "直島",
+            "description": "現代アートの聖地。",
+            "prefecture": "香川県",
+            "latitude": 34.450000,
+            "longitude": 133.983333
+        },
+        {
+            "name": "豊島",
+            "description": "アートと食の島。豊島美術館。",
+            "prefecture": "香川県",
+            "latitude": 34.483333,
+            "longitude": 134.050000
+        },
+        {
+            "name": "女木島",
+            "description": "鬼ヶ島伝説の洞窟がある。",
+            "prefecture": "香川県",
+            "latitude": 34.383333,
+            "longitude": 134.050000
+        },
+        {
+            "name": "男木島",
+            "description": "猫が多く、迷路のような坂道の集落。",
+            "prefecture": "香川県",
+            "latitude": 34.416667,
+            "longitude": 134.050000
+        },
+        {
+            "name": "犬島",
+            "description": "製錬所跡を活かしたアートの島。",
+            "prefecture": "岡山県",
+            "latitude": 34.566667,
+            "longitude": 134.100000
+        },
+        {
+            "name": "大三島",
+            "description": "大山祇神社がある神の島。",
+            "prefecture": "愛媛県",
+            "latitude": 34.250000,
+            "longitude": 133.000000
+        },
+        {
+            "name": "伯方島",
+            "description": "伯方の塩で有名。",
+            "prefecture": "愛媛県",
+            "latitude": 34.200000,
+            "longitude": 133.100000
+        },
+        {
+            "name": "大島（愛媛）",
+            "description": "亀老山展望台がある。",
+            "prefecture": "愛媛県",
+            "latitude": 34.133333,
+            "longitude": 133.050000
+        },
+        {
+            "name": "青島",
+            "description": "猫の島として世界的に有名。",
+            "prefecture": "愛媛県",
+            "latitude": 33.733333,
+            "longitude": 132.483333
+        },
+        {
+            "name": "柏島",
+            "description": "透明度の高い海で知られる。",
+            "prefecture": "高知県",
+            "latitude": 32.766667,
+            "longitude": 132.633333
+        },
+        {
+            "name": "沖の島",
+            "description": "宿毛市の沖にある島。",
+            "prefecture": "高知県",
+            "latitude": 32.733333,
+            "longitude": 132.550000
+        },
+        {
+            "name": "志賀島",
+            "description": "金印が出土した島。海の中道で繋がる。",
+            "prefecture": "福岡県",
+            "latitude": 33.666667,
+            "longitude": 130.300000
+        },
+        {
+            "name": "能古島",
+            "description": "福岡市内から近い花の名所。",
+            "prefecture": "福岡県",
+            "latitude": 33.616667,
+            "longitude": 130.300000
+        },
+        {
+            "name": "大島（宗像）",
+            "description": "世界遺産・宗像大社中津宮がある。",
+            "prefecture": "福岡県",
+            "latitude": 33.900000,
+            "longitude": 130.433333
+        },
+        {
+            "name": "沖ノ島",
+            "description": "神宿る島。世界遺産。一般人立入禁止だが象徴的。",
+            "prefecture": "福岡県",
+            "latitude": 34.250000,
+            "longitude": 130.100000
+        },
+        {
+            "name": "相島",
+            "description": "猫の島として知られる。",
+            "prefecture": "福岡県",
+            "latitude": 33.750000,
+            "longitude": 130.383333
+        },
+        {
+            "name": "壱岐島",
+            "description": "美しいビーチと歴史遺産の島。",
+            "prefecture": "長崎県",
+            "latitude": 33.783333,
+            "longitude": 129.700000
+        },
+        {
+            "name": "対馬",
+            "description": "国境の島。浅茅湾などの絶景。",
+            "prefecture": "長崎県",
+            "latitude": 34.333333,
+            "longitude": 129.333333
+        },
+        {
+            "name": "五島列島（福江島）",
+            "description": "キリシタン教会群と美しい海。",
+            "prefecture": "長崎県",
+            "latitude": 32.700000,
+            "longitude": 128.833333
+        },
+        {
+            "name": "中通島",
+            "description": "五島列島北部。上五島。",
+            "prefecture": "長崎県",
+            "latitude": 32.966667,
+            "longitude": 129.083333
+        },
+        {
+            "name": "軍艦島（端島）",
+            "description": "廃墟の島。世界遺産。",
+            "prefecture": "長崎県",
+            "latitude": 32.627778,
+            "longitude": 129.738333
+        },
+        {
+            "name": "天草諸島（上島・下島）",
+            "description": "キリシタン文化とイルカウォッチング。",
+            "prefecture": "熊本県",
+            "latitude": 32.450000,
+            "longitude": 130.183333
+        },
+        {
+            "name": "姫島",
+            "description": "車海老とジオパーク。",
+            "prefecture": "大分県",
+            "latitude": 33.733333,
+            "longitude": 131.666667
+        },
+        {
+            "name": "桜島",
+            "description": "活火山島（現在は大隅半島と陸続き）。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.583333,
+            "longitude": 130.666667
+        },
+        {
+            "name": "屋久島",
+            "description": "世界自然遺産。縄文杉。",
+            "prefecture": "鹿児島県",
+            "latitude": 30.333333,
+            "longitude": 130.516667
+        },
+        {
+            "name": "種子島",
+            "description": "ロケット発射場と鉄砲伝来の地。",
+            "prefecture": "鹿児島県",
+            "latitude": 30.566667,
+            "longitude": 130.983333
+        },
+        {
+            "name": "奄美大島",
+            "description": "世界自然遺産。マングローブや美しい海。",
+            "prefecture": "鹿児島県",
+            "latitude": 28.366667,
+            "longitude": 129.483333
+        },
+        {
+            "name": "徳之島",
+            "description": "世界自然遺産。闘牛が盛ん。",
+            "prefecture": "鹿児島県",
+            "latitude": 27.816667,
+            "longitude": 128.966667
+        },
+        {
+            "name": "喜界島",
+            "description": "隆起サンゴ礁の島。",
+            "prefecture": "鹿児島県",
+            "latitude": 28.316667,
+            "longitude": 129.966667
+        },
+        {
+            "name": "沖永良部島",
+            "description": "鍾乳洞の島。",
+            "prefecture": "鹿児島県",
+            "latitude": 27.366667,
+            "longitude": 128.600000
+        },
+        {
+            "name": "与論島",
+            "description": "百合ヶ浜などの絶景ビーチ。",
+            "prefecture": "鹿児島県",
+            "latitude": 27.050000,
+            "longitude": 128.433333
+        },
+        {
+            "name": "甑島列島",
+            "description": "断崖絶壁とナポレオン岩。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.850000,
+            "longitude": 129.866667
+        },
+        {
+            "name": "石垣島",
+            "description": "八重山諸島の中心。川平湾など。",
+            "prefecture": "沖縄県",
+            "latitude": 24.333333,
+            "longitude": 124.150000
+        },
+        {
+            "name": "宮古島",
+            "description": "宮古ブルーの海と東平安名崎。",
+            "prefecture": "沖縄県",
+            "latitude": 24.800000,
+            "longitude": 125.283333
+        },
+        {
+            "name": "西表島",
+            "description": "世界自然遺産。イリオモテヤマネコ。",
+            "prefecture": "沖縄県",
+            "latitude": 24.316667,
+            "longitude": 123.833333
+        },
+        {
+            "name": "竹富島",
+            "description": "赤瓦の集落と水牛車。",
+            "prefecture": "沖縄県",
+            "latitude": 24.333333,
+            "longitude": 124.083333
+        },
+        {
+            "name": "小浜島",
+            "description": "NHK朝ドラ『ちゅらさん』の舞台。",
+            "prefecture": "沖縄県",
+            "latitude": 24.333333,
+            "longitude": 123.983333
+        },
+        {
+            "name": "波照間島",
+            "description": "有人島日本最南端。南十字星。",
+            "prefecture": "沖縄県",
+            "latitude": 24.066667,
+            "longitude": 123.783333
+        },
+        {
+            "name": "与那国島",
+            "description": "日本最西端の島。海底遺跡。",
+            "prefecture": "沖縄県",
+            "latitude": 24.450000,
+            "longitude": 123.000000
+        },
+        {
+            "name": "久米島",
+            "description": "はての浜などのビーチ。",
+            "prefecture": "沖縄県",
+            "latitude": 26.350000,
+            "longitude": 126.766667
+        },
+        {
+            "name": "慶良間諸島（座間味島）",
+            "description": "ケラマブルーの海。ホエールウォッチング。",
+            "prefecture": "沖縄県",
+            "latitude": 26.233333,
+            "longitude": 127.300000
+        },
+        {
+            "name": "渡嘉敷島",
+            "description": "慶良間諸島最大の島。",
+            "prefecture": "沖縄県",
+            "latitude": 26.200000,
+            "longitude": 127.350000
+        }
+    ]
+}

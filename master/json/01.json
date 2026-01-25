@@ -1,0 +1,704 @@
+{
+    "municipalities": [
+        {
+            "name": "利尻岳",
+            "description": "北海道にある山。日本百名山の一つ。",
+            "prefecture": "北海道",
+            "latitude": 45.1833,
+            "longitude": 141.2333
+        },
+        {
+            "name": "羅臼岳",
+            "description": "北海道にある山。日本百名山の一つ。",
+            "prefecture": "北海道",
+            "latitude": 44.075,
+            "longitude": 145.121
+        },
+        {
+            "name": "斜里岳",
+            "description": "北海道にある山。日本百名山の一つ。",
+            "prefecture": "北海道",
+            "latitude": 43.765,
+            "longitude": 144.718
+        },
+        {
+            "name": "阿寒岳",
+            "description": "北海道にある山。日本百名山の一つ。",
+            "prefecture": "北海道",
+            "latitude": 43.385,
+            "longitude": 144.009
+        },
+        {
+            "name": "大雪山",
+            "description": "北海道にある山。日本百名山の一つ。",
+            "prefecture": "北海道",
+            "latitude": 43.664,
+            "longitude": 142.854
+        },
+        {
+            "name": "トムラウシ山",
+            "description": "北海道にある山。日本百名山の一つ。",
+            "prefecture": "北海道",
+            "latitude": 43.527,
+            "longitude": 142.848
+        },
+        {
+            "name": "十勝岳",
+            "description": "北海道にある山。日本百名山の一つ。",
+            "prefecture": "北海道",
+            "latitude": 43.418,
+            "longitude": 142.686
+        },
+        {
+            "name": "幌尻岳",
+            "description": "北海道にある山。日本百名山の一つ。",
+            "prefecture": "北海道",
+            "latitude": 42.719,
+            "longitude": 142.683
+        },
+        {
+            "name": "羊蹄山",
+            "description": "北海道にある山。日本百名山の一つ。",
+            "prefecture": "北海道",
+            "latitude": 42.829,
+            "longitude": 140.812
+        },
+        {
+            "name": "岩木山",
+            "description": "青森県にある山。日本百名山の一つ。",
+            "prefecture": "青森県",
+            "latitude": 40.656,
+            "longitude": 140.303
+        },
+        {
+            "name": "八甲田山",
+            "description": "青森県にある山。日本百名山の一つ。",
+            "prefecture": "青森県",
+            "latitude": 40.657,
+            "longitude": 140.879
+        },
+        {
+            "name": "八幡平",
+            "description": "岩手県・秋田県にある山。日本百名山の一つ。",
+            "prefecture": "岩手県・秋田県",
+            "latitude": 39.957,
+            "longitude": 140.853
+        },
+        {
+            "name": "岩手山",
+            "description": "岩手県にある山。日本百名山の一つ。",
+            "prefecture": "岩手県",
+            "latitude": 39.853,
+            "longitude": 141.001
+        },
+        {
+            "name": "早池峰山",
+            "description": "岩手県にある山。日本百名山の一つ。",
+            "prefecture": "岩手県",
+            "latitude": 39.559,
+            "longitude": 141.489
+        },
+        {
+            "name": "鳥海山",
+            "description": "山形県・秋田県にある山。日本百名山の一つ。",
+            "prefecture": "山形県・秋田県",
+            "latitude": 39.099,
+            "longitude": 140.049
+        },
+        {
+            "name": "月山",
+            "description": "山形県にある山。日本百名山の一つ。",
+            "prefecture": "山形県",
+            "latitude": 38.549,
+            "longitude": 140.027
+        },
+        {
+            "name": "朝日岳",
+            "description": "山形県・新潟県にある山。日本百名山の一つ。",
+            "prefecture": "山形県・新潟県",
+            "latitude": 38.261,
+            "longitude": 139.923
+        },
+        {
+            "name": "蔵王山",
+            "description": "山形県・宮城県にある山。日本百名山の一つ。",
+            "prefecture": "山形県・宮城県",
+            "latitude": 38.141,
+            "longitude": 140.443
+        },
+        {
+            "name": "飯豊山",
+            "description": "山形県・福島県・新潟県にある山。日本百名山の一つ。",
+            "prefecture": "山形県・福島県・新潟県",
+            "latitude": 37.852,
+            "longitude": 139.686
+        },
+        {
+            "name": "吾妻山",
+            "description": "福島県・山形県にある山。日本百名山の一つ。",
+            "prefecture": "福島県・山形県",
+            "latitude": 37.737,
+            "longitude": 140.147
+        },
+        {
+            "name": "安達太良山",
+            "description": "福島県にある山。日本百名山の一つ。",
+            "prefecture": "福島県",
+            "latitude": 37.621,
+            "longitude": 140.288
+        },
+        {
+            "name": "磐梯山",
+            "description": "福島県にある山。日本百名山の一つ。",
+            "prefecture": "福島県",
+            "latitude": 37.599,
+            "longitude": 140.076
+        },
+        {
+            "name": "会津駒ヶ岳",
+            "description": "福島県にある山。日本百名山の一つ。",
+            "prefecture": "福島県",
+            "latitude": 37.047,
+            "longitude": 139.355
+        },
+        {
+            "name": "那須岳",
+            "description": "栃木県にある山。日本百名山の一つ。",
+            "prefecture": "栃木県",
+            "latitude": 37.125,
+            "longitude": 139.967
+        },
+        {
+            "name": "越後駒ヶ岳",
+            "description": "新潟県にある山。日本百名山の一つ。",
+            "prefecture": "新潟県",
+            "latitude": 37.124,
+            "longitude": 139.076
+        },
+        {
+            "name": "平ヶ岳",
+            "description": "新潟県・群馬県にある山。日本百名山の一つ。",
+            "prefecture": "新潟県・群馬県",
+            "latitude": 36.983,
+            "longitude": 139.167
+        },
+        {
+            "name": "巻機山",
+            "description": "新潟県・群馬県にある山。日本百名山の一つ。",
+            "prefecture": "新潟県・群馬県",
+            "latitude": 36.969,
+            "longitude": 139.032
+        },
+        {
+            "name": "燧ヶ岳",
+            "description": "福島県にある山。日本百名山の一つ。",
+            "prefecture": "福島県",
+            "latitude": 36.955,
+            "longitude": 139.288
+        },
+        {
+            "name": "至仏山",
+            "description": "群馬県にある山。日本百名山の一つ。",
+            "prefecture": "群馬県",
+            "latitude": 36.918,
+            "longitude": 139.176
+        },
+        {
+            "name": "谷川岳",
+            "description": "群馬県・新潟県にある山。日本百名山の一つ。",
+            "prefecture": "群馬県・新潟県",
+            "latitude": 36.837,
+            "longitude": 138.932
+        },
+        {
+            "name": "雨飾山",
+            "description": "新潟県・長野県にある山。日本百名山の一つ。",
+            "prefecture": "新潟県・長野県",
+            "latitude": 36.903,
+            "longitude": 137.962
+        },
+        {
+            "name": "苗場山",
+            "description": "新潟県・長野県にある山。日本百名山の一つ。",
+            "prefecture": "新潟県・長野県",
+            "latitude": 36.845,
+            "longitude": 138.692
+        },
+        {
+            "name": "妙高山",
+            "description": "新潟県にある山。日本百名山の一つ。",
+            "prefecture": "新潟県",
+            "latitude": 36.892,
+            "longitude": 138.113
+        },
+        {
+            "name": "火打山",
+            "description": "新潟県にある山。日本百名山の一つ。",
+            "prefecture": "新潟県",
+            "latitude": 36.923,
+            "longitude": 138.070
+        },
+        {
+            "name": "高妻山",
+            "description": "新潟県・長野県にある山。日本百名山の一つ。",
+            "prefecture": "新潟県・長野県",
+            "latitude": 36.863,
+            "longitude": 138.053
+        },
+        {
+            "name": "男体山",
+            "description": "栃木県にある山。日本百名山の一つ。",
+            "prefecture": "栃木県",
+            "latitude": 36.764,
+            "longitude": 139.493
+        },
+        {
+            "name": "日光白根山",
+            "description": "栃木県・群馬県にある山。日本百名山の一つ。",
+            "prefecture": "栃木県・群馬県",
+            "latitude": 36.799,
+            "longitude": 139.376
+        },
+        {
+            "name": "皇海山",
+            "description": "栃木県・群馬県にある山。日本百名山の一つ。",
+            "prefecture": "栃木県・群馬県",
+            "latitude": 36.687,
+            "longitude": 139.336
+        },
+        {
+            "name": "武尊山",
+            "description": "群馬県にある山。日本百名山の一つ。",
+            "prefecture": "群馬県",
+            "latitude": 36.804,
+            "longitude": 139.132
+        },
+        {
+            "name": "赤城山",
+            "description": "群馬県にある山。日本百名山の一つ。",
+            "prefecture": "群馬県",
+            "latitude": 36.540,
+            "longitude": 139.183
+        },
+        {
+            "name": "草津白根山",
+            "description": "群馬県にある山。日本百名山の一つ。",
+            "prefecture": "群馬県",
+            "latitude": 36.643,
+            "longitude": 138.541
+        },
+        {
+            "name": "四阿山",
+            "description": "長野県・群馬県にある山。日本百名山の一つ。",
+            "prefecture": "長野県・群馬県",
+            "latitude": 36.541,
+            "longitude": 138.412
+        },
+        {
+            "name": "浅間山",
+            "description": "長野県・群馬県にある山。日本百名山の一つ。",
+            "prefecture": "長野県・群馬県",
+            "latitude": 36.406,
+            "longitude": 138.523
+        },
+        {
+            "name": "筑波山",
+            "description": "茨城県にある山。日本百名山の一つ。",
+            "prefecture": "茨城県",
+            "latitude": 36.225,
+            "longitude": 140.106
+        },
+        {
+            "name": "白馬岳",
+            "description": "長野県・富山県にある山。日本百名山の一つ。",
+            "prefecture": "長野県・富山県",
+            "latitude": 36.758,
+            "longitude": 137.758
+        },
+        {
+            "name": "五竜岳",
+            "description": "長野県・富山県にある山。日本百名山の一つ。",
+            "prefecture": "長野県・富山県",
+            "latitude": 36.666,
+            "longitude": 137.752
+        },
+        {
+            "name": "鹿島槍ヶ岳",
+            "description": "長野県・富山県にある山。日本百名山の一つ。",
+            "prefecture": "長野県・富山県",
+            "latitude": 36.623,
+            "longitude": 137.747
+        },
+        {
+            "name": "剱岳",
+            "description": "富山県にある山。日本百名山の一つ。",
+            "prefecture": "富山県",
+            "latitude": 36.623,
+            "longitude": 137.617
+        },
+        {
+            "name": "立山",
+            "description": "富山県にある山。日本百名山の一つ。",
+            "prefecture": "富山県",
+            "latitude": 36.573,
+            "longitude": 137.618
+        },
+        {
+            "name": "薬師岳",
+            "description": "富山県にある山。日本百名山の一つ。",
+            "prefecture": "富山県",
+            "latitude": 36.467,
+            "longitude": 137.545
+        },
+        {
+            "name": "黒部五郎岳",
+            "description": "富山県・岐阜県にある山。日本百名山の一つ。",
+            "prefecture": "富山県・岐阜県",
+            "latitude": 36.395,
+            "longitude": 137.541
+        },
+        {
+            "name": "水晶岳",
+            "description": "富山県にある山。日本百名山の一つ。",
+            "prefecture": "富山県",
+            "latitude": 36.426,
+            "longitude": 137.602
+        },
+        {
+            "name": "鷲羽岳",
+            "description": "長野県・富山県にある山。日本百名山の一つ。",
+            "prefecture": "長野県・富山県",
+            "latitude": 36.403,
+            "longitude": 137.604
+        },
+        {
+            "name": "槍ヶ岳",
+            "description": "長野県・岐阜県にある山。日本百名山の一つ。",
+            "prefecture": "長野県・岐阜県",
+            "latitude": 36.342,
+            "longitude": 137.647
+        },
+        {
+            "name": "穂高岳",
+            "description": "長野県・岐阜県にある山。日本百名山の一つ。",
+            "prefecture": "長野県・岐阜県",
+            "latitude": 36.289,
+            "longitude": 137.648
+        },
+        {
+            "name": "常念岳",
+            "description": "長野県にある山。日本百名山の一つ。",
+            "prefecture": "長野県",
+            "latitude": 36.323,
+            "longitude": 137.728
+        },
+        {
+            "name": "笠ヶ岳",
+            "description": "岐阜県にある山。日本百名山の一つ。",
+            "prefecture": "岐阜県",
+            "latitude": 36.315,
+            "longitude": 137.550
+        },
+        {
+            "name": "焼岳",
+            "description": "長野県・岐阜県にある山。日本百名山の一つ。",
+            "prefecture": "長野県・岐阜県",
+            "latitude": 36.227,
+            "longitude": 137.585
+        },
+        {
+            "name": "乗鞍岳",
+            "description": "長野県・岐阜県にある山。日本百名山の一つ。",
+            "prefecture": "長野県・岐阜県",
+            "latitude": 36.106,
+            "longitude": 137.554
+        },
+        {
+            "name": "御嶽山",
+            "description": "長野県・岐阜県にある山。日本百名山の一つ。",
+            "prefecture": "長野県・岐阜県",
+            "latitude": 35.893,
+            "longitude": 137.480
+        },
+        {
+            "name": "美ヶ原",
+            "description": "長野県にある山。日本百名山の一つ。",
+            "prefecture": "長野県",
+            "latitude": 36.226,
+            "longitude": 138.109
+        },
+        {
+            "name": "霧ヶ峰",
+            "description": "長野県にある山。日本百名山の一つ。",
+            "prefecture": "長野県",
+            "latitude": 36.104,
+            "longitude": 138.167
+        },
+        {
+            "name": "蓼科山",
+            "description": "長野県にある山。日本百名山の一つ。",
+            "prefecture": "長野県",
+            "latitude": 36.103,
+            "longitude": 138.291
+        },
+        {
+            "name": "八ヶ岳",
+            "description": "長野県・山梨県にある山。日本百名山の一つ。",
+            "prefecture": "長野県・山梨県",
+            "latitude": 35.971,
+            "longitude": 138.369
+        },
+        {
+            "name": "両神山",
+            "description": "埼玉県にある山。日本百名山の一つ。",
+            "prefecture": "埼玉県",
+            "latitude": 36.027,
+            "longitude": 138.835
+        },
+        {
+            "name": "雲取山",
+            "description": "東京都・埼玉県・山梨県にある山。日本百名山の一つ。",
+            "prefecture": "東京都・埼玉県・山梨県",
+            "latitude": 35.854,
+            "longitude": 138.944
+        },
+        {
+            "name": "甲武信ヶ岳",
+            "description": "山梨県・埼玉県・長野県にある山。日本百名山の一つ。",
+            "prefecture": "山梨県・埼玉県・長野県",
+            "latitude": 35.908,
+            "longitude": 138.729
+        },
+        {
+            "name": "金峰山",
+            "description": "山梨県・長野県にある山。日本百名山の一つ。",
+            "prefecture": "山梨県・長野県",
+            "latitude": 35.871,
+            "longitude": 138.625
+        },
+        {
+            "name": "瑞牆山",
+            "description": "山梨県にある山。日本百名山の一つ。",
+            "prefecture": "山梨県",
+            "latitude": 35.890,
+            "longitude": 138.590
+        },
+        {
+            "name": "大菩薩嶺",
+            "description": "山梨県にある山。日本百名山の一つ。",
+            "prefecture": "山梨県",
+            "latitude": 35.748,
+            "longitude": 138.843
+        },
+        {
+            "name": "丹沢山",
+            "description": "神奈川県にある山。日本百名山の一つ。",
+            "prefecture": "神奈川県",
+            "latitude": 35.474,
+            "longitude": 139.163
+        },
+        {
+            "name": "富士山",
+            "description": "静岡県・山梨県にある山。日本百名山の一つ。",
+            "prefecture": "静岡県・山梨県",
+            "latitude": 35.360,
+            "longitude": 138.727
+        },
+        {
+            "name": "天城山",
+            "description": "静岡県にある山。日本百名山の一つ。",
+            "prefecture": "静岡県",
+            "latitude": 34.863,
+            "longitude": 139.002
+        },
+        {
+            "name": "木曽駒ヶ岳",
+            "description": "長野県にある山。日本百名山の一つ。",
+            "prefecture": "長野県",
+            "latitude": 35.789,
+            "longitude": 137.804
+        },
+        {
+            "name": "空木岳",
+            "description": "長野県にある山。日本百名山の一つ。",
+            "prefecture": "長野県",
+            "latitude": 35.722,
+            "longitude": 137.815
+        },
+        {
+            "name": "恵那山",
+            "description": "岐阜県・長野県にある山。日本百名山の一つ。",
+            "prefecture": "岐阜県・長野県",
+            "latitude": 35.443,
+            "longitude": 137.595
+        },
+        {
+            "name": "甲斐駒ヶ岳",
+            "description": "山梨県・長野県にある山。日本百名山の一つ。",
+            "prefecture": "山梨県・長野県",
+            "latitude": 35.757,
+            "longitude": 138.237
+        },
+        {
+            "name": "仙丈ヶ岳",
+            "description": "山梨県・長野県にある山。日本百名山の一つ。",
+            "prefecture": "山梨県・長野県",
+            "latitude": 35.720,
+            "longitude": 138.183
+        },
+        {
+            "name": "鳳凰山",
+            "description": "山梨県にある山。日本百名山の一つ。",
+            "prefecture": "山梨県",
+            "latitude": 35.702,
+            "longitude": 138.300
+        },
+        {
+            "name": "北岳",
+            "description": "山梨県にある山。日本百名山の一つ。",
+            "prefecture": "山梨県",
+            "latitude": 35.674,
+            "longitude": 138.239
+        },
+        {
+            "name": "間ノ岳",
+            "description": "山梨県・静岡県にある山。日本百名山の一つ。",
+            "prefecture": "山梨県・静岡県",
+            "latitude": 35.646,
+            "longitude": 138.228
+        },
+        {
+            "name": "塩見岳",
+            "description": "長野県・静岡県にある山。日本百名山の一つ。",
+            "prefecture": "長野県・静岡県",
+            "latitude": 35.574,
+            "longitude": 138.183
+        },
+        {
+            "name": "悪沢岳",
+            "description": "静岡県にある山。日本百名山の一つ。",
+            "prefecture": "静岡県",
+            "latitude": 35.500,
+            "longitude": 138.181
+        },
+        {
+            "name": "赤石岳",
+            "description": "長野県・静岡県にある山。日本百名山の一つ。",
+            "prefecture": "長野県・静岡県",
+            "latitude": 35.461,
+            "longitude": 138.156
+        },
+        {
+            "name": "聖岳",
+            "description": "長野県・静岡県にある山。日本百名山の一つ。",
+            "prefecture": "長野県・静岡県",
+            "latitude": 35.421,
+            "longitude": 138.140
+        },
+        {
+            "name": "光岳",
+            "description": "長野県・静岡県にある山。日本百名山の一つ。",
+            "prefecture": "長野県・静岡県",
+            "latitude": 35.342,
+            "longitude": 138.085
+        },
+        {
+            "name": "白山",
+            "description": "石川県・岐阜県にある山。日本百名山の一つ。",
+            "prefecture": "石川県・岐阜県",
+            "latitude": 36.152,
+            "longitude": 136.772
+        },
+        {
+            "name": "荒島岳",
+            "description": "福井県にある山。日本百名山の一つ。",
+            "prefecture": "福井県",
+            "latitude": 35.940,
+            "longitude": 136.571
+        },
+        {
+            "name": "伊吹山",
+            "description": "滋賀県・岐阜県にある山。日本百名山の一つ。",
+            "prefecture": "滋賀県・岐阜県",
+            "latitude": 35.417,
+            "longitude": 136.406
+        },
+        {
+            "name": "大台ヶ原山",
+            "description": "奈良県・三重県にある山。日本百名山の一つ。",
+            "prefecture": "奈良県・三重県",
+            "latitude": 34.185,
+            "longitude": 136.108
+        },
+        {
+            "name": "大峰山",
+            "description": "奈良県にある山。日本百名山の一つ。",
+            "prefecture": "奈良県",
+            "latitude": 34.187,
+            "longitude": 135.943
+        },
+        {
+            "name": "大山",
+            "description": "鳥取県にある山。日本百名山の一つ。",
+            "prefecture": "鳥取県",
+            "latitude": 35.378,
+            "longitude": 133.531
+        },
+        {
+            "name": "剣山",
+            "description": "徳島県にある山。日本百名山の一つ。",
+            "prefecture": "徳島県",
+            "latitude": 33.853,
+            "longitude": 134.103
+        },
+        {
+            "name": "石鎚山",
+            "description": "愛媛県にある山。日本百名山の一つ。",
+            "prefecture": "愛媛県",
+            "latitude": 33.766,
+            "longitude": 133.113
+        },
+        {
+            "name": "九重山",
+            "description": "大分県にある山。日本百名山の一つ。",
+            "prefecture": "大分県",
+            "latitude": 33.094,
+            "longitude": 131.285
+        },
+        {
+            "name": "祖母山",
+            "description": "大分県・宮崎県にある山。日本百名山の一つ。",
+            "prefecture": "大分県・宮崎県",
+            "latitude": 32.828,
+            "longitude": 131.344
+        },
+        {
+            "name": "阿蘇山",
+            "description": "熊本県にある山。日本百名山の一つ。",
+            "prefecture": "熊本県",
+            "latitude": 32.884,
+            "longitude": 131.104
+        },
+        {
+            "name": "霧島山",
+            "description": "鹿児島県・宮崎県にある山。日本百名山の一つ。",
+            "prefecture": "鹿児島県・宮崎県",
+            "latitude": 31.931,
+            "longitude": 130.862
+        },
+        {
+            "name": "開聞岳",
+            "description": "鹿児島県にある山。日本百名山の一つ。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.180,
+            "longitude": 130.525
+        },
+        {
+            "name": "宮之浦岳",
+            "description": "鹿児島県にある山。日本百名山の一つ。",
+            "prefecture": "鹿児島県",
+            "latitude": 30.335,
+            "longitude": 130.509
+        }
+    ]
+}

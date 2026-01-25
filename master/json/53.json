@@ -1,0 +1,851 @@
+{
+    "municipalities": [
+        {
+            "name": "東京国立近代美術館",
+            "description": "明治以降の日本の近代美術を概観できる国立美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.6906,
+            "longitude": 139.7547
+        },
+        {
+            "name": "国立西洋美術館",
+            "description": "ル・コルビュジエ設計の世界遺産建築。松方コレクションを所蔵。",
+            "prefecture": "東京都",
+            "latitude": 35.7153,
+            "longitude": 139.7758
+        },
+        {
+            "name": "国立新美術館",
+            "description": "コレクションを持たず、多彩な展覧会を開催する美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.6652,
+            "longitude": 139.7263
+        },
+        {
+            "name": "東京都美術館",
+            "description": "「アートへの入り口」として親しまれる上野の美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.7172,
+            "longitude": 139.773
+        },
+        {
+            "name": "東京都現代美術館",
+            "description": "現代美術の振興を図る、国内最大級の現代美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.6789,
+            "longitude": 139.8078
+        },
+        {
+            "name": "東京都写真美術館",
+            "description": "写真と映像を専門とする公立美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.6422,
+            "longitude": 139.7131
+        },
+        {
+            "name": "東京都庭園美術館",
+            "description": "旧朝香宮邸を利用したアール・デコ様式の美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.6367,
+            "longitude": 139.7183
+        },
+        {
+            "name": "アーティゾン美術館",
+            "description": "旧ブリヂストン美術館。石橋財団のコレクションを展示。",
+            "prefecture": "東京都",
+            "latitude": 35.6797,
+            "longitude": 139.7725
+        },
+        {
+            "name": "サントリー美術館",
+            "description": "「生活の中の美」をテーマにした、東京ミッドタウン内の美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.6658,
+            "longitude": 139.7311
+        },
+        {
+            "name": "森美術館",
+            "description": "六本木ヒルズ森タワー53階にある、現代アート中心の美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.6604,
+            "longitude": 139.7292
+        },
+        {
+            "name": "根津美術館",
+            "description": "東洋古美術のコレクションと日本庭園が美しい美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.6622,
+            "longitude": 139.7172
+        },
+        {
+            "name": "Bunkamura ザ・ミュージアム",
+            "description": "渋谷にある、企画展を中心に開催する美術館（休館の場合ありだがリスト入り）。",
+            "prefecture": "東京都",
+            "latitude": 35.6603,
+            "longitude": 139.6975
+        },
+        {
+            "name": "上野の森美術館",
+            "description": "上野公園内にある、重要文化財の公開などを行う私立美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.7125,
+            "longitude": 139.7742
+        },
+        {
+            "name": "山種美術館",
+            "description": "日本画専門の美術館。速水御舟などの作品を所蔵。",
+            "prefecture": "東京都",
+            "latitude": 35.6517,
+            "longitude": 139.7139
+        },
+        {
+            "name": "三鷹の森ジブリ美術館",
+            "description": "スタジオジブリの世界を体験できる美術館。予約制。",
+            "prefecture": "東京都",
+            "latitude": 35.6964,
+            "longitude": 139.5706
+        },
+        {
+            "name": "三菱一号館美術館",
+            "description": "19世紀後半の美術を中心に展示。赤レンガの建物が特徴。",
+            "prefecture": "東京都",
+            "latitude": 35.6783,
+            "longitude": 139.7633
+        },
+        {
+            "name": "SOMPO美術館",
+            "description": "ゴッホの「ひまわり」を常設展示する新宿の美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.6922,
+            "longitude": 139.6969
+        },
+        {
+            "name": "原美術館ARC",
+            "description": "伊香保グリーン牧場に隣接する現代美術の美術館（東京から移転）。",
+            "prefecture": "群馬県",
+            "latitude": 36.4969,
+            "longitude": 138.9281
+        },
+        {
+            "name": "ワタリウム美術館",
+            "description": "国際的な現代アートを展示する私立美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.6703,
+            "longitude": 139.7094
+        },
+        {
+            "name": "21_21 DESIGN SIGHT",
+            "description": "デザインをテーマにした展覧会を開催する施設。",
+            "prefecture": "東京都",
+            "latitude": 35.6661,
+            "longitude": 139.7303
+        },
+        {
+            "name": "横浜美術館",
+            "description": "みなとみらいにある、近現代美術を扱う美術館。",
+            "prefecture": "神奈川県",
+            "latitude": 35.4561,
+            "longitude": 139.6308
+        },
+        {
+            "name": "ポーラ美術館",
+            "description": "箱根の森に溶け込む建築と印象派コレクション。",
+            "prefecture": "神奈川県",
+            "latitude": 35.2536,
+            "longitude": 139.0194
+        },
+        {
+            "name": "彫刻の森美術館",
+            "description": "日本初の野外美術館。箱根の自然の中で彫刻を楽しめる。",
+            "prefecture": "神奈川県",
+            "latitude": 35.245,
+            "longitude": 139.0514
+        },
+        {
+            "name": "箱根ガラスの森美術館",
+            "description": "ヴェネチアン・グラスを専門に展示する美術館。",
+            "prefecture": "神奈川県",
+            "latitude": 35.2631,
+            "longitude": 139.0197
+        },
+        {
+            "name": "岡田美術館",
+            "description": "東洋美術の広大なコレクションを誇る箱根の美術館。",
+            "prefecture": "神奈川県",
+            "latitude": 35.2383,
+            "longitude": 139.0461
+        },
+        {
+            "name": "川崎市岡本太郎美術館",
+            "description": "岡本太郎の作品と精神を紹介する美術館。生田緑地内。",
+            "prefecture": "神奈川県",
+            "latitude": 35.6083,
+            "longitude": 139.5539
+        },
+        {
+            "name": "横須賀美術館",
+            "description": "東京湾を望む絶好のロケーションにある美術館。",
+            "prefecture": "神奈川県",
+            "latitude": 35.2575,
+            "longitude": 139.7369
+        },
+        {
+            "name": "DIC川村記念美術館",
+            "description": "20世紀美術と自然散策が楽しめる美術館。",
+            "prefecture": "千葉県",
+            "latitude": 35.6528,
+            "longitude": 140.2225
+        },
+        {
+            "name": "ホキ美術館",
+            "description": "写実絵画専門の美術館。建築もユニーク。",
+            "prefecture": "千葉県",
+            "latitude": 35.5392,
+            "longitude": 140.2586
+        },
+        {
+            "name": "千葉市美術館",
+            "description": "浮世絵や現代美術のコレクションが充実。",
+            "prefecture": "千葉県",
+            "latitude": 35.6075,
+            "longitude": 140.1231
+        },
+        {
+            "name": "埼玉県立近代美術館",
+            "description": "北浦和公園内にある、椅子の美術館としても知られる。",
+            "prefecture": "埼玉県",
+            "latitude": 35.8753,
+            "longitude": 139.6456
+        },
+        {
+            "name": "角川武蔵野ミュージアム",
+            "description": "図書館と美術館と博物館が融合した文化複合施設。",
+            "prefecture": "埼玉県",
+            "latitude": 35.7978,
+            "longitude": 139.5086
+        },
+        {
+            "name": "宇都宮美術館",
+            "description": "緑豊かな「うつのみや文化の森」にある美術館。",
+            "prefecture": "栃木県",
+            "latitude": 36.6022,
+            "longitude": 139.8872
+        },
+        {
+            "name": "茨城県近代美術館",
+            "description": "千波湖畔にある、近代美術を展示する美術館。",
+            "prefecture": "茨城県",
+            "latitude": 36.3653,
+            "longitude": 140.4578
+        },
+        {
+            "name": "笠間日動美術館",
+            "description": "近代日本画、フランス印象派などを所蔵。",
+            "prefecture": "茨城県",
+            "latitude": 36.3853,
+            "longitude": 140.2619
+        },
+        {
+            "name": "金沢21世紀美術館",
+            "description": "「まちに開かれた公園のような美術館」がコンセプト。",
+            "prefecture": "石川県",
+            "latitude": 36.5608,
+            "longitude": 136.6583
+        },
+        {
+            "name": "石川県立美術館",
+            "description": "古九谷をはじめとする石川県の伝統工芸や美術を展示。",
+            "prefecture": "石川県",
+            "latitude": 36.5592,
+            "longitude": 136.6617
+        },
+        {
+            "name": "富山県美術館",
+            "description": "アートとデザインをつなぐ美術館。屋上庭園「オノマトペの屋根」がある。",
+            "prefecture": "富山県",
+            "latitude": 36.7028,
+            "longitude": 137.2106
+        },
+        {
+            "name": "富山市ガラス美術館",
+            "description": "現代ガラス美術を中心に展示。隈研吾設計の複合施設内。",
+            "prefecture": "富山県",
+            "latitude": 36.6897,
+            "longitude": 137.2133
+        },
+        {
+            "name": "福井県立美術館",
+            "description": "岡倉天心ゆかりの作家や福井県関連の美術を展示。",
+            "prefecture": "福井県",
+            "latitude": 36.0758,
+            "longitude": 136.2164
+        },
+        {
+            "name": "MOA美術館",
+            "description": "熱海の高台にある、東洋美術を中心とした美術館。",
+            "prefecture": "静岡県",
+            "latitude": 35.1092,
+            "longitude": 139.0758
+        },
+        {
+            "name": "静岡県立美術館",
+            "description": "ロダン館があり、ロダンの彫刻作品を多数所蔵。",
+            "prefecture": "静岡県",
+            "latitude": 34.9911,
+            "longitude": 138.4414
+        },
+        {
+            "name": "ベルナール・ビュフェ美術館",
+            "description": "フランスの画家ベルナール・ビュフェの作品を収蔵。",
+            "prefecture": "静岡県",
+            "latitude": 35.1558,
+            "longitude": 138.8953
+        },
+        {
+            "name": "愛知県美術館",
+            "description": "愛知芸術文化センター内にある美術館。クリムト作品などを所蔵。",
+            "prefecture": "愛知県",
+            "latitude": 35.1711,
+            "longitude": 136.9125
+        },
+        {
+            "name": "名古屋市美術館",
+            "description": "白川公園内にある、エコール・ド・パリなどの作品を所蔵する美術館。",
+            "prefecture": "愛知県",
+            "latitude": 35.1636,
+            "longitude": 136.9011
+        },
+        {
+            "name": "徳川美術館",
+            "description": "尾張徳川家の大名道具や国宝「源氏物語絵巻」を所蔵（美術館・博物館の両面あり）。",
+            "prefecture": "愛知県",
+            "latitude": 35.1833,
+            "longitude": 136.9328
+        },
+        {
+            "name": "豊田市美術館",
+            "description": "谷口吉生設計の建築と、現代美術コレクションで知られる。",
+            "prefecture": "愛知県",
+            "latitude": 35.0808,
+            "longitude": 137.1506
+        },
+        {
+            "name": "岐阜県美術館",
+            "description": "オディロン・ルドンのコレクションで知られる美術館。",
+            "prefecture": "岐阜県",
+            "latitude": 35.3972,
+            "longitude": 136.7322
+        },
+        {
+            "name": "長野県立美術館",
+            "description": "善光寺に隣接し、東山魁夷館を併設。",
+            "prefecture": "長野県",
+            "latitude": 36.6533,
+            "longitude": 138.1883
+        },
+        {
+            "name": "安曇野ちひろ美術館",
+            "description": "絵本画家いわさきちひろと世界の絵本画家の作品を展示。",
+            "prefecture": "長野県",
+            "latitude": 36.3889,
+            "longitude": 137.8486
+        },
+        {
+            "name": "松本市美術館",
+            "description": "草間彌生の作品展示が特徴的な美術館。",
+            "prefecture": "長野県",
+            "latitude": 36.2319,
+            "longitude": 137.9772
+        },
+        {
+            "name": "美ヶ原高原美術館",
+            "description": "標高2000mにある野外彫刻美術館。",
+            "prefecture": "長野県",
+            "latitude": 36.2294,
+            "longitude": 138.1397
+        },
+        {
+            "name": "京都国立近代美術館",
+            "description": "京都画壇の日本画や工芸作品を中心に展示。",
+            "prefecture": "京都府",
+            "latitude": 35.0125,
+            "longitude": 135.7825
+        },
+        {
+            "name": "京都市京セラ美術館",
+            "description": "現存する日本最古の公立美術館建築をリニューアル。",
+            "prefecture": "京都府",
+            "latitude": 35.0131,
+            "longitude": 135.7831
+        },
+        {
+            "name": "細見美術館",
+            "description": "日本美術の優品を網羅するコレクションを持つ美術館。",
+            "prefecture": "京都府",
+            "latitude": 35.0133,
+            "longitude": 135.7828
+        },
+        {
+            "name": "アサヒビール大山崎山荘美術館",
+            "description": "英国風山荘と安藤忠雄設計の展示棟がある美術館。",
+            "prefecture": "京都府",
+            "latitude": 34.8953,
+            "longitude": 135.6814
+        },
+        {
+            "name": "国立国際美術館",
+            "description": "竹の生命力をイメージした外観の、完全地下型の美術館。",
+            "prefecture": "大阪府",
+            "latitude": 34.6908,
+            "longitude": 135.4914
+        },
+        {
+            "name": "大阪中之島美術館",
+            "description": "2022年開館。黒い直方体の外観が特徴的な美術館。",
+            "prefecture": "大阪府",
+            "latitude": 34.6931,
+            "longitude": 135.4917
+        },
+        {
+            "name": "あべのハルカス美術館",
+            "description": "あべのハルカス16階にある都市型美術館。",
+            "prefecture": "大阪府",
+            "latitude": 34.6458,
+            "longitude": 135.5139
+        },
+        {
+            "name": "兵庫県立美術館",
+            "description": "安藤忠雄設計の西日本最大級の美術館。",
+            "prefecture": "兵庫県",
+            "latitude": 34.6975,
+            "longitude": 135.2183
+        },
+        {
+            "name": "神戸ゆかりの美術館",
+            "description": "神戸ゆかりの芸術家の作品を展示。",
+            "prefecture": "兵庫県",
+            "latitude": 34.6869,
+            "longitude": 135.2678
+        },
+        {
+            "name": "横尾忠則現代美術館",
+            "description": "横尾忠則の作品を収蔵・展示する美術館。",
+            "prefecture": "兵庫県",
+            "latitude": 34.7103,
+            "longitude": 135.2197
+        },
+        {
+            "name": "奈良県立美術館",
+            "description": "奈良県ゆかりの美術工芸品などを展示。",
+            "prefecture": "奈良県",
+            "latitude": 34.6864,
+            "longitude": 135.8317
+        },
+        {
+            "name": "MIHO MUSEUM",
+            "description": "桃源郷をイメージした、自然の中に佇む美術館。I.M.ペイ設計。",
+            "prefecture": "滋賀県",
+            "latitude": 34.9142,
+            "longitude": 136.0069
+        },
+        {
+            "name": "佐川美術館",
+            "description": "水庭に浮かぶように建つ、平山郁夫などを展示する美術館。",
+            "prefecture": "滋賀県",
+            "latitude": 35.1233,
+            "longitude": 135.9611
+        },
+        {
+            "name": "和歌山県立近代美術館",
+            "description": "和歌山城の見える美術館。近現代版画のコレクションが充実。",
+            "prefecture": "和歌山県",
+            "latitude": 34.2253,
+            "longitude": 135.1764
+        },
+        {
+            "name": "大原美術館",
+            "description": "倉敷美観地区にある、日本初の西洋美術中心の私立美術館。",
+            "prefecture": "岡山県",
+            "latitude": 34.5953,
+            "longitude": 133.7711
+        },
+        {
+            "name": "夢二郷土美術館",
+            "description": "竹久夢二の作品を所蔵する美術館。",
+            "prefecture": "岡山県",
+            "latitude": 34.6681,
+            "longitude": 133.9389
+        },
+        {
+            "name": "ひろしま美術館",
+            "description": "フランス印象派の作品を中心に展示。中央公園内。",
+            "prefecture": "広島県",
+            "latitude": 34.3986,
+            "longitude": 132.4561
+        },
+        {
+            "name": "広島県立美術館",
+            "description": "縮景園に隣接し、広島ゆかりの美術作品などを展示。",
+            "prefecture": "広島県",
+            "latitude": 34.4,
+            "longitude": 132.4667
+        },
+        {
+            "name": "広島市現代美術館",
+            "description": "比治山公園にある、公立館として日本初の現代美術館。",
+            "prefecture": "広島県",
+            "latitude": 34.3853,
+            "longitude": 132.4739
+        },
+        {
+            "name": "足立美術館",
+            "description": "日本一の庭園と横山大観コレクションで有名。",
+            "prefecture": "島根県",
+            "latitude": 35.3789,
+            "longitude": 133.1953
+        },
+        {
+            "name": "島根県立美術館",
+            "description": "宍道湖畔にあり、夕日の美しい美術館として知られる。",
+            "prefecture": "島根県",
+            "latitude": 35.4633,
+            "longitude": 133.0531
+        },
+        {
+            "name": "鳥取県立博物館",
+            "description": "美術部門を持つ総合博物館（リスト調整で美術館枠として採用）。",
+            "prefecture": "鳥取県",
+            "latitude": 35.5075,
+            "longitude": 134.2333
+        },
+        {
+            "name": "植田正治写真美術館",
+            "description": "大山を望む地に建つ、写真家・植田正治の個人美術館。",
+            "prefecture": "鳥取県",
+            "latitude": 35.3853,
+            "longitude": 133.4217
+        },
+        {
+            "name": "山口県立美術館",
+            "description": "雪舟や香月泰男など山口県ゆかりの作家を展示。",
+            "prefecture": "山口県",
+            "latitude": 34.1811,
+            "longitude": 131.4742
+        },
+        {
+            "name": "大塚国際美術館",
+            "description": "世界の名画を陶板で原寸大再現した美術館。",
+            "prefecture": "徳島県",
+            "latitude": 34.195,
+            "longitude": 134.6392
+        },
+        {
+            "name": "地中美術館",
+            "description": "直島の地中に埋設された、安藤忠雄設計の美術館。",
+            "prefecture": "香川県",
+            "latitude": 34.4503,
+            "longitude": 133.9903
+        },
+        {
+            "name": "ベネッセハウス ミュージアム",
+            "description": "「自然・建築・アートの共生」をコンセプトにした美術館とホテル。",
+            "prefecture": "香川県",
+            "latitude": 34.4442,
+            "longitude": 133.9875
+        },
+        {
+            "name": "豊島美術館",
+            "description": "豊島にある、水滴のような形をした美術館。",
+            "prefecture": "香川県",
+            "latitude": 34.4892,
+            "longitude": 134.0903
+        },
+        {
+            "name": "香川県立東山魁夷せとうち美術館",
+            "description": "瀬戸大橋を望む地にある、東山魁夷の作品を展示する美術館。",
+            "prefecture": "香川県",
+            "latitude": 34.3983,
+            "longitude": 133.8569
+        },
+        {
+            "name": "猪熊弦一郎現代美術館",
+            "description": "丸亀駅前にある、猪熊弦一郎の作品を展示する美術館（MIMOCA）。",
+            "prefecture": "香川県",
+            "latitude": 34.2936,
+            "longitude": 133.7933
+        },
+        {
+            "name": "愛媛県美術館",
+            "description": "松山城の麓にある美術館。郷土作家の作品などを展示。",
+            "prefecture": "愛媛県",
+            "latitude": 33.8397,
+            "longitude": 132.7619
+        },
+        {
+            "name": "高知県立美術館",
+            "description": "マルク・シャガールの世界的コレクションで知られる。",
+            "prefecture": "高知県",
+            "latitude": 33.5619,
+            "longitude": 133.5683
+        },
+        {
+            "name": "福岡市美術館",
+            "description": "大濠公園内にある美術館。古美術から現代美術まで収集。",
+            "prefecture": "福岡県",
+            "latitude": 33.5853,
+            "longitude": 130.3772
+        },
+        {
+            "name": "福岡アジア美術館",
+            "description": "アジアの近現代美術を専門とする世界唯一の美術館。",
+            "prefecture": "福岡県",
+            "latitude": 33.595,
+            "longitude": 130.4039
+        },
+        {
+            "name": "九州国立博物館",
+            "description": "歴史系だが美術的価値の高い展示も多い（博物館枠と重複可）。",
+            "prefecture": "福岡県",
+            "latitude": 33.5186,
+            "longitude": 130.5217
+        },
+        {
+            "name": "北九州市立美術館",
+            "description": "磯崎新設計の建築で知られ、「丘の上の双眼鏡」と呼ばれる。",
+            "prefecture": "福岡県",
+            "latitude": 33.8961,
+            "longitude": 130.8294
+        },
+        {
+            "name": "石橋文化センター（石橋美術館）",
+            "description": "久留米市美術館としてリニューアル。青木繁作品などを展示。",
+            "prefecture": "福岡県",
+            "latitude": 33.3131,
+            "longitude": 130.5281
+        },
+        {
+            "name": "佐賀県立美術館",
+            "description": "博物館に隣接し、佐賀県ゆかりの近現代美術を展示。",
+            "prefecture": "佐賀県",
+            "latitude": 33.2486,
+            "longitude": 130.3017
+        },
+        {
+            "name": "長崎県美術館",
+            "description": "隈研吾設計。スペイン美術と長崎ゆかりの美術を展示。",
+            "prefecture": "長崎県",
+            "latitude": 32.7417,
+            "longitude": 129.8703
+        },
+        {
+            "name": "熊本市現代美術館",
+            "description": "市民が気軽に立ち寄れる「アートの広場」。",
+            "prefecture": "熊本県",
+            "latitude": 32.8028,
+            "longitude": 130.7078
+        },
+        {
+            "name": "熊本県立美術館",
+            "description": "熊本城二の丸公園にあり、装飾古墳室などを備える。",
+            "prefecture": "熊本県",
+            "latitude": 32.8058,
+            "longitude": 130.7036
+        },
+        {
+            "name": "大分県立美術館（OPAM）",
+            "description": "坂茂設計。竹工芸などの展示も行う。",
+            "prefecture": "大分県",
+            "latitude": 33.2372,
+            "longitude": 131.6033
+        },
+        {
+            "name": "宮崎県立美術館",
+            "description": "宮崎県総合文化公園内にある美術館。",
+            "prefecture": "宮崎県",
+            "latitude": 31.9367,
+            "longitude": 131.4239
+        },
+        {
+            "name": "鹿児島市立美術館",
+            "description": "西郷隆盛像の近くにある、地元作家作品を中心とした美術館。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.5975,
+            "longitude": 130.5558
+        },
+        {
+            "name": "霧島アートの森",
+            "description": "霧島の自然の中に現代アート作品を配置した野外美術館。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.905,
+            "longitude": 130.7208
+        },
+        {
+            "name": "沖縄県立博物館・美術館",
+            "description": "沖縄の作家や沖縄ゆかりの作家の作品を中心に収集・展示。",
+            "prefecture": "沖縄県",
+            "latitude": 26.2269,
+            "longitude": 127.6936
+        },
+        {
+            "name": "北海道立近代美術館",
+            "description": "札幌にある、ガラス工芸や北海道ゆかりの美術を展示。",
+            "prefecture": "北海道",
+            "latitude": 43.0583,
+            "longitude": 141.3308
+        },
+        {
+            "name": "札幌芸術の森美術館",
+            "description": "札幌の自然の中にある野外美術館を含む複合施設。",
+            "prefecture": "北海道",
+            "latitude": 42.9242,
+            "longitude": 141.3469
+        },
+        {
+            "name": "モエレ沼公園",
+            "description": "イサム・ノグチ設計のアートパーク（美術館的機能を持つ）。",
+            "prefecture": "北海道",
+            "latitude": 43.1233,
+            "longitude": 141.4294
+        },
+        {
+            "name": "青森県立美術館",
+            "description": "奈良美智の「あおもり犬」などで知られる美術館。",
+            "prefecture": "青森県",
+            "latitude": 40.8033,
+            "longitude": 140.7006
+        },
+        {
+            "name": "十和田市現代美術館",
+            "description": "草間彌生やロン・ミュエックなどの作品を常設展示。",
+            "prefecture": "青森県",
+            "latitude": 40.6139,
+            "longitude": 141.2064
+        },
+        {
+            "name": "岩手県立美術館",
+            "description": "萬鐵五郎、松本竣介、舟越保武の作品を常設展示。",
+            "prefecture": "岩手県",
+            "latitude": 39.7042,
+            "longitude": 141.1306
+        },
+        {
+            "name": "宮城県美術館",
+            "description": "宮城県や東北ゆかりの作家の作品を中心に展示。",
+            "prefecture": "宮城県",
+            "latitude": 38.2611,
+            "longitude": 140.8589
+        },
+        {
+            "name": "秋田県立美術館",
+            "description": "藤田嗣治の作品を展示。安藤忠雄設計。",
+            "prefecture": "秋田県",
+            "latitude": 39.7186,
+            "longitude": 140.12
+        },
+        {
+            "name": "山形美術館",
+            "description": "重要文化財を含む日本美術やフランス美術を展示。",
+            "prefecture": "山形県",
+            "latitude": 38.2542,
+            "longitude": 140.3347
+        },
+        {
+            "name": "福島県立美術館",
+            "description": "信夫山の麓にある、フランス印象派や日本画を展示する美術館。",
+            "prefecture": "福島県",
+            "latitude": 37.7686,
+            "longitude": 140.4578
+        },
+        {
+            "name": "諸橋近代美術館",
+            "description": "サルバドール・ダリのコレクションで知られる美術館。",
+            "prefecture": "福島県",
+            "latitude": 37.6608,
+            "longitude": 140.0592
+        },
+        {
+            "name": "太田記念美術館",
+            "description": "浮世絵専門の美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.6694,
+            "longitude": 139.7061
+        },
+        {
+            "name": "弥生美術館・竹久夢二美術館",
+            "description": "大正ロマンや竹久夢二の作品を展示。",
+            "prefecture": "東京都",
+            "latitude": 35.7175,
+            "longitude": 139.7619
+        },
+        {
+            "name": "ちひろ美術館・東京",
+            "description": "いわさきちひろの自宅兼アトリエ跡に建てられた美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.7258,
+            "longitude": 139.6083
+        },
+        {
+            "name": "松岡美術館",
+            "description": "白金台にある私立美術館。東洋陶磁器などを展示。",
+            "prefecture": "東京都",
+            "latitude": 35.6425,
+            "longitude": 139.7214
+        },
+        {
+            "name": "菊池寛実記念 智美術館",
+            "description": "現代陶芸のコレクター菊池智のコレクションを展示。",
+            "prefecture": "東京都",
+            "latitude": 35.6669,
+            "longitude": 139.745
+        },
+        {
+            "name": "泉屋博古館東京",
+            "description": "住友家のコレクション（青銅器など）を展示。",
+            "prefecture": "東京都",
+            "latitude": 35.6647,
+            "longitude": 139.7408
+        },
+        {
+            "name": "五島美術館",
+            "description": "国宝「源氏物語絵巻」などを所蔵する、二子玉川の美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.6119,
+            "longitude": 139.6358
+        },
+        {
+            "name": "静嘉堂文庫美術館",
+            "description": "国宝「曜変天目」を所蔵する美術館（丸の内に移転）。",
+            "prefecture": "東京都",
+            "latitude": 35.6789,
+            "longitude": 139.7628
+        },
+        {
+            "name": "中村キース・ヘリング美術館",
+            "description": "キース・ヘリングの作品のみを展示する美術館。",
+            "prefecture": "山梨県",
+            "latitude": 35.8458,
+            "longitude": 138.3311
+        },
+        {
+            "name": "河口湖音楽と森の美術館",
+            "description": "自動演奏楽器や庭園を楽しめる美術館。",
+            "prefecture": "山梨県",
+            "latitude": 35.5225,
+            "longitude": 138.7667
+        },
+        {
+            "name": "久保田一竹美術館",
+            "description": "染色家・久保田一竹の「一竹辻が花」作品を展示。",
+            "prefecture": "山梨県",
+            "latitude": 35.5311,
+            "longitude": 138.7561
+        },
+        {
+            "name": "平山郁夫シルクロード美術館",
+            "description": "平山郁夫の絵画とシルクロードのコレクションを展示。",
+            "prefecture": "山梨県",
+            "latitude": 35.9083,
+            "longitude": 138.3181
+        }
+    ]
+}

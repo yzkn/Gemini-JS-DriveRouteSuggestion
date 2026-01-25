@@ -1,0 +1,872 @@
+{
+    "municipalities": [
+        {
+            "name": "飛鳥宮跡 (明日香村)",
+            "description": "伝飛鳥板蓋宮跡。皇極天皇などの宮殿跡。",
+            "prefecture": "奈良県",
+            "latitude": 34.473056,
+            "longitude": 135.819444
+        },
+        {
+            "name": "藤原宮跡 (橿原市)",
+            "description": "日本初の本格的な都城、藤原京の中心施設。",
+            "prefecture": "奈良県",
+            "latitude": 34.501944,
+            "longitude": 135.807778
+        },
+        {
+            "name": "平城宮跡 (奈良市)",
+            "description": "奈良時代の皇居。大極殿や朱雀門が復元されている。世界遺産。",
+            "prefecture": "奈良県",
+            "latitude": 34.693889,
+            "longitude": 135.795278
+        },
+        {
+            "name": "難波宮跡 (大阪市)",
+            "description": "前期（孝徳天皇）と後期（聖武天皇）の宮殿跡。",
+            "prefecture": "大阪府",
+            "latitude": 34.680556,
+            "longitude": 135.520556
+        },
+        {
+            "name": "近江大津宮跡 (大津市)",
+            "description": "天智天皇が造営した宮殿。錦織遺跡。",
+            "prefecture": "滋賀県",
+            "latitude": 35.023611,
+            "longitude": 135.856111
+        },
+        {
+            "name": "恭仁宮跡 (木津川市)",
+            "description": "聖武天皇が一時期遷都した都（山城国分寺跡）。",
+            "prefecture": "京都府",
+            "latitude": 34.764444,
+            "longitude": 135.858056
+        },
+        {
+            "name": "紫香楽宮跡 (甲賀市)",
+            "description": "聖武天皇の宮殿跡。内裏野地区など。",
+            "prefecture": "滋賀県",
+            "latitude": 34.908056,
+            "longitude": 136.082778
+        },
+        {
+            "name": "長岡宮跡 (向日市)",
+            "description": "桓武天皇が平安京遷都前に造営した都。",
+            "prefecture": "京都府",
+            "latitude": 34.943056,
+            "longitude": 135.701389
+        },
+        {
+            "name": "平安宮跡 (京都市)",
+            "description": "平安京の大内裏跡。現在は市街地。",
+            "prefecture": "京都府",
+            "latitude": 35.020278,
+            "longitude": 135.742500
+        },
+        {
+            "name": "大極殿跡 (京都市)",
+            "description": "平安宮の正殿跡。千本丸太町付近。",
+            "prefecture": "京都府",
+            "latitude": 35.019444,
+            "longitude": 135.741667
+        },
+        {
+            "name": "豊浦宮跡 (明日香村)",
+            "description": "推古天皇の宮殿跡。向原寺。",
+            "prefecture": "奈良県",
+            "latitude": 34.476667,
+            "longitude": 135.816667
+        },
+        {
+            "name": "小懇田宮跡 (明日香村)",
+            "description": "推古天皇の宮殿。雷丘付近と推定。",
+            "prefecture": "奈良県",
+            "latitude": 34.481111,
+            "longitude": 135.813889
+        },
+        {
+            "name": "飛鳥岡本宮跡 (明日香村)",
+            "description": "舒明天皇の宮殿。",
+            "prefecture": "奈良県",
+            "latitude": 34.473056,
+            "longitude": 135.819444
+        },
+        {
+            "name": "飛鳥浄御原宮跡 (明日香村)",
+            "description": "天武天皇・持統天皇の宮殿。",
+            "prefecture": "奈良県",
+            "latitude": 34.473056,
+            "longitude": 135.819444
+        },
+        {
+            "name": "嶋宮跡 (明日香村)",
+            "description": "草壁皇子の宮殿跡。",
+            "prefecture": "奈良県",
+            "latitude": 34.468611,
+            "longitude": 135.823611
+        },
+        {
+            "name": "飛鳥稲淵宮殿跡 (明日香村)",
+            "description": "飛鳥川上流の宮殿遺跡。",
+            "prefecture": "奈良県",
+            "latitude": 34.458889,
+            "longitude": 135.825000
+        },
+        {
+            "name": "吉野宮跡 (吉野町)",
+            "description": "吉野宮滝遺跡。斉明天皇や持統天皇が訪れた離宮。",
+            "prefecture": "奈良県",
+            "latitude": 34.377778,
+            "longitude": 135.898611
+        },
+        {
+            "name": "保良宮跡 (大津市)",
+            "description": "淳仁天皇の宮殿。石山寺周辺説など。",
+            "prefecture": "滋賀県",
+            "latitude": 34.960556,
+            "longitude": 135.906111
+        },
+        {
+            "name": "由義宮跡 (八尾市)",
+            "description": "称徳天皇が造営した宮殿（西京）。",
+            "prefecture": "大阪府",
+            "latitude": 34.606944,
+            "longitude": 135.619444
+        },
+        {
+            "name": "河陽離宮跡 (大山崎町)",
+            "description": "嵯峨天皇などの離宮。山崎離宮。",
+            "prefecture": "京都府",
+            "latitude": 34.889722,
+            "longitude": 135.681667
+        },
+        {
+            "name": "水無瀬離宮跡 (島本町)",
+            "description": "後鳥羽上皇の離宮。",
+            "prefecture": "大阪府",
+            "latitude": 34.876389,
+            "longitude": 135.666944
+        },
+        {
+            "name": "茅渟宮跡 (泉佐野市)",
+            "description": "衣通姫伝説の宮。上之郷遺跡。",
+            "prefecture": "大阪府",
+            "latitude": 34.380556,
+            "longitude": 135.333333
+        },
+        {
+            "name": "大津京錦織遺跡 (大津市)",
+            "description": "大津宮の有力候補地。",
+            "prefecture": "滋賀県",
+            "latitude": 35.023611,
+            "longitude": 135.856111
+        },
+        {
+            "name": "穴穂部宮跡 (天理市)",
+            "description": "聖徳太子の母・穴穂部間人皇女の宮。",
+            "prefecture": "奈良県",
+            "latitude": 34.590000,
+            "longitude": 135.850000
+        },
+        {
+            "name": "閑院内裏跡 (京都市)",
+            "description": "平安時代後期の里内裏。",
+            "prefecture": "京都府",
+            "latitude": 35.011667,
+            "longitude": 135.753333
+        },
+        {
+            "name": "東三条殿跡 (京都市)",
+            "description": "藤原摂関家の邸宅・里内裏。",
+            "prefecture": "京都府",
+            "latitude": 35.011389,
+            "longitude": 135.756111
+        },
+        {
+            "name": "土御門殿跡 (京都市)",
+            "description": "藤原道長の邸宅・里内裏。",
+            "prefecture": "京都府",
+            "latitude": 35.023056,
+            "longitude": 135.760000
+        },
+        {
+            "name": "高陽院跡 (京都市)",
+            "description": "藤原頼通の邸宅・里内裏。",
+            "prefecture": "京都府",
+            "latitude": 35.014722,
+            "longitude": 135.753889
+        },
+        {
+            "name": "堀河院跡 (京都市)",
+            "description": "藤原基経の邸宅・里内裏。",
+            "prefecture": "京都府",
+            "latitude": 35.011944,
+            "longitude": 135.751111
+        },
+        {
+            "name": "冷泉院跡 (京都市)",
+            "description": "天皇の譲位後の御所。",
+            "prefecture": "京都府",
+            "latitude": 35.018056,
+            "longitude": 135.751944
+        },
+        {
+            "name": "朱雀院跡 (京都市)",
+            "description": "嵯峨天皇の離宮・後院。",
+            "prefecture": "京都府",
+            "latitude": 35.009444,
+            "longitude": 135.738889
+        },
+        {
+            "name": "淳和院跡 (京都市)",
+            "description": "淳和天皇の離宮・後院（西院）。",
+            "prefecture": "京都府",
+            "latitude": 35.006111,
+            "longitude": 135.729167
+        },
+        {
+            "name": "神泉苑 (京都市)",
+            "description": "平安宮付属の禁苑。",
+            "prefecture": "京都府",
+            "latitude": 35.011389,
+            "longitude": 135.746667
+        },
+        {
+            "name": "鳥羽離宮跡 (京都市)",
+            "description": "白河法皇が造営した院政期の離宮。",
+            "prefecture": "京都府",
+            "latitude": 34.954722,
+            "longitude": 135.742778
+        },
+        {
+            "name": "白河離宮跡 (京都市)",
+            "description": "白河法皇の離宮。法勝寺などがあった。",
+            "prefecture": "京都府",
+            "latitude": 35.013889,
+            "longitude": 135.783333
+        },
+        {
+            "name": "法住寺殿跡 (京都市)",
+            "description": "後白河法皇の御所。",
+            "prefecture": "京都府",
+            "latitude": 34.987778,
+            "longitude": 135.772500
+        },
+        {
+            "name": "六波羅探題跡 (京都市)",
+            "description": "平家一門の邸宅跡、後の鎌倉幕府機関。",
+            "prefecture": "京都府",
+            "latitude": 34.996944,
+            "longitude": 135.773333
+        },
+        {
+            "name": "室町第跡 (京都市)",
+            "description": "足利義満が造営した「花の御所」。",
+            "prefecture": "京都府",
+            "latitude": 35.031111,
+            "longitude": 135.758333
+        },
+        {
+            "name": "三条坊門殿跡 (京都市)",
+            "description": "足利尊氏・義詮・義満の邸宅。",
+            "prefecture": "京都府",
+            "latitude": 35.009722,
+            "longitude": 135.750556
+        },
+        {
+            "name": "二条良基邸跡 (京都市)",
+            "description": "二条良基の邸宅。北朝の行宮。",
+            "prefecture": "京都府",
+            "latitude": 35.021111,
+            "longitude": 135.758333
+        },
+        {
+            "name": "聚楽第跡 (京都市)",
+            "description": "豊臣秀吉の政庁兼邸宅。",
+            "prefecture": "京都府",
+            "latitude": 35.023889,
+            "longitude": 135.746111
+        },
+        {
+            "name": "伏見城跡 (京都市)",
+            "description": "豊臣秀吉の隠居城・宮殿。",
+            "prefecture": "京都府",
+            "latitude": 34.938889,
+            "longitude": 135.772500
+        },
+        {
+            "name": "仙洞御所 (京都市)",
+            "description": "退位した天皇（上皇・法皇）の御所。",
+            "prefecture": "京都府",
+            "latitude": 35.023056,
+            "longitude": 135.764444
+        },
+        {
+            "name": "大宮御所 (京都市)",
+            "description": "皇太后の御所。",
+            "prefecture": "京都府",
+            "latitude": 35.024167,
+            "longitude": 135.763333
+        },
+        {
+            "name": "修学院離宮 (京都市)",
+            "description": "後水尾上皇の山荘。",
+            "prefecture": "京都府",
+            "latitude": 35.053611,
+            "longitude": 135.801389
+        },
+        {
+            "name": "桂離宮 (京都市)",
+            "description": "八条宮家の別邸。",
+            "prefecture": "京都府",
+            "latitude": 34.984444,
+            "longitude": 135.709722
+        },
+        {
+            "name": "恭礼門院小一条第跡 (京都市)",
+            "description": "女院御所。",
+            "prefecture": "京都府",
+            "latitude": 35.028056,
+            "longitude": 135.754167
+        },
+        {
+            "name": "枇杷殿跡 (京都市)",
+            "description": "藤原仲平邸。のち里内裏。",
+            "prefecture": "京都府",
+            "latitude": 35.020833,
+            "longitude": 135.757500
+        },
+        {
+            "name": "京極殿跡 (京都市)",
+            "description": "藤原師実邸。土御門殿の東。",
+            "prefecture": "京都府",
+            "latitude": 35.023056,
+            "longitude": 135.766667
+        },
+        {
+            "name": "一条院跡 (京都市)",
+            "description": "里内裏。",
+            "prefecture": "京都府",
+            "latitude": 35.027222,
+            "longitude": 135.757778
+        },
+        {
+            "name": "四条宮跡 (京都市)",
+            "description": "藤原頼通の妻・対の君の邸宅。",
+            "prefecture": "京都府",
+            "latitude": 35.003611,
+            "longitude": 135.753333
+        },
+        {
+            "name": "高倉殿跡 (京都市)",
+            "description": "以仁王の邸宅。",
+            "prefecture": "京都府",
+            "latitude": 35.011111,
+            "longitude": 135.761667
+        },
+        {
+            "name": "後院跡 (京都市)",
+            "description": "嵯峨天皇の院宮。",
+            "prefecture": "京都府",
+            "latitude": 35.010556,
+            "longitude": 135.742222
+        },
+        {
+            "name": "小松殿跡 (京都市)",
+            "description": "平重盛の邸宅。",
+            "prefecture": "京都府",
+            "latitude": 34.996111,
+            "longitude": 135.775833
+        },
+        {
+            "name": "西八条殿跡 (京都市)",
+            "description": "平清盛の邸宅。",
+            "prefecture": "京都府",
+            "latitude": 34.985833,
+            "longitude": 135.745000
+        },
+        {
+            "name": "吉野朝宮跡 (吉野町)",
+            "description": "南朝の皇居。吉野山。",
+            "prefecture": "奈良県",
+            "latitude": 34.358056,
+            "longitude": 135.857222
+        },
+        {
+            "name": "吉水神社 (吉野町)",
+            "description": "後醍醐天皇の行宮（吉水院）。",
+            "prefecture": "奈良県",
+            "latitude": 34.355556,
+            "longitude": 135.860278
+        },
+        {
+            "name": "賀名生皇居跡 (五條市)",
+            "description": "南朝の行宮。",
+            "prefecture": "奈良県",
+            "latitude": 34.301389,
+            "longitude": 135.733056
+        },
+        {
+            "name": "金剛寺行宮 (河内長野市)",
+            "description": "南朝の行宮。",
+            "prefecture": "大阪府",
+            "latitude": 34.431111,
+            "longitude": 135.530556
+        },
+        {
+            "name": "観心寺行宮 (河内長野市)",
+            "description": "楠木正成ゆかり、後村上天皇行宮。",
+            "prefecture": "大阪府",
+            "latitude": 34.442222,
+            "longitude": 135.565833
+        },
+        {
+            "name": "天野行宮 (河内長野市)",
+            "description": "金剛寺とともに南朝拠点。",
+            "prefecture": "大阪府",
+            "latitude": 34.426389,
+            "longitude": 135.531667
+        },
+        {
+            "name": "住吉行宮跡 (大阪市)",
+            "description": "後村上天皇の行宮（住吉大社宮司津守氏宅）。",
+            "prefecture": "大阪府",
+            "latitude": 34.612500,
+            "longitude": 135.493611
+        },
+        {
+            "name": "男山八幡行宮跡 (八幡市)",
+            "description": "南朝の行宮。",
+            "prefecture": "京都府",
+            "latitude": 34.879444,
+            "longitude": 135.700000
+        },
+        {
+            "name": "栄山寺行宮跡 (五條市)",
+            "description": "南朝の行宮。",
+            "prefecture": "奈良県",
+            "latitude": 34.350833,
+            "longitude": 135.720278
+        },
+        {
+            "name": "船上山行宮跡 (琴浦町)",
+            "description": "後醍醐天皇の行宮。",
+            "prefecture": "鳥取県",
+            "latitude": 35.435833,
+            "longitude": 133.593611
+        },
+        {
+            "name": "隠岐国分寺行在所跡 (隠岐の島町)",
+            "description": "後醍醐天皇の隠岐配流地。",
+            "prefecture": "島根県",
+            "latitude": 36.216667,
+            "longitude": 133.323611
+        },
+        {
+            "name": "黒木御所跡 (西ノ島町)",
+            "description": "後醍醐天皇の隠岐配流地。",
+            "prefecture": "島根県",
+            "latitude": 36.088333,
+            "longitude": 133.006944
+        },
+        {
+            "name": "笠置山行宮跡 (笠置町)",
+            "description": "後醍醐天皇の行宮。",
+            "prefecture": "京都府",
+            "latitude": 34.757778,
+            "longitude": 135.938889
+        },
+        {
+            "name": "橿原宮跡 (橿原市)",
+            "description": "神武天皇の宮殿。橿原神宮。",
+            "prefecture": "奈良県",
+            "latitude": 34.488333,
+            "longitude": 135.786667
+        },
+        {
+            "name": "高千穂宮跡 (宮崎神宮) (宮崎市)",
+            "description": "神武天皇の宮殿伝承地。",
+            "prefecture": "宮崎県",
+            "latitude": 31.939722,
+            "longitude": 131.423056
+        },
+        {
+            "name": "高津宮跡 (大阪市)",
+            "description": "仁徳天皇の宮殿。高津宮神社。",
+            "prefecture": "大阪府",
+            "latitude": 34.668056,
+            "longitude": 135.513889
+        },
+        {
+            "name": "長柄豊碕宮跡 (大阪市)",
+            "description": "孝徳天皇の宮殿。難波宮付近。",
+            "prefecture": "大阪府",
+            "latitude": 34.680556,
+            "longitude": 135.520556
+        },
+        {
+            "name": "大和朝倉宮跡 (桜井市)",
+            "description": "雄略天皇の宮殿。",
+            "prefecture": "奈良県",
+            "latitude": 34.520000,
+            "longitude": 135.875000
+        },
+        {
+            "name": "磐余稚桜宮跡 (桜井市)",
+            "description": "履中天皇・清寧天皇の宮殿。",
+            "prefecture": "奈良県",
+            "latitude": 34.508333,
+            "longitude": 135.850000
+        },
+        {
+            "name": "磯城瑞籬宮跡 (桜井市)",
+            "description": "崇神天皇の宮殿。志貴御県坐神社。",
+            "prefecture": "奈良県",
+            "latitude": 34.525556,
+            "longitude": 135.860556
+        },
+        {
+            "name": "纏向珠城宮跡 (桜井市)",
+            "description": "垂仁天皇の宮殿。",
+            "prefecture": "奈良県",
+            "latitude": 34.538889,
+            "longitude": 135.837222
+        },
+        {
+            "name": "泊瀬朝倉宮跡 (桜井市)",
+            "description": "雄略天皇。",
+            "prefecture": "奈良県",
+            "latitude": 34.520000,
+            "longitude": 135.875000
+        },
+        {
+            "name": "訳語田幸玉宮跡 (桜井市)",
+            "description": "敏達天皇の宮殿。",
+            "prefecture": "奈良県",
+            "latitude": 34.516667,
+            "longitude": 135.866667
+        },
+        {
+            "name": "小治田宮跡 (明日香村)",
+            "description": "推古天皇。",
+            "prefecture": "奈良県",
+            "latitude": 34.481111,
+            "longitude": 135.813889
+        },
+        {
+            "name": "日向高屋宮跡 (西都市)",
+            "description": "彦火火出見尊。",
+            "prefecture": "宮崎県",
+            "latitude": 32.115000,
+            "longitude": 131.385000
+        },
+        {
+            "name": "吾平山上陵 (鹿屋市)",
+            "description": "ウガヤフキアエズの御陵だが宮跡伝承も。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.333333,
+            "longitude": 130.866667
+        },
+        {
+            "name": "宇佐宮 (宇佐市)",
+            "description": "宇佐神宮。第二の宗廟。",
+            "prefecture": "大分県",
+            "latitude": 33.526111,
+            "longitude": 131.375278
+        },
+        {
+            "name": "大宰府政庁跡 (太宰府市)",
+            "description": "「遠の朝廷」。宮殿形式の建物跡。",
+            "prefecture": "福岡県",
+            "latitude": 33.515278,
+            "longitude": 130.512222
+        },
+        {
+            "name": "多賀城政庁跡 (多賀城市)",
+            "description": "陸奥国府。宮殿形式。",
+            "prefecture": "宮城県",
+            "latitude": 38.303333,
+            "longitude": 140.990278
+        },
+        {
+            "name": "斎宮跡 (明和町)",
+            "description": "斎王の宮殿。",
+            "prefecture": "三重県",
+            "latitude": 34.539722,
+            "longitude": 136.611111
+        },
+        {
+            "name": "斎院跡 (京都市)",
+            "description": "賀茂斎院の御所。",
+            "prefecture": "京都府",
+            "latitude": 35.021111,
+            "longitude": 135.733333
+        },
+        {
+            "name": "離宮八幡宮 (大山崎町)",
+            "description": "嵯峨天皇離宮跡。",
+            "prefecture": "京都府",
+            "latitude": 34.891667,
+            "longitude": 135.681111
+        },
+        {
+            "name": "香椎宮 (福岡市)",
+            "description": "仲哀天皇・神功皇后の橿日宮跡。",
+            "prefecture": "福岡県",
+            "latitude": 33.656389,
+            "longitude": 130.455278
+        },
+        {
+            "name": "福岡城肥前堀跡 (福岡市)",
+            "description": "鴻臚館跡。外交施設だが宮殿様式。",
+            "prefecture": "福岡県",
+            "latitude": 33.585278,
+            "longitude": 130.384722
+        },
+        {
+            "name": "阿古耶聡宮跡 (宮崎市)",
+            "description": "宮崎神宮境内。",
+            "prefecture": "宮崎県",
+            "latitude": 31.939722,
+            "longitude": 131.423056
+        },
+        {
+            "name": "浮島行宮跡 (北九州市)",
+            "description": "景行天皇。",
+            "prefecture": "福岡県",
+            "latitude": 33.866667,
+            "longitude": 130.733333
+        },
+        {
+            "name": "豊浦宮跡 (下関市)",
+            "description": "仲哀天皇。忌宮神社。",
+            "prefecture": "山口県",
+            "latitude": 33.983333,
+            "longitude": 130.950000
+        },
+        {
+            "name": "橿日宮跡 (福岡市)",
+            "description": "香椎宮。",
+            "prefecture": "福岡県",
+            "latitude": 33.656389,
+            "longitude": 130.455278
+        },
+        {
+            "name": "浜離宮 (中央区)",
+            "description": "将軍の別邸、のち皇室離宮。浜離宮恩賜庭園。",
+            "prefecture": "東京都",
+            "latitude": 35.659722,
+            "longitude": 139.763333
+        },
+        {
+            "name": "芝離宮 (港区)",
+            "description": "旧芝離宮恩賜庭園。",
+            "prefecture": "東京都",
+            "latitude": 35.655278,
+            "longitude": 139.757222
+        },
+        {
+            "name": "赤坂離宮 (港区)",
+            "description": "迎賓館。",
+            "prefecture": "東京都",
+            "latitude": 35.680278,
+            "longitude": 139.729167
+        },
+        {
+            "name": "霞ヶ関離宮跡 (千代田区)",
+            "description": "現国会前庭など。",
+            "prefecture": "東京都",
+            "latitude": 35.676667,
+            "longitude": 139.749167
+        },
+        {
+            "name": "名古屋離宮跡 (名古屋市)",
+            "description": "名古屋城。",
+            "prefecture": "愛知県",
+            "latitude": 35.183889,
+            "longitude": 136.900278
+        },
+        {
+            "name": "二条離宮跡 (京都市)",
+            "description": "二条城。",
+            "prefecture": "京都府",
+            "latitude": 35.014167,
+            "longitude": 135.748056
+        },
+        {
+            "name": "武庫離宮跡 (神戸市)",
+            "description": "須磨離宮公園。",
+            "prefecture": "兵庫県",
+            "latitude": 34.650000,
+            "longitude": 135.116667
+        },
+        {
+            "name": "函館御殿 (函館市)",
+            "description": "五稜郭内の奉行所。宮殿的。",
+            "prefecture": "北海道",
+            "latitude": 41.796944,
+            "longitude": 140.756944
+        },
+        {
+            "name": "首里城正殿跡 (那覇市)",
+            "description": "琉球国王の宮殿。",
+            "prefecture": "沖縄県",
+            "latitude": 26.218333,
+            "longitude": 127.715278
+        },
+        {
+            "name": "中城御殿跡 (那覇市)",
+            "description": "琉球王世子の宮殿。旧県立博物館。",
+            "prefecture": "沖縄県",
+            "latitude": 26.218056,
+            "longitude": 127.713889
+        },
+        {
+            "name": "識名園 (那覇市)",
+            "description": "琉球王家の別邸。",
+            "prefecture": "沖縄県",
+            "latitude": 26.204444,
+            "longitude": 127.715556
+        },
+        {
+            "name": "御茶屋御殿跡 (那覇市)",
+            "description": "琉球王家の別邸。",
+            "prefecture": "沖縄県",
+            "latitude": 26.218056,
+            "longitude": 127.718889
+        },
+        {
+            "name": "西洞院殿跡 (京都市)",
+            "description": "里内裏。",
+            "prefecture": "京都府",
+            "latitude": 35.006111,
+            "longitude": 135.756667
+        },
+        {
+            "name": "勘解由小路殿跡 (京都市)",
+            "description": "里内裏。",
+            "prefecture": "京都府",
+            "latitude": 35.021111,
+            "longitude": 135.753889
+        },
+        {
+            "name": "万里小路殿跡 (京都市)",
+            "description": "里内裏。",
+            "prefecture": "京都府",
+            "latitude": 35.016667,
+            "longitude": 135.761111
+        },
+        {
+            "name": "花山院跡 (京都市)",
+            "description": "花山天皇。",
+            "prefecture": "京都府",
+            "latitude": 35.023056,
+            "longitude": 135.766667
+        },
+        {
+            "name": "冷泉殿跡 (京都市)",
+            "description": "冷泉院とは別。",
+            "prefecture": "京都府",
+            "latitude": 35.021111,
+            "longitude": 135.756111
+        },
+        {
+            "name": "大炊御門殿跡 (京都市)",
+            "description": "藤原師実。",
+            "prefecture": "京都府",
+            "latitude": 35.015000,
+            "longitude": 135.761667
+        },
+        {
+            "name": "近衛殿跡 (京都市)",
+            "description": "近衛家。",
+            "prefecture": "京都府",
+            "latitude": 35.024722,
+            "longitude": 135.758333
+        },
+        {
+            "name": "久我邸跡 (京都市)",
+            "description": "久我家。",
+            "prefecture": "京都府",
+            "latitude": 35.024722,
+            "longitude": 135.753333
+        },
+        {
+            "name": "今出川殿跡 (京都市)",
+            "description": "西園寺家・足利義満。",
+            "prefecture": "京都府",
+            "latitude": 35.029444,
+            "longitude": 135.758333
+        },
+        {
+            "name": "小一条殿跡 (京都市)",
+            "description": "里内裏。",
+            "prefecture": "京都府",
+            "latitude": 35.026667,
+            "longitude": 135.754167
+        },
+        {
+            "name": "五条殿跡 (京都市)",
+            "description": "鳥羽上皇。",
+            "prefecture": "京都府",
+            "latitude": 34.996111,
+            "longitude": 135.753333
+        },
+        {
+            "name": "若松殿跡 (京都市)",
+            "description": "里内裏。",
+            "prefecture": "京都府",
+            "latitude": 35.013056,
+            "longitude": 135.753333
+        },
+        {
+            "name": "泉殿跡 (京都市)",
+            "description": "里内裏。",
+            "prefecture": "京都府",
+            "latitude": 35.013056,
+            "longitude": 135.756111
+        },
+        {
+            "name": "大宮殿跡 (京都市)",
+            "description": "大宮御所。",
+            "prefecture": "京都府",
+            "latitude": 35.023611,
+            "longitude": 135.748333
+        },
+        {
+            "name": "中山邸跡 (京都市)",
+            "description": "明治天皇生誕地。",
+            "prefecture": "京都府",
+            "latitude": 35.021111,
+            "longitude": 135.761667
+        },
+        {
+            "name": "九条邸跡 (京都市)",
+            "description": "九条家。",
+            "prefecture": "京都府",
+            "latitude": 35.021111,
+            "longitude": 135.763333
+        },
+        {
+            "name": "桂宮邸跡 (京都市)",
+            "description": "京都御苑内。",
+            "prefecture": "京都府",
+            "latitude": 35.023056,
+            "longitude": 135.761667
+        },
+        {
+            "name": "有栖川宮邸跡 (京都市)",
+            "description": "京都御苑内。",
+            "prefecture": "京都府",
+            "latitude": 35.021667,
+            "longitude": 135.758333
+        },
+        {
+            "name": "凝華洞跡 (京都市)",
+            "description": "後西天皇。",
+            "prefecture": "京都府",
+            "latitude": 35.020556,
+            "longitude": 135.760000
+        }
+    ]
+}

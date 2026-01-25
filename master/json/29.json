@@ -1,0 +1,662 @@
+{
+    "municipalities": [
+        {
+            "name": "志苔館跡",
+            "description": "続日本100名城。コシャマインの戦いの舞台。",
+            "prefecture": "北海道",
+            "latitude": "41.771900",
+            "longitude": "140.803300"
+        },
+        {
+            "name": "上ノ国勝山館跡",
+            "description": "続日本100名城。中世の山城跡。",
+            "prefecture": "北海道",
+            "latitude": "41.802800",
+            "longitude": "140.117500"
+        },
+        {
+            "name": "聖寿寺館跡",
+            "description": "南部氏の本拠地だった館跡。",
+            "prefecture": "青森県",
+            "latitude": "40.506100",
+            "longitude": "141.405300"
+        },
+        {
+            "name": "浪岡城跡",
+            "description": "北畠氏の居城跡。中世の城館跡。",
+            "prefecture": "青森県",
+            "latitude": "40.713900",
+            "longitude": "140.602500"
+        },
+        {
+            "name": "志波城古代公園",
+            "description": "古代陸奥国の城柵跡。外郭塀などが復元。",
+            "prefecture": "岩手県",
+            "latitude": "39.673300",
+            "longitude": "141.111700"
+        },
+        {
+            "name": "胆沢城跡",
+            "description": "坂上田村麻呂が造営した鎮守府跡。",
+            "prefecture": "岩手県",
+            "latitude": "39.155300",
+            "longitude": "141.127800"
+        },
+        {
+            "name": "多賀城跡",
+            "description": "奈良・平安時代の陸奥国府跡。日本三大史跡の一つ。",
+            "prefecture": "宮城県",
+            "latitude": "38.303100",
+            "longitude": "140.993300"
+        },
+        {
+            "name": "岩切城跡",
+            "description": "中世の山城。桜の名所。",
+            "prefecture": "宮城県",
+            "latitude": "38.307500",
+            "longitude": "140.941900"
+        },
+        {
+            "name": "秋田城跡",
+            "description": "古代の城柵官衙遺跡。水洗トイレ跡などが発見された。",
+            "prefecture": "秋田県",
+            "latitude": "39.736700",
+            "longitude": "140.091700"
+        },
+        {
+            "name": "脇本城跡",
+            "description": "安東愛季の居城。巨大な土塁が残る。",
+            "prefecture": "秋田県",
+            "latitude": "39.907800",
+            "longitude": "139.897200"
+        },
+        {
+            "name": "舘山城跡",
+            "description": "伊達氏ゆかりの城跡。国史跡。",
+            "prefecture": "山形県",
+            "latitude": "37.905600",
+            "longitude": "140.065800"
+        },
+        {
+            "name": "延沢城跡",
+            "description": "尾花沢市にある中世城郭。",
+            "prefecture": "山形県",
+            "latitude": "38.583300",
+            "longitude": "140.450000"
+        },
+        {
+            "name": "向羽黒山城跡",
+            "description": "東北最大級の山城。続日本100名城。",
+            "prefecture": "福島県",
+            "latitude": "37.433600",
+            "longitude": "139.893300"
+        },
+        {
+            "name": "桑折西山城跡",
+            "description": "伊達氏の居城跡。",
+            "prefecture": "福島県",
+            "latitude": "37.863100",
+            "longitude": "140.511700"
+        },
+        {
+            "name": "笠間城跡",
+            "description": "石垣が残る山城。",
+            "prefecture": "茨城県",
+            "latitude": "36.378900",
+            "longitude": "140.261100"
+        },
+        {
+            "name": "小田城跡",
+            "description": "小田氏の居城跡。中世の平城。",
+            "prefecture": "茨城県",
+            "latitude": "36.155000",
+            "longitude": "140.113600"
+        },
+        {
+            "name": "足利氏館跡(鑁阿寺)",
+            "description": "足利氏発祥の地。周囲に土塁と堀が巡る。",
+            "prefecture": "栃木県",
+            "latitude": "36.337500",
+            "longitude": "139.447800"
+        },
+        {
+            "name": "飛山城跡",
+            "description": "中世の城郭跡。土塁や堀が復元整備されている。",
+            "prefecture": "栃木県",
+            "latitude": "36.590000",
+            "longitude": "139.957500"
+        },
+        {
+            "name": "岩櫃城跡",
+            "description": "真田氏ゆかりの堅固な山城。",
+            "prefecture": "群馬県",
+            "latitude": "36.561900",
+            "longitude": "138.802800"
+        },
+        {
+            "name": "箕輪城跡",
+            "description": "長野業正の居城。巨大な堀切が残る。",
+            "prefecture": "群馬県",
+            "latitude": "36.402200",
+            "longitude": "138.966700"
+        },
+        {
+            "name": "杉山城跡",
+            "description": "「戦国期城郭の最高傑作」とも評される巧みな縄張り。",
+            "prefecture": "埼玉県",
+            "latitude": "36.061700",
+            "longitude": "139.337800"
+        },
+        {
+            "name": "菅谷館跡",
+            "description": "畠山重忠の居館跡。",
+            "prefecture": "埼玉県",
+            "latitude": "36.037800",
+            "longitude": "139.313900"
+        },
+        {
+            "name": "本佐倉城跡",
+            "description": "千葉氏の居城跡。大規模な空堀が残る。",
+            "prefecture": "千葉県",
+            "latitude": "35.733600",
+            "longitude": "140.252200"
+        },
+        {
+            "name": "関宿城跡",
+            "description": "利根川水運の要衝。現在は博物館（模擬天守）がある。",
+            "prefecture": "千葉県",
+            "latitude": "36.101100",
+            "longitude": "139.782500"
+        },
+        {
+            "name": "滝山城跡",
+            "description": "北条氏照の居城。多摩川を望む要害。",
+            "prefecture": "東京都",
+            "latitude": "35.700300",
+            "longitude": "139.323600"
+        },
+        {
+            "name": "品川台場跡",
+            "description": "幕末に築かれた海上砲台跡。現在は公園。",
+            "prefecture": "東京都",
+            "latitude": "35.631900",
+            "longitude": "139.771900"
+        },
+        {
+            "name": "小机城跡",
+            "description": "続日本100名城。空堀や土塁がよく残る。",
+            "prefecture": "神奈川県",
+            "latitude": "35.512500",
+            "longitude": "139.593300"
+        },
+        {
+            "name": "荒井城跡",
+            "description": "三浦一族終焉の地。",
+            "prefecture": "神奈川県",
+            "latitude": "35.163300",
+            "longitude": "139.615000"
+        },
+        {
+            "name": "村上城跡",
+            "description": "臥牛山に築かれた石垣の城。",
+            "prefecture": "新潟県",
+            "latitude": "38.223100",
+            "longitude": "139.483600"
+        },
+        {
+            "name": "鮫ヶ尾城跡",
+            "description": "上杉景虎終焉の地。続日本100名城。",
+            "prefecture": "新潟県",
+            "latitude": "37.051900",
+            "longitude": "138.225000"
+        },
+        {
+            "name": "増山城跡",
+            "description": "越中三大山城の一つ。神保氏の居城。",
+            "prefecture": "富山県",
+            "latitude": "36.639700",
+            "longitude": "136.985800"
+        },
+        {
+            "name": "安田城跡",
+            "description": "平城の遺構がよく残る。",
+            "prefecture": "富山県",
+            "latitude": "36.671900",
+            "longitude": "137.172200"
+        },
+        {
+            "name": "鳥越城跡",
+            "description": "一向一揆の最後の拠点。",
+            "prefecture": "石川県",
+            "latitude": "36.335300",
+            "longitude": "136.587800"
+        },
+        {
+            "name": "小松城跡",
+            "description": "加賀藩主前田利常の隠居城。天守台石垣が残る。",
+            "prefecture": "石川県",
+            "latitude": "36.405000",
+            "longitude": "136.450300"
+        },
+        {
+            "name": "一乗谷朝倉氏遺跡",
+            "description": "戦国大名朝倉氏の城下町跡。特別史跡。",
+            "prefecture": "福井県",
+            "latitude": "35.998900",
+            "longitude": "136.295300"
+        },
+        {
+            "name": "玄蕃尾城跡",
+            "description": "柴田勝家が築いた陣城。",
+            "prefecture": "福井県",
+            "latitude": "35.617800",
+            "longitude": "136.208300"
+        },
+        {
+            "name": "新府城跡",
+            "description": "武田勝頼が築いた未完の城。",
+            "prefecture": "山梨県",
+            "latitude": "35.733300",
+            "longitude": "138.423900"
+        },
+        {
+            "name": "岩殿城跡",
+            "description": "岩殿山にある堅固な山城。",
+            "prefecture": "山梨県",
+            "latitude": "35.619200",
+            "longitude": "138.950800"
+        },
+        {
+            "name": "荒砥城跡",
+            "description": "中世の山城が復元されている。",
+            "prefecture": "長野県",
+            "latitude": "36.398600",
+            "longitude": "138.128100"
+        },
+        {
+            "name": "龍岡城跡",
+            "description": "日本に二つしかない五稜郭の一つ。",
+            "prefecture": "長野県",
+            "latitude": "36.195000",
+            "longitude": "138.502800"
+        },
+        {
+            "name": "苗木城跡",
+            "description": "巨岩を取り込んだ石垣が特徴的な山城。",
+            "prefecture": "岐阜県",
+            "latitude": "35.503600",
+            "longitude": "137.491400"
+        },
+        {
+            "name": "美濃金山城跡",
+            "description": "森蘭丸ゆかりの城。石垣が残る。",
+            "prefecture": "岐阜県",
+            "latitude": "35.437500",
+            "longitude": "137.065800"
+        },
+        {
+            "name": "諏訪原城跡",
+            "description": "武田氏が築いた丸馬出がよく残る。",
+            "prefecture": "静岡県",
+            "latitude": "34.821900",
+            "longitude": "138.126400"
+        },
+        {
+            "name": "高天神城跡",
+            "description": "武田・徳川の激戦地。「高天神を制する者は遠州を制す」。",
+            "prefecture": "静岡県",
+            "latitude": "34.693100",
+            "longitude": "138.033600"
+        },
+        {
+            "name": "吉田城跡",
+            "description": "豊橋公園内にある。鉄櫓が復元。",
+            "prefecture": "愛知県",
+            "latitude": "34.770300",
+            "longitude": "137.392800"
+        },
+        {
+            "name": "長篠城跡",
+            "description": "長篠の戦いの舞台。",
+            "prefecture": "愛知県",
+            "latitude": "34.924200",
+            "longitude": "137.560600"
+        },
+        {
+            "name": "田丸城跡",
+            "description": "続日本100名城。石垣が美しい。",
+            "prefecture": "三重県",
+            "latitude": "34.489200",
+            "longitude": "136.632200"
+        },
+        {
+            "name": "赤木城跡",
+            "description": "藤堂高虎が築城。石垣がよく残る山城。",
+            "prefecture": "三重県",
+            "latitude": "33.901900",
+            "longitude": "135.938900"
+        },
+        {
+            "name": "小谷城跡",
+            "description": "浅井長政の居城。日本五大山城の一つ。",
+            "prefecture": "滋賀県",
+            "latitude": "35.459200",
+            "longitude": "136.279200"
+        },
+        {
+            "name": "観音寺城跡",
+            "description": "六角氏の居城。石垣が残る日本最大級の山城。",
+            "prefecture": "滋賀県",
+            "latitude": "35.145800",
+            "longitude": "136.162500"
+        },
+        {
+            "name": "勝竜寺城跡",
+            "description": "細川ガラシャゆかりの城。公園として整備。",
+            "prefecture": "京都府",
+            "latitude": "34.923600",
+            "longitude": "135.698900"
+        },
+        {
+            "name": "周山城跡",
+            "description": "明智光秀が築いた総石垣の山城。",
+            "prefecture": "京都府",
+            "latitude": "35.155000",
+            "longitude": "135.639700"
+        },
+        {
+            "name": "千早城跡",
+            "description": "楠木正成が籠城した難攻不落の城。",
+            "prefecture": "大阪府",
+            "latitude": "34.417500",
+            "longitude": "135.651400"
+        },
+        {
+            "name": "飯盛城跡",
+            "description": "三好長慶の居城。石垣が多く残る。",
+            "prefecture": "大阪府",
+            "latitude": "34.721400",
+            "longitude": "135.651700"
+        },
+        {
+            "name": "黒井城跡",
+            "description": "赤井直正の居城。雲海の名所。",
+            "prefecture": "兵庫県",
+            "latitude": "35.174700",
+            "longitude": "135.105600"
+        },
+        {
+            "name": "有子山城跡",
+            "description": "出石城の背後にある山城。",
+            "prefecture": "兵庫県",
+            "latitude": "35.456400",
+            "longitude": "134.876700"
+        },
+        {
+            "name": "宇陀松山城跡",
+            "description": "城下町とともに国の史跡。",
+            "prefecture": "奈良県",
+            "latitude": "34.484200",
+            "longitude": "135.933300"
+        },
+        {
+            "name": "信貴山城跡",
+            "description": "松永久秀の居城。",
+            "prefecture": "奈良県",
+            "latitude": "34.608300",
+            "longitude": "135.670800"
+        },
+        {
+            "name": "龍神山城跡",
+            "description": "田辺市にある山城。",
+            "prefecture": "和歌山県",
+            "latitude": "33.753600",
+            "longitude": "135.405000"
+        },
+        {
+            "name": "手取城跡",
+            "description": "玉置氏の居城。見晴らしが良い。",
+            "prefecture": "和歌山県",
+            "latitude": "33.918900",
+            "longitude": "135.163300"
+        },
+        {
+            "name": "若桜鬼ヶ城跡",
+            "description": "石垣がよく残る山城。",
+            "prefecture": "鳥取県",
+            "latitude": "35.342500",
+            "longitude": "134.403100"
+        },
+        {
+            "name": "鹿野城跡",
+            "description": "亀井茲矩の居城。水堀が美しい。",
+            "prefecture": "鳥取県",
+            "latitude": "35.426700",
+            "longitude": "134.053100"
+        },
+        {
+            "name": "月山富田城跡",
+            "description": "尼子氏の居城。日本五大山城の一つ。",
+            "prefecture": "島根県",
+            "latitude": "35.361900",
+            "longitude": "133.187800"
+        },
+        {
+            "name": "浜田城跡",
+            "description": "江戸時代の海城。",
+            "prefecture": "島根県",
+            "latitude": "34.901100",
+            "longitude": "132.076900"
+        },
+        {
+            "name": "鬼ノ城",
+            "description": "古代の朝鮮式山城。西門が復元されている。",
+            "prefecture": "岡山県",
+            "latitude": "34.729700",
+            "longitude": "133.758300"
+        },
+        {
+            "name": "備中高松城跡",
+            "description": "羽柴秀吉の水攻めで有名。",
+            "prefecture": "岡山県",
+            "latitude": "34.686900",
+            "longitude": "133.818300"
+        },
+        {
+            "name": "吉田郡山城跡",
+            "description": "毛利元就の居城。石垣や土塁が残る。",
+            "prefecture": "広島県",
+            "latitude": "34.671900",
+            "longitude": "132.708300"
+        },
+        {
+            "name": "三原城跡",
+            "description": "小早川隆景が築城。新幹線駅が城跡の上にある。",
+            "prefecture": "広島県",
+            "latitude": "34.400000",
+            "longitude": "133.083300"
+        },
+        {
+            "name": "大内氏館跡(龍福寺)",
+            "description": "大内氏の居館跡。",
+            "prefecture": "山口県",
+            "latitude": "34.183900",
+            "longitude": "131.474400"
+        },
+        {
+            "name": "鴻ノ峰城跡",
+            "description": "大内氏が築いた詰めの城。",
+            "prefecture": "山口県",
+            "latitude": "34.195300",
+            "longitude": "131.472200"
+        },
+        {
+            "name": "勝瑞城跡",
+            "description": "三好氏の拠点。館跡と城跡がある。",
+            "prefecture": "徳島県",
+            "latitude": "34.125000",
+            "longitude": "134.512200"
+        },
+        {
+            "name": "撫養城跡(岡崎城)",
+            "description": "阿波九城の一つ。模擬天守がある。",
+            "prefecture": "徳島県",
+            "latitude": "34.175000",
+            "longitude": "134.615000"
+        },
+        {
+            "name": "屋島城跡",
+            "description": "古代山城。城壁が復元されている。",
+            "prefecture": "香川県",
+            "latitude": "34.355600",
+            "longitude": "134.103100"
+        },
+        {
+            "name": "引田城跡",
+            "description": "東かがわ市にある石垣の城。",
+            "prefecture": "香川県",
+            "latitude": "34.228900",
+            "longitude": "134.406900"
+        },
+        {
+            "name": "河後森城跡",
+            "description": "中世の山城跡。続日本100名城。",
+            "prefecture": "愛媛県",
+            "latitude": "33.220800",
+            "longitude": "132.709200"
+        },
+        {
+            "name": "能島城跡",
+            "description": "村上水軍の拠点。潮流激しい島にある。",
+            "prefecture": "愛媛県",
+            "latitude": "34.178300",
+            "longitude": "133.082500"
+        },
+        {
+            "name": "安芸城跡",
+            "description": "安芸氏の居城。石垣や土塁が残る。",
+            "prefecture": "高知県",
+            "latitude": "33.509400",
+            "longitude": "133.905600"
+        },
+        {
+            "name": "浦戸城跡",
+            "description": "長宗我部元親が晩年を過ごした城。",
+            "prefecture": "高知県",
+            "latitude": "33.497500",
+            "longitude": "133.567800"
+        },
+        {
+            "name": "水城跡",
+            "description": "古代の防衛施設。長い土塁が残る。",
+            "prefecture": "福岡県",
+            "latitude": "33.511900",
+            "longitude": "130.505000"
+        },
+        {
+            "name": "大野城跡",
+            "description": "古代山城（朝鮮式山城）。特別史跡。",
+            "prefecture": "福岡県",
+            "latitude": "33.539700",
+            "longitude": "130.511100"
+        },
+        {
+            "name": "蓮池城跡",
+            "description": "蓮池藩の居城跡。現在は蓮池公園。",
+            "prefecture": "佐賀県",
+            "latitude": "33.262500",
+            "longitude": "130.361100"
+        },
+        {
+            "name": "勝尾城跡",
+            "description": "筑紫氏の居城。",
+            "prefecture": "佐賀県",
+            "latitude": "33.366700",
+            "longitude": "130.470000"
+        },
+        {
+            "name": "原城跡",
+            "description": "島原の乱の舞台。世界遺産。",
+            "prefecture": "長崎県",
+            "latitude": "32.630000",
+            "longitude": "130.257500"
+        },
+        {
+            "name": "金田城跡",
+            "description": "対馬にある古代山城。石垣が見事。",
+            "prefecture": "長崎県",
+            "latitude": "34.295800",
+            "longitude": "129.276400"
+        },
+        {
+            "name": "鞠智城跡",
+            "description": "古代山城。八角形鼓楼が復元。",
+            "prefecture": "熊本県",
+            "latitude": "33.003900",
+            "longitude": "130.781700"
+        },
+        {
+            "name": "田中城跡",
+            "description": "肥後国衆一揆の舞台。和水町。",
+            "prefecture": "熊本県",
+            "latitude": "33.045000",
+            "longitude": "130.588900"
+        },
+        {
+            "name": "角牟礼城跡",
+            "description": "玖珠町にある山城。石垣が残る。",
+            "prefecture": "大分県",
+            "latitude": "33.288900",
+            "longitude": "131.152800"
+        },
+        {
+            "name": "佐伯城跡",
+            "description": "山頂の石垣が見事。続日本100名城。",
+            "prefecture": "大分県",
+            "latitude": "32.960800",
+            "longitude": "131.895000"
+        },
+        {
+            "name": "佐土原城跡",
+            "description": "伊東氏・島津氏の拠点。山城。",
+            "prefecture": "宮崎県",
+            "latitude": "32.028900",
+            "longitude": "131.423900"
+        },
+        {
+            "name": "都於郡城跡",
+            "description": "伊東氏の居城跡。",
+            "prefecture": "宮崎県",
+            "latitude": "32.051900",
+            "longitude": "131.406900"
+        },
+        {
+            "name": "志布志城跡",
+            "description": "シラス台地を利用した山城群。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.482800",
+            "longitude": "131.109700"
+        },
+        {
+            "name": "清色城跡",
+            "description": "薩摩川内市にある入来院氏の居城。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.815300",
+            "longitude": "130.435800"
+        },
+        {
+            "name": "座喜味城跡",
+            "description": "世界遺産。アーチ門と曲線の城壁が美しい。",
+            "prefecture": "沖縄県",
+            "latitude": "26.406400",
+            "longitude": "127.742200"
+        },
+        {
+            "name": "勝連城跡",
+            "description": "世界遺産。阿麻和利の居城。海を望む。",
+            "prefecture": "沖縄県",
+            "latitude": "26.330800",
+            "longitude": "127.879200"
+        }
+    ]
+}

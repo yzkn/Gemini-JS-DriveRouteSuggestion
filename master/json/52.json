@@ -1,0 +1,1054 @@
+{
+    "municipalities": [
+        {
+            "name": "東京国立博物館",
+            "description": "日本最古の博物館。国宝や重要文化財を多数収蔵。",
+            "prefecture": "東京都",
+            "latitude": 35.7189,
+            "longitude": 139.7765
+        },
+        {
+            "name": "京都国立博物館",
+            "description": "京都の文化財を中心に展示する国立博物館。",
+            "prefecture": "京都府",
+            "latitude": 34.9904,
+            "longitude": 135.7728
+        },
+        {
+            "name": "奈良国立博物館",
+            "description": "仏教美術を中心に展示する博物館。奈良公園内にある。",
+            "prefecture": "奈良県",
+            "latitude": 34.6835,
+            "longitude": 135.8369
+        },
+        {
+            "name": "九州国立博物館",
+            "description": "「日本文化の形成をアジア史的観点から捉える」がテーマ。",
+            "prefecture": "福岡県",
+            "latitude": 33.5186,
+            "longitude": 130.5217
+        },
+        {
+            "name": "国立民族学博物館",
+            "description": "世界の諸民族の社会と文化を研究・展示する博物館。万博記念公園内。",
+            "prefecture": "大阪府",
+            "latitude": 34.8119,
+            "longitude": 135.5298
+        },
+        {
+            "name": "国立歴史民俗博物館",
+            "description": "日本の歴史と文化について総合的に研究・展示する歴史博物館。",
+            "prefecture": "千葉県",
+            "latitude": 35.7278,
+            "longitude": 140.2241
+        },
+        {
+            "name": "国立科学博物館",
+            "description": "日本最大級の総合科学博物館。上野恩賜公園内。",
+            "prefecture": "東京都",
+            "latitude": 35.7161,
+            "longitude": 139.7758
+        },
+        {
+            "name": "国立アイヌ民族博物館",
+            "description": "アイヌ文化の復興・発展の拠点となる国立博物館（ウポポイ）。",
+            "prefecture": "北海道",
+            "latitude": 42.5647,
+            "longitude": 141.1685
+        },
+        {
+            "name": "日本科学未来館",
+            "description": "最新の科学技術を体験できるサイエンスミュージアム。",
+            "prefecture": "東京都",
+            "latitude": 35.6192,
+            "longitude": 139.7766
+        },
+        {
+            "name": "鉄道博物館",
+            "description": "実物車両やシミュレーターがある日本最大級の鉄道博物館。",
+            "prefecture": "埼玉県",
+            "latitude": 35.9222,
+            "longitude": 139.6178
+        },
+        {
+            "name": "リニア・鉄道館",
+            "description": "東海道新幹線を中心に、高速鉄道技術の進歩を紹介。",
+            "prefecture": "愛知県",
+            "latitude": 35.0494,
+            "longitude": 136.8509
+        },
+        {
+            "name": "京都鉄道博物館",
+            "description": "蒸気機関車から新幹線まで53両を収蔵する鉄道博物館。",
+            "prefecture": "京都府",
+            "latitude": 34.9868,
+            "longitude": 135.7417
+        },
+        {
+            "name": "トヨタ産業技術記念館",
+            "description": "トヨタグループ発祥の地に残る工場を産業遺産として活用。",
+            "prefecture": "愛知県",
+            "latitude": 35.1837,
+            "longitude": 136.8778
+        },
+        {
+            "name": "トヨタ博物館",
+            "description": "ガソリン自動車誕生からの自動車の歴史を展示。",
+            "prefecture": "愛知県",
+            "latitude": 35.1725,
+            "longitude": 137.0583
+        },
+        {
+            "name": "カップヌードルミュージアム 横浜",
+            "description": "インスタントラーメンの歴史や発明のヒントを学べる体験型施設。",
+            "prefecture": "神奈川県",
+            "latitude": 35.4554,
+            "longitude": 139.6393
+        },
+        {
+            "name": "カップヌードルミュージアム 大阪池田",
+            "description": "インスタントラーメン発祥の地にある記念館。",
+            "prefecture": "大阪府",
+            "latitude": 34.8183,
+            "longitude": 135.4269
+        },
+        {
+            "name": "名古屋市科学館",
+            "description": "世界最大級のプラネタリウムがある総合科学館。",
+            "prefecture": "愛知県",
+            "latitude": 35.1643,
+            "longitude": 136.9002
+        },
+        {
+            "name": "大阪市立科学館",
+            "description": "「宇宙とエネルギー」をテーマにした参加体験型科学館。",
+            "prefecture": "大阪府",
+            "latitude": 34.6917,
+            "longitude": 135.4925
+        },
+        {
+            "name": "福岡市科学館",
+            "description": "九州最大級の科学館。ドームシアターがある。",
+            "prefecture": "福岡県",
+            "latitude": 33.5786,
+            "longitude": 130.3789
+        },
+        {
+            "name": "大和ミュージアム（呉市海事歴史科学館）",
+            "description": "戦艦「大和」の10分の1模型などを展示する海事博物館。",
+            "prefecture": "広島県",
+            "latitude": 34.2407,
+            "longitude": 132.5562
+        },
+        {
+            "name": "カワサキワールド",
+            "description": "川崎重工グループの企業ミュージアム。神戸海洋博物館内。",
+            "prefecture": "兵庫県",
+            "latitude": 34.6811,
+            "longitude": 135.1878
+        },
+        {
+            "name": "三菱みなとみらい技術館",
+            "description": "三菱重工の最先端科学技術をテーマにした企業博物館。",
+            "prefecture": "神奈川県",
+            "latitude": 35.4558,
+            "longitude": 139.6311
+        },
+        {
+            "name": "TOTOミュージアム",
+            "description": "水まわりの文化や歴史、TOTOのものづくりを紹介。",
+            "prefecture": "福岡県",
+            "latitude": 33.8672,
+            "longitude": 130.8711
+        },
+        {
+            "name": "マツダミュージアム",
+            "description": "マツダの歴史や車づくりの工程を見学できる博物館。",
+            "prefecture": "広島県",
+            "latitude": 34.3705,
+            "longitude": 132.5028
+        },
+        {
+            "name": "スズキ歴史館",
+            "description": "スズキの歴史と「ものづくり」の情熱を紹介。",
+            "prefecture": "静岡県",
+            "latitude": 34.6933,
+            "longitude": 137.6908
+        },
+        {
+            "name": "ヤマハ イノベーションロード",
+            "description": "ヤマハの歴史と現在、未来への挑戦を展示する企業ミュージアム。",
+            "prefecture": "静岡県",
+            "latitude": 34.7175,
+            "longitude": 137.7336
+        },
+        {
+            "name": "竹中大工道具館",
+            "description": "日本で唯一の大工道具の専門博物館。",
+            "prefecture": "兵庫県",
+            "latitude": 34.7061,
+            "longitude": 135.1958
+        },
+        {
+            "name": "航空科学博物館",
+            "description": "成田空港に隣接する日本初の航空専門博物館。",
+            "prefecture": "千葉県",
+            "latitude": 35.7419,
+            "longitude": 140.3953
+        },
+        {
+            "name": "岐阜かかみがはら航空宇宙博物館",
+            "description": "国内最大級の航空宇宙博物館。実機展示が多い。",
+            "prefecture": "岐阜県",
+            "latitude": 35.39,
+            "longitude": 136.8622
+        },
+        {
+            "name": "あいち航空ミュージアム",
+            "description": "県営名古屋空港にある、航空機をテーマにしたミュージアム。",
+            "prefecture": "愛知県",
+            "latitude": 35.2425,
+            "longitude": 136.9242
+        },
+        {
+            "name": "所沢航空発祥記念館",
+            "description": "日本の航空発祥の地・所沢にある航空博物館。",
+            "prefecture": "埼玉県",
+            "latitude": 35.7972,
+            "longitude": 139.4719
+        },
+        {
+            "name": "江戸東京博物館",
+            "description": "江戸・東京の歴史と文化を紹介する博物館（大規模改修中だが重要）。",
+            "prefecture": "東京都",
+            "latitude": 35.6963,
+            "longitude": 139.7963
+        },
+        {
+            "name": "大阪歴史博物館",
+            "description": "難波宮跡の上に建つ、大阪の歴史を紹介する博物館。",
+            "prefecture": "大阪府",
+            "latitude": 34.6828,
+            "longitude": 135.5208
+        },
+        {
+            "name": "福岡市博物館",
+            "description": "国宝「金印」を所蔵し、福岡の歴史と民俗を紹介。",
+            "prefecture": "福岡県",
+            "latitude": 33.5908,
+            "longitude": 130.3533
+        },
+        {
+            "name": "北海道博物館",
+            "description": "北海道の自然・歴史・文化を紹介する総合博物館。",
+            "prefecture": "北海道",
+            "latitude": 43.0494,
+            "longitude": 141.4925
+        },
+        {
+            "name": "東北歴史博物館",
+            "description": "東北地方の歴史と文化を旧石器時代から現代まで展示。",
+            "prefecture": "宮城県",
+            "latitude": 38.3,
+            "longitude": 140.9881
+        },
+        {
+            "name": "神奈川県立歴史博物館",
+            "description": "旧横浜正金銀行本店を活用した歴史博物館。",
+            "prefecture": "神奈川県",
+            "latitude": 35.4497,
+            "longitude": 139.6361
+        },
+        {
+            "name": "兵庫県立歴史博物館",
+            "description": "姫路城の北側に位置する、「兵庫の歴史」をテーマにした博物館。",
+            "prefecture": "兵庫県",
+            "latitude": 34.8389,
+            "longitude": 134.6989
+        },
+        {
+            "name": "沖縄県立博物館・美術館（おきみゅー）",
+            "description": "沖縄の自然・歴史・文化・芸術を複合的に紹介。",
+            "prefecture": "沖縄県",
+            "latitude": 26.2269,
+            "longitude": 127.6936
+        },
+        {
+            "name": "長崎歴史文化博物館",
+            "description": "長崎の海外交流史を中心に展示する博物館。",
+            "prefecture": "長崎県",
+            "latitude": 32.7533,
+            "longitude": 129.8803
+        },
+        {
+            "name": "博物館明治村",
+            "description": "明治時代の建築物を保存・公開する野外博物館。",
+            "prefecture": "愛知県",
+            "latitude": 35.3408,
+            "longitude": 136.9922
+        },
+        {
+            "name": "野外民族博物館 リトルワールド",
+            "description": "世界の家屋を移築・復元し、暮らしを紹介する野外博物館。",
+            "prefecture": "愛知県",
+            "latitude": 35.3761,
+            "longitude": 137.027
+        },
+        {
+            "name": "江戸東京たてもの園",
+            "description": "歴史的建造物を移築・保存・展示する野外博物館。小金井公園内。",
+            "prefecture": "東京都",
+            "latitude": 35.7167,
+            "longitude": 139.5133
+        },
+        {
+            "name": "日本民家園",
+            "description": "古民家を中心に野外展示する博物館。生田緑地内。",
+            "prefecture": "神奈川県",
+            "latitude": 35.6094,
+            "longitude": 139.5597
+        },
+        {
+            "name": "北海道開拓の村",
+            "description": "北海道開拓時代の建造物を移築復元した野外博物館。",
+            "prefecture": "北海道",
+            "latitude": 43.0492,
+            "longitude": 141.4989
+        },
+        {
+            "name": "日光東照宮宝物館",
+            "description": "徳川家康ゆかりの品々や東照宮の宝物を展示。",
+            "prefecture": "栃木県",
+            "latitude": 36.7567,
+            "longitude": 139.5989
+        },
+        {
+            "name": "徳川美術館",
+            "description": "尾張徳川家に伝わる大名道具を収蔵・展示。",
+            "prefecture": "愛知県",
+            "latitude": 35.1833,
+            "longitude": 136.9328
+        },
+        {
+            "name": "刀剣博物館",
+            "description": "日本刀を専門に展示・保存する博物館。",
+            "prefecture": "東京都",
+            "latitude": 35.6969,
+            "longitude": 139.7969
+        },
+        {
+            "name": "福井県立恐竜博物館",
+            "description": "世界三大恐竜博物館の一つ。恐竜化石の宝庫。",
+            "prefecture": "福井県",
+            "latitude": 36.0594,
+            "longitude": 136.505
+        },
+        {
+            "name": "群馬県立自然史博物館",
+            "description": "地球の誕生から生命の進化までを紹介。実物大恐竜骨格がある。",
+            "prefecture": "群馬県",
+            "latitude": 36.2694,
+            "longitude": 138.8911
+        },
+        {
+            "name": "北九州市立いのちのたび博物館",
+            "description": "西日本最大級の自然史・歴史博物館。恐竜展示が充実。",
+            "prefecture": "福岡県",
+            "latitude": 33.8683,
+            "longitude": 130.8083
+        },
+        {
+            "name": "豊橋市自然史博物館",
+            "description": "のんほいパーク内にある自然史博物館。恐竜骨格など展示。",
+            "prefecture": "愛知県",
+            "latitude": 34.7228,
+            "longitude": 137.4244
+        },
+        {
+            "name": "神奈川県立生命の星・地球博物館",
+            "description": "地球と生命の歴史、自然の共生をテーマにした博物館。",
+            "prefecture": "神奈川県",
+            "latitude": 35.2447,
+            "longitude": 139.1364
+        },
+        {
+            "name": "東海大学海洋科学博物館",
+            "description": "「海のはくぶつかん」。水族館と科学博物館の要素を持つ。",
+            "prefecture": "静岡県",
+            "latitude": 35.0181,
+            "longitude": 138.5208
+        },
+        {
+            "name": "琵琶湖博物館",
+            "description": "琵琶湖の自然と人々の暮らしをテーマにした博物館。",
+            "prefecture": "滋賀県",
+            "latitude": 35.075,
+            "longitude": 135.9325
+        },
+        {
+            "name": "伊丹市昆虫館",
+            "description": "昆虫をテーマにした博物館。蝶が舞う温室がある。",
+            "prefecture": "兵庫県",
+            "latitude": 34.7964,
+            "longitude": 135.3969
+        },
+        {
+            "name": "橿原市昆虫館",
+            "description": "昆虫の生態展示や標本展示が充実した博物館。",
+            "prefecture": "奈良県",
+            "latitude": 34.4842,
+            "longitude": 135.8197
+        },
+        {
+            "name": "広島平和記念資料館",
+            "description": "原子爆弾の惨禍を伝え、平和を訴える資料館。",
+            "prefecture": "広島県",
+            "latitude": 34.3917,
+            "longitude": 132.4525
+        },
+        {
+            "name": "長崎原爆資料館",
+            "description": "被爆の惨状と核兵器廃絶を訴える資料館。",
+            "prefecture": "長崎県",
+            "latitude": 32.7731,
+            "longitude": 129.8633
+        },
+        {
+            "name": "知覧特攻平和会館",
+            "description": "特攻隊員の遺品や記録を展示し、平和を祈念する施設。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.3622,
+            "longitude": 130.4358
+        },
+        {
+            "name": "ひめゆり平和祈念資料館",
+            "description": "沖縄戦におけるひめゆり学徒隊の体験を伝える資料館。",
+            "prefecture": "沖縄県",
+            "latitude": 26.0964,
+            "longitude": 127.6908
+        },
+        {
+            "name": "沖縄県立平和祈念資料館",
+            "description": "沖縄戦の悲惨さと平和の尊さを伝える資料館。平和祈念公園内。",
+            "prefecture": "沖縄県",
+            "latitude": 26.0911,
+            "longitude": 127.7247
+        },
+        {
+            "name": "昭和館",
+            "description": "戦中・戦後の国民生活の労苦を伝える国立の施設。",
+            "prefecture": "東京都",
+            "latitude": 35.6947,
+            "longitude": 139.7539
+        },
+        {
+            "name": "三鷹の森ジブリ美術館",
+            "description": "スタジオジブリ作品の世界を体験できる美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.6964,
+            "longitude": 139.5706
+        },
+        {
+            "name": "藤子・F・不二雄ミュージアム",
+            "description": "ドラえもんなどの原画展示や制作の歴史を紹介。",
+            "prefecture": "神奈川県",
+            "latitude": 35.6097,
+            "longitude": 139.5736
+        },
+        {
+            "name": "水木しげる記念館",
+            "description": "「ゲゲゲの鬼太郎」の作者・水木しげるの作品と人生を紹介。",
+            "prefecture": "鳥取県",
+            "latitude": 35.5483,
+            "longitude": 133.2294
+        },
+        {
+            "name": "青山剛昌ふるさと館",
+            "description": "「名探偵コナン」の作者・青山剛昌の資料館。",
+            "prefecture": "鳥取県",
+            "latitude": 35.5008,
+            "longitude": 133.7578
+        },
+        {
+            "name": "石ノ森萬画館",
+            "description": "石ノ森章太郎作品の原画や世界観を展示するマンガミュージアム。",
+            "prefecture": "宮城県",
+            "latitude": 38.4317,
+            "longitude": 141.3092
+        },
+        {
+            "name": "手塚治虫記念館",
+            "description": "マンガの神様・手塚治虫の作品や資料を展示。",
+            "prefecture": "兵庫県",
+            "latitude": 34.8083,
+            "longitude": 135.3456
+        },
+        {
+            "name": "京都国際マンガミュージアム",
+            "description": "国内外のマンガ資料を収集・保管・展示する博物館。",
+            "prefecture": "京都府",
+            "latitude": 35.0117,
+            "longitude": 135.7597
+        },
+        {
+            "name": "北九州市漫画ミュージアム",
+            "description": "漫画文化の振興と発信を目的とした施設。",
+            "prefecture": "福岡県",
+            "latitude": 33.8869,
+            "longitude": 130.8825
+        },
+        {
+            "name": "横手市増田まんが美術館",
+            "description": "マンガ原画の保存と公開をテーマにした美術館。",
+            "prefecture": "秋田県",
+            "latitude": 39.2069,
+            "longitude": 140.5483
+        },
+        {
+            "name": "ちひろ美術館・東京",
+            "description": "絵本画家いわさきちひろの作品を展示する美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.7258,
+            "longitude": 139.6083
+        },
+        {
+            "name": "東武博物館",
+            "description": "東武鉄道の歴史や車両を展示する博物館。",
+            "prefecture": "東京都",
+            "latitude": 35.7225,
+            "longitude": 139.8164
+        },
+        {
+            "name": "地下鉄博物館",
+            "description": "地下鉄の歴史や仕組みを学べる博物館。",
+            "prefecture": "東京都",
+            "latitude": 35.6639,
+            "longitude": 139.8731
+        },
+        {
+            "name": "電車とバスの博物館",
+            "description": "東急電鉄が運営する、電車やバスの博物館。",
+            "prefecture": "神奈川県",
+            "latitude": 35.5867,
+            "longitude": 139.5636
+        },
+        {
+            "name": "京王れーるランド",
+            "description": "京王電鉄の車両展示や体験コーナーがある施設。",
+            "prefecture": "東京都",
+            "latitude": 35.6494,
+            "longitude": 139.4131
+        },
+        {
+            "name": "ロマンスカーミュージアム",
+            "description": "歴代の小田急ロマンスカーを展示する博物館。",
+            "prefecture": "神奈川県",
+            "latitude": 35.4439,
+            "longitude": 139.3944
+        },
+        {
+            "name": "碓氷峠鉄道文化むら",
+            "description": "碓氷峠の鉄道の歴史を伝えるテーマパーク型博物館。",
+            "prefecture": "群馬県",
+            "latitude": 36.3361,
+            "longitude": 138.7347
+        },
+        {
+            "name": "三笠鉄道村",
+            "description": "北海道の鉄道発祥の地にある鉄道博物館。",
+            "prefecture": "北海道",
+            "latitude": 43.2425,
+            "longitude": 141.8767
+        },
+        {
+            "name": "小樽市総合博物館",
+            "description": "北海道の鉄道や小樽の歴史・自然・科学を展示。",
+            "prefecture": "北海道",
+            "latitude": 43.2106,
+            "longitude": 141.0069
+        },
+        {
+            "name": "四国鉄道文化館",
+            "description": "新幹線0系や四国ゆかりの車両を展示。",
+            "prefecture": "愛媛県",
+            "latitude": 33.9022,
+            "longitude": 133.1831
+        },
+        {
+            "name": "津山まなびの鉄道館",
+            "description": "扇形機関車庫を活用した鉄道博物館。",
+            "prefecture": "岡山県",
+            "latitude": 35.06,
+            "longitude": 134.0019
+        },
+        {
+            "name": "九州鉄道記念館",
+            "description": "九州の鉄道の歴史を実物車両とともに紹介。",
+            "prefecture": "福岡県",
+            "latitude": 33.9453,
+            "longitude": 130.9617
+        },
+        {
+            "name": "貨幣博物館",
+            "description": "日本銀行金融研究所が運営する、貨幣の歴史を学ぶ博物館。",
+            "prefecture": "東京都",
+            "latitude": 35.6861,
+            "longitude": 139.7711
+        },
+        {
+            "name": "造幣博物館",
+            "description": "造幣局構内にある、貨幣製造の歴史や技術を紹介する博物館。",
+            "prefecture": "大阪府",
+            "latitude": 34.6953,
+            "longitude": 135.5211
+        },
+        {
+            "name": "お札と切手の博物館",
+            "description": "国立印刷局が運営する、お札や切手の製造技術を紹介する博物館。",
+            "prefecture": "東京都",
+            "latitude": 35.7,
+            "longitude": 139.7397
+        },
+        {
+            "name": "郵政博物館",
+            "description": "郵便や通信の歴史を紹介する博物館。スカイツリータウン内。",
+            "prefecture": "東京都",
+            "latitude": 35.7103,
+            "longitude": 139.8114
+        },
+        {
+            "name": "NHK放送博物館",
+            "description": "世界最初の放送専門博物館。放送の歴史を紹介。",
+            "prefecture": "東京都",
+            "latitude": 35.6644,
+            "longitude": 139.7492
+        },
+        {
+            "name": "野球殿堂博物館",
+            "description": "日本野球界の功労者を顕彰し、野球の歴史資料を展示。東京ドーム内。",
+            "prefecture": "東京都",
+            "latitude": 35.7056,
+            "longitude": 139.7522
+        },
+        {
+            "name": "甲子園歴史館",
+            "description": "高校野球、阪神タイガース、甲子園球場の歴史を紹介。",
+            "prefecture": "兵庫県",
+            "latitude": 34.7214,
+            "longitude": 135.3617
+        },
+        {
+            "name": "秩父宮記念スポーツ博物館",
+            "description": "日本のスポーツの歴史やオリンピック資料を展示（移転等の可能性あり要確認だがリスト入り）。",
+            "prefecture": "東京都",
+            "latitude": 35.6781,
+            "longitude": 139.7153
+        },
+        {
+            "name": "日本オリンピックミュージアム",
+            "description": "オリンピック・ムーブメントの発信拠点。",
+            "prefecture": "東京都",
+            "latitude": 35.6761,
+            "longitude": 139.7139
+        },
+        {
+            "name": "サントリー美術館",
+            "description": "「生活の中の美」をテーマにした美術館。東京ミッドタウン内。",
+            "prefecture": "東京都",
+            "latitude": 35.6658,
+            "longitude": 139.7311
+        },
+        {
+            "name": "大塚国際美術館",
+            "description": "世界の名画を陶板で原寸大再現した美術館。",
+            "prefecture": "徳島県",
+            "latitude": 34.195,
+            "longitude": 134.6392
+        },
+        {
+            "name": "足立美術館",
+            "description": "日本庭園と横山大観のコレクションで知られる美術館。",
+            "prefecture": "島根県",
+            "latitude": 35.3789,
+            "longitude": 133.1953
+        },
+        {
+            "name": "MOA美術館",
+            "description": "東洋美術を中心に展示する熱海の美術館。",
+            "prefecture": "静岡県",
+            "latitude": 35.1092,
+            "longitude": 139.0758
+        },
+        {
+            "name": "金沢21世紀美術館",
+            "description": "現代美術を中心に展示する、公園のような美術館。",
+            "prefecture": "石川県",
+            "latitude": 36.5608,
+            "longitude": 136.6583
+        },
+        {
+            "name": "地中美術館",
+            "description": "直島にある、自然と建築とアートが融合した美術館。",
+            "prefecture": "香川県",
+            "latitude": 34.4503,
+            "longitude": 133.9903
+        },
+        {
+            "name": "彫刻の森美術館",
+            "description": "箱根の自然の中で彫刻を楽しめる野外美術館。",
+            "prefecture": "神奈川県",
+            "latitude": 35.245,
+            "longitude": 139.0514
+        },
+        {
+            "name": "ポーラ美術館",
+            "description": "箱根の森に溶け込むような印象派コレクションが豊富な美術館。",
+            "prefecture": "神奈川県",
+            "latitude": 35.2536,
+            "longitude": 139.0194
+        },
+        {
+            "name": "国立西洋美術館",
+            "description": "ル・コルビュジエ設計の世界遺産。西洋美術を専門に展示。",
+            "prefecture": "東京都",
+            "latitude": 35.7153,
+            "longitude": 139.7758
+        },
+        {
+            "name": "東京都現代美術館",
+            "description": "現代美術の振興を図るための美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.6789,
+            "longitude": 139.8078
+        },
+        {
+            "name": "東京都写真美術館",
+            "description": "写真と映像専門の公立美術館。恵比寿ガーデンプレイス内。",
+            "prefecture": "東京都",
+            "latitude": 35.6422,
+            "longitude": 139.7131
+        },
+        {
+            "name": "青森県立美術館",
+            "description": "三内丸山遺跡に隣接し、シャガールのアレコなどを展示。",
+            "prefecture": "青森県",
+            "latitude": 40.8033,
+            "longitude": 140.7006
+        },
+        {
+            "name": "十和田市現代美術館",
+            "description": "アートによるまちづくりのプロジェクトとして誕生した美術館。",
+            "prefecture": "青森県",
+            "latitude": 40.6139,
+            "longitude": 141.2064
+        },
+        {
+            "name": "富山市ガラス美術館",
+            "description": "現代ガラス美術を中心に展示する美術館。",
+            "prefecture": "富山県",
+            "latitude": 36.6897,
+            "longitude": 137.2133
+        },
+        {
+            "name": "大分県立美術館（OPAM）",
+            "description": "「五感で楽しむ」をコンセプトにした美術館。",
+            "prefecture": "大分県",
+            "latitude": 33.2372,
+            "longitude": 131.6033
+        },
+        {
+            "name": "長崎県美術館",
+            "description": "長崎水辺の森公園に隣接する、スペイン美術などが充実した美術館。",
+            "prefecture": "長崎県",
+            "latitude": 32.7417,
+            "longitude": 129.8703
+        },
+        {
+            "name": "熊本市現代美術館",
+            "description": "市民の活動拠点としての機能も持つ現代美術館。",
+            "prefecture": "熊本県",
+            "latitude": 32.8028,
+            "longitude": 130.7078
+        },
+        {
+            "name": "鹿児島県立博物館",
+            "description": "鹿児島の自然を紹介する博物館。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.5956,
+            "longitude": 130.5539
+        },
+        {
+            "name": "茨城県自然博物館",
+            "description": "自然と生物の進化をテーマにした博物館。",
+            "prefecture": "茨城県",
+            "latitude": 36.0353,
+            "longitude": 139.9078
+        },
+        {
+            "name": "埼玉県立川の博物館",
+            "description": "荒川を中心とした川と人々の暮らしをテーマにした博物館。",
+            "prefecture": "埼玉県",
+            "latitude": 36.1197,
+            "longitude": 139.2639
+        },
+        {
+            "name": "千葉県立中央博物館",
+            "description": "房総の自然と歴史をテーマにした総合博物館。",
+            "prefecture": "千葉県",
+            "latitude": 35.5975,
+            "longitude": 140.1436
+        },
+        {
+            "name": "新潟県立歴史博物館",
+            "description": "新潟県の歴史と縄文文化をテーマにした博物館。",
+            "prefecture": "新潟県",
+            "latitude": 37.4292,
+            "longitude": 138.8058
+        },
+        {
+            "name": "山梨県立博物館",
+            "description": "山梨の歴史と文化を紹介する博物館。「かいじあむ」。",
+            "prefecture": "山梨県",
+            "latitude": 35.6267,
+            "longitude": 138.6417
+        },
+        {
+            "name": "長野県立歴史館",
+            "description": "長野県の歴史を原始から現代まで紹介。",
+            "prefecture": "長野県",
+            "latitude": 36.5417,
+            "longitude": 138.125
+        },
+        {
+            "name": "静岡県立美術館",
+            "description": "ロダン館が有名な、日本平の麓にある美術館。",
+            "prefecture": "静岡県",
+            "latitude": 34.9911,
+            "longitude": 138.4414
+        },
+        {
+            "name": "三重県総合博物館（MieMu）",
+            "description": "三重の自然と歴史・文化を総合的に紹介。",
+            "prefecture": "三重県",
+            "latitude": 34.7336,
+            "longitude": 136.505
+        },
+        {
+            "name": "京都府京都文化博物館",
+            "description": "京都の歴史と文化を紹介する博物館。",
+            "prefecture": "京都府",
+            "latitude": 35.01,
+            "longitude": 135.7619
+        },
+        {
+            "name": "和歌山県立博物館",
+            "description": "和歌山城の南にある、紀州の歴史を紹介する博物館。",
+            "prefecture": "和歌山県",
+            "latitude": 34.2253,
+            "longitude": 135.1769
+        },
+        {
+            "name": "鳥取県立博物館",
+            "description": "久松公園にある、自然・歴史・美術の総合博物館。",
+            "prefecture": "鳥取県",
+            "latitude": 35.5075,
+            "longitude": 134.2333
+        },
+        {
+            "name": "島根県立古代出雲歴史博物館",
+            "description": "出雲大社に隣接し、古代出雲の歴史を紹介。",
+            "prefecture": "島根県",
+            "latitude": 35.3997,
+            "longitude": 132.6853
+        },
+        {
+            "name": "岡山県立博物館",
+            "description": "後楽園の外苑にある、岡山の歴史と文化を紹介する博物館。",
+            "prefecture": "岡山県",
+            "latitude": 34.6672,
+            "longitude": 133.9367
+        },
+        {
+            "name": "広島県立歴史博物館",
+            "description": "ふくやま草戸千軒ミュージアムとも呼ばれる。",
+            "prefecture": "広島県",
+            "latitude": 34.4828,
+            "longitude": 133.3719
+        },
+        {
+            "name": "山口県立山口博物館",
+            "description": "山口県の自然・歴史・理工などを展示する総合博物館。",
+            "prefecture": "山口県",
+            "latitude": 34.1819,
+            "longitude": 131.4744
+        },
+        {
+            "name": "徳島県立博物館",
+            "description": "文化の森総合公園にある、徳島の自然と歴史を紹介する博物館。",
+            "prefecture": "徳島県",
+            "latitude": 34.0397,
+            "longitude": 134.5422
+        },
+        {
+            "name": "香川県立ミュージアム",
+            "description": "香川の歴史・文化・芸術を総合的に紹介。",
+            "prefecture": "香川県",
+            "latitude": 34.3517,
+            "longitude": 134.0531
+        },
+        {
+            "name": "愛媛県歴史文化博物館",
+            "description": "愛媛の歴史と民俗を紹介する博物館。",
+            "prefecture": "愛媛県",
+            "latitude": 33.3619,
+            "longitude": 132.5186
+        },
+        {
+            "name": "高知県立歴史民俗資料館",
+            "description": "長宗我部氏の居城跡にある博物館。",
+            "prefecture": "高知県",
+            "latitude": 33.5858,
+            "longitude": 133.6403
+        },
+        {
+            "name": "佐賀県立博物館・美術館",
+            "description": "佐賀城公園内にある博物館と美術館。",
+            "prefecture": "佐賀県",
+            "latitude": 33.2486,
+            "longitude": 130.3017
+        },
+        {
+            "name": "宮崎県立総合博物館",
+            "description": "宮崎神宮の森にある、自然と歴史の総合博物館。",
+            "prefecture": "宮崎県",
+            "latitude": 31.9369,
+            "longitude": 131.4239
+        },
+        {
+            "name": "国立近代美術館",
+            "description": "日本初の国立美術館。明治以降の美術作品を展示。",
+            "prefecture": "東京都",
+            "latitude": 35.6906,
+            "longitude": 139.7547
+        },
+        {
+            "name": "根津美術館",
+            "description": "実業家・根津嘉一郎のコレクションを展示。庭園も美しい。",
+            "prefecture": "東京都",
+            "latitude": 35.6622,
+            "longitude": 139.7172
+        },
+        {
+            "name": "Bunkamura ザ・ミュージアム",
+            "description": "渋谷にある美術館。企画展を中心に開催。",
+            "prefecture": "東京都",
+            "latitude": 35.6603,
+            "longitude": 139.6975
+        },
+        {
+            "name": "森美術館",
+            "description": "六本木ヒルズ森タワー最上層にある現代美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.6604,
+            "longitude": 139.7292
+        },
+        {
+            "name": "上野の森美術館",
+            "description": "上野恩賜公園内にある美術館。重要文化財の公開など多彩な企画展。",
+            "prefecture": "東京都",
+            "latitude": 35.7125,
+            "longitude": 139.7742
+        },
+        {
+            "name": "山種美術館",
+            "description": "日本画専門の美術館。",
+            "prefecture": "東京都",
+            "latitude": 35.6517,
+            "longitude": 139.7139
+        },
+        {
+            "name": "相田みつを美術館",
+            "description": "書家・詩人、相田みつをの作品を展示。",
+            "prefecture": "東京都",
+            "latitude": 35.6764,
+            "longitude": 139.7636
+        },
+        {
+            "name": "岡本太郎記念館",
+            "description": "岡本太郎のアトリエ兼住居を公開した記念館。",
+            "prefecture": "東京都",
+            "latitude": 35.6611,
+            "longitude": 139.7153
+        },
+        {
+            "name": "安曇野ちひろ美術館",
+            "description": "いわさきちひろと世界の絵本画家の作品を展示。",
+            "prefecture": "長野県",
+            "latitude": 36.3889,
+            "longitude": 137.8486
+        },
+        {
+            "name": "田中本家博物館",
+            "description": "豪商・田中家の土蔵とコレクションを公開する博物館。",
+            "prefecture": "長野県",
+            "latitude": 36.6572,
+            "longitude": 138.3181
+        },
+        {
+            "name": "北斎館",
+            "description": "小布施町にある葛飾北斎の肉筆画などを展示する美術館。",
+            "prefecture": "長野県",
+            "latitude": 36.6942,
+            "longitude": 138.3128
+        },
+        {
+            "name": "岡田美術館",
+            "description": "箱根・小涌谷にある、東洋美術を中心とした広大な美術館。",
+            "prefecture": "神奈川県",
+            "latitude": 35.2383,
+            "longitude": 139.0461
+        },
+        {
+            "name": "成田山書道美術館",
+            "description": "成田山公園内にある、近代書道の作品を展示する美術館。",
+            "prefecture": "千葉県",
+            "latitude": 35.7861,
+            "longitude": 140.3197
+        },
+        {
+            "name": "ホキ美術館",
+            "description": "日本初の写実絵画専門美術館。",
+            "prefecture": "千葉県",
+            "latitude": 35.5392,
+            "longitude": 140.2586
+        },
+        {
+            "name": "DIC川村記念美術館",
+            "description": "20世紀美術を中心に展示。広大な庭園がある（休館情報注意だがリストには入れる）。",
+            "prefecture": "千葉県",
+            "latitude": 35.6528,
+            "longitude": 140.2225
+        },
+        {
+            "name": "笠間日動美術館",
+            "description": "近代日本画、フランス印象派などを展示。",
+            "prefecture": "茨城県",
+            "latitude": 36.3853,
+            "longitude": 140.2619
+        },
+        {
+            "name": "宇都宮美術館",
+            "description": "「うつのみや文化の森」にある美術館。",
+            "prefecture": "栃木県",
+            "latitude": 36.6022,
+            "longitude": 139.8872
+        },
+        {
+            "name": "那須ステンドグラス美術館",
+            "description": "アンティークステンドグラスを展示する美術館。",
+            "prefecture": "栃木県",
+            "latitude": 37.06,
+            "longitude": 140.0078
+        }
+    ]
+}

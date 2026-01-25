@@ -1,0 +1,704 @@
+{
+    "municipalities": [
+        {
+            "name": "利尻山",
+            "description": "利尻島全体を占める成層火山。利尻富士と呼ばれる。",
+            "prefecture": "北海道",
+            "latitude": 45.18,
+            "longitude": 141.25
+        },
+        {
+            "name": "知床硫黄山",
+            "description": "知床半島の中央部に位置する活火山。",
+            "prefecture": "北海道",
+            "latitude": 44.13,
+            "longitude": 145.16
+        },
+        {
+            "name": "羅臼岳",
+            "description": "知床半島の最高峰。",
+            "prefecture": "北海道",
+            "latitude": 44.07,
+            "longitude": 145.12
+        },
+        {
+            "name": "天頂山",
+            "description": "知床半島にある火山。",
+            "prefecture": "北海道",
+            "latitude": 44.04,
+            "longitude": 145.09
+        },
+        {
+            "name": "斜里岳",
+            "description": "知床半島の付け根に位置する火山。",
+            "prefecture": "北海道",
+            "latitude": 43.76,
+            "longitude": 144.72
+        },
+        {
+            "name": "大雪山",
+            "description": "北海道最高峰の旭岳を含む火山群。",
+            "prefecture": "北海道",
+            "latitude": 43.66,
+            "longitude": 142.85
+        },
+        {
+            "name": "アトサヌプリ",
+            "description": "屈斜路カルデラ内にある火山。硫黄山とも呼ばれる。",
+            "prefecture": "北海道",
+            "latitude": 43.61,
+            "longitude": 144.44
+        },
+        {
+            "name": "摩周岳",
+            "description": "摩周湖のカルデラ壁上に位置する火山。カムイヌプリとも。",
+            "prefecture": "北海道",
+            "latitude": 43.57,
+            "longitude": 144.57
+        },
+        {
+            "name": "丸山",
+            "description": "東大雪にある火山。",
+            "prefecture": "北海道",
+            "latitude": 43.46,
+            "longitude": 143.04
+        },
+        {
+            "name": "雄阿寒岳",
+            "description": "阿寒湖の東岸に聳える火山。",
+            "prefecture": "北海道",
+            "latitude": 43.45,
+            "longitude": 144.16
+        },
+        {
+            "name": "ニペソツ山",
+            "description": "東大雪の鋭峰。かつては日本百名山に推された。",
+            "prefecture": "北海道",
+            "latitude": 43.45,
+            "longitude": 143.03
+        },
+        {
+            "name": "十勝岳",
+            "description": "十勝岳連峰の主峰で、活発な噴気活動が見られる。",
+            "prefecture": "北海道",
+            "latitude": 43.41,
+            "longitude": 142.69
+        },
+        {
+            "name": "雌阿寒岳",
+            "description": "阿寒カルデラの南西に位置する活火山。",
+            "prefecture": "北海道",
+            "latitude": 43.38,
+            "longitude": 144.01
+        },
+        {
+            "name": "ニセコアンヌプリ",
+            "description": "ニセコ積丹小樽海岸国定公園にある火山。スキー場で有名。",
+            "prefecture": "北海道",
+            "latitude": 42.88,
+            "longitude": 140.63
+        },
+        {
+            "name": "羊蹄山",
+            "description": "美しい円錐形の成層火山。蝦夷富士と呼ばれる。",
+            "prefecture": "北海道",
+            "latitude": 42.82,
+            "longitude": 140.81
+        },
+        {
+            "name": "恵庭岳",
+            "description": "支笏湖の北岸に位置する火山。",
+            "prefecture": "北海道",
+            "latitude": 42.79,
+            "longitude": 141.28
+        },
+        {
+            "name": "樽前山",
+            "description": "支笏湖の南側に位置する活火山。ドーム状の山頂が特徴。",
+            "prefecture": "北海道",
+            "latitude": 42.69,
+            "longitude": 141.38
+        },
+        {
+            "name": "有珠山",
+            "description": "洞爺湖の南に位置する活火山。昭和新山などを伴う。",
+            "prefecture": "北海道",
+            "latitude": 42.54,
+            "longitude": 140.84
+        },
+        {
+            "name": "倶多楽",
+            "description": "登別温泉の源泉となる火山。円形の倶多楽湖を持つ。",
+            "prefecture": "北海道",
+            "latitude": 42.5,
+            "longitude": 141.18
+        },
+        {
+            "name": "北海道駒ヶ岳",
+            "description": "渡島半島に位置する活火山。特徴的な剣ヶ峯を持つ。",
+            "prefecture": "北海道",
+            "latitude": 42.06,
+            "longitude": 140.68
+        },
+        {
+            "name": "恵山",
+            "description": "渡島半島の東端にある活火山。",
+            "prefecture": "北海道",
+            "latitude": 41.8,
+            "longitude": 141.16
+        },
+        {
+            "name": "渡島大島",
+            "description": "日本海に浮かぶ無人の活火山島。",
+            "prefecture": "北海道",
+            "latitude": 41.51,
+            "longitude": 139.37
+        },
+        {
+            "name": "渡島小島",
+            "description": "松前沖にある火山島。",
+            "prefecture": "北海道",
+            "latitude": 41.36,
+            "longitude": 139.8
+        },
+        {
+            "name": "恐山",
+            "description": "下北半島にある火山。霊場として知られる。",
+            "prefecture": "青森県",
+            "latitude": 41.3,
+            "longitude": 141.07
+        },
+        {
+            "name": "八甲田山",
+            "description": "青森市の南側に広がる火山群。",
+            "prefecture": "青森県",
+            "latitude": 40.66,
+            "longitude": 140.88
+        },
+        {
+            "name": "岩木山",
+            "description": "津軽平野にそびえる独立峰。津軽富士と呼ばれる。",
+            "prefecture": "青森県",
+            "latitude": 40.65,
+            "longitude": 140.3
+        },
+        {
+            "name": "七時雨山",
+            "description": "カルデラ地形を持つ火山。",
+            "prefecture": "岩手県",
+            "latitude": 40.08,
+            "longitude": 141.13
+        },
+        {
+            "name": "森吉山",
+            "description": "花の百名山としても知られる火山。",
+            "prefecture": "秋田県",
+            "latitude": 39.98,
+            "longitude": 140.54
+        },
+        {
+            "name": "秋田焼山",
+            "description": "玉川温泉の熱源となる火山。",
+            "prefecture": "秋田県",
+            "latitude": 39.96,
+            "longitude": 140.76
+        },
+        {
+            "name": "八幡平",
+            "description": "高原状の火山。多くの沼や湿原が点在する。",
+            "prefecture": "岩手県・秋田県",
+            "latitude": 39.95,
+            "longitude": 140.85
+        },
+        {
+            "name": "岩手山",
+            "description": "岩手県の最高峰。南部片富士と呼ばれる。",
+            "prefecture": "岩手県",
+            "latitude": 39.85,
+            "longitude": 141.0
+        },
+        {
+            "name": "姫神山",
+            "description": "岩手山の東にある円錐形の山。",
+            "prefecture": "岩手県",
+            "latitude": 39.85,
+            "longitude": 141.25
+        },
+        {
+            "name": "太平山",
+            "description": "秋田市のシンボル。",
+            "prefecture": "秋田県",
+            "latitude": 39.8,
+            "longitude": 140.32
+        },
+        {
+            "name": "秋田駒ヶ岳",
+            "description": "田沢湖の東に位置する活火山。高山植物が豊富。",
+            "prefecture": "秋田県",
+            "latitude": 39.75,
+            "longitude": 140.8
+        },
+        {
+            "name": "鳥海山",
+            "description": "日本海に面して立つ独立峰。出羽富士と呼ばれる。",
+            "prefecture": "山形県・秋田県",
+            "latitude": 39.08,
+            "longitude": 140.03
+        },
+        {
+            "name": "栗駒山",
+            "description": "紅葉の名所として知られる火山。",
+            "prefecture": "宮城県・岩手県・秋田県",
+            "latitude": 38.96,
+            "longitude": 140.79
+        },
+        {
+            "name": "鳴子",
+            "description": "鳴子温泉郷に位置する火山。",
+            "prefecture": "宮城県",
+            "latitude": 38.73,
+            "longitude": 140.73
+        },
+        {
+            "name": "肘折",
+            "description": "肘折カルデラ内に位置する温泉地。",
+            "prefecture": "山形県",
+            "latitude": 38.61,
+            "longitude": 140.16
+        },
+        {
+            "name": "月山",
+            "description": "出羽三山の一つ。楯状火山。",
+            "prefecture": "山形県",
+            "latitude": 38.55,
+            "longitude": 140.03
+        },
+        {
+            "name": "蔵王山",
+            "description": "御釜と呼ばれる火口湖を持つ活火山。",
+            "prefecture": "宮城県・山形県",
+            "latitude": 38.14,
+            "longitude": 140.44
+        },
+        {
+            "name": "飯豊山",
+            "description": "山岳信仰の山。一部火山岩。",
+            "prefecture": "福島県・新潟県・山形県",
+            "latitude": 37.85,
+            "longitude": 139.69
+        },
+        {
+            "name": "吾妻山",
+            "description": "一切経山などを含む火山群。",
+            "prefecture": "福島県・山形県",
+            "latitude": 37.73,
+            "longitude": 140.25
+        },
+        {
+            "name": "安達太良山",
+            "description": "なだらかな山容を持つ活火山。",
+            "prefecture": "福島県",
+            "latitude": 37.62,
+            "longitude": 140.28
+        },
+        {
+            "name": "磐梯山",
+            "description": "会津盆地の東に位置する活火山。会津富士。",
+            "prefecture": "福島県",
+            "latitude": 37.6,
+            "longitude": 140.08
+        },
+        {
+            "name": "沼沢",
+            "description": "沼沢湖カルデラを持つ火山。",
+            "prefecture": "福島県",
+            "latitude": 37.45,
+            "longitude": 139.57
+        },
+        {
+            "name": "小野岳",
+            "description": "会津にある火山。",
+            "prefecture": "福島県",
+            "latitude": 37.36,
+            "longitude": 139.88
+        },
+        {
+            "name": "那須岳",
+            "description": "茶臼岳を主峰とする火山群。噴煙を上げている。",
+            "prefecture": "栃木県・福島県",
+            "latitude": 37.12,
+            "longitude": 139.97
+        },
+        {
+            "name": "燧ヶ岳",
+            "description": "尾瀬ヶ原の北に位置する東北最高峰の火山。",
+            "prefecture": "福島県",
+            "latitude": 36.95,
+            "longitude": 139.28
+        },
+        {
+            "name": "新潟焼山",
+            "description": "活発な噴気活動がある活火山。",
+            "prefecture": "新潟県",
+            "latitude": 36.92,
+            "longitude": 138.03
+        },
+        {
+            "name": "高原山",
+            "description": "那須火山帯に属する火山。",
+            "prefecture": "栃木県",
+            "latitude": 36.89,
+            "longitude": 139.78
+        },
+        {
+            "name": "妙高山",
+            "description": "越後富士と呼ばれる複成火山。",
+            "prefecture": "新潟県",
+            "latitude": 36.89,
+            "longitude": 138.11
+        },
+        {
+            "name": "斑尾山",
+            "description": "北信五岳の一つ。",
+            "prefecture": "長野県・新潟県",
+            "latitude": 36.84,
+            "longitude": 138.28
+        },
+        {
+            "name": "黒姫山",
+            "description": "北信五岳の一つ。複成火山。",
+            "prefecture": "長野県",
+            "latitude": 36.82,
+            "longitude": 138.13
+        },
+        {
+            "name": "日光白根山",
+            "description": "関東以北の最高峰。",
+            "prefecture": "栃木県・群馬県",
+            "latitude": 36.8,
+            "longitude": 139.38
+        },
+        {
+            "name": "武尊山",
+            "description": "日本百名山の一つ。古い火山。",
+            "prefecture": "群馬県",
+            "latitude": 36.8,
+            "longitude": 139.13
+        },
+        {
+            "name": "男体山",
+            "description": "中禅寺湖の北岸に位置する成層火山。",
+            "prefecture": "栃木県",
+            "latitude": 36.76,
+            "longitude": 139.49
+        },
+        {
+            "name": "飯縄山",
+            "description": "北信五岳の一つ。修験道の山。",
+            "prefecture": "長野県",
+            "latitude": 36.74,
+            "longitude": 138.13
+        },
+        {
+            "name": "草津白根山",
+            "description": "湯釜と呼ばれる酸性湖を持つ活火山。",
+            "prefecture": "群馬県",
+            "latitude": 36.62,
+            "longitude": 138.54
+        },
+        {
+            "name": "子持山",
+            "description": "赤城山や榛名山に近い火山。",
+            "prefecture": "群馬県",
+            "latitude": 36.59,
+            "longitude": 139.0
+        },
+        {
+            "name": "弥陀ヶ原",
+            "description": "立山カルデラに関連する火山。",
+            "prefecture": "富山県",
+            "latitude": 36.57,
+            "longitude": 137.6
+        },
+        {
+            "name": "赤城山",
+            "description": "関東平野を見下ろす複成火山。",
+            "prefecture": "群馬県",
+            "latitude": 36.53,
+            "longitude": 139.18
+        },
+        {
+            "name": "榛名山",
+            "description": "榛名湖と榛名富士を持つ火山。",
+            "prefecture": "群馬県",
+            "latitude": 36.47,
+            "longitude": 138.88
+        },
+        {
+            "name": "浅間山",
+            "description": "日本を代表する活火山の一つ。",
+            "prefecture": "群馬県・長野県",
+            "latitude": 36.4,
+            "longitude": 138.52
+        },
+        {
+            "name": "焼岳",
+            "description": "上高地から望む活火山。",
+            "prefecture": "長野県・岐阜県",
+            "latitude": 36.22,
+            "longitude": 137.59
+        },
+        {
+            "name": "アカンダナ山",
+            "description": "焼岳の南に位置する火山。",
+            "prefecture": "岐阜県",
+            "latitude": 36.2,
+            "longitude": 137.57
+        },
+        {
+            "name": "白山",
+            "description": "日本三霊山の一つ。",
+            "prefecture": "石川県・岐阜県",
+            "latitude": 36.15,
+            "longitude": 136.78
+        },
+        {
+            "name": "乗鞍岳",
+            "description": "3000m級の火山。畳平までバスでアクセス可能。",
+            "prefecture": "長野県・岐阜県",
+            "latitude": 36.1,
+            "longitude": 137.55
+        },
+        {
+            "name": "蓼科山",
+            "description": "八ヶ岳連峰の北端に位置する円錐形の火山。",
+            "prefecture": "長野県",
+            "latitude": 36.1,
+            "longitude": 138.29
+        },
+        {
+            "name": "霧ヶ峰",
+            "description": "なだらかな高原状の火山。",
+            "prefecture": "長野県",
+            "latitude": 36.1,
+            "longitude": 138.17
+        },
+        {
+            "name": "横岳",
+            "description": "北八ヶ岳にある火山。",
+            "prefecture": "長野県",
+            "latitude": 36.08,
+            "longitude": 138.3
+        },
+        {
+            "name": "御嶽山",
+            "description": "日本で2番目に高い火山。",
+            "prefecture": "長野県・岐阜県",
+            "latitude": 35.89,
+            "longitude": 137.48
+        },
+        {
+            "name": "富士山",
+            "description": "日本最高峰の成層火山。",
+            "prefecture": "山梨県・静岡県",
+            "latitude": 35.36,
+            "longitude": 138.73
+        },
+        {
+            "name": "伊吹山",
+            "description": "石灰岩の山だが、海底火山の活動に由来する海山とされることもある。",
+            "prefecture": "滋賀県・岐阜県",
+            "latitude": 35.25,
+            "longitude": 136.24
+        },
+        {
+            "name": "箱根山",
+            "description": "カルデラと芦ノ湖、温泉地で有名な火山。",
+            "prefecture": "神奈川県・静岡県",
+            "latitude": 35.22,
+            "longitude": 139.02
+        },
+        {
+            "name": "三瓶山",
+            "description": "複数の溶岩ドームからなる火山。",
+            "prefecture": "島根県",
+            "latitude": 35.13,
+            "longitude": 132.62
+        },
+        {
+            "name": "伊豆東部火山群",
+            "description": "伊豆半島東部の単成火山群。大室山などを含む。",
+            "prefecture": "静岡県",
+            "latitude": 34.92,
+            "longitude": 139.12
+        },
+        {
+            "name": "天城山",
+            "description": "伊豆半島最高峰の火山群。",
+            "prefecture": "静岡県",
+            "latitude": 34.86,
+            "longitude": 139.0
+        },
+        {
+            "name": "伊豆大島",
+            "description": "三原山を中央火口丘とする活火山。",
+            "prefecture": "東京都",
+            "latitude": 34.73,
+            "longitude": 139.39
+        },
+        {
+            "name": "利島",
+            "description": "円錐形の火山島。",
+            "prefecture": "東京都",
+            "latitude": 34.52,
+            "longitude": 139.28
+        },
+        {
+            "name": "阿武火山群",
+            "description": "小型の火山が多数集まる単成火山群。",
+            "prefecture": "山口県",
+            "latitude": 34.5,
+            "longitude": 131.6
+        },
+        {
+            "name": "青野山",
+            "description": "津和野にあるトロイデ型の火山。",
+            "prefecture": "島根県",
+            "latitude": 34.46,
+            "longitude": 131.79
+        },
+        {
+            "name": "新島",
+            "description": "流紋岩質の火山島。",
+            "prefecture": "東京都",
+            "latitude": 34.39,
+            "longitude": 139.27
+        },
+        {
+            "name": "神津島",
+            "description": "天上山などの溶岩ドーム群からなる島。",
+            "prefecture": "東京都",
+            "latitude": 34.22,
+            "longitude": 139.15
+        },
+        {
+            "name": "三宅島",
+            "description": "度重なる噴火で知られる活火山島。雄山が主峰。",
+            "prefecture": "東京都",
+            "latitude": 34.08,
+            "longitude": 139.53
+        },
+        {
+            "name": "御蔵島",
+            "description": "お椀を伏せたような形の火山島。",
+            "prefecture": "東京都",
+            "latitude": 33.87,
+            "longitude": 139.6
+        },
+        {
+            "name": "伽藍岳",
+            "description": "鶴見岳の北にある活火山。",
+            "prefecture": "大分県",
+            "latitude": 33.32,
+            "longitude": 131.43
+        },
+        {
+            "name": "鶴見岳",
+            "description": "別府温泉の背後にそびえる火山。",
+            "prefecture": "大分県",
+            "latitude": 33.28,
+            "longitude": 131.43
+        },
+        {
+            "name": "由布岳",
+            "description": "豊後富士と呼ばれる美しい円錐形の火山。",
+            "prefecture": "大分県",
+            "latitude": 33.28,
+            "longitude": 131.36
+        },
+        {
+            "name": "八丈島",
+            "description": "八丈富士と三原山の二つの火山からなる島。",
+            "prefecture": "東京都",
+            "latitude": 33.14,
+            "longitude": 139.77
+        },
+        {
+            "name": "九重山",
+            "description": "九州本土最高峰の中岳を含む火山群。",
+            "prefecture": "大分県・熊本県",
+            "latitude": 33.08,
+            "longitude": 131.25
+        },
+        {
+            "name": "阿蘇山",
+            "description": "世界最大級のカルデラを持つ活火山。",
+            "prefecture": "熊本県",
+            "latitude": 32.88,
+            "longitude": 131.11
+        },
+        {
+            "name": "雲仙岳",
+            "description": "普賢岳や平成新山を含む火山群。",
+            "prefecture": "長崎県",
+            "latitude": 32.76,
+            "longitude": 130.29
+        },
+        {
+            "name": "福江火山群",
+            "description": "五島列島の福江島にある単成火山群。鬼岳など。",
+            "prefecture": "長崎県",
+            "latitude": 32.66,
+            "longitude": 128.85
+        },
+        {
+            "name": "青ヶ島",
+            "description": "二重カルデラを持つ火山島。",
+            "prefecture": "東京都",
+            "latitude": 32.45,
+            "longitude": 139.76
+        },
+        {
+            "name": "霧島山",
+            "description": "韓国岳や新燃岳など大小の火山が集まる。",
+            "prefecture": "宮崎県・鹿児島県",
+            "latitude": 31.93,
+            "longitude": 130.86
+        },
+        {
+            "name": "ベヨネース列岩",
+            "description": "海底火山のカルデラ縁の一部。",
+            "prefecture": "東京都",
+            "latitude": 31.92,
+            "longitude": 139.92
+        },
+        {
+            "name": "桜島",
+            "description": "錦江湾に浮かぶ、日常的に噴火活動が見られる活火山。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.59,
+            "longitude": 130.66
+        },
+        {
+            "name": "須美寿島",
+            "description": "海底火山のカルデラ縁の一部。",
+            "prefecture": "東京都",
+            "latitude": 31.44,
+            "longitude": 140.05
+        },
+        {
+            "name": "池田山川",
+            "description": "池田湖や山川湾などのカルデラ地形を持つ。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.19,
+            "longitude": 130.57
+        },
+        {
+            "name": "開聞岳",
+            "description": "薩摩半島の南端にある円錐形の火山。薩摩富士。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.18,
+            "longitude": 130.53
+        }
+    ]
+}

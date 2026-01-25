@@ -1,0 +1,704 @@
+{
+    "municipalities": [
+        {
+            "name": "シャトレーゼ ガトーキングダム サッポロ",
+            "description": "プールと温泉が楽しめるリゾート施設。",
+            "prefecture": "北海道",
+            "latitude": 43.064589,
+            "longitude": 141.345
+        },
+        {
+            "name": "ていねプール",
+            "description": "手稲区にある屋外レジャープール。",
+            "prefecture": "北海道",
+            "latitude": 43.057301,
+            "longitude": 141.348964
+        },
+        {
+            "name": "洞爺サンパレス リゾート＆スパ",
+            "description": "洞爺湖を望む大型リゾートホテルのプール。",
+            "prefecture": "北海道",
+            "latitude": 42.565329,
+            "longitude": 140.890734
+        },
+        {
+            "name": "定山渓ビューホテル 水の王国ラグーン",
+            "description": "総面積4000㎡を誇る屋内温水アミューズメント。",
+            "prefecture": "北海道",
+            "latitude": 43.069644,
+            "longitude": 141.346239
+        },
+        {
+            "name": "ルスツリゾート スーパージャンボプール",
+            "description": "北海道の大自然の中にある屋外プール。",
+            "prefecture": "北海道",
+            "latitude": 42.742538,
+            "longitude": 140.897496
+        },
+        {
+            "name": "星野リゾート トマム ミナミナビーチ",
+            "description": "日本最大級のインドアウエーブプール。",
+            "prefecture": "北海道",
+            "latitude": 42.980973,
+            "longitude": 142.404307
+        },
+        {
+            "name": "リナワールド リナビーチ",
+            "description": "遊園地に併設されたレジャープール。",
+            "prefecture": "山形県",
+            "latitude": 38.147431,
+            "longitude": 140.268377
+        },
+        {
+            "name": "スパリゾートハワイアンズ",
+            "description": "常夏気分を味わえる大型温水プール施設。",
+            "prefecture": "福島県",
+            "latitude": 37.053398,
+            "longitude": 140.888599
+        },
+        {
+            "name": "郡山カルチャーパーク プール",
+            "description": "リーズナブルに楽しめる公営のレジャープール。",
+            "prefecture": "福島県",
+            "latitude": 37.392809,
+            "longitude": 140.389685
+        },
+        {
+            "name": "クアドーム・ザ・ブーン",
+            "description": "温泉とプールが楽しめる全天候型施設。",
+            "prefecture": "秋田県",
+            "latitude": 39.726189,
+            "longitude": 140.09273
+        },
+        {
+            "name": "ベルサンピアみやぎ泉",
+            "description": "スライダーや流れるプールがあるレジャー施設。",
+            "prefecture": "宮城県",
+            "latitude": 38.450516,
+            "longitude": 140.887263
+        },
+        {
+            "name": "東京サマーランド",
+            "description": "日本最大級の流れるプールや屋内プールがある。",
+            "prefecture": "東京都",
+            "latitude": 35.725705,
+            "longitude": 139.28781
+        },
+        {
+            "name": "よみうりランド プールWAI",
+            "description": "5つのプールと3種のスライダーがある人気プール。",
+            "prefecture": "東京都",
+            "latitude": 35.639144,
+            "longitude": 139.500032
+        },
+        {
+            "name": "国営昭和記念公園レインボープール",
+            "description": "首都圏最大級の総面積を誇る9つのプール。",
+            "prefecture": "東京都",
+            "latitude": 35.691555,
+            "longitude": 139.405034
+        },
+        {
+            "name": "アクアフィールド芝公園",
+            "description": "東京タワーを望む絶好のロケーションのプール。",
+            "prefecture": "東京都",
+            "latitude": 35.66555,
+            "longitude": 139.747475
+        },
+        {
+            "name": "萩中公園プール",
+            "description": "屋内・屋外プールがあり、スライダーも楽しめる。",
+            "prefecture": "東京都",
+            "latitude": 35.567543,
+            "longitude": 139.720695
+        },
+        {
+            "name": "ホテルニューオータニ GARDEN POOL",
+            "description": "広大な日本庭園に囲まれたラグジュアリープール。",
+            "prefecture": "東京都",
+            "latitude": 35.694725,
+            "longitude": 139.763262
+        },
+        {
+            "name": "ANAインターコンチネンタルホテル東京 ガーデンプール",
+            "description": "都会のビル群に囲まれたアーバンリゾートプール。",
+            "prefecture": "東京都",
+            "latitude": 35.656171,
+            "longitude": 139.746441
+        },
+        {
+            "name": "グランドプリンスホテル新高輪 ダイヤモンドプール",
+            "description": "緑豊かな庭園内にある大人向けのプール。",
+            "prefecture": "東京都",
+            "latitude": 35.665188,
+            "longitude": 139.74777
+        },
+        {
+            "name": "京王プラザホテル スカイプール",
+            "description": "新宿副都心の高層ビル群を眺めるプール。",
+            "prefecture": "東京都",
+            "latitude": 35.701034,
+            "longitude": 139.704947
+        },
+        {
+            "name": "品川プリンスホテル 屋外プール",
+            "description": "エンターテインメントエリアにあるプール。",
+            "prefecture": "東京都",
+            "latitude": 35.662691,
+            "longitude": 139.736316
+        },
+        {
+            "name": "大磯ロングビーチ",
+            "description": "相模湾を望むシーサイドリゾートプール。",
+            "prefecture": "神奈川県",
+            "latitude": 35.301458,
+            "longitude": 139.307188
+        },
+        {
+            "name": "辻堂海浜公園ジャンボプール",
+            "description": "湘南エリアで人気の公営大型プール。",
+            "prefecture": "神奈川県",
+            "latitude": 35.322196,
+            "longitude": 139.462056
+        },
+        {
+            "name": "箱根小涌園ユネッサン",
+            "description": "水着で遊べる温泉アミューズメントパーク。",
+            "prefecture": "神奈川県",
+            "latitude": 35.23062,
+            "longitude": 139.102459
+        },
+        {
+            "name": "日産ウォーターパーク",
+            "description": "日産スタジアムにある温水プール施設。",
+            "prefecture": "神奈川県",
+            "latitude": 35.446414,
+            "longitude": 139.635297
+        },
+        {
+            "name": "本牧市民プール",
+            "description": "2023年にリニューアルオープンした市民プール。",
+            "prefecture": "神奈川県",
+            "latitude": 35.441104,
+            "longitude": 139.63219
+        },
+        {
+            "name": "さがみはらグリーンプール",
+            "description": "国際公認プールも備える総合水泳場。",
+            "prefecture": "神奈川県",
+            "latitude": 35.56664,
+            "longitude": 139.381733
+        },
+        {
+            "name": "蓮沼ウォーターガーデン",
+            "description": "千葉県最大級のプール。海への出入りも自由。",
+            "prefecture": "千葉県",
+            "latitude": 35.620761,
+            "longitude": 140.429983
+        },
+        {
+            "name": "稲毛海浜公園プール",
+            "description": "人工海浜「いなげの浜」に隣接するプール。",
+            "prefecture": "千葉県",
+            "latitude": 35.600823,
+            "longitude": 140.111083
+        },
+        {
+            "name": "富津公園ジャンボプール",
+            "description": "富津岬にある多彩なスライダーが魅力のプール。",
+            "prefecture": "千葉県",
+            "latitude": 35.310168,
+            "longitude": 139.852589
+        },
+        {
+            "name": "龍宮城スパホテル三日月",
+            "description": "屋内・屋外プールとスパが充実したホテル。",
+            "prefecture": "千葉県",
+            "latitude": 35.39149,
+            "longitude": 139.9283
+        },
+        {
+            "name": "シェラトン・グランデ・トーキョーベイ・ホテル ガーデンプール",
+            "description": "リゾート感あふれる広大なガーデンプール。",
+            "prefecture": "千葉県",
+            "latitude": 35.654239,
+            "longitude": 139.901492
+        },
+        {
+            "name": "ふなばし三番瀬海浜公園プール",
+            "description": "東京湾に面したレジャープール。",
+            "prefecture": "千葉県",
+            "latitude": 35.701657,
+            "longitude": 139.98802
+        },
+        {
+            "name": "東武スーパープール",
+            "description": "東武動物公園内にある大型レジャープール。",
+            "prefecture": "埼玉県",
+            "latitude": 36.018181,
+            "longitude": 139.715042
+        },
+        {
+            "name": "西武園ゆうえんちプール",
+            "description": "波のプールなどが楽しめる遊園地併設プール。",
+            "prefecture": "埼玉県",
+            "latitude": 35.795709,
+            "longitude": 139.464655
+        },
+        {
+            "name": "川越水上公園",
+            "description": "スライダーや造波プールがある県営プール。",
+            "prefecture": "埼玉県",
+            "latitude": 35.91932,
+            "longitude": 139.494658
+        },
+        {
+            "name": "しらこばと水上公園",
+            "description": "白い砂浜のような景観が特徴のプール。",
+            "prefecture": "埼玉県",
+            "latitude": 35.899227,
+            "longitude": 139.787394
+        },
+        {
+            "name": "加須はなさき水上公園",
+            "description": "自然に囲まれた広大な県営プール。",
+            "prefecture": "埼玉県",
+            "latitude": 36.134209,
+            "longitude": 139.597613
+        },
+        {
+            "name": "アクアパラダイス パティオ",
+            "description": "北関東最大級の屋内アミューズメントプール。",
+            "prefecture": "埼玉県",
+            "latitude": 36.206891,
+            "longitude": 139.281977
+        },
+        {
+            "name": "井頭公園一万人プール",
+            "description": "「万プー」の愛称で親しまれる大型プール。",
+            "prefecture": "栃木県",
+            "latitude": 36.434698,
+            "longitude": 140.004333
+        },
+        {
+            "name": "桐生市新里温水プール カリビアンビーチ",
+            "description": "カリブ海をイメージした屋内温水プール。",
+            "prefecture": "群馬県",
+            "latitude": 36.408127,
+            "longitude": 139.325855
+        },
+        {
+            "name": "フォレスパ大子",
+            "description": "森の中にある温泉レジャープール。",
+            "prefecture": "茨城県",
+            "latitude": 36.770292,
+            "longitude": 140.363556
+        },
+        {
+            "name": "ナガシマスパーランド ジャンボ海水プール",
+            "description": "世界最大級のスケールを誇る海水プール。",
+            "prefecture": "三重県",
+            "latitude": 35.057988,
+            "longitude": 136.679686
+        },
+        {
+            "name": "鈴鹿サーキット アクアアドベンチャー",
+            "description": "冒険をテーマにしたプール。家族連れに人気。",
+            "prefecture": "三重県",
+            "latitude": 34.892151,
+            "longitude": 136.582991
+        },
+        {
+            "name": "ラグナシア プール",
+            "description": "テーマパーク内にあるリゾート感溢れるプール。",
+            "prefecture": "愛知県",
+            "latitude": 34.817618,
+            "longitude": 137.209842
+        },
+        {
+            "name": "サンビーチ日光川",
+            "description": "国内最大級の淡水プール。人工砂浜がある。",
+            "prefecture": "愛知県",
+            "latitude": 35.173693,
+            "longitude": 136.909149
+        },
+        {
+            "name": "安城市レジャープール マーメイドパレス",
+            "description": "ごみ焼却余熱を利用した温水レジャープール。",
+            "prefecture": "愛知県",
+            "latitude": 34.966442,
+            "longitude": 137.079543
+        },
+        {
+            "name": "アルコ清洲",
+            "description": "波のプールやスライダーがある屋内プール。",
+            "prefecture": "愛知県",
+            "latitude": 35.192671,
+            "longitude": 136.849832
+        },
+        {
+            "name": "浜名湖パルパル パルプール",
+            "description": "浜名湖畔にある遊園地のプール。",
+            "prefecture": "静岡県",
+            "latitude": 34.720722,
+            "longitude": 137.726782
+        },
+        {
+            "name": "つま恋リゾート彩の郷 ウォーターパーク",
+            "description": "自然の中にある開放的な屋外プール。",
+            "prefecture": "静岡県",
+            "latitude": 34.778822,
+            "longitude": 138.021916
+        },
+        {
+            "name": "伊豆海洋公園磯プール",
+            "description": "海水を利用した海に近いプール。",
+            "prefecture": "静岡県",
+            "latitude": 34.95883,
+            "longitude": 139.100814
+        },
+        {
+            "name": "マリンスパあたみ",
+            "description": "海を一望できる全天候型温泉プール施設。",
+            "prefecture": "静岡県",
+            "latitude": 35.100034,
+            "longitude": 139.072439
+        },
+        {
+            "name": "芝政ワールド",
+            "description": "日本海側最大級のプール。スライダーが豊富。",
+            "prefecture": "福井県",
+            "latitude": 36.160937,
+            "longitude": 136.226719
+        },
+        {
+            "name": "太閤山ランド",
+            "description": "富山県を代表する大規模なレジャープール。",
+            "prefecture": "富山県",
+            "latitude": 36.729731,
+            "longitude": 137.068695
+        },
+        {
+            "name": "新潟県立柏崎アクアパーク",
+            "description": "レジャープールと50m公認プールがある。",
+            "prefecture": "新潟県",
+            "latitude": 37.368774,
+            "longitude": 138.565476
+        },
+        {
+            "name": "上越国際プレイランド",
+            "description": "ホテル直結のウォーターパーク。",
+            "prefecture": "新潟県",
+            "latitude": 37.073917,
+            "longitude": 138.870568
+        },
+        {
+            "name": "星野リゾート リゾナーレ八ヶ岳 イルマーレ",
+            "description": "波の出る屋内プールが特徴のリゾート施設。",
+            "prefecture": "山梨県",
+            "latitude": 35.786912,
+            "longitude": 138.300773
+        },
+        {
+            "name": "クアリゾート湯舟沢",
+            "description": "温泉とプールが楽しめるリゾート施設。",
+            "prefecture": "岐阜県",
+            "latitude": 35.495753,
+            "longitude": 137.50821
+        },
+        {
+            "name": "各務原市民プール",
+            "description": "夏期は屋外レジャープールとして賑わう。",
+            "prefecture": "岐阜県",
+            "latitude": 35.395669,
+            "longitude": 136.853579
+        },
+        {
+            "name": "スパワールド 世界の大温泉",
+            "description": "0歳から楽しめる屋内プール「スパプー」がある。",
+            "prefecture": "大阪府",
+            "latitude": 34.695879,
+            "longitude": 135.495357
+        },
+        {
+            "name": "鶴見緑地プール",
+            "description": "一年中楽しめる屋内温水プール。",
+            "prefecture": "大阪府",
+            "latitude": 34.69895,
+            "longitude": 135.503088
+        },
+        {
+            "name": "ひらかたパーク プール ザ・ブーン",
+            "description": "巨大流水プールや展望プールがある。",
+            "prefecture": "大阪府",
+            "latitude": 34.819973,
+            "longitude": 135.651407
+        },
+        {
+            "name": "浜寺公園プール",
+            "description": "変形大プールやスライダーがある公営プール。",
+            "prefecture": "大阪府",
+            "latitude": 34.563311,
+            "longitude": 135.479583
+        },
+        {
+            "name": "茨木市立西河原市民プール",
+            "description": "本格的なウォータースライダーがある市民プール。",
+            "prefecture": "大阪府",
+            "latitude": 34.80679,
+            "longitude": 135.576882
+        },
+        {
+            "name": "デカパトス",
+            "description": "六甲アイランドにある大型レジャープール。",
+            "prefecture": "兵庫県",
+            "latitude": 34.697674,
+            "longitude": 135.202133
+        },
+        {
+            "name": "ネスタリゾート神戸 WATER FORT",
+            "description": "大自然の中にある冒険テーマパークのプール。",
+            "prefecture": "兵庫県",
+            "latitude": 34.79755,
+            "longitude": 134.991459
+        },
+        {
+            "name": "姫路セントラルパーク アクエリア",
+            "description": "サファリリゾートにある西日本最大級のプール。",
+            "prefecture": "兵庫県",
+            "latitude": 34.82266,
+            "longitude": 134.694239
+        },
+        {
+            "name": "東条湖おもちゃ王国 ウォーターパーク アカプルコ",
+            "description": "小さな子供も楽しめるファミリー向けプール。",
+            "prefecture": "兵庫県",
+            "latitude": 34.927513,
+            "longitude": 135.08442
+        },
+        {
+            "name": "尼崎スポーツの森 ウォーターパークアマラーゴ",
+            "description": "スライダーや遊具が充実したレジャープール。",
+            "prefecture": "兵庫県",
+            "latitude": 34.708884,
+            "longitude": 135.419912
+        },
+        {
+            "name": "神戸ポートピアホテル ルーフガーデンプール",
+            "description": "夜はナイトプールも楽しめるホテルのプール。",
+            "prefecture": "兵庫県",
+            "latitude": 34.695417,
+            "longitude": 135.188068
+        },
+        {
+            "name": "京都府立山城総合運動公園 太陽が丘ファミリープール",
+            "description": "自然豊かな公園内にあるレジャープール。",
+            "prefecture": "京都府",
+            "latitude": 34.890106,
+            "longitude": 135.802096
+        },
+        {
+            "name": "奈良健康ランド 屋内レジャープール",
+            "description": "全天候型の屋内レジャープール。",
+            "prefecture": "奈良県",
+            "latitude": 34.592201,
+            "longitude": 135.841849
+        },
+        {
+            "name": "橿原市総合プール",
+            "description": "西日本最大級の規模を誇る市民プール。",
+            "prefecture": "奈良県",
+            "latitude": 34.510663,
+            "longitude": 135.787036
+        },
+        {
+            "name": "大津市皇子が丘公園プール",
+            "description": "琵琶湖を望む高台にあるプール。",
+            "prefecture": "滋賀県",
+            "latitude": 35.018586,
+            "longitude": 135.859299
+        },
+        {
+            "name": "みろくの里",
+            "description": "昭和レトロなテーマパークの夏期限定プール。",
+            "prefecture": "広島県",
+            "latitude": 34.479823,
+            "longitude": 133.358734
+        },
+        {
+            "name": "ちゅーピープール",
+            "description": "中国地方最大級のプール施設。",
+            "prefecture": "広島県",
+            "latitude": 34.359603,
+            "longitude": 132.333798
+        },
+        {
+            "name": "鷲羽山ハイランド",
+            "description": "ブラジルをテーマにした遊園地のプール。",
+            "prefecture": "岡山県",
+            "latitude": 34.583762,
+            "longitude": 133.772252
+        },
+        {
+            "name": "NEWレオマワールド レオマウォーターランド",
+            "description": "中四国最大級の長さを誇る流水プールがある。",
+            "prefecture": "香川県",
+            "latitude": 34.28212,
+            "longitude": 133.791694
+        },
+        {
+            "name": "宇部市恩田運動公園市民プール",
+            "description": "公認プールも備えた市民プール。",
+            "prefecture": "山口県",
+            "latitude": 33.948462,
+            "longitude": 131.280666
+        },
+        {
+            "name": "浜田市室内プール",
+            "description": "一年中利用できる温水プール。",
+            "prefecture": "島根県",
+            "latitude": 34.893802,
+            "longitude": 132.074104
+        },
+        {
+            "name": "アクア・パレットまつやま",
+            "description": "松山中央公園にある市民プール。",
+            "prefecture": "愛媛県",
+            "latitude": 33.83062,
+            "longitude": 132.768222
+        },
+        {
+            "name": "高知市東部総合運動場",
+            "description": "屋内プールを備えた運動施設。",
+            "prefecture": "高知県",
+            "latitude": 33.552679,
+            "longitude": 133.539208
+        },
+        {
+            "name": "海の中道サンシャインプール",
+            "description": "西日本最大級の国営公園プール。",
+            "prefecture": "福岡県",
+            "latitude": 33.597593,
+            "longitude": 130.393117
+        },
+        {
+            "name": "アドベンチャープール",
+            "description": "波のプールやスライダーがあるレジャープール。",
+            "prefecture": "福岡県",
+            "latitude": 33.87806,
+            "longitude": 130.87868
+        },
+        {
+            "name": "芦屋海浜公園レジャープール アクアシアン",
+            "description": "海水浴場に隣接するレジャープール。",
+            "prefecture": "福岡県",
+            "latitude": 33.890985,
+            "longitude": 130.657946
+        },
+        {
+            "name": "グリーンランド ウォーターパーク",
+            "description": "日本最大級の遊園地にあるプール。",
+            "prefecture": "熊本県",
+            "latitude": 32.99541,
+            "longitude": 130.442821
+        },
+        {
+            "name": "阿蘇熊本空港ホテル エミナース",
+            "description": "多彩なスライダーや流れるプールがある。",
+            "prefecture": "熊本県",
+            "latitude": 32.788653,
+            "longitude": 130.822892
+        },
+        {
+            "name": "ハウステンボス ガーデンプール",
+            "description": "海外リゾートのような雰囲気が楽しめる。",
+            "prefecture": "長崎県",
+            "latitude": 33.18585,
+            "longitude": 129.708808
+        },
+        {
+            "name": "のんのこ温水センター",
+            "description": "ごみ焼却余熱を利用した温水プール。",
+            "prefecture": "長崎県",
+            "latitude": 32.834139,
+            "longitude": 130.038621
+        },
+        {
+            "name": "杉乃井ホテル アクアビート",
+            "description": "南国リゾート気分の屋内レジャープール。",
+            "prefecture": "大分県",
+            "latitude": 33.283172,
+            "longitude": 131.49014
+        },
+        {
+            "name": "フェニックス・シーガイア・リゾート",
+            "description": "リゾートホテル併設の美しいプール。",
+            "prefecture": "宮崎県",
+            "latitude": 31.912382,
+            "longitude": 131.423767
+        },
+        {
+            "name": "ヘルストピア延岡",
+            "description": "お風呂とプールが楽しめる健康レジャー施設。",
+            "prefecture": "宮崎県",
+            "latitude": 32.592483,
+            "longitude": 131.658868
+        },
+        {
+            "name": "ルネッサンスリゾートオキナワ",
+            "description": "スライダーや子供用プールが充実したホテル。",
+            "prefecture": "沖縄県",
+            "latitude": 26.483652,
+            "longitude": 127.847086
+        },
+        {
+            "name": "カヌチャリゾート ガーデンプール",
+            "description": "広大な敷地にあるリゾートプール。",
+            "prefecture": "沖縄県",
+            "latitude": 26.598933,
+            "longitude": 127.972173
+        },
+        {
+            "name": "沖縄県総合運動公園 レクリエーションプール",
+            "description": "ウォータースライダーがある県営プール。",
+            "prefecture": "沖縄県",
+            "latitude": 26.328204,
+            "longitude": 127.804572
+        },
+        {
+            "name": "ANAインターコンチネンタル石垣リゾート",
+            "description": "石垣島最大級のプールエリアを持つホテル。",
+            "prefecture": "沖縄県",
+            "latitude": 24.339238,
+            "longitude": 124.152771
+        },
+        {
+            "name": "ホテルムーンビーチ",
+            "description": "海と一体化したようなインフィニティプール。",
+            "prefecture": "沖縄県",
+            "latitude": 26.480596,
+            "longitude": 127.858765
+        },
+        {
+            "name": "ザ・ブセナテラス",
+            "description": "ラグジュアリーなリゾートステイを楽しめる。",
+            "prefecture": "沖縄県",
+            "latitude": 26.590563,
+            "longitude": 127.984427
+        },
+        {
+            "name": "アクアブルー多摩",
+            "description": "スライダーや流れるプールがある屋内施設。",
+            "prefecture": "東京都",
+            "latitude": 35.637907,
+            "longitude": 139.437412
+        },
+        {
+            "name": "元気プラザ",
+            "description": "流れるプールやスライダーがある区営施設。",
+            "prefecture": "東京都",
+            "latitude": 35.765786,
+            "longitude": 139.743421
+        }
+    ]
+}

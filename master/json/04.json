@@ -1,0 +1,683 @@
+{
+    "municipalities": [
+        {
+            "name": "クッチャロ湖",
+            "description": "コハクチョウの飛来地。",
+            "prefecture": "北海道",
+            "latitude": 45.133333,
+            "longitude": 142.233333
+        },
+        {
+            "name": "サロベツ原野",
+            "description": "利尻礼文サロベツ国立公園にある高層湿原。",
+            "prefecture": "北海道",
+            "latitude": 45.093333,
+            "longitude": 141.683333
+        },
+        {
+            "name": "涛沸湖",
+            "description": "オホーツク海沿岸の汽水湖と湿地。",
+            "prefecture": "北海道",
+            "latitude": 43.933333,
+            "longitude": 144.400000
+        },
+        {
+            "name": "浮島湿原",
+            "description": "上川町にある高層湿原。",
+            "prefecture": "北海道",
+            "latitude": 43.933333,
+            "longitude": 143.000000
+        },
+        {
+            "name": "雨竜沼湿原",
+            "description": "暑寒別天売焼尻国定公園にある山岳湿原。",
+            "prefecture": "北海道",
+            "latitude": 43.683333,
+            "longitude": 141.600000
+        },
+        {
+            "name": "大雪山・高原沼",
+            "description": "紅葉の名所として知られる湿原と沼。",
+            "prefecture": "北海道",
+            "latitude": 43.633333,
+            "longitude": 142.916667
+        },
+        {
+            "name": "野付半島",
+            "description": "トドワラなどの独特な景観を持つ湿地帯。",
+            "prefecture": "北海道",
+            "latitude": 43.583333,
+            "longitude": 145.333333
+        },
+        {
+            "name": "美唄湿原",
+            "description": "石狩平野に残る貴重な高層湿原。",
+            "prefecture": "北海道",
+            "latitude": 43.333333,
+            "longitude": 141.833333
+        },
+        {
+            "name": "宮島沼",
+            "description": "マガンの中継地としてラムサール条約に登録。",
+            "prefecture": "北海道",
+            "latitude": 43.316667,
+            "longitude": 141.716667
+        },
+        {
+            "name": "風蓮湖",
+            "description": "春国岱と共にラムサール条約登録。",
+            "prefecture": "北海道",
+            "latitude": 43.300000,
+            "longitude": 145.400000
+        },
+        {
+            "name": "春国岱",
+            "description": "風蓮湖とオホーツク海を隔てる砂州と湿地。",
+            "prefecture": "北海道",
+            "latitude": 43.283333,
+            "longitude": 145.433333
+        },
+        {
+            "name": "モエレ沼公園",
+            "description": "イサム・ノグチ設計の公園。沼の湿地環境が保全されている。",
+            "prefecture": "北海道",
+            "latitude": 43.125000,
+            "longitude": 141.425000
+        },
+        {
+            "name": "釧路湿原",
+            "description": "日本最大の湿原。特別天然記念物タンチョウの生息地。",
+            "prefecture": "北海道",
+            "latitude": 43.106667,
+            "longitude": 144.400000
+        },
+        {
+            "name": "霧多布湿原",
+            "description": "花の湿原と呼ばれる。特別天然記念物。",
+            "prefecture": "北海道",
+            "latitude": 43.083333,
+            "longitude": 145.083333
+        },
+        {
+            "name": "別寒辺牛湿原",
+            "description": "厚岸湖に接する広大な湿原。",
+            "prefecture": "北海道",
+            "latitude": 43.050000,
+            "longitude": 144.883333
+        },
+        {
+            "name": "厚岸湖",
+            "description": "別寒辺牛湿原と繋がる汽水湖。ラムサール条約登録。",
+            "prefecture": "北海道",
+            "latitude": 43.040000,
+            "longitude": 144.860000
+        },
+        {
+            "name": "火散布沼",
+            "description": "厚岸町にある湿地。",
+            "prefecture": "北海道",
+            "latitude": 43.000000,
+            "longitude": 145.000000
+        },
+        {
+            "name": "神仙沼",
+            "description": "ニセコ山系で最も美しいと言われる沼と湿原。",
+            "prefecture": "北海道",
+            "latitude": 42.883333,
+            "longitude": 140.633333
+        },
+        {
+            "name": "ウトナイ湖",
+            "description": "野鳥の楽園と呼ばれる湿地帯。",
+            "prefecture": "北海道",
+            "latitude": 42.700000,
+            "longitude": 141.733333
+        },
+        {
+            "name": "大沼",
+            "description": "大沼国定公園の湖沼群。",
+            "prefecture": "北海道",
+            "latitude": 41.983333,
+            "longitude": 140.666667
+        },
+        {
+            "name": "田代平湿原",
+            "description": "八甲田カルデラの北部に広がる湿原。",
+            "prefecture": "青森県",
+            "latitude": 40.700000,
+            "longitude": 140.933333
+        },
+        {
+            "name": "毛無岱",
+            "description": "八甲田山中腹にある湿原。",
+            "prefecture": "青森県",
+            "latitude": 40.650000,
+            "longitude": 140.866667
+        },
+        {
+            "name": "安比高原・奥のまきば",
+            "description": "ブナ林に囲まれた湿原。",
+            "prefecture": "岩手県",
+            "latitude": 40.000000,
+            "longitude": 140.966667
+        },
+        {
+            "name": "八幡平の湿原群",
+            "description": "八幡沼周辺に点在する湿原。",
+            "prefecture": "岩手県・秋田県",
+            "latitude": 39.950000,
+            "longitude": 140.850000
+        },
+        {
+            "name": "千沼ヶ原",
+            "description": "高山植物が豊富な高層湿原。",
+            "prefecture": "岩手県",
+            "latitude": 39.866667,
+            "longitude": 140.900000
+        },
+        {
+            "name": "世界谷地",
+            "description": "栗駒山麓にある湿原。ニッコウキスゲが有名。",
+            "prefecture": "宮城県",
+            "latitude": 38.933333,
+            "longitude": 140.750000
+        },
+        {
+            "name": "大山上池・下池",
+            "description": "鶴岡市にあるため池。ラムサール条約登録。",
+            "prefecture": "山形県",
+            "latitude": 38.730000,
+            "longitude": 139.730000
+        },
+        {
+            "name": "伊豆沼",
+            "description": "ハクチョウやガンの越冬地として有名。ラムサール条約登録。",
+            "prefecture": "宮城県",
+            "latitude": 38.710000,
+            "longitude": 141.100000
+        },
+        {
+            "name": "内沼",
+            "description": "伊豆沼と隣接する湖沼。ラムサール条約登録。",
+            "prefecture": "宮城県",
+            "latitude": 38.710000,
+            "longitude": 141.080000
+        },
+        {
+            "name": "蕪栗沼",
+            "description": "マガンのねぐらとして重要。ラムサール条約登録。",
+            "prefecture": "宮城県",
+            "latitude": 38.630000,
+            "longitude": 141.100000
+        },
+        {
+            "name": "化女沼",
+            "description": "亜炭採掘跡のダム湖だが貴重な湿地環境。ラムサール条約登録。",
+            "prefecture": "宮城県",
+            "latitude": 38.620000,
+            "longitude": 140.960000
+        },
+        {
+            "name": "瓢湖",
+            "description": "ハクチョウの飛来地。ラムサール条約登録。",
+            "prefecture": "新潟県",
+            "latitude": 37.833333,
+            "longitude": 139.233333
+        },
+        {
+            "name": "佐潟",
+            "description": "ラムサール条約登録湿地。",
+            "prefecture": "新潟県",
+            "latitude": 37.816667,
+            "longitude": 138.866667
+        },
+        {
+            "name": "デコ平湿原",
+            "description": "裏磐梯のグランデコスノーリゾート近くにある湿原。",
+            "prefecture": "福島県",
+            "latitude": 37.716667,
+            "longitude": 140.116667
+        },
+        {
+            "name": "雄国沼湿原",
+            "description": "ニッコウキスゲの大群落で知られる。",
+            "prefecture": "福島県",
+            "latitude": 37.616667,
+            "longitude": 139.966667
+        },
+        {
+            "name": "赤井谷地",
+            "description": "猪苗代湖畔にある湿原。国指定天然記念物。",
+            "prefecture": "福島県",
+            "latitude": 37.516667,
+            "longitude": 140.033333
+        },
+        {
+            "name": "矢ノ原湿原",
+            "description": "昭和村にある湿原。",
+            "prefecture": "福島県",
+            "latitude": 37.316667,
+            "longitude": 139.533333
+        },
+        {
+            "name": "駒止湿原",
+            "description": "ブナ林に囲まれた貴重な湿原。",
+            "prefecture": "福島県",
+            "latitude": 37.183333,
+            "longitude": 139.583333
+        },
+        {
+            "name": "尾瀬ヶ原",
+            "description": "日本を代表する高層湿原。ミズバショウが有名。",
+            "prefecture": "群馬県・福島県・新潟県",
+            "latitude": 36.933333,
+            "longitude": 139.250000
+        },
+        {
+            "name": "大江湿原",
+            "description": "尾瀬沼の畔にある湿原。",
+            "prefecture": "福島県・群馬県",
+            "latitude": 36.933333,
+            "longitude": 139.316667
+        },
+        {
+            "name": "アヤメ平",
+            "description": "尾瀬にある「天空の楽園」と呼ばれる湿原。",
+            "prefecture": "群馬県",
+            "latitude": 36.916667,
+            "longitude": 139.266667
+        },
+        {
+            "name": "苗場山頂湿原",
+            "description": "苗場山の山頂に広がる高層湿原。",
+            "prefecture": "長野県・新潟県",
+            "latitude": 36.850000,
+            "longitude": 138.683333
+        },
+        {
+            "name": "戦場ヶ原",
+            "description": "奥日光に広がる湿原。ハイキングコースが整備されている。",
+            "prefecture": "栃木県",
+            "latitude": 36.783333,
+            "longitude": 139.450000
+        },
+        {
+            "name": "小田代原",
+            "description": "戦場ヶ原の西隣にある湿原。貴婦人と呼ばれるシラカンバが有名。",
+            "prefecture": "栃木県",
+            "latitude": 36.783333,
+            "longitude": 139.433333
+        },
+        {
+            "name": "玉原湿原",
+            "description": "「小尾瀬」と呼ばれるブナ林の中の湿原。",
+            "prefecture": "群馬県",
+            "latitude": 36.783333,
+            "longitude": 139.083333
+        },
+        {
+            "name": "栂池自然園",
+            "description": "日本有数の高層湿原。",
+            "prefecture": "長野県",
+            "latitude": 36.750000,
+            "longitude": 137.866667
+        },
+        {
+            "name": "芳ヶ平湿原",
+            "description": "草津白根山の麓にある湿原。ラムサール条約登録。",
+            "prefecture": "群馬県",
+            "latitude": 36.633333,
+            "longitude": 138.550000
+        },
+        {
+            "name": "親海湿原",
+            "description": "白馬村にある湿原。姫川源流に近い。",
+            "prefecture": "長野県",
+            "latitude": 36.633333,
+            "longitude": 137.850000
+        },
+        {
+            "name": "立山弥陀ヶ原",
+            "description": "立山カルデラの縁にある高層湿原。ラムサール条約登録。",
+            "prefecture": "富山県",
+            "latitude": 36.570000,
+            "longitude": 137.600000
+        },
+        {
+            "name": "覚満淵",
+            "description": "赤城山にある「小尾瀬」とも呼ばれる湿原。",
+            "prefecture": "群馬県",
+            "latitude": 36.550000,
+            "longitude": 139.183333
+        },
+        {
+            "name": "菅平湿原",
+            "description": "菅平高原にある湿原。",
+            "prefecture": "長野県",
+            "latitude": 36.550000,
+            "longitude": 138.333333
+        },
+        {
+            "name": "居谷里湿原",
+            "description": "大町市にある湿原。",
+            "prefecture": "長野県",
+            "latitude": 36.483333,
+            "longitude": 137.833333
+        },
+        {
+            "name": "古徳沼",
+            "description": "ハクチョウ飛来地。",
+            "prefecture": "茨城県",
+            "latitude": 36.483333,
+            "longitude": 140.433333
+        },
+        {
+            "name": "井頭公園",
+            "description": "一万人プールで知られるが、湿地植物園がある。",
+            "prefecture": "栃木県",
+            "latitude": 36.416667,
+            "longitude": 140.016667
+        },
+        {
+            "name": "上野沼",
+            "description": "桜川市にある沼。",
+            "prefecture": "茨城県",
+            "latitude": 36.350000,
+            "longitude": 140.100000
+        },
+        {
+            "name": "池ヶ原湿原",
+            "description": "飛騨市にある湿原。",
+            "prefecture": "岐阜県",
+            "latitude": 36.333333,
+            "longitude": 137.200000
+        },
+        {
+            "name": "片野鴨池",
+            "description": "カモ類の越冬地。ラムサール条約登録。",
+            "prefecture": "石川県",
+            "latitude": 36.316667,
+            "longitude": 136.283333
+        },
+        {
+            "name": "涸沼",
+            "description": "関東地方唯一の汽水湖。ラムサール条約登録。",
+            "prefecture": "茨城県",
+            "latitude": 36.280000,
+            "longitude": 140.500000
+        },
+        {
+            "name": "天生湿原",
+            "description": "北アルプスの展望が良い湿原。",
+            "prefecture": "岐阜県",
+            "latitude": 36.266667,
+            "longitude": 137.000000
+        },
+        {
+            "name": "多々良沼",
+            "description": "ハクチョウの飛来地。",
+            "prefecture": "群馬県",
+            "latitude": 36.266667,
+            "longitude": 139.500000
+        },
+        {
+            "name": "田代湿原",
+            "description": "上高地にある湿原。",
+            "prefecture": "長野県",
+            "latitude": 36.250000,
+            "longitude": 137.633333
+        },
+        {
+            "name": "渡良瀬遊水地",
+            "description": "広大なヨシ原が広がる低地湿原。",
+            "prefecture": "栃木県・群馬県・埼玉県・茨城県",
+            "latitude": 36.233333,
+            "longitude": 139.683333
+        },
+        {
+            "name": "大正池",
+            "description": "上高地の入り口にある池と湿地。",
+            "prefecture": "長野県",
+            "latitude": 36.233333,
+            "longitude": 137.633333
+        },
+        {
+            "name": "八島ヶ原湿原",
+            "description": "霧ヶ峰にある国の天然記念物の高層湿原。",
+            "prefecture": "長野県",
+            "latitude": 36.116667,
+            "longitude": 138.166667
+        },
+        {
+            "name": "車山湿原",
+            "description": "霧ヶ峰にある湿原。",
+            "prefecture": "長野県",
+            "latitude": 36.100000,
+            "longitude": 138.183333
+        },
+        {
+            "name": "踊場湿原",
+            "description": "霧ヶ峰にある湿原。池のくるみとも呼ばれる。",
+            "prefecture": "長野県",
+            "latitude": 36.083333,
+            "longitude": 138.166667
+        },
+        {
+            "name": "水郷佐原",
+            "description": "水郷地帯。水生植物園がある。",
+            "prefecture": "千葉県",
+            "latitude": 35.933333,
+            "longitude": 140.500000
+        },
+        {
+            "name": "入笠湿原",
+            "description": "「花の宝庫」として知られる湿原。",
+            "prefecture": "長野県",
+            "latitude": 35.900000,
+            "longitude": 138.166667
+        },
+        {
+            "name": "谷津干潟",
+            "description": "東京湾に残された干潟。ラムサール条約登録。",
+            "prefecture": "千葉県",
+            "latitude": 35.680000,
+            "longitude": 140.000000
+        },
+        {
+            "name": "三番瀬",
+            "description": "東京湾奥部の干潟。",
+            "prefecture": "千葉県",
+            "latitude": 35.660000,
+            "longitude": 139.960000
+        },
+        {
+            "name": "中池見湿地",
+            "description": "敦賀市にある袋状埋積谷の湿地。",
+            "prefecture": "福井県",
+            "latitude": 35.650000,
+            "longitude": 136.083333
+        },
+        {
+            "name": "葛西臨海公園・鳥類園",
+            "description": "人工的に造成された干潟と湿地。",
+            "prefecture": "東京都",
+            "latitude": 35.640000,
+            "longitude": 139.860000
+        },
+        {
+            "name": "三方五湖",
+            "description": "5つの湖からなる景勝地。ラムサール条約登録。",
+            "prefecture": "福井県",
+            "latitude": 35.583333,
+            "longitude": 135.883333
+        },
+        {
+            "name": "中海",
+            "description": "日本海側の汽水湖。ラムサール条約登録。",
+            "prefecture": "島根県・鳥取県",
+            "latitude": 35.450000,
+            "longitude": 133.233333
+        },
+        {
+            "name": "宍道湖",
+            "description": "夕日が美しい汽水湖。ラムサール条約登録。",
+            "prefecture": "島根県",
+            "latitude": 35.433333,
+            "longitude": 132.966667
+        },
+        {
+            "name": "琵琶湖",
+            "description": "日本最大の湖。水鳥生息地としてラムサール条約登録。",
+            "prefecture": "滋賀県",
+            "latitude": 35.330000,
+            "longitude": 136.160000
+        },
+        {
+            "name": "八丁平",
+            "description": "京都北山の高層湿原。",
+            "prefecture": "京都府",
+            "latitude": 35.250000,
+            "longitude": 135.816667
+        },
+        {
+            "name": "藤前干潟",
+            "description": "伊勢湾に残る干潟。渡り鳥の中継地。ラムサール条約登録。",
+            "prefecture": "愛知県",
+            "latitude": 35.080000,
+            "longitude": 136.830000
+        },
+        {
+            "name": "深泥池",
+            "description": "氷河期の生き残りとされる生物が生息する浮島湿原。",
+            "prefecture": "京都府",
+            "latitude": 35.050000,
+            "longitude": 135.766667
+        },
+        {
+            "name": "鯉が窪湿原",
+            "description": "「西の尾瀬」とも呼ばれる湿原。",
+            "prefecture": "岡山県",
+            "latitude": 34.983333,
+            "longitude": 133.283333
+        },
+        {
+            "name": "葦毛湿原",
+            "description": "「東海のミニ尾瀬」と呼ばれる湧水湿原。",
+            "prefecture": "愛知県",
+            "latitude": 34.733333,
+            "longitude": 137.433333
+        },
+        {
+            "name": "八幡湿原",
+            "description": "西日本最大級の湿原。カキツバタなどが有名。",
+            "prefecture": "広島県",
+            "latitude": 34.683333,
+            "longitude": 132.183333
+        },
+        {
+            "name": "曽爾高原・お亀池",
+            "description": "曽爾高原にある湿地。",
+            "prefecture": "奈良県",
+            "latitude": 34.516667,
+            "longitude": 136.166667
+        },
+        {
+            "name": "黒沢湿原",
+            "description": "珍しい植物が自生する湿原。",
+            "prefecture": "徳島県",
+            "latitude": 33.950000,
+            "longitude": 133.850000
+        },
+        {
+            "name": "蛇淵湿原",
+            "description": "東温市の皿ヶ嶺にある湿原。",
+            "prefecture": "愛媛県",
+            "latitude": 33.733333,
+            "longitude": 132.900000
+        },
+        {
+            "name": "樫原湿原",
+            "description": "九州の尾瀬とも呼ばれる。",
+            "prefecture": "佐賀県",
+            "latitude": 33.433333,
+            "longitude": 130.150000
+        },
+        {
+            "name": "東よか干潟",
+            "description": "有明海の干潟。シギ・チドリ類の飛来地。ラムサール条約登録。",
+            "prefecture": "佐賀県",
+            "latitude": 33.180000,
+            "longitude": 130.260000
+        },
+        {
+            "name": "タデ原湿原",
+            "description": "くじゅう連山の麓、長者原にある湿原。ラムサール条約登録。",
+            "prefecture": "大分県",
+            "latitude": 33.116667,
+            "longitude": 131.233333
+        },
+        {
+            "name": "肥前鹿島干潟",
+            "description": "有明海の泥干潟。ムツゴロウなどが生息。ラムサール条約登録。",
+            "prefecture": "佐賀県",
+            "latitude": 33.110000,
+            "longitude": 130.110000
+        },
+        {
+            "name": "坊ガツル",
+            "description": "くじゅう連山に囲まれた山岳湿原。ラムサール条約登録。",
+            "prefecture": "大分県",
+            "latitude": 33.100000,
+            "longitude": 131.266667
+        },
+        {
+            "name": "荒尾干潟",
+            "description": "有明海の中央部に位置する干潟。ラムサール条約登録。",
+            "prefecture": "熊本県",
+            "latitude": 32.980000,
+            "longitude": 130.430000
+        },
+        {
+            "name": "藺牟田池",
+            "description": "泥炭形成植物群落として天然記念物指定。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.816667,
+            "longitude": 130.466667
+        },
+        {
+            "name": "永田浜",
+            "description": "ウミガメ産卵地。ラムサール条約登録。",
+            "prefecture": "鹿児島県",
+            "latitude": 30.400000,
+            "longitude": 130.433333
+        },
+        {
+            "name": "慶佐次湾のヒルギ林",
+            "description": "沖縄本島最大級のマングローブ林。",
+            "prefecture": "沖縄県",
+            "latitude": 26.600000,
+            "longitude": 128.150000
+        },
+        {
+            "name": "漫湖",
+            "description": "那覇市にある干潟湿地。ラムサール条約登録。",
+            "prefecture": "沖縄県",
+            "latitude": 26.200000,
+            "longitude": 127.683333
+        },
+        {
+            "name": "与那覇湾",
+            "description": "宮古島にある干潟。ラムサール条約登録。",
+            "prefecture": "沖縄県",
+            "latitude": 24.760000,
+            "longitude": 125.260000
+        },
+        {
+            "name": "名蔵アンパル",
+            "description": "石垣島にあるマングローブ湿地。",
+            "prefecture": "沖縄県",
+            "latitude": 24.383333,
+            "longitude": 124.133333
+        }
+    ]
+}

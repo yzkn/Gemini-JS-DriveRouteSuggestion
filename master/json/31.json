@@ -1,0 +1,361 @@
+{
+    "municipalities": [
+        {
+            "name": "弁天台場跡",
+            "description": "箱館戦争の舞台。新選組が守備した。",
+            "prefecture": "北海道",
+            "latitude": "41.773300",
+            "longitude": "140.697500"
+        },
+        {
+            "name": "室蘭・絵鞆岬砲台跡",
+            "description": "噴火湾防衛のために築かれた砲台。",
+            "prefecture": "北海道",
+            "latitude": "42.342200",
+            "longitude": "140.923300"
+        },
+        {
+            "name": "宗谷要塞(宗谷岬砲台跡)",
+            "description": "宗谷海峡防衛の拠点。",
+            "prefecture": "北海道",
+            "latitude": "45.522800",
+            "longitude": "141.936700"
+        },
+        {
+            "name": "大間崎砲台跡",
+            "description": "津軽海峡防衛の旧陸軍砲台。",
+            "prefecture": "青森県",
+            "latitude": "41.545600",
+            "longitude": "140.912500"
+        },
+        {
+            "name": "尻屋崎砲台跡",
+            "description": "下北半島の先端にある砲台跡。",
+            "prefecture": "青森県",
+            "latitude": "41.428900",
+            "longitude": "141.465000"
+        },
+        {
+            "name": "閉伊崎砲台跡",
+            "description": "宮古湾海戦に関連する砲台跡。",
+            "prefecture": "岩手県",
+            "latitude": "39.673900",
+            "longitude": "142.008900"
+        },
+        {
+            "name": "金華山砲台跡",
+            "description": "牡鹿半島・金華山にある。",
+            "prefecture": "宮城県",
+            "latitude": "38.293300",
+            "longitude": "141.576700"
+        },
+        {
+            "name": "船川港砲台跡",
+            "description": "男鹿半島。",
+            "prefecture": "秋田県",
+            "latitude": "39.878300",
+            "longitude": "139.850000"
+        },
+        {
+            "name": "大洗磯前神社(旧砲台跡)",
+            "description": "幕末に海防のために築かれた。",
+            "prefecture": "茨城県",
+            "latitude": "36.315000",
+            "longitude": "140.587800"
+        },
+        {
+            "name": "富津元洲堡塁砲台跡",
+            "description": "東京湾要塞の一つ。富津公園内。",
+            "prefecture": "千葉県",
+            "latitude": "35.311100",
+            "longitude": "139.813100"
+        },
+        {
+            "name": "第一海堡",
+            "description": "東京湾に浮かぶ人工要塞。",
+            "prefecture": "千葉県",
+            "latitude": "35.313600",
+            "longitude": "139.825800"
+        },
+        {
+            "name": "第二海堡",
+            "description": "東京湾に浮かぶ人工要塞。上陸ツアーがある。",
+            "prefecture": "千葉県",
+            "latitude": "35.308900",
+            "longitude": "139.743600"
+        },
+        {
+            "name": "大房岬砲台跡",
+            "description": "東京湾要塞の一部。",
+            "prefecture": "千葉県",
+            "latitude": "35.035000",
+            "longitude": "139.813900"
+        },
+        {
+            "name": "第三台場(台場公園)",
+            "description": "江戸幕府が築いた海上砲台。国指定史跡。",
+            "prefecture": "東京都",
+            "latitude": "35.636700",
+            "longitude": "139.770300"
+        },
+        {
+            "name": "第六台場",
+            "description": "立ち入り禁止の無人島として残る。",
+            "prefecture": "東京都",
+            "latitude": "35.633900",
+            "longitude": "139.766700"
+        },
+        {
+            "name": "猿島砲台跡",
+            "description": "東京湾要塞の猿島にあるレンガ造りの要塞。",
+            "prefecture": "神奈川県",
+            "latitude": "35.291900",
+            "longitude": "139.695300"
+        },
+        {
+            "name": "観音崎砲台跡",
+            "description": "日本最古の洋式砲台。",
+            "prefecture": "神奈川県",
+            "latitude": "35.256700",
+            "longitude": "139.743100"
+        },
+        {
+            "name": "千代ヶ崎砲台跡",
+            "description": "国史跡。東京湾要塞の遺構。",
+            "prefecture": "神奈川県",
+            "latitude": "35.228900",
+            "longitude": "139.720800"
+        },
+        {
+            "name": "走水低砲台跡",
+            "description": "海面に近い位置に設置された砲台。",
+            "prefecture": "神奈川県",
+            "latitude": "35.263900",
+            "longitude": "139.736100"
+        },
+        {
+            "name": "松ヶ崎台場跡",
+            "description": "戊辰戦争の古戦場。",
+            "prefecture": "新潟県",
+            "latitude": "37.948300",
+            "longitude": "139.098300"
+        },
+        {
+            "name": "小浜藩台場跡",
+            "description": "小浜湾を守るために築かれた。",
+            "prefecture": "福井県",
+            "latitude": "35.503300",
+            "longitude": "135.716700"
+        },
+        {
+            "name": "三保台場跡",
+            "description": "清水港を守るために築かれた。",
+            "prefecture": "静岡県",
+            "latitude": "35.011700",
+            "longitude": "138.523300"
+        },
+        {
+            "name": "鳥羽・神島監的哨跡",
+            "description": "伊良湖水道を監視。",
+            "prefecture": "三重県",
+            "latitude": "34.545800",
+            "longitude": "136.981700"
+        },
+        {
+            "name": "友ヶ島砲台跡(由良要塞)",
+            "description": "第3砲台跡などが有名。ラピュタのような風景。",
+            "prefecture": "和歌山県",
+            "latitude": "34.283100",
+            "longitude": "135.003300"
+        },
+        {
+            "name": "深山第一砲台跡",
+            "description": "休暇村紀州加太の近く。",
+            "prefecture": "和歌山県",
+            "latitude": "34.275000",
+            "longitude": "135.066700"
+        },
+        {
+            "name": "雑賀崎台場跡",
+            "description": "カゴバ台場。",
+            "prefecture": "和歌山県",
+            "latitude": "34.183300",
+            "longitude": "135.133300"
+        },
+        {
+            "name": "生石山砲台跡(由良要塞)",
+            "description": "淡路島にあるレンガ造りの砲台。",
+            "prefecture": "兵庫県",
+            "latitude": "34.276400",
+            "longitude": "134.951100"
+        },
+        {
+            "name": "和田岬砲台",
+            "description": "勝海舟の設計とされる。木造部分はなく石垣が残る。",
+            "prefecture": "兵庫県",
+            "latitude": "34.653300",
+            "longitude": "135.186700"
+        },
+        {
+            "name": "西宮砲台",
+            "description": "幕末に築かれた円形砲台。国の史跡。",
+            "prefecture": "兵庫県",
+            "latitude": "34.726700",
+            "longitude": "135.335000"
+        },
+        {
+            "name": "由良台場跡",
+            "description": "国指定史跡。幕末の台場跡。",
+            "prefecture": "鳥取県",
+            "latitude": "35.505000",
+            "longitude": "133.708300"
+        },
+        {
+            "name": "橋津台場跡",
+            "description": "湯梨浜町にある。",
+            "prefecture": "鳥取県",
+            "latitude": "35.501700",
+            "longitude": "133.873300"
+        },
+        {
+            "name": "浜田藩台場跡",
+            "description": "外ノ浦などにある。",
+            "prefecture": "島根県",
+            "latitude": "34.898300",
+            "longitude": "132.066700"
+        },
+        {
+            "name": "大久野島砲台跡",
+            "description": "芸予要塞の一部。毒ガス島の歴史もある。",
+            "prefecture": "広島県",
+            "latitude": "34.308900",
+            "longitude": "132.993300"
+        },
+        {
+            "name": "高烏台砲台跡",
+            "description": "平清盛像がある公園内。",
+            "prefecture": "広島県",
+            "latitude": "34.175000",
+            "longitude": "132.533300"
+        },
+        {
+            "name": "下関要塞(火の山砲台跡)",
+            "description": "関門海峡を制圧するための要塞。",
+            "prefecture": "山口県",
+            "latitude": "33.971700",
+            "longitude": "130.958300"
+        },
+        {
+            "name": "長州藩下関前田台場跡",
+            "description": "下関戦争の舞台。",
+            "prefecture": "山口県",
+            "latitude": "33.975000",
+            "longitude": "130.966700"
+        },
+        {
+            "name": "津田砲台跡",
+            "description": "幕末に築かれた。",
+            "prefecture": "徳島県",
+            "latitude": "34.050000",
+            "longitude": "134.583300"
+        },
+        {
+            "name": "小島砲台跡(芸予要塞)",
+            "description": "来島海峡に浮かぶ小島に残る。",
+            "prefecture": "愛媛県",
+            "latitude": "34.123300",
+            "longitude": "132.973300"
+        },
+        {
+            "name": "佐田岬砲台跡",
+            "description": "豊予要塞の一部。",
+            "prefecture": "愛媛県",
+            "latitude": "33.343300",
+            "longitude": "132.018900"
+        },
+        {
+            "name": "高茂岬砲台跡",
+            "description": "愛南町にある。",
+            "prefecture": "愛媛県",
+            "latitude": "32.923300",
+            "longitude": "132.425000"
+        },
+        {
+            "name": "種崎砲台跡",
+            "description": "高知港口にある。",
+            "prefecture": "高知県",
+            "latitude": "33.533300",
+            "longitude": "133.566700"
+        },
+        {
+            "name": "田向山砲台跡",
+            "description": "関門海峡を見下ろす。",
+            "prefecture": "福岡県",
+            "latitude": "33.921900",
+            "longitude": "130.983300"
+        },
+        {
+            "name": "矢筈山砲台跡",
+            "description": "下関要塞の一部。",
+            "prefecture": "福岡県",
+            "latitude": "33.933300",
+            "longitude": "130.950000"
+        },
+        {
+            "name": "大里堡塁跡",
+            "description": "北九州市。",
+            "prefecture": "福岡県",
+            "latitude": "33.900000",
+            "longitude": "130.933300"
+        },
+        {
+            "name": "姫神山砲台跡",
+            "description": "対馬要塞。レンガ造りの遺構。",
+            "prefecture": "長崎県",
+            "latitude": "34.416700",
+            "longitude": "129.333300"
+        },
+        {
+            "name": "豊砲台跡",
+            "description": "対馬にある巨大砲台跡。",
+            "prefecture": "長崎県",
+            "latitude": "34.625000",
+            "longitude": "129.433300"
+        },
+        {
+            "name": "丸出山堡塁観測所跡",
+            "description": "佐世保要塞。",
+            "prefecture": "長崎県",
+            "latitude": "33.150000",
+            "longitude": "129.700000"
+        },
+        {
+            "name": "神ノ島砲台跡",
+            "description": "長崎港入り口。",
+            "prefecture": "長崎県",
+            "latitude": "32.708300",
+            "longitude": "129.825000"
+        },
+        {
+            "name": "丹賀砲台跡",
+            "description": "豊予要塞の一部。暴発事故の慰霊碑がある。",
+            "prefecture": "大分県",
+            "latitude": "33.266700",
+            "longitude": "131.950000"
+        },
+        {
+            "name": "佐多岬砲台跡",
+            "description": "本土最南端。",
+            "prefecture": "鹿児島県",
+            "latitude": "30.995000",
+            "longitude": "130.660000"
+        },
+        {
+            "name": "祇園之洲砲台跡",
+            "description": "薩英戦争で使用された。",
+            "prefecture": "鹿児島県",
+            "latitude": "31.605000",
+            "longitude": "130.563300"
+        }
+    ]
+}

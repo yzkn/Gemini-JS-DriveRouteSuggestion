@@ -1,0 +1,753 @@
+{
+    "municipalities": [
+        {
+            "name": "東京ディズニーランド",
+            "description": "千葉県浦安市にある日本最大級のテーマパーク。ディズニーの世界観を楽しめる。",
+            "prefecture": "千葉県",
+            "latitude": 35.6329,
+            "longitude": 139.8804
+        },
+        {
+            "name": "東京ディズニーシー",
+            "description": "東京ディズニーリゾートにある、海をテーマにしたテーマパーク。",
+            "prefecture": "千葉県",
+            "latitude": 35.6265,
+            "longitude": 139.8851
+        },
+        {
+            "name": "ユニバーサル・スタジオ・ジャパン",
+            "description": "大阪市にあるハリウッド映画などをテーマにしたテーマパーク。",
+            "prefecture": "大阪府",
+            "latitude": 34.6654,
+            "longitude": 135.4323
+        },
+        {
+            "name": "ハウステンボス",
+            "description": "オランダの街並みを再現したテーマパーク。花と光のイベントが有名。",
+            "prefecture": "長崎県",
+            "latitude": 33.0863,
+            "longitude": 129.7874
+        },
+        {
+            "name": "ナガシマスパーランド",
+            "description": "絶叫マシンが豊富な遊園地。ジャンボ海水プールも併設。",
+            "prefecture": "三重県",
+            "latitude": 35.0304,
+            "longitude": 136.7323
+        },
+        {
+            "name": "富士急ハイランド",
+            "description": "富士山の麓にある、世界記録級の絶叫マシンが揃う遊園地。",
+            "prefecture": "山梨県",
+            "latitude": 35.4869,
+            "longitude": 138.7806
+        },
+        {
+            "name": "ジブリパーク",
+            "description": "愛・地球博記念公園内にある、スタジオジブリの世界を表現した公園。",
+            "prefecture": "愛知県",
+            "latitude": 35.1714,
+            "longitude": 137.0875
+        },
+        {
+            "name": "レゴランド・ジャパン",
+            "description": "レゴブロックをテーマにした屋外型テーマパーク。",
+            "prefecture": "愛知県",
+            "latitude": 35.0507,
+            "longitude": 136.843
+        },
+        {
+            "name": "サンリオピューロランド",
+            "description": "ハローキティなどのサンリオキャラクターに会える屋内型テーマパーク。",
+            "prefecture": "東京都",
+            "latitude": 35.6246,
+            "longitude": 139.4293
+        },
+        {
+            "name": "志摩スペイン村 パルケエスパーニャ",
+            "description": "スペインの街並みや祭りをテーマにした複合リゾート施設。",
+            "prefecture": "三重県",
+            "latitude": 34.3606,
+            "longitude": 136.8466
+        },
+        {
+            "name": "よみうりランド",
+            "description": "多摩丘陵にある遊園地。イルミネーションやものづくり体験が人気。",
+            "prefecture": "東京都",
+            "latitude": 35.6253,
+            "longitude": 139.5165
+        },
+        {
+            "name": "東京ドームシティアトラクションズ",
+            "description": "東京ドームに隣接する都心型遊園地。入園無料。",
+            "prefecture": "東京都",
+            "latitude": 35.7051,
+            "longitude": 139.7533
+        },
+        {
+            "name": "ひらかたパーク",
+            "description": "「ひらパー」の愛称で親しまれる、現存する日本最古の遊園地。",
+            "prefecture": "大阪府",
+            "latitude": 34.8078,
+            "longitude": 135.6416
+        },
+        {
+            "name": "アドベンチャーワールド",
+            "description": "動物園、水族館、遊園地が一体となったテーマパーク。パンダが有名。",
+            "prefecture": "和歌山県",
+            "latitude": 33.6664,
+            "longitude": 135.3767
+        },
+        {
+            "name": "西武園ゆうえんち",
+            "description": "昭和レトロをテーマにリニューアルされた遊園地。",
+            "prefecture": "埼玉県",
+            "latitude": 35.7661,
+            "longitude": 139.4323
+        },
+        {
+            "name": "東武動物公園",
+            "description": "動物園、遊園地、プールが融合したハイブリッド・レジャーランド。",
+            "prefecture": "埼玉県",
+            "latitude": 36.0233,
+            "longitude": 139.7128
+        },
+        {
+            "name": "横浜・八景島シーパラダイス",
+            "description": "人工島にある水族館とアトラクションの複合型海洋レジャー施設。",
+            "prefecture": "神奈川県",
+            "latitude": 35.337,
+            "longitude": 139.6457
+        },
+        {
+            "name": "ムーミンバレーパーク",
+            "description": "ムーミンの物語の世界を体験できるテーマパーク。メッツァ内にある。",
+            "prefecture": "埼玉県",
+            "latitude": 35.8756,
+            "longitude": 139.3247
+        },
+        {
+            "name": "ニジゲンノモリ",
+            "description": "淡路島公園内にある、アニメ×テクノロジー×自然をテーマにしたパーク。",
+            "prefecture": "兵庫県",
+            "latitude": 34.5855,
+            "longitude": 135.0116
+        },
+        {
+            "name": "日光江戸村（江戸ワンダーランド）",
+            "description": "江戸時代の文化や生活を体験できるカルチャーパーク。",
+            "prefecture": "栃木県",
+            "latitude": 36.7924,
+            "longitude": 139.7303
+        },
+        {
+            "name": "東映太秦映画村",
+            "description": "時代劇の撮影セットが見学できる、映画のテーマパーク。",
+            "prefecture": "京都府",
+            "latitude": 35.0163,
+            "longitude": 135.7088
+        },
+        {
+            "name": "ハーモニーランド",
+            "description": "サンリオキャラクターと会える屋外型テーマパーク。",
+            "prefecture": "大分県",
+            "latitude": 33.3986,
+            "longitude": 131.5457
+        },
+        {
+            "name": "ワーナー ブラザース スタジオツアー東京",
+            "description": "映画「ハリー・ポッター」シリーズの舞台裏を体験できる施設。としまえん跡地。",
+            "prefecture": "東京都",
+            "latitude": 35.7441,
+            "longitude": 139.6493
+        },
+        {
+            "name": "東京ジョイポリス",
+            "description": "お台場にある国内最大級の屋内型テーマパーク。",
+            "prefecture": "東京都",
+            "latitude": 35.6288,
+            "longitude": 139.7766
+        },
+        {
+            "name": "浅草花やしき",
+            "description": "1853年開園の日本最古の遊園地。下町情緒あふれる。",
+            "prefecture": "東京都",
+            "latitude": 35.7153,
+            "longitude": 139.7945
+        },
+        {
+            "name": "あらかわ遊園",
+            "description": "隅田川沿いにある区営の遊園地。ファミリー向け。",
+            "prefecture": "東京都",
+            "latitude": 35.7513,
+            "longitude": 139.7547
+        },
+        {
+            "name": "横浜コスモワールド",
+            "description": "みなとみらいにある都市型立体遊園地。大観覧車が目印。",
+            "prefecture": "神奈川県",
+            "latitude": 35.4552,
+            "longitude": 139.6366
+        },
+        {
+            "name": "那須ハイランドパーク",
+            "description": "那須高原にある北関東最大級の遊園地。",
+            "prefecture": "栃木県",
+            "latitude": 37.0544,
+            "longitude": 139.9697
+        },
+        {
+            "name": "さがみ湖リゾート プレジャーフォレスト",
+            "description": "アウトドア施設と遊園地が融合したレジャー施設。イルミネーションも人気。",
+            "prefecture": "神奈川県",
+            "latitude": 35.6067,
+            "longitude": 139.1873
+        },
+        {
+            "name": "東京ドイツ村",
+            "description": "ドイツの田園風景をイメージしたテーマパーク。",
+            "prefecture": "千葉県",
+            "latitude": 35.4053,
+            "longitude": 140.0544
+        },
+        {
+            "name": "マザー牧場",
+            "description": "花と動物たちのエンターテイメントファーム。",
+            "prefecture": "千葉県",
+            "latitude": 35.2635,
+            "longitude": 139.9328
+        },
+        {
+            "name": "ふなばしアンデルセン公園",
+            "description": "デンマークをイメージした公園。アスレチックや体験施設が充実。",
+            "prefecture": "千葉県",
+            "latitude": 35.7616,
+            "longitude": 140.0617
+        },
+        {
+            "name": "鴨川シーワールド",
+            "description": "シャチのパフォーマンスが有名な大規模水族館テーマパーク。",
+            "prefecture": "千葉県",
+            "latitude": 35.1154,
+            "longitude": 140.1197
+        },
+        {
+            "name": "あしかがフラワーパーク",
+            "description": "四季折々の花が楽しめる花のテーマパーク。大藤が有名。",
+            "prefecture": "栃木県",
+            "latitude": 36.3142,
+            "longitude": 139.5204
+        },
+        {
+            "name": "モビリティリゾートもてぎ",
+            "description": "森の中のモビリティテーマパーク。サーキットやアスレチックがある。",
+            "prefecture": "栃木県",
+            "latitude": 36.5332,
+            "longitude": 140.2281
+        },
+        {
+            "name": "軽井沢おもちゃ王国",
+            "description": "見て、触れて、体験できるおもちゃのテーマパーク。",
+            "prefecture": "群馬県",
+            "latitude": 36.4678,
+            "longitude": 138.5661
+        },
+        {
+            "name": "おもちゃ王国",
+            "description": "玉野市にあるおもちゃのテーマパーク。",
+            "prefecture": "岡山県",
+            "latitude": 34.4601,
+            "longitude": 133.9297
+        },
+        {
+            "name": "東条湖おもちゃ王国",
+            "description": "加東市にあるおもちゃのテーマパーク。プールもある。",
+            "prefecture": "兵庫県",
+            "latitude": 34.9288,
+            "longitude": 135.0747
+        },
+        {
+            "name": "ラグナシア（ラグーナテンボス）",
+            "description": "海をテーマにしたテーマパーク。夏はプール、冬はイルミネーション。",
+            "prefecture": "愛知県",
+            "latitude": 34.808,
+            "longitude": 137.2736
+        },
+        {
+            "name": "日本モンキーパーク",
+            "description": "サル類動物園を併設した遊園地。",
+            "prefecture": "愛知県",
+            "latitude": 35.3942,
+            "longitude": 136.9636
+        },
+        {
+            "name": "野外民族博物館リトルワールド",
+            "description": "世界の家と暮らしをテーマにした野外博物館。",
+            "prefecture": "愛知県",
+            "latitude": 35.3761,
+            "longitude": 137.027
+        },
+        {
+            "name": "博物館明治村",
+            "description": "明治時代の建築物を移築・保存展示する野外博物館。",
+            "prefecture": "愛知県",
+            "latitude": 35.3408,
+            "longitude": 136.9922
+        },
+        {
+            "name": "南知多ビーチランド",
+            "description": "ふれあい体験ができる水族館とおもちゃ王国。",
+            "prefecture": "愛知県",
+            "latitude": 34.7797,
+            "longitude": 136.8833
+        },
+        {
+            "name": "鈴鹿サーキットパーク",
+            "description": "鈴鹿サーキットにある、乗り物をテーマにした遊園地。",
+            "prefecture": "三重県",
+            "latitude": 34.8431,
+            "longitude": 136.5411
+        },
+        {
+            "name": "浜名湖パルパル",
+            "description": "浜名湖畔にあるリゾート型遊園地。",
+            "prefecture": "静岡県",
+            "latitude": 34.7642,
+            "longitude": 137.6169
+        },
+        {
+            "name": "伊豆ぐらんぱる公園",
+            "description": "伊豆高原にあるレジャー公園。イルミネーション「グランイルミ」が有名。",
+            "prefecture": "静岡県",
+            "latitude": 34.908,
+            "longitude": 139.1122
+        },
+        {
+            "name": "修善寺虹の郷",
+            "description": "花と緑の公園。イギリス村やカナダ村などがある。",
+            "prefecture": "静岡県",
+            "latitude": 34.9822,
+            "longitude": 138.9328
+        },
+        {
+            "name": "ルスツリゾート",
+            "description": "北海道最大級のオールシーズンリゾート。遊園地やスキー場がある。",
+            "prefecture": "北海道",
+            "latitude": 42.7533,
+            "longitude": 140.9066
+        },
+        {
+            "name": "北海道グリーンランド",
+            "description": "いわみざわ公園にある遊園地。大観覧車がある。",
+            "prefecture": "北海道",
+            "latitude": 43.1931,
+            "longitude": 141.7947
+        },
+        {
+            "name": "白い恋人パーク",
+            "description": "お菓子のテーマパーク。工場見学やお菓子作り体験ができる。",
+            "prefecture": "北海道",
+            "latitude": 43.0886,
+            "longitude": 141.2708
+        },
+        {
+            "name": "登別マリンパークニクス",
+            "description": "北欧のお城をイメージした水族館。ペンギンパレードが人気。",
+            "prefecture": "北海道",
+            "latitude": 42.4172,
+            "longitude": 141.1342
+        },
+        {
+            "name": "リナワールド",
+            "description": "東北最大級の遊園地。サンリオキャラクターのアトラクションがある。",
+            "prefecture": "山形県",
+            "latitude": 38.1997,
+            "longitude": 140.2981
+        },
+        {
+            "name": "八木山ベニーランド",
+            "description": "仙台市にある歴史ある遊園地。",
+            "prefecture": "宮城県",
+            "latitude": 38.2464,
+            "longitude": 140.8525
+        },
+        {
+            "name": "スパリゾートハワイアンズ",
+            "description": "温泉を利用した6つのテーマパークからなるリゾート施設。",
+            "prefecture": "福島県",
+            "latitude": 36.9942,
+            "longitude": 140.8447
+        },
+        {
+            "name": "サントピアワールド",
+            "description": "「水と緑と太陽」をテーマにした遊園地。",
+            "prefecture": "新潟県",
+            "latitude": 37.7561,
+            "longitude": 139.1764
+        },
+        {
+            "name": "ロックハート城",
+            "description": "スコットランドの本物の古城を移築・復元したテーマパーク。",
+            "prefecture": "群馬県",
+            "latitude": 36.6394,
+            "longitude": 139.0069
+        },
+        {
+            "name": "国営ひたち海浜公園",
+            "description": "花と緑の公園。プレジャーガーデン（遊園地）もある。",
+            "prefecture": "茨城県",
+            "latitude": 36.4055,
+            "longitude": 140.5936
+        },
+        {
+            "name": "こもれび森のイバライド",
+            "description": "「さわる。つくる。あそぶ。たべる。」をテーマにした体験型農業公園。",
+            "prefecture": "茨城県",
+            "latitude": 35.9325,
+            "longitude": 140.245
+        },
+        {
+            "name": "成田ゆめ牧場",
+            "description": "動物とのふれあいや乳搾り体験ができる観光牧場。",
+            "prefecture": "千葉県",
+            "latitude": 35.8672,
+            "longitude": 140.4072
+        },
+        {
+            "name": "ナンジャタウン",
+            "description": "池袋サンシャインシティにある屋内型テーマパーク。",
+            "prefecture": "東京都",
+            "latitude": 35.7289,
+            "longitude": 139.7196
+        },
+        {
+            "name": "キッザニア東京",
+            "description": "子供向けの職業体験型テーマパーク。",
+            "prefecture": "東京都",
+            "latitude": 35.6558,
+            "longitude": 139.7897
+        },
+        {
+            "name": "レゴランド・ディスカバリー・センター東京",
+            "description": "お台場にあるレゴブロックの屋内型アトラクション施設。",
+            "prefecture": "東京都",
+            "latitude": 35.6288,
+            "longitude": 139.776
+        },
+        {
+            "name": "スモールワールズTOKYO",
+            "description": "世界最大級の屋内型ミニチュア・テーマパーク。",
+            "prefecture": "東京都",
+            "latitude": 35.6358,
+            "longitude": 139.7892
+        },
+        {
+            "name": "長井海の手公園 ソレイユの丘",
+            "description": "南フランスのプロヴァンス地方をモチーフにした体験型公園。",
+            "prefecture": "神奈川県",
+            "latitude": 35.195,
+            "longitude": 139.6158
+        },
+        {
+            "name": "安城産業文化公園デンパーク",
+            "description": "日本のデンマークといわれる安城市にある花と緑の公園。",
+            "prefecture": "愛知県",
+            "latitude": 34.9356,
+            "longitude": 137.0592
+        },
+        {
+            "name": "豊橋総合動植物公園（のんほいパーク）",
+            "description": "動物園、植物園、遊園地、自然史博物館が一体となった公園。",
+            "prefecture": "愛知県",
+            "latitude": 34.7228,
+            "longitude": 137.4244
+        },
+        {
+            "name": "伊勢忍者キングダム（旧：伊勢安土桃山文化村）",
+            "description": "安土桃山時代の歴史や文化を体験できるテーマパーク。",
+            "prefecture": "三重県",
+            "latitude": 34.4981,
+            "longitude": 136.7844
+        },
+        {
+            "name": "天橋立ビューランド",
+            "description": "日本三景・天橋立を一望できる遊園地。",
+            "prefecture": "京都府",
+            "latitude": 35.5539,
+            "longitude": 135.1953
+        },
+        {
+            "name": "生駒山上遊園地",
+            "description": "生駒山の山頂にある入園無料の遊園地。",
+            "prefecture": "奈良県",
+            "latitude": 34.6833,
+            "longitude": 135.6792
+        },
+        {
+            "name": "ポルトヨーロッパ",
+            "description": "和歌山マリーナシティにある、ヨーロッパの街並みを再現したテーマパーク。",
+            "prefecture": "和歌山県",
+            "latitude": 34.1539,
+            "longitude": 135.1764
+        },
+        {
+            "name": "姫路セントラルパーク",
+            "description": "サファリパークと遊園地が併設されたレジャー施設。",
+            "prefecture": "兵庫県",
+            "latitude": 34.8731,
+            "longitude": 134.7439
+        },
+        {
+            "name": "淡路ワールドパークONOKORO",
+            "description": "世界の有名建築物のミニチュアがあるテーマパーク。",
+            "prefecture": "兵庫県",
+            "latitude": 34.4283,
+            "longitude": 134.9208
+        },
+        {
+            "name": "キッザニア甲子園",
+            "description": "ららぽーと甲子園にある子供向けの職業体験施設。",
+            "prefecture": "兵庫県",
+            "latitude": 34.7161,
+            "longitude": 135.3622
+        },
+        {
+            "name": "ブラジリアンパーク 鷲羽山ハイランド",
+            "description": "ブラジルをテーマにした遊園地。瀬戸内海を一望できる。",
+            "prefecture": "岡山県",
+            "latitude": 34.4447,
+            "longitude": 133.8344
+        },
+        {
+            "name": "おかやまフォレストパーク ドイツの森",
+            "description": "ドイツの農村をイメージした農業公園。",
+            "prefecture": "岡山県",
+            "latitude": 34.8256,
+            "longitude": 134.0536
+        },
+        {
+            "name": "みろくの里",
+            "description": "遊園地や「いつか来た道」という昭和30年代の街並み再現エリアがある。",
+            "prefecture": "広島県",
+            "latitude": 34.4072,
+            "longitude": 133.3275
+        },
+        {
+            "name": "NEWレオマワールド",
+            "description": "四国最大級のテーマパーク。",
+            "prefecture": "香川県",
+            "latitude": 34.2547,
+            "longitude": 133.8447
+        },
+        {
+            "name": "城島高原パーク",
+            "description": "日本初の木製コースター「ジュピター」がある遊園地。",
+            "prefecture": "大分県",
+            "latitude": 33.2678,
+            "longitude": 131.4289
+        },
+        {
+            "name": "別府ラクテンチ",
+            "description": "老舗の遊園地。ケーブルカーで入園する。",
+            "prefecture": "大分県",
+            "latitude": 33.2778,
+            "longitude": 131.4883
+        },
+        {
+            "name": "グリーンランド",
+            "description": "アトラクション数が日本一の遊園地。",
+            "prefecture": "熊本県",
+            "latitude": 32.9903,
+            "longitude": 130.4578
+        },
+        {
+            "name": "阿蘇ファームランド",
+            "description": "「健康・元気」をテーマにした大自然健康テーマパーク。",
+            "prefecture": "熊本県",
+            "latitude": 32.8942,
+            "longitude": 131.0667
+        },
+        {
+            "name": "平川動物公園",
+            "description": "ホワイトタイガーやコアラがいる動物公園。遊園地も併設。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.4864,
+            "longitude": 130.5133
+        },
+        {
+            "name": "おきなわワールド",
+            "description": "沖縄の自然、文化、歴史を体験できるテーマパーク。玉泉洞がある。",
+            "prefecture": "沖縄県",
+            "latitude": 26.1397,
+            "longitude": 127.7497
+        },
+        {
+            "name": "琉球村",
+            "description": "沖縄の昔ながらの古民家を移築したテーマパーク。",
+            "prefecture": "沖縄県",
+            "latitude": 26.4253,
+            "longitude": 127.7842
+        },
+        {
+            "name": "ナゴパイナップルパーク",
+            "description": "パイナップルをテーマにしたテーマパーク。",
+            "prefecture": "沖縄県",
+            "latitude": 26.6133,
+            "longitude": 127.9692
+        },
+        {
+            "name": "美浜アメリカンビレッジ",
+            "description": "アメリカの西海岸をイメージしたリゾート施設。",
+            "prefecture": "沖縄県",
+            "latitude": 26.3161,
+            "longitude": 127.7578
+        },
+        {
+            "name": "神戸どうぶつ王国",
+            "description": "花と動物と人とのふれあい共生パーク。",
+            "prefecture": "兵庫県",
+            "latitude": 34.6464,
+            "longitude": 135.2183
+        },
+        {
+            "name": "淡路ファームパーク イングランドの丘",
+            "description": "イギリスの湖水地方をイメージした農業公園。コアラがいる。",
+            "prefecture": "兵庫県",
+            "latitude": 34.2886,
+            "longitude": 134.7936
+        },
+        {
+            "name": "東武ワールドスクウェア",
+            "description": "世界の有名な建築物や遺跡を25分の1スケールで再現したテーマパーク。",
+            "prefecture": "栃木県",
+            "latitude": 36.8075,
+            "longitude": 139.7119
+        },
+        {
+            "name": "ネオパークオキナワ",
+            "description": "沖縄の豊かな気候と風土を生かした動植物公園。",
+            "prefecture": "沖縄県",
+            "latitude": 26.6067,
+            "longitude": 127.9861
+        },
+        {
+            "name": "到津の森公園",
+            "description": "動物園と遊園地がある公園。",
+            "prefecture": "福岡県",
+            "latitude": 33.8967,
+            "longitude": 130.8406
+        },
+        {
+            "name": "かしいかえん シルバニアガーデン",
+            "description": "シルバニアファミリーをテーマにした遊園地（2021年閉園のため除外すべきだが代替案必要）",
+            "prefecture": "福岡県",
+            "latitude": 33.6603,
+            "longitude": 130.4358
+        },
+        {
+            "name": "だざいふ遊園地",
+            "description": "太宰府天満宮の敷地内にあるレトロな遊園地。",
+            "prefecture": "福岡県",
+            "latitude": 33.5208,
+            "longitude": 130.5339
+        },
+        {
+            "name": "海の中道海浜公園",
+            "description": "博多湾にある国営公園。遊園地や動物の森がある。",
+            "prefecture": "福岡県",
+            "latitude": 33.6608,
+            "longitude": 130.3703
+        },
+        {
+            "name": "久留米市鳥類センター",
+            "description": "鳥類園と遊園地が一緒になった施設。",
+            "prefecture": "福岡県",
+            "latitude": 33.315,
+            "longitude": 130.5264
+        },
+        {
+            "name": "のぼりべつクマ牧場",
+            "description": "ヒグマを放し飼いにしているクマのテーマパーク。",
+            "prefecture": "北海道",
+            "latitude": 42.4961,
+            "longitude": 141.1578
+        },
+        {
+            "name": "大森山ゆうえんちアニパ",
+            "description": "大森山動物園に併設された遊園地。",
+            "prefecture": "秋田県",
+            "latitude": 39.6736,
+            "longitude": 140.0639
+        },
+        {
+            "name": "岩山パークランド",
+            "description": "盛岡市にある遊園地。",
+            "prefecture": "岩手県",
+            "latitude": 39.7117,
+            "longitude": 141.1764
+        },
+        {
+            "name": "チャチャワールドいしこし",
+            "description": "登米市にあるファミリー向け遊園地。",
+            "prefecture": "宮城県",
+            "latitude": 38.7456,
+            "longitude": 141.1494
+        },
+        {
+            "name": "郡山カルチャーパーク ドリームランド",
+            "description": "郡山市にある公営の遊園地。",
+            "prefecture": "福島県",
+            "latitude": 37.3622,
+            "longitude": 140.3547
+        },
+        {
+            "name": "小岩井農場",
+            "description": "日本最大級の民間総合農場。観光エリアがある。",
+            "prefecture": "岩手県",
+            "latitude": 39.7439,
+            "longitude": 141.0378
+        },
+        {
+            "name": "仙台うみの杜水族館",
+            "description": "水族館だがエンターテイメント性が高い。",
+            "prefecture": "宮城県",
+            "latitude": 38.2708,
+            "longitude": 140.9856
+        },
+        {
+            "name": "アクアマリンふくしま",
+            "description": "環境水族館。体験プログラムが豊富。",
+            "prefecture": "福島県",
+            "latitude": 36.9397,
+            "longitude": 140.9031
+        },
+        {
+            "name": "群馬サファリパーク",
+            "description": "野生動物をバスや車で見学できるサファリパーク。",
+            "prefecture": "群馬県",
+            "latitude": 36.2611,
+            "longitude": 138.9056
+        },
+        {
+            "name": "渋川スカイランドパーク",
+            "description": "標高460mにある遊園地。",
+            "prefecture": "群馬県",
+            "latitude": 36.5056,
+            "longitude": 138.9553
+        },
+        {
+            "name": "桐生が岡遊園地",
+            "description": "入園無料の公営遊園地。動物園も隣接。",
+            "prefecture": "群馬県",
+            "latitude": 36.4172,
+            "longitude": 139.34
+        },
+        {
+            "name": "るなぱあく",
+            "description": "「日本一安い遊園地」として知られる前橋市の遊園地。",
+            "prefecture": "群馬県",
+            "latitude": 36.3933,
+            "longitude": 139.0628
+        }
+    ]
+}

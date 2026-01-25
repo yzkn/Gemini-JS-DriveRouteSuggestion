@@ -1,0 +1,599 @@
+{
+    "municipalities": [
+        {
+            "name": "おたる水族館 (小樽市)",
+            "description": "海獣公園ではアザラシやトドのショーが見られる。",
+            "prefecture": "北海道",
+            "latitude": 43.226389,
+            "longitude": 141.011667
+        },
+        {
+            "name": "サンピアザ水族館 (札幌市)",
+            "description": "都市型水族館。",
+            "prefecture": "北海道",
+            "latitude": 43.036667,
+            "longitude": 141.472222
+        },
+        {
+            "name": "登別マリンパークニクス (登別市)",
+            "description": "お城のような建物（ニクス城）の水族館。",
+            "prefecture": "北海道",
+            "latitude": 42.450000,
+            "longitude": 141.183333
+        },
+        {
+            "name": "サケのふるさと 千歳水族館 (千歳市)",
+            "description": "千歳川の水中観察室がある。",
+            "prefecture": "北海道",
+            "latitude": 42.833333,
+            "longitude": 141.650000
+        },
+        {
+            "name": "北の大地の水族館 (北見市)",
+            "description": "日本初の滝つぼ水槽がある山の水族館。",
+            "prefecture": "北海道",
+            "latitude": 43.750000,
+            "longitude": 143.483333
+        },
+        {
+            "name": "室蘭水族館 (室蘭市)",
+            "description": "北海道最古の水族館。",
+            "prefecture": "北海道",
+            "latitude": 42.333333,
+            "longitude": 140.966667
+        },
+        {
+            "name": "ノシャップ寒流水族館 (稚内市)",
+            "description": "北方系の生物を中心に展示。",
+            "prefecture": "北海道",
+            "latitude": 45.450000,
+            "longitude": 141.650000
+        },
+        {
+            "name": "標津サーモン科学館 (標津町)",
+            "description": "サケ科魚類の種類数日本一。",
+            "prefecture": "北海道",
+            "latitude": 43.666667,
+            "longitude": 145.133333
+        },
+        {
+            "name": "浅虫水族館 (青森市)",
+            "description": "イルカショーが見られる本州最北の水族館。",
+            "prefecture": "青森県",
+            "latitude": 40.895000,
+            "longitude": 140.858333
+        },
+        {
+            "name": "男鹿水族館GAO (男鹿市)",
+            "description": "ホッキョクグマの豪快なエサやりが人気。",
+            "prefecture": "秋田県",
+            "latitude": 39.941667,
+            "longitude": 139.838889
+        },
+        {
+            "name": "仙台うみの杜水族館 (仙台市)",
+            "description": "三陸の海を再現した大水槽。",
+            "prefecture": "宮城県",
+            "latitude": 38.271944,
+            "longitude": 140.993333
+        },
+        {
+            "name": "アクアマリンふくしま (いわき市)",
+            "description": "「潮目の海」をテーマにした環境水族館。",
+            "prefecture": "福島県",
+            "latitude": 36.942778,
+            "longitude": 140.903611
+        },
+        {
+            "name": "加茂水族館 (鶴岡市)",
+            "description": "クラゲの展示種類数世界一。",
+            "prefecture": "山形県",
+            "latitude": 38.761667,
+            "longitude": 139.730556
+        },
+        {
+            "name": "もぐらんぴあ (久慈市)",
+            "description": "日本唯一の地下水族館。",
+            "prefecture": "岩手県",
+            "latitude": 40.216667,
+            "longitude": 141.800000
+        },
+        {
+            "name": "アクアワールド茨城県大洗水族館 (大洗町)",
+            "description": "サメの飼育種類数日本一。",
+            "prefecture": "茨城県",
+            "latitude": 36.326667,
+            "longitude": 140.588333
+        },
+        {
+            "name": "なかがわ水遊園 (大田原市)",
+            "description": "那珂川の自然を再現した淡水魚水族館。",
+            "prefecture": "栃木県",
+            "latitude": 36.833333,
+            "longitude": 140.133333
+        },
+        {
+            "name": "さいたま水族館 (羽生市)",
+            "description": "荒川に生息する淡水魚を中心に展示。",
+            "prefecture": "埼玉県",
+            "latitude": 36.166667,
+            "longitude": 139.583333
+        },
+        {
+            "name": "鴨川シーワールド (鴨川市)",
+            "description": "シャチのパフォーマンスで有名。",
+            "prefecture": "千葉県",
+            "latitude": 35.116667,
+            "longitude": 140.116667
+        },
+        {
+            "name": "葛西臨海水族園 (江戸川区)",
+            "description": "マグロの回遊展示が圧巻。",
+            "prefecture": "東京都",
+            "latitude": 35.640000,
+            "longitude": 139.861667
+        },
+        {
+            "name": "サンシャイン水族館 (豊島区)",
+            "description": "「天空のオアシス」がコンセプトの都市型水族館。",
+            "prefecture": "東京都",
+            "latitude": 35.728889,
+            "longitude": 139.720000
+        },
+        {
+            "name": "マクセル アクアパーク品川 (港区)",
+            "description": "音・光・映像と生きものの融合。",
+            "prefecture": "東京都",
+            "latitude": 35.628056,
+            "longitude": 139.738056
+        },
+        {
+            "name": "しながわ水族館 (品川区)",
+            "description": "トンネル水槽やイルカ・アシカショー。",
+            "prefecture": "東京都",
+            "latitude": 35.588333,
+            "longitude": 139.736667
+        },
+        {
+            "name": "すみだ水族館 (墨田区)",
+            "description": "東京スカイツリータウン内。ペンギンやクラゲ。",
+            "prefecture": "東京都",
+            "latitude": 35.710000,
+            "longitude": 139.810833
+        },
+        {
+            "name": "新江ノ島水族館 (藤沢市)",
+            "description": "相模湾大水槽やクラゲファンタジーホール。",
+            "prefecture": "神奈川県",
+            "latitude": 35.308889,
+            "longitude": 139.481389
+        },
+        {
+            "name": "横浜・八景島シーパラダイス (横浜市)",
+            "description": "4つの水族館とアトラクション。",
+            "prefecture": "神奈川県",
+            "latitude": 35.336667,
+            "longitude": 139.646667
+        },
+        {
+            "name": "箱根園水族館 (箱根町)",
+            "description": "日本で一番標高の高い海水水族館。",
+            "prefecture": "神奈川県",
+            "latitude": 35.216667,
+            "longitude": 139.016667
+        },
+        {
+            "name": "相模川ふれあい科学館 (相模原市)",
+            "description": "相模川の生態系。",
+            "prefecture": "神奈川県",
+            "latitude": 35.550000,
+            "longitude": 139.350000
+        },
+        {
+            "name": "カワスイ 川崎水族館 (川崎市)",
+            "description": "世界の水辺を散歩するような都市型水族館。",
+            "prefecture": "神奈川県",
+            "latitude": 35.530556,
+            "longitude": 139.696667
+        },
+        {
+            "name": "マリンピア日本海 (新潟市)",
+            "description": "日本海側最大級。イルカショー。",
+            "prefecture": "新潟県",
+            "latitude": 37.933333,
+            "longitude": 139.033333
+        },
+        {
+            "name": "上越市立水族博物館 うみがたり (上越市)",
+            "description": "マゼランペンギンの飼育数世界一。",
+            "prefecture": "新潟県",
+            "latitude": 37.166667,
+            "longitude": 138.233333
+        },
+        {
+            "name": "寺泊水族博物館 (長岡市)",
+            "description": "海上に浮かぶ水族館。",
+            "prefecture": "新潟県",
+            "latitude": 37.650000,
+            "longitude": 138.766667
+        },
+        {
+            "name": "魚津水族館 (魚津市)",
+            "description": "日本現存最古の水族館。",
+            "prefecture": "富山県",
+            "latitude": 36.833333,
+            "longitude": 137.383333
+        },
+        {
+            "name": "のとじま水族館 (七尾市)",
+            "description": "ジンベエザメが泳ぐ。",
+            "prefecture": "石川県",
+            "latitude": 37.116667,
+            "longitude": 136.983333
+        },
+        {
+            "name": "越前松島水族館 (坂井市)",
+            "description": "体験・体感型の水族館。",
+            "prefecture": "福井県",
+            "latitude": 36.250000,
+            "longitude": 136.166667
+        },
+        {
+            "name": "東海大学海洋科学博物館 (静岡市)",
+            "description": "「海のはくぶつかん」。",
+            "prefecture": "静岡県",
+            "latitude": 35.016667,
+            "longitude": 138.516667
+        },
+        {
+            "name": "伊豆・三津シーパラダイス (沼津市)",
+            "description": "イルカの海。",
+            "prefecture": "静岡県",
+            "latitude": 35.016667,
+            "longitude": 138.883333
+        },
+        {
+            "name": "沼津港深海水族館 (沼津市)",
+            "description": "シーラカンスなど深海生物に特化。",
+            "prefecture": "静岡県",
+            "latitude": 35.083333,
+            "longitude": 138.858333
+        },
+        {
+            "name": "下田海中水族館 (下田市)",
+            "description": "イルカと触れ合える。",
+            "prefecture": "静岡県",
+            "latitude": 34.666667,
+            "longitude": 138.950000
+        },
+        {
+            "name": "名古屋港水族館 (名古屋市)",
+            "description": "日本最大級の延床面積。シャチやベルーガ。",
+            "prefecture": "愛知県",
+            "latitude": 35.091667,
+            "longitude": 136.878056
+        },
+        {
+            "name": "南知多ビーチランド (美浜町)",
+            "description": "ふれあい体験が充実。",
+            "prefecture": "愛知県",
+            "latitude": 34.783333,
+            "longitude": 136.850000
+        },
+        {
+            "name": "竹島水族館 (蒲郡市)",
+            "description": "深海生物の展示数が日本一。",
+            "prefecture": "愛知県",
+            "latitude": 34.816667,
+            "longitude": 137.233333
+        },
+        {
+            "name": "碧南海浜水族館 (碧南市)",
+            "description": "日本の魚・水辺の生き物。",
+            "prefecture": "愛知県",
+            "latitude": 34.866667,
+            "longitude": 136.983333
+        },
+        {
+            "name": "世界淡水魚園水族館 アクア・トト ぎふ (各務原市)",
+            "description": "世界最大級の淡水魚水族館。",
+            "prefecture": "岐阜県",
+            "latitude": 35.366667,
+            "longitude": 136.816667
+        },
+        {
+            "name": "鳥羽水族館 (鳥羽市)",
+            "description": "飼育種類数日本一。ジュゴンが見られる。",
+            "prefecture": "三重県",
+            "latitude": 34.483333,
+            "longitude": 136.850000
+        },
+        {
+            "name": "伊勢シーパラダイス (伊勢市)",
+            "description": "「二見シーパラダイス」から改称。海獣との距離が近い。",
+            "prefecture": "三重県",
+            "latitude": 34.508333,
+            "longitude": 136.783333
+        },
+        {
+            "name": "琵琶湖博物館 (草津市)",
+            "description": "日本最大級の淡水生物展示。",
+            "prefecture": "滋賀県",
+            "latitude": 35.066667,
+            "longitude": 135.933333
+        },
+        {
+            "name": "京都水族館 (京都市)",
+            "description": "オオサンショウウオやペンギン。",
+            "prefecture": "京都府",
+            "latitude": 34.986111,
+            "longitude": 135.743611
+        },
+        {
+            "name": "海遊館 (大阪市)",
+            "description": "世界最大級の水族館。ジンベエザメ。",
+            "prefecture": "大阪府",
+            "latitude": 34.655000,
+            "longitude": 135.431667
+        },
+        {
+            "name": "ニフレル (吹田市)",
+            "description": "「感性にふれる」がコンセプト。",
+            "prefecture": "大阪府",
+            "latitude": 34.805833,
+            "longitude": 135.533333
+        },
+        {
+            "name": "神戸須磨シーワールド (神戸市)",
+            "description": "2024年6月開業。シャチが見られる。",
+            "prefecture": "兵庫県",
+            "latitude": 34.633333,
+            "longitude": 135.116667
+        },
+        {
+            "name": "アトア (神戸市)",
+            "description": "劇場型アクアリウム。",
+            "prefecture": "兵庫県",
+            "latitude": 34.683333,
+            "longitude": 135.194444
+        },
+        {
+            "name": "城崎マリンワールド (豊岡市)",
+            "description": "「水族館以上」がテーマ。",
+            "prefecture": "兵庫県",
+            "latitude": 35.650000,
+            "longitude": 134.816667
+        },
+        {
+            "name": "姫路市立水族館 (姫路市)",
+            "description": "播磨地方の身近な生き物。",
+            "prefecture": "兵庫県",
+            "latitude": 34.816667,
+            "longitude": 134.666667
+        },
+        {
+            "name": "串本海中公園 (串本町)",
+            "description": "日本初の海中公園。",
+            "prefecture": "和歌山県",
+            "latitude": 33.483333,
+            "longitude": 135.750000
+        },
+        {
+            "name": "京都大学白浜水族館 (白浜町)",
+            "description": "無脊椎動物の展示が充実。",
+            "prefecture": "和歌山県",
+            "latitude": 33.683333,
+            "longitude": 135.333333
+        },
+        {
+            "name": "すさみ町立エビとカニの水族館 (すさみ町)",
+            "description": "甲殻類専門。",
+            "prefecture": "和歌山県",
+            "latitude": 33.550000,
+            "longitude": 135.483333
+        },
+        {
+            "name": "太地町立くじらの博物館 (太地町)",
+            "description": "クジラとイルカに特化。",
+            "prefecture": "和歌山県",
+            "latitude": 33.600000,
+            "longitude": 135.950000
+        },
+        {
+            "name": "玉野海洋博物館（渋川マリン水族館） (玉野市)",
+            "description": "瀬戸内海の生き物。",
+            "prefecture": "岡山県",
+            "latitude": 34.450000,
+            "longitude": 133.900000
+        },
+        {
+            "name": "宮島水族館（みやじマリン） (廿日市市)",
+            "description": "スナメリやカキいかだ。",
+            "prefecture": "広島県",
+            "latitude": 34.295833,
+            "longitude": 132.316667
+        },
+        {
+            "name": "マリホ水族館 (広島市)",
+            "description": "ショッピングモール内の水族館。",
+            "prefecture": "広島県",
+            "latitude": 34.366667,
+            "longitude": 132.416667
+        },
+        {
+            "name": "島根県立しまね海洋館アクアス (浜田市)",
+            "description": "シロイルカのバブルリング。",
+            "prefecture": "島根県",
+            "latitude": 34.933333,
+            "longitude": 132.083333
+        },
+        {
+            "name": "宍道湖自然館ゴビウス (出雲市)",
+            "description": "汽水域の生き物。",
+            "prefecture": "島根県",
+            "latitude": 35.433333,
+            "longitude": 132.866667
+        },
+        {
+            "name": "下関市立しものせき水族館 海響館 (下関市)",
+            "description": "フグの展示種類数世界一。",
+            "prefecture": "山口県",
+            "latitude": 33.955556,
+            "longitude": 130.941667
+        },
+        {
+            "name": "なぎさ水族館 (周防大島町)",
+            "description": "日本最大級のタッチングプール。",
+            "prefecture": "山口県",
+            "latitude": 33.966667,
+            "longitude": 132.283333
+        },
+        {
+            "name": "新屋島水族館 (高松市)",
+            "description": "山上の水族館。イルカショー。",
+            "prefecture": "香川県",
+            "latitude": 34.358333,
+            "longitude": 134.100000
+        },
+        {
+            "name": "四国水族館 (宇多津町)",
+            "description": "四国最大級。「四国の水景」がテーマ。",
+            "prefecture": "香川県",
+            "latitude": 34.316667,
+            "longitude": 133.816667
+        },
+        {
+            "name": "桂浜水族館 (高知市)",
+            "description": "ハマスイ。手作り感と独自のキャラクター。",
+            "prefecture": "高知県",
+            "latitude": 33.497222,
+            "longitude": 133.575000
+        },
+        {
+            "name": "むろと廃校水族館 (室戸市)",
+            "description": "廃校になった小学校を利用。",
+            "prefecture": "高知県",
+            "latitude": 33.300000,
+            "longitude": 134.183333
+        },
+        {
+            "name": "足摺海洋館 SATOUMI (土佐清水市)",
+            "description": "竜串の海を再現。",
+            "prefecture": "高知県",
+            "latitude": 32.783333,
+            "longitude": 132.983333
+        },
+        {
+            "name": "虹の森公園おさかな館 (松野町)",
+            "description": "四万十川の淡水魚。",
+            "prefecture": "愛媛県",
+            "latitude": 33.183333,
+            "longitude": 132.700000
+        },
+        {
+            "name": "マリンワールド海の中道 (福岡市)",
+            "description": "「九州の海」がテーマ。",
+            "prefecture": "福岡県",
+            "latitude": 33.666667,
+            "longitude": 130.366667
+        },
+        {
+            "name": "長崎ペンギン水族館 (長崎市)",
+            "description": "ペンギンの飼育種類数世界一。",
+            "prefecture": "長崎県",
+            "latitude": 32.750000,
+            "longitude": 129.933333
+        },
+        {
+            "name": "九十九島水族館海きらら (佐世保市)",
+            "description": "九十九島の海を再現。クラゲシンフォニードーム。",
+            "prefecture": "長崎県",
+            "latitude": 33.166667,
+            "longitude": 129.683333
+        },
+        {
+            "name": "大分マリーンパレス水族館「うみたまご」 (大分市)",
+            "description": "動物との距離が近い。",
+            "prefecture": "大分県",
+            "latitude": 33.258333,
+            "longitude": 131.550000
+        },
+        {
+            "name": "いおワールドかごしま水族館 (鹿児島市)",
+            "description": "黒潮大水槽。ジンベエザメ。",
+            "prefecture": "鹿児島県",
+            "latitude": 31.600000,
+            "longitude": 130.566667
+        },
+        {
+            "name": "沖縄美ら海水族館 (本部町)",
+            "description": "世界最大級の大水槽。ジンベエザメ、マンタ。",
+            "prefecture": "沖縄県",
+            "latitude": 26.694444,
+            "longitude": 127.877778
+        },
+        {
+            "name": "DMMかりゆし水族館 (豊見城市)",
+            "description": "最新映像技術を駆使した水族館。",
+            "prefecture": "沖縄県",
+            "latitude": 26.158333,
+            "longitude": 127.650000
+        },
+        {
+            "name": "山梨県立富士湧水の里水族館 (忍野村)",
+            "description": "淡水魚専門。",
+            "prefecture": "山梨県",
+            "latitude": 35.450000,
+            "longitude": 138.833333
+        },
+        {
+            "name": "蓼科アミューズメント水族館 (茅野市)",
+            "description": "世界最高所にある水族館。",
+            "prefecture": "長野県",
+            "latitude": 36.050000,
+            "longitude": 138.250000
+        },
+        {
+            "name": "板橋区立熱帯環境植物館 (板橋区)",
+            "description": "ミニ水族館がある。",
+            "prefecture": "東京都",
+            "latitude": 35.791667,
+            "longitude": 139.666667
+        },
+        {
+            "name": "赤塚山公園ぎょぎょランド (豊川市)",
+            "description": "淡水魚水族館。",
+            "prefecture": "愛知県",
+            "latitude": 34.850000,
+            "longitude": 137.333333
+        },
+        {
+            "name": "浜名湖体験学習施設ウォット (浜松市)",
+            "description": "浜名湖の生物。",
+            "prefecture": "静岡県",
+            "latitude": 34.683333,
+            "longitude": 137.600000
+        },
+        {
+            "name": "わくわく海中水族館シードーナツ (上天草市)",
+            "description": "海に浮かぶ水族館。",
+            "prefecture": "熊本県",
+            "latitude": 32.516667,
+            "longitude": 130.416667
+        },
+        {
+            "name": "高千穂峡淡水魚水族館 (高千穂町)",
+            "description": "五ヶ瀬川の淡水魚。",
+            "prefecture": "宮崎県",
+            "latitude": 32.700000,
+            "longitude": 131.300000
+        },
+        {
+            "name": "奄美海洋展示館 (奄美市)",
+            "description": "ウミガメに会える。",
+            "prefecture": "鹿児島県",
+            "latitude": 28.416667,
+            "longitude": 129.483333
+        }
+    ]
+}
