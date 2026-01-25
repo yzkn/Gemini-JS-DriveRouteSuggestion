@@ -1,5 +1,6 @@
 // 定数と設定
 const MUNICIPALITIES_URL = "https://raw.githubusercontent.com/yzkn/Gemini-JS-DriveRouteSuggestion/refs/heads/main/master/municipality.json";
+const EXTRA_DATA_BASE_URL = "https://raw.githubusercontent.com/yzkn/Gemini-JS-DriveRouteSuggestion/refs/heads/main/master/json/";
 const NOMINATIM_BASE = "https://nominatim.openstreetmap.org/search";
 const OSRM_BASE = "https://router.project-osrm.org/route/v1";
 
@@ -71,25 +72,62 @@ function getDirection(lat1, lon1, lat2, lon2) {
     return directions[index];
 }
 
-// 初期化: 市町村データの読み込み
-// 初期化: 市町村データの読み込み (ここを修正)
+/**
+ * 初期化: 複数のJSONファイルを非同期に読み込み、データを統合する
+ */
 async function init() {
     try {
-        const response = await fetch(MUNICIPALITIES_URL);
-        if (!response.ok) throw new Error("データの取得に失敗しました");
+        console.log("データ読み込み開始...");
 
-        const data = await response.json();
+        // 1. メインの市町村データを取得
+        const mainRes = await fetch(MUNICIPALITIES_URL);
+        if (!mainRes.ok) throw new Error("メインデータの取得に失敗しました");
+        const mainData = await mainRes.json();
 
-        // JSONの構造に合わせて配列を抽出
-        if (Array.isArray(data)) {
-            municipalityData = data;
-        } else if (data.municipalities && Array.isArray(data.municipalities)) {
-            municipalityData = data.municipalities;
-        } else {
-            throw new Error("JSONデータの形式が正しくありません");
+        // 配列として正規化
+        let combinedData = Array.isArray(mainData) ? mainData : (mainData.municipalities || []);
+
+        // 2. 01.json 〜 65.json のURLリストを作成
+        const urls = [];
+        for (let i = 1; i <= 65; i++) {
+            const fileName = i.toString().padStart(2, '0') + ".json";
+            urls.push(`${EXTRA_DATA_BASE_URL}${fileName}`);
         }
 
         console.log("データ読み込み完了:", municipalityData.length, "件");
+        // 3. 全ての追加ファイルを並列にフェッチ
+        // 個別の失敗で全体を止めないよう、各fetchに個別のcatchを付けるか Promise.allSettled を使用
+        const fetchPromises = urls.map(url =>
+            fetch(url)
+                .then(res => res.ok ? res.json() : null)
+                .catch(err => {
+                    console.warn(`ファイルの取得に失敗しました (${url}):`, err);
+                    return null;
+                })
+        );
+
+        const results = await Promise.all(fetchPromises);
+
+        // 4. 取得したデータを municipalityData にマージ
+        results.forEach(data => {
+            if (data) {
+                // データの構造が配列の場合と、オブジェクト内の特定のキーにある場合を考慮
+                let items = [];
+                if (Array.isArray(data)) {
+                    items = data;
+                } else if (data.spots && Array.isArray(data.spots)) {
+                    items = data.spots;
+                } else if (data.municipalities && Array.isArray(data.municipalities)) {
+                    items = data.municipalities;
+                }
+
+                combinedData = combinedData.concat(items);
+            }
+        });
+
+        municipalityData = combinedData;
+        console.log(`全データ読み込み完了: 合計 ${municipalityData.length} 件`);
+
     } catch (error) {
         console.error(error);
         alert("データの読み込みに失敗しました。ページをリロードしてください。");
@@ -158,10 +196,11 @@ function createSelectionMenu(step, candidates) {
     const select = document.createElement("select");
     select.innerHTML = `<option value="">-- 選択してください --</option>` +
         candidates.map((c, i) => {
-            const base = routePoints[step - 1];
-            const dist = getDistance(routePoints[step - 1].lat, routePoints[step - 1].lon, c.lat, c.lon);
-            const dir = getDirection(routePoints[step - 1].lat, routePoints[step - 1].lon, c.lat, c.lon);
             // 表示文字列: "地名 (方位 / 距離 km)"
+            const lat = c.latitude || c.lat;
+            const lon = c.longitude || c.lon || c.lng || c.long;
+            const dist = getDistance(routePoints[step - 1].lat, routePoints[step - 1].lon, lat, lon);
+            const dir = getDirection(routePoints[step - 1].lat, routePoints[step - 1].lon, lat, lon);
             return `<option value="${i}">${c.name} (${dir} ${dist.toFixed(1)} km)</option>`
         }).join("");
 
@@ -170,7 +209,11 @@ function createSelectionMenu(step, candidates) {
         if (idx === "") return;
 
         const selected = candidates[idx];
-        const point = { lat: selected.lat, lon: selected.lon, name: selected.name };
+        const point = {
+            lat: selected.latitude || selected.lat,
+            lon: selected.longitude || selected.lon || selected.lng || selected.long,
+            name: selected.name
+        };
         routePoints.push(point);
 
         // 地図更新とルート描画
@@ -181,8 +224,13 @@ function createSelectionMenu(step, candidates) {
         select.disabled = true; // 選択後は無効化
 
         if (step < 3) {
-            const nextCandidates = getCandidates(point, 50, 100);
-            createSelectionMenu(step + 1, nextCandidates);
+            const nextCandidates = getCandidates(point, 50, 150);
+            if (nextCandidates.length === 0) {
+                alert("次の目的地候補が見つかりませんでした。");
+                showResults();
+            } else {
+                createSelectionMenu(step + 1, nextCandidates);
+            }
         } else {
             showResults();
         }
@@ -248,7 +296,7 @@ function showResults() {
 
     document.getElementById("route-summary").innerHTML = `
         <p><strong>総距離:</strong> ${totalDist.toFixed(1)} km</p>
-        <p><strong>合計予想時間:</strong> ${Math.round(totalTime / 60)} 時間 ${Math.round(totalTime % 60)} 分</p>
+        <p><strong>合計予想時間:</strong> ${Math.floor(totalTime / 60)} 時間 ${Math.round(totalTime % 60)} 分</p>
     `;
 }
 
